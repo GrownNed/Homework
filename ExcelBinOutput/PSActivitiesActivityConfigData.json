@@ -6,7 +6,7 @@
     "isRequiredForCompletion": true,
     "largeIcon": "UI_Activity_Cover_001_Large_PS5",
     "smallIcon": "UI_Activity_Cover_001_Small_PS5",
-    "iD": 1,
+    "id": 1,
     "objectId": "quest1",
     "exportVersion": "1.5.0"
   },
@@ -16,7 +16,7 @@
     "isRequiredForCompletion": true,
     "largeIcon": "UI_Activity_Cover_002_Large_PS5",
     "smallIcon": "UI_Activity_Cover_002_Small_PS5",
-    "iD": 2,
+    "id": 2,
     "objectId": "quest2",
     "exportVersion": "1.5.0"
   },
@@ -26,7 +26,7 @@
     "isRequiredForCompletion": true,
     "largeIcon": "UI_Activity_Cover_003_Large_PS5",
     "smallIcon": "UI_Activity_Cover_003_Small_PS5",
-    "iD": 3,
+    "id": 3,
     "objectId": "quest3",
     "exportVersion": "1.6.0"
   },
@@ -36,7 +36,7 @@
     "isRequiredForCompletion": true,
     "largeIcon": "UI_Activity_Cover_004_Large_PS5",
     "smallIcon": "UI_Activity_Cover_004_Small_PS5",
-    "iD": 4,
+    "id": 4,
     "objectId": "quest4",
     "exportVersion": "3.0.0"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "iD": 1,
+    "id": 1,
     "dungeonId": 68,
     "LBLOAJNHCFB": [
       8,
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "iD": 2,
+    "id": 2,
     "dungeonId": 7602,
     "LBLOAJNHCFB": [
       8,
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "iD": 3,
+    "id": 3,
     "dungeonId": 7605,
     "LBLOAJNHCFB": [
       8,
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "iD": 4,
+    "id": 4,
     "dungeonId": 7617,
     "LBLOAJNHCFB": [
       8,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "iD": 5,
+    "id": 5,
     "dungeonId": 7608,
     "LBLOAJNHCFB": [
       8,
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "iD": 6,
+    "id": 6,
     "dungeonId": 7611,
     "LBLOAJNHCFB": [
       8,
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "iD": 7,
+    "id": 7,
     "dungeonId": 7614,
     "LBLOAJNHCFB": [
       8,
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "iD": 8,
+    "id": 8,
     "dungeonId": 1131,
     "LBLOAJNHCFB": [
       13,
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "iD": 9,
+    "id": 9,
     "dungeonId": 1132,
     "LBLOAJNHCFB": [
       8,

@@ -1,6 +1,6 @@
 [
   {
-    "iD": 1,
+    "id": 1,
     "number": 1,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 1,
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "iD": 2,
+    "id": 2,
     "number": 2,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 3,
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "iD": 3,
+    "id": 3,
     "number": 3,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 1,
@@ -141,7 +141,7 @@
     ]
   },
   {
-    "iD": 4,
+    "id": 4,
     "number": 4,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 1,
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "iD": 5,
+    "id": 5,
     "number": 5,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 3,
@@ -233,7 +233,7 @@
     ]
   },
   {
-    "iD": 6,
+    "id": 6,
     "number": 6,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 1,
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "iD": 7,
+    "id": 7,
     "number": 7,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 1,
@@ -328,7 +328,7 @@
     ]
   },
   {
-    "iD": 8,
+    "id": 8,
     "number": 8,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 1,
@@ -374,7 +374,7 @@
     ]
   },
   {
-    "iD": 9,
+    "id": 9,
     "number": 9,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 3,
@@ -422,7 +422,7 @@
     ]
   },
   {
-    "iD": 10,
+    "id": 10,
     "number": 10,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 1,
@@ -469,7 +469,7 @@
     ]
   },
   {
-    "iD": 11,
+    "id": 11,
     "number": 11,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 1,
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "iD": 12,
+    "id": 12,
     "number": 12,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 1,
@@ -563,7 +563,7 @@
     ]
   },
   {
-    "iD": 13,
+    "id": 13,
     "number": 13,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 3,
@@ -609,7 +609,7 @@
     ]
   },
   {
-    "iD": 14,
+    "id": 14,
     "number": 14,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 1,
@@ -656,7 +656,7 @@
     ]
   },
   {
-    "iD": 15,
+    "id": 15,
     "number": 15,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 1,
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "iD": 16,
+    "id": 16,
     "number": 16,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 3,
@@ -750,7 +750,7 @@
     ]
   },
   {
-    "iD": 17,
+    "id": 17,
     "number": 17,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 1,
@@ -797,7 +797,7 @@
     ]
   },
   {
-    "iD": 18,
+    "id": 18,
     "number": 18,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 1,
@@ -845,7 +845,7 @@
     ]
   },
   {
-    "iD": 19,
+    "id": 19,
     "number": 19,
     "tag": "CARD_TAG_PHYSICS",
     "needChessLevel": 1,
@@ -891,7 +891,7 @@
     ]
   },
   {
-    "iD": 20,
+    "id": 20,
     "number": 20,
     "tag": "CARD_TAG_PHYSICS",
     "needChessLevel": 1,
@@ -938,7 +938,7 @@
     ]
   },
   {
-    "iD": 21,
+    "id": 21,
     "number": 21,
     "tag": "CARD_TAG_PHYSICS",
     "needChessLevel": 1,
@@ -986,7 +986,7 @@
     ]
   },
   {
-    "iD": 22,
+    "id": 22,
     "number": 22,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 3,
@@ -1032,7 +1032,7 @@
     ]
   },
   {
-    "iD": 23,
+    "id": 23,
     "number": 23,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 4,
@@ -1077,7 +1077,7 @@
     ]
   },
   {
-    "iD": 24,
+    "id": 24,
     "number": 24,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 4,
@@ -1122,7 +1122,7 @@
     ]
   },
   {
-    "iD": 25,
+    "id": 25,
     "number": 25,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 4,
@@ -1167,7 +1167,7 @@
     ]
   },
   {
-    "iD": 26,
+    "id": 26,
     "number": 26,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 1,
@@ -1216,7 +1216,7 @@
     ]
   },
   {
-    "iD": 27,
+    "id": 27,
     "number": 27,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 2,
@@ -1265,7 +1265,7 @@
     ]
   },
   {
-    "iD": 28,
+    "id": 28,
     "number": 28,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 5,
@@ -1311,7 +1311,7 @@
     ]
   },
   {
-    "iD": 29,
+    "id": 29,
     "number": 29,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 3,
@@ -1355,7 +1355,7 @@
     ]
   },
   {
-    "iD": 30,
+    "id": 30,
     "number": 30,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 6,
@@ -1401,7 +1401,7 @@
     ]
   },
   {
-    "iD": 31,
+    "id": 31,
     "number": 31,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 1,
@@ -1447,7 +1447,7 @@
     ]
   },
   {
-    "iD": 32,
+    "id": 32,
     "number": 32,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 2,
@@ -1490,7 +1490,7 @@
     ]
   },
   {
-    "iD": 33,
+    "id": 33,
     "number": 33,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 5,
@@ -1536,7 +1536,7 @@
     ]
   },
   {
-    "iD": 34,
+    "id": 34,
     "number": 34,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 3,
@@ -1580,7 +1580,7 @@
     ]
   },
   {
-    "iD": 35,
+    "id": 35,
     "number": 35,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 6,
@@ -1629,7 +1629,7 @@
     ]
   },
   {
-    "iD": 36,
+    "id": 36,
     "number": 36,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 1,
@@ -1678,7 +1678,7 @@
     ]
   },
   {
-    "iD": 37,
+    "id": 37,
     "number": 37,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 2,
@@ -1727,7 +1727,7 @@
     ]
   },
   {
-    "iD": 38,
+    "id": 38,
     "number": 38,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 5,
@@ -1773,7 +1773,7 @@
     ]
   },
   {
-    "iD": 39,
+    "id": 39,
     "number": 39,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 6,
@@ -1819,7 +1819,7 @@
     ]
   },
   {
-    "iD": 40,
+    "id": 40,
     "number": 40,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 2,
@@ -1865,7 +1865,7 @@
     ]
   },
   {
-    "iD": 41,
+    "id": 41,
     "number": 41,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 5,
@@ -1911,7 +1911,7 @@
     ]
   },
   {
-    "iD": 42,
+    "id": 42,
     "number": 42,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 3,
@@ -1963,7 +1963,7 @@
     ]
   },
   {
-    "iD": 43,
+    "id": 43,
     "number": 43,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 6,
@@ -2012,7 +2012,7 @@
     ]
   },
   {
-    "iD": 44,
+    "id": 44,
     "number": 44,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 1,
@@ -2058,7 +2058,7 @@
     ]
   },
   {
-    "iD": 45,
+    "id": 45,
     "number": 45,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 2,
@@ -2107,7 +2107,7 @@
     ]
   },
   {
-    "iD": 46,
+    "id": 46,
     "number": 46,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 5,
@@ -2153,7 +2153,7 @@
     ]
   },
   {
-    "iD": 47,
+    "id": 47,
     "number": 47,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 3,
@@ -2197,7 +2197,7 @@
     ]
   },
   {
-    "iD": 48,
+    "id": 48,
     "number": 48,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 6,
@@ -2249,7 +2249,7 @@
     ]
   },
   {
-    "iD": 49,
+    "id": 49,
     "number": 49,
     "tag": "CARD_TAG_PHYSICS",
     "needChessLevel": 1,
@@ -2298,7 +2298,7 @@
     ]
   },
   {
-    "iD": 50,
+    "id": 50,
     "number": 50,
     "tag": "CARD_TAG_PHYSICS",
     "needChessLevel": 3,
@@ -2342,7 +2342,7 @@
     ]
   },
   {
-    "iD": 51,
+    "id": 51,
     "number": 51,
     "tag": "CARD_TAG_PHYSICS",
     "needChessLevel": 6,
@@ -2391,7 +2391,7 @@
     ]
   },
   {
-    "iD": 52,
+    "id": 52,
     "number": 52,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 4,
@@ -2440,7 +2440,7 @@
     ]
   },
   {
-    "iD": 53,
+    "id": 53,
     "number": 53,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 4,
@@ -2483,7 +2483,7 @@
     ]
   },
   {
-    "iD": 54,
+    "id": 54,
     "number": 54,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 8,
@@ -2529,7 +2529,7 @@
     ]
   },
   {
-    "iD": 55,
+    "id": 55,
     "number": 55,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 2,
@@ -2574,7 +2574,7 @@
     ]
   },
   {
-    "iD": 56,
+    "id": 56,
     "number": 56,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 3,
@@ -2620,7 +2620,7 @@
     ]
   },
   {
-    "iD": 57,
+    "id": 57,
     "number": 57,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 8,
@@ -2666,7 +2666,7 @@
     ]
   },
   {
-    "iD": 58,
+    "id": 58,
     "number": 58,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 4,
@@ -2715,7 +2715,7 @@
     ]
   },
   {
-    "iD": 59,
+    "id": 59,
     "number": 59,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 1,
@@ -2764,7 +2764,7 @@
     ]
   },
   {
-    "iD": 60,
+    "id": 60,
     "number": 60,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 2,
@@ -2810,7 +2810,7 @@
     ]
   },
   {
-    "iD": 61,
+    "id": 61,
     "number": 61,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 2,
@@ -2858,7 +2858,7 @@
     ]
   },
   {
-    "iD": 62,
+    "id": 62,
     "number": 62,
     "tag": "CARD_TAG_HELP",
     "needChessLevel": 4,
@@ -2904,7 +2904,7 @@
     ]
   },
   {
-    "iD": 63,
+    "id": 63,
     "number": 63,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 1,
@@ -2949,7 +2949,7 @@
     ]
   },
   {
-    "iD": 64,
+    "id": 64,
     "number": 64,
     "tag": "CARD_TAG_WATER",
     "needChessLevel": 7,
@@ -3000,7 +3000,7 @@
     ]
   },
   {
-    "iD": 65,
+    "id": 65,
     "number": 65,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 1,
@@ -3045,7 +3045,7 @@
     ]
   },
   {
-    "iD": 66,
+    "id": 66,
     "number": 66,
     "tag": "CARD_TAG_FIRE",
     "needChessLevel": 7,
@@ -3090,7 +3090,7 @@
     ]
   },
   {
-    "iD": 67,
+    "id": 67,
     "number": 67,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 1,
@@ -3135,7 +3135,7 @@
     ]
   },
   {
-    "iD": 68,
+    "id": 68,
     "number": 68,
     "tag": "CARD_TAG_ICE",
     "needChessLevel": 7,
@@ -3186,7 +3186,7 @@
     ]
   },
   {
-    "iD": 69,
+    "id": 69,
     "number": 69,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 1,
@@ -3234,7 +3234,7 @@
     ]
   },
   {
-    "iD": 70,
+    "id": 70,
     "number": 70,
     "tag": "CARD_TAG_WIND",
     "needChessLevel": 7,
@@ -3282,7 +3282,7 @@
     ]
   },
   {
-    "iD": 71,
+    "id": 71,
     "number": 71,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 1,
@@ -3333,7 +3333,7 @@
     ]
   },
   {
-    "iD": 72,
+    "id": 72,
     "number": 72,
     "tag": "CARD_TAG_ELECTRIC",
     "needChessLevel": 7,
@@ -3384,7 +3384,7 @@
     ]
   },
   {
-    "iD": 73,
+    "id": 73,
     "number": 73,
     "tag": "CARD_TAG_PHYSICS",
     "needChessLevel": 1,
@@ -3435,7 +3435,7 @@
     ]
   },
   {
-    "iD": 74,
+    "id": 74,
     "number": 74,
     "tag": "CARD_TAG_PHYSICS",
     "needChessLevel": 7,
@@ -3480,7 +3480,7 @@
     ]
   },
   {
-    "iD": 75,
+    "id": 75,
     "number": 1,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 4,
@@ -3525,7 +3525,7 @@
     ]
   },
   {
-    "iD": 76,
+    "id": 76,
     "number": 2,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 4,
@@ -3570,7 +3570,7 @@
     ]
   },
   {
-    "iD": 77,
+    "id": 77,
     "number": 3,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 2,
@@ -3610,7 +3610,7 @@
     ]
   },
   {
-    "iD": 78,
+    "id": 78,
     "number": 4,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 8,
@@ -3652,7 +3652,7 @@
     ]
   },
   {
-    "iD": 79,
+    "id": 79,
     "number": 5,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 8,
@@ -3696,7 +3696,7 @@
     ]
   },
   {
-    "iD": 80,
+    "id": 80,
     "number": 6,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 2,
@@ -3736,7 +3736,7 @@
     ]
   },
   {
-    "iD": 81,
+    "id": 81,
     "number": 7,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 5,
@@ -3779,7 +3779,7 @@
     ]
   },
   {
-    "iD": 82,
+    "id": 82,
     "number": 8,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 5,
@@ -3821,7 +3821,7 @@
     ]
   },
   {
-    "iD": 83,
+    "id": 83,
     "number": 9,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 5,
@@ -3873,7 +3873,7 @@
     ]
   },
   {
-    "iD": 84,
+    "id": 84,
     "number": 10,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 5,
@@ -3925,7 +3925,7 @@
     ]
   },
   {
-    "iD": 85,
+    "id": 85,
     "number": 11,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 6,
@@ -3972,7 +3972,7 @@
     ]
   },
   {
-    "iD": 86,
+    "id": 86,
     "number": 12,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 6,
@@ -4019,7 +4019,7 @@
     ]
   },
   {
-    "iD": 87,
+    "id": 87,
     "number": 13,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 5,
@@ -4060,7 +4060,7 @@
     ]
   },
   {
-    "iD": 88,
+    "id": 88,
     "number": 14,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 8,
@@ -4113,7 +4113,7 @@
     ]
   },
   {
-    "iD": 89,
+    "id": 89,
     "number": 15,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 10,
@@ -4158,7 +4158,7 @@
     ]
   },
   {
-    "iD": 90,
+    "id": 90,
     "number": 16,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 9,
@@ -4209,7 +4209,7 @@
     ]
   },
   {
-    "iD": 91,
+    "id": 91,
     "number": 17,
     "tag": "CARD_TAG_OTHER",
     "needChessLevel": 6,
@@ -4250,7 +4250,7 @@
     ]
   },
   {
-    "iD": 92,
+    "id": 92,
     "number": 1,
     "needChessLevel": 1,
     "cardNameTextMapHash": 4232036563,
@@ -4292,7 +4292,7 @@
     ]
   },
   {
-    "iD": 93,
+    "id": 93,
     "number": 2,
     "needChessLevel": 1,
     "cardNameTextMapHash": 2953187131,
@@ -4334,7 +4334,7 @@
     ]
   },
   {
-    "iD": 94,
+    "id": 94,
     "number": 3,
     "needChessLevel": 1,
     "cardNameTextMapHash": 950021323,
@@ -4376,7 +4376,7 @@
     ]
   },
   {
-    "iD": 95,
+    "id": 95,
     "number": 1,
     "needChessLevel": 1,
     "cardNameTextMapHash": 2150129987,
@@ -4410,7 +4410,7 @@
     ]
   },
   {
-    "iD": 96,
+    "id": 96,
     "number": 2,
     "needChessLevel": 1,
     "cardNameTextMapHash": 4045098611,
@@ -4452,7 +4452,7 @@
     ]
   },
   {
-    "iD": 97,
+    "id": 97,
     "number": 3,
     "needChessLevel": 1,
     "cardNameTextMapHash": 1132322195,
@@ -4494,7 +4494,7 @@
     ]
   },
   {
-    "iD": 98,
+    "id": 98,
     "number": 4,
     "needChessLevel": 1,
     "cardNameTextMapHash": 768370963,
@@ -4536,7 +4536,7 @@
     ]
   },
   {
-    "iD": 99,
+    "id": 99,
     "number": 5,
     "needChessLevel": 1,
     "cardNameTextMapHash": 602576387,
@@ -4578,7 +4578,7 @@
     ]
   },
   {
-    "iD": 100,
+    "id": 100,
     "number": 6,
     "needChessLevel": 1,
     "cardNameTextMapHash": 3285786107,
@@ -4620,7 +4620,7 @@
     ]
   },
   {
-    "iD": 101,
+    "id": 101,
     "number": 7,
     "needChessLevel": 1,
     "cardNameTextMapHash": 1069417547,
@@ -4662,7 +4662,7 @@
     ]
   },
   {
-    "iD": 102,
+    "id": 102,
     "number": 8,
     "needChessLevel": 1,
     "cardNameTextMapHash": 2000605971,

@@ -1,13 +1,13 @@
 [
   {
-    "iD": 1,
+    "id": 1,
     "minPlayerLevel": 1,
     "maxPlayerLevel": 5,
     "scoreDropId": 203000000,
     "scorePreviewRewardId": 2001
   },
   {
-    "iD": 2,
+    "id": 2,
     "minPlayerLevel": 6,
     "maxPlayerLevel": 10,
     "groupReviseLevel": 4,
@@ -15,7 +15,7 @@
     "scorePreviewRewardId": 2002
   },
   {
-    "iD": 3,
+    "id": 3,
     "minPlayerLevel": 11,
     "maxPlayerLevel": 15,
     "groupReviseLevel": 10,
@@ -23,7 +23,7 @@
     "scorePreviewRewardId": 2003
   },
   {
-    "iD": 4,
+    "id": 4,
     "minPlayerLevel": 16,
     "maxPlayerLevel": 20,
     "groupReviseLevel": 16,
@@ -31,7 +31,7 @@
     "scorePreviewRewardId": 2004
   },
   {
-    "iD": 5,
+    "id": 5,
     "minPlayerLevel": 21,
     "maxPlayerLevel": 25,
     "groupReviseLevel": 17,
@@ -39,7 +39,7 @@
     "scorePreviewRewardId": 2005
   },
   {
-    "iD": 6,
+    "id": 6,
     "minPlayerLevel": 26,
     "maxPlayerLevel": 30,
     "groupReviseLevel": 22,
@@ -47,7 +47,7 @@
     "scorePreviewRewardId": 2006
   },
   {
-    "iD": 7,
+    "id": 7,
     "minPlayerLevel": 31,
     "maxPlayerLevel": 35,
     "groupReviseLevel": 25,
@@ -55,7 +55,7 @@
     "scorePreviewRewardId": 2007
   },
   {
-    "iD": 8,
+    "id": 8,
     "minPlayerLevel": 36,
     "maxPlayerLevel": 40,
     "groupReviseLevel": 23,
@@ -63,7 +63,7 @@
     "scorePreviewRewardId": 2008
   },
   {
-    "iD": 9,
+    "id": 9,
     "minPlayerLevel": 41,
     "maxPlayerLevel": 45,
     "groupReviseLevel": 21,
@@ -71,7 +71,7 @@
     "scorePreviewRewardId": 2009
   },
   {
-    "iD": 10,
+    "id": 10,
     "minPlayerLevel": 46,
     "maxPlayerLevel": 50,
     "groupReviseLevel": 21,
@@ -79,7 +79,7 @@
     "scorePreviewRewardId": 2010
   },
   {
-    "iD": 11,
+    "id": 11,
     "minPlayerLevel": 51,
     "maxPlayerLevel": 55,
     "groupReviseLevel": 15,
@@ -87,7 +87,7 @@
     "scorePreviewRewardId": 2011
   },
   {
-    "iD": 12,
+    "id": 12,
     "minPlayerLevel": 56,
     "maxPlayerLevel": 60,
     "groupReviseLevel": 13,

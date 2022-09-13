@@ -1,6 +1,6 @@
 [
   {
-    "iD": 10100,
+    "id": 10100,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -23,7 +23,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10101,
+    "id": 10101,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -46,7 +46,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10102,
+    "id": 10102,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -69,7 +69,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10103,
+    "id": 10103,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -92,7 +92,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10104,
+    "id": 10104,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -113,7 +113,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10106,
+    "id": 10106,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -134,7 +134,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10107,
+    "id": 10107,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -157,7 +157,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10200,
+    "id": 10200,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -186,7 +186,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10201,
+    "id": 10201,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -210,7 +210,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10202,
+    "id": 10202,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -233,7 +233,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10203,
+    "id": 10203,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -257,7 +257,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10204,
+    "id": 10204,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -282,7 +282,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10205,
+    "id": 10205,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -309,7 +309,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10206,
+    "id": 10206,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -335,7 +335,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10500,
+    "id": 10500,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -363,7 +363,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10502,
+    "id": 10502,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -384,7 +384,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10503,
+    "id": 10503,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -408,7 +408,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10504,
+    "id": 10504,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -431,7 +431,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10505,
+    "id": 10505,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -452,7 +452,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10506,
+    "id": 10506,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -473,7 +473,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10507,
+    "id": 10507,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -496,7 +496,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10300,
+    "id": 10300,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -523,7 +523,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10301,
+    "id": 10301,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -553,7 +553,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10302,
+    "id": 10302,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -575,7 +575,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10303,
+    "id": 10303,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -603,7 +603,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10304,
+    "id": 10304,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -632,7 +632,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10305,
+    "id": 10305,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -659,7 +659,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10306,
+    "id": 10306,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -684,7 +684,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10400,
+    "id": 10400,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -714,7 +714,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10401,
+    "id": 10401,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -739,7 +739,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10402,
+    "id": 10402,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -763,7 +763,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10403,
+    "id": 10403,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -787,7 +787,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10404,
+    "id": 10404,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -813,7 +813,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10405,
+    "id": 10405,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -841,7 +841,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10700,
+    "id": 10700,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -871,7 +871,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10701,
+    "id": 10701,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -902,7 +902,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10702,
+    "id": 10702,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -933,7 +933,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 10800,
+    "id": 10800,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -961,7 +961,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 10801,
+    "id": 10801,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -988,7 +988,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 10900,
+    "id": 10900,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -1018,7 +1018,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 11000,
+    "id": 11000,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -1041,7 +1041,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 11001,
+    "id": 11001,
     "cityId": 1,
     "poolId": 1003,
     "type": "DAILY_TASK_SCENE",
@@ -1064,7 +1064,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 11100,
+    "id": 11100,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -1087,7 +1087,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 11200,
+    "id": 11200,
     "cityId": 1,
     "poolId": 1002,
     "type": "DAILY_TASK_SCENE",
@@ -1110,7 +1110,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 11300,
+    "id": 11300,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -1133,7 +1133,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 11301,
+    "id": 11301,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -1156,7 +1156,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 11400,
+    "id": 11400,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -1179,7 +1179,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 11401,
+    "id": 11401,
     "cityId": 1,
     "poolId": 1001,
     "type": "DAILY_TASK_SCENE",
@@ -1202,7 +1202,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 20500,
+    "id": 20500,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1218,7 +1218,7 @@
     "targetTextMapHash": 3636982312
   },
   {
-    "iD": 20501,
+    "id": 20501,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1234,7 +1234,7 @@
     "targetTextMapHash": 198500768
   },
   {
-    "iD": 20502,
+    "id": 20502,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1250,7 +1250,7 @@
     "targetTextMapHash": 1414268464
   },
   {
-    "iD": 20503,
+    "id": 20503,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1266,7 +1266,7 @@
     "targetTextMapHash": 1327964368
   },
   {
-    "iD": 20400,
+    "id": 20400,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1282,7 +1282,7 @@
     "targetTextMapHash": 33046336
   },
   {
-    "iD": 20401,
+    "id": 20401,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1298,7 +1298,7 @@
     "targetTextMapHash": 1496048008
   },
   {
-    "iD": 20402,
+    "id": 20402,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1314,7 +1314,7 @@
     "targetTextMapHash": 3840670600
   },
   {
-    "iD": 20403,
+    "id": 20403,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1330,7 +1330,7 @@
     "targetTextMapHash": 2606593520
   },
   {
-    "iD": 20300,
+    "id": 20300,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1346,7 +1346,7 @@
     "targetTextMapHash": 613814280
   },
   {
-    "iD": 20301,
+    "id": 20301,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1362,7 +1362,7 @@
     "targetTextMapHash": 1827864304
   },
   {
-    "iD": 20302,
+    "id": 20302,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1378,7 +1378,7 @@
     "targetTextMapHash": 296393544
   },
   {
-    "iD": 20100,
+    "id": 20100,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1394,7 +1394,7 @@
     "targetTextMapHash": 3544601664
   },
   {
-    "iD": 20101,
+    "id": 20101,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1410,7 +1410,7 @@
     "targetTextMapHash": 952273632
   },
   {
-    "iD": 20102,
+    "id": 20102,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1426,7 +1426,7 @@
     "targetTextMapHash": 267816416
   },
   {
-    "iD": 20200,
+    "id": 20200,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1442,7 +1442,7 @@
     "targetTextMapHash": 3676642304
   },
   {
-    "iD": 20201,
+    "id": 20201,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1458,7 +1458,7 @@
     "targetTextMapHash": 3978110208
   },
   {
-    "iD": 20202,
+    "id": 20202,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1474,7 +1474,7 @@
     "targetTextMapHash": 3162400992
   },
   {
-    "iD": 20700,
+    "id": 20700,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1490,7 +1490,7 @@
     "targetTextMapHash": 3545574560
   },
   {
-    "iD": 20701,
+    "id": 20701,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1506,7 +1506,7 @@
     "targetTextMapHash": 2438218304
   },
   {
-    "iD": 20702,
+    "id": 20702,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1522,7 +1522,7 @@
     "targetTextMapHash": 211386192
   },
   {
-    "iD": 21000,
+    "id": 21000,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1538,7 +1538,7 @@
     "targetTextMapHash": 996709008
   },
   {
-    "iD": 20900,
+    "id": 20900,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1554,7 +1554,7 @@
     "targetTextMapHash": 822226928
   },
   {
-    "iD": 21100,
+    "id": 21100,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1570,7 +1570,7 @@
     "targetTextMapHash": 767303776
   },
   {
-    "iD": 21200,
+    "id": 21200,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1586,7 +1586,7 @@
     "targetTextMapHash": 1751442480
   },
   {
-    "iD": 20600,
+    "id": 20600,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1602,7 +1602,7 @@
     "targetTextMapHash": 3859381472
   },
   {
-    "iD": 21300,
+    "id": 21300,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1618,7 +1618,7 @@
     "targetTextMapHash": 2483964144
   },
   {
-    "iD": 21600,
+    "id": 21600,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1634,7 +1634,7 @@
     "targetTextMapHash": 107318896
   },
   {
-    "iD": 21601,
+    "id": 21601,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1650,7 +1650,7 @@
     "targetTextMapHash": 64677280
   },
   {
-    "iD": 21602,
+    "id": 21602,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1666,7 +1666,7 @@
     "targetTextMapHash": 714868816
   },
   {
-    "iD": 21603,
+    "id": 21603,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1682,7 +1682,7 @@
     "targetTextMapHash": 4034922224
   },
   {
-    "iD": 21604,
+    "id": 21604,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 2,
@@ -1698,7 +1698,7 @@
     "targetTextMapHash": 2592628136
   },
   {
-    "iD": 21400,
+    "id": 21400,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1714,7 +1714,7 @@
     "targetTextMapHash": 12008328
   },
   {
-    "iD": 21500,
+    "id": 21500,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1730,7 +1730,7 @@
     "targetTextMapHash": 2855393928
   },
   {
-    "iD": 21800,
+    "id": 21800,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1746,7 +1746,7 @@
     "targetTextMapHash": 2588748864
   },
   {
-    "iD": 21700,
+    "id": 21700,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1762,7 +1762,7 @@
     "targetTextMapHash": 2455089152
   },
   {
-    "iD": 21900,
+    "id": 21900,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1778,7 +1778,7 @@
     "targetTextMapHash": 310572944
   },
   {
-    "iD": 22000,
+    "id": 22000,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1794,7 +1794,7 @@
     "targetTextMapHash": 1636491240
   },
   {
-    "iD": 22100,
+    "id": 22100,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1810,7 +1810,7 @@
     "targetTextMapHash": 2066982160
   },
   {
-    "iD": 22200,
+    "id": 22200,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1826,7 +1826,7 @@
     "targetTextMapHash": 3095382424
   },
   {
-    "iD": 22400,
+    "id": 22400,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1842,7 +1842,7 @@
     "targetTextMapHash": 1729701592
   },
   {
-    "iD": 22500,
+    "id": 22500,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1858,7 +1858,7 @@
     "targetTextMapHash": 4049208464
   },
   {
-    "iD": 22600,
+    "id": 22600,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1874,7 +1874,7 @@
     "targetTextMapHash": 442694624
   },
   {
-    "iD": 22700,
+    "id": 22700,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1890,7 +1890,7 @@
     "targetTextMapHash": 214891200
   },
   {
-    "iD": 22800,
+    "id": 22800,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1906,7 +1906,7 @@
     "targetTextMapHash": 1826257264
   },
   {
-    "iD": 22900,
+    "id": 22900,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1922,7 +1922,7 @@
     "targetTextMapHash": 2833403104
   },
   {
-    "iD": 24700,
+    "id": 24700,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1938,7 +1938,7 @@
     "targetTextMapHash": 1367732008
   },
   {
-    "iD": 24701,
+    "id": 24701,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1954,7 +1954,7 @@
     "targetTextMapHash": 1064726616
   },
   {
-    "iD": 24702,
+    "id": 24702,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1970,7 +1970,7 @@
     "targetTextMapHash": 439189360
   },
   {
-    "iD": 23000,
+    "id": 23000,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -1986,7 +1986,7 @@
     "targetTextMapHash": 544269880
   },
   {
-    "iD": 24800,
+    "id": 24800,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2002,7 +2002,7 @@
     "targetTextMapHash": 3905768240
   },
   {
-    "iD": 24801,
+    "id": 24801,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2018,7 +2018,7 @@
     "targetTextMapHash": 587054848
   },
   {
-    "iD": 24802,
+    "id": 24802,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2034,7 +2034,7 @@
     "targetTextMapHash": 2383996520
   },
   {
-    "iD": 24900,
+    "id": 24900,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2050,7 +2050,7 @@
     "targetTextMapHash": 1442952264
   },
   {
-    "iD": 24100,
+    "id": 24100,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2066,7 +2066,7 @@
     "targetTextMapHash": 2592690248
   },
   {
-    "iD": 24101,
+    "id": 24101,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2082,7 +2082,7 @@
     "targetTextMapHash": 414939920
   },
   {
-    "iD": 23100,
+    "id": 23100,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2098,7 +2098,7 @@
     "targetTextMapHash": 3651269160
   },
   {
-    "iD": 23300,
+    "id": 23300,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2114,7 +2114,7 @@
     "targetTextMapHash": 1881735376
   },
   {
-    "iD": 24300,
+    "id": 24300,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2130,7 +2130,7 @@
     "targetTextMapHash": 2006574984
   },
   {
-    "iD": 23600,
+    "id": 23600,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2146,7 +2146,7 @@
     "targetTextMapHash": 3932800856
   },
   {
-    "iD": 24000,
+    "id": 24000,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2162,7 +2162,7 @@
     "targetTextMapHash": 1837419088
   },
   {
-    "iD": 24500,
+    "id": 24500,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2178,7 +2178,7 @@
     "targetTextMapHash": 3643711360
   },
   {
-    "iD": 24600,
+    "id": 24600,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2194,7 +2194,7 @@
     "targetTextMapHash": 2308054608
   },
   {
-    "iD": 27700,
+    "id": 27700,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2210,7 +2210,7 @@
     "targetTextMapHash": 2318861360
   },
   {
-    "iD": 24200,
+    "id": 24200,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2226,7 +2226,7 @@
     "targetTextMapHash": 4086613504
   },
   {
-    "iD": 28600,
+    "id": 28600,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2242,7 +2242,7 @@
     "targetTextMapHash": 3534408512
   },
   {
-    "iD": 28900,
+    "id": 28900,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2258,7 +2258,7 @@
     "targetTextMapHash": 2503685256
   },
   {
-    "iD": 29000,
+    "id": 29000,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2274,7 +2274,7 @@
     "targetTextMapHash": 1349466232
   },
   {
-    "iD": 29001,
+    "id": 29001,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2290,7 +2290,7 @@
     "targetTextMapHash": 2650916176
   },
   {
-    "iD": 29002,
+    "id": 29002,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2306,7 +2306,7 @@
     "targetTextMapHash": 3354320680
   },
   {
-    "iD": 29100,
+    "id": 29100,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2322,7 +2322,7 @@
     "targetTextMapHash": 1982044552
   },
   {
-    "iD": 28800,
+    "id": 28800,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2338,7 +2338,7 @@
     "targetTextMapHash": 1805397720
   },
   {
-    "iD": 29200,
+    "id": 29200,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2354,7 +2354,7 @@
     "targetTextMapHash": 2178821344
   },
   {
-    "iD": 29400,
+    "id": 29400,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2370,7 +2370,7 @@
     "targetTextMapHash": 933187952
   },
   {
-    "iD": 29500,
+    "id": 29500,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2386,7 +2386,7 @@
     "targetTextMapHash": 792553112
   },
   {
-    "iD": 29900,
+    "id": 29900,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2402,7 +2402,7 @@
     "targetTextMapHash": 3637829480
   },
   {
-    "iD": 40010,
+    "id": 40010,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2418,7 +2418,7 @@
     "targetTextMapHash": 341306544
   },
   {
-    "iD": 40020,
+    "id": 40020,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2434,7 +2434,7 @@
     "targetTextMapHash": 2433308224
   },
   {
-    "iD": 40030,
+    "id": 40030,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2450,7 +2450,7 @@
     "targetTextMapHash": 1460421288
   },
   {
-    "iD": 40031,
+    "id": 40031,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2466,7 +2466,7 @@
     "targetTextMapHash": 1772471136
   },
   {
-    "iD": 40040,
+    "id": 40040,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2482,7 +2482,7 @@
     "targetTextMapHash": 133547800
   },
   {
-    "iD": 40041,
+    "id": 40041,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2498,7 +2498,7 @@
     "targetTextMapHash": 1058562576
   },
   {
-    "iD": 40042,
+    "id": 40042,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2514,7 +2514,7 @@
     "targetTextMapHash": 3210676464
   },
   {
-    "iD": 40050,
+    "id": 40050,
     "cityId": 1,
     "poolId": 2003,
     "rarity": 1,
@@ -2530,7 +2530,7 @@
     "targetTextMapHash": 4081620608
   },
   {
-    "iD": 15000,
+    "id": 15000,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -2552,7 +2552,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15001,
+    "id": 15001,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -2574,7 +2574,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15002,
+    "id": 15002,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -2596,7 +2596,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15100,
+    "id": 15100,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -2621,7 +2621,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15101,
+    "id": 15101,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -2645,7 +2645,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15103,
+    "id": 15103,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -2670,7 +2670,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15104,
+    "id": 15104,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -2694,7 +2694,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15105,
+    "id": 15105,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -2718,7 +2718,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15200,
+    "id": 15200,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2740,7 +2740,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15201,
+    "id": 15201,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2762,7 +2762,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15202,
+    "id": 15202,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2784,7 +2784,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15203,
+    "id": 15203,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2806,7 +2806,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15204,
+    "id": 15204,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2829,7 +2829,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15205,
+    "id": 15205,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2851,7 +2851,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15206,
+    "id": 15206,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2874,7 +2874,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15207,
+    "id": 15207,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2894,7 +2894,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15208,
+    "id": 15208,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -2916,7 +2916,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15300,
+    "id": 15300,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -2940,7 +2940,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15302,
+    "id": 15302,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -2964,7 +2964,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15303,
+    "id": 15303,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -2987,7 +2987,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15304,
+    "id": 15304,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3012,7 +3012,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15400,
+    "id": 15400,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3035,7 +3035,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15401,
+    "id": 15401,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3056,7 +3056,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15403,
+    "id": 15403,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3080,7 +3080,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15404,
+    "id": 15404,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3101,7 +3101,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15405,
+    "id": 15405,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3125,7 +3125,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15501,
+    "id": 15501,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3149,7 +3149,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15502,
+    "id": 15502,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3170,7 +3170,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15503,
+    "id": 15503,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3193,7 +3193,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15504,
+    "id": 15504,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3216,7 +3216,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15505,
+    "id": 15505,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3239,7 +3239,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15600,
+    "id": 15600,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3263,7 +3263,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15601,
+    "id": 15601,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3285,7 +3285,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15602,
+    "id": 15602,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3307,7 +3307,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15603,
+    "id": 15603,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3329,7 +3329,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15604,
+    "id": 15604,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3353,7 +3353,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15701,
+    "id": 15701,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3375,7 +3375,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15702,
+    "id": 15702,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3399,7 +3399,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15703,
+    "id": 15703,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3421,7 +3421,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15704,
+    "id": 15704,
     "cityId": 2,
     "poolId": 1103,
     "type": "DAILY_TASK_SCENE",
@@ -3443,7 +3443,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15800,
+    "id": 15800,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3465,7 +3465,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15801,
+    "id": 15801,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3487,7 +3487,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15802,
+    "id": 15802,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3510,7 +3510,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15803,
+    "id": 15803,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3532,7 +3532,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15804,
+    "id": 15804,
     "cityId": 2,
     "poolId": 1104,
     "type": "DAILY_TASK_SCENE",
@@ -3555,7 +3555,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 15900,
+    "id": 15900,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3577,7 +3577,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15901,
+    "id": 15901,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3602,7 +3602,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15902,
+    "id": 15902,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3626,7 +3626,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15903,
+    "id": 15903,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3653,7 +3653,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15904,
+    "id": 15904,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3680,7 +3680,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 15905,
+    "id": 15905,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3705,7 +3705,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16000,
+    "id": 16000,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3729,7 +3729,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16001,
+    "id": 16001,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3753,7 +3753,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16003,
+    "id": 16003,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3778,7 +3778,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16004,
+    "id": 16004,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3802,7 +3802,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16006,
+    "id": 16006,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3824,7 +3824,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16007,
+    "id": 16007,
     "cityId": 2,
     "poolId": 1101,
     "type": "DAILY_TASK_SCENE",
@@ -3849,7 +3849,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16401,
+    "id": 16401,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -3876,7 +3876,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16402,
+    "id": 16402,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -3905,7 +3905,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16403,
+    "id": 16403,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -3934,7 +3934,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 16501,
+    "id": 16501,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -3960,7 +3960,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 16502,
+    "id": 16502,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -3985,7 +3985,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 16503,
+    "id": 16503,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -4009,7 +4009,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 16504,
+    "id": 16504,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -4036,7 +4036,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 16600,
+    "id": 16600,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -4065,7 +4065,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 16601,
+    "id": 16601,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -4094,7 +4094,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 16602,
+    "id": 16602,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -4122,7 +4122,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 16603,
+    "id": 16603,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -4151,7 +4151,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 16604,
+    "id": 16604,
     "cityId": 2,
     "poolId": 1102,
     "type": "DAILY_TASK_SCENE",
@@ -4177,7 +4177,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 25300,
+    "id": 25300,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4193,7 +4193,7 @@
     "targetTextMapHash": 2203128568
   },
   {
-    "iD": 25301,
+    "id": 25301,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4209,7 +4209,7 @@
     "targetTextMapHash": 3850976864
   },
   {
-    "iD": 25302,
+    "id": 25302,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4225,7 +4225,7 @@
     "targetTextMapHash": 3521574984
   },
   {
-    "iD": 25400,
+    "id": 25400,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4241,7 +4241,7 @@
     "targetTextMapHash": 1043153736
   },
   {
-    "iD": 25401,
+    "id": 25401,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4257,7 +4257,7 @@
     "targetTextMapHash": 448268536
   },
   {
-    "iD": 25402,
+    "id": 25402,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4273,7 +4273,7 @@
     "targetTextMapHash": 3298860008
   },
   {
-    "iD": 25500,
+    "id": 25500,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4289,7 +4289,7 @@
     "targetTextMapHash": 2514588272
   },
   {
-    "iD": 25600,
+    "id": 25600,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4305,7 +4305,7 @@
     "targetTextMapHash": 176875424
   },
   {
-    "iD": 25700,
+    "id": 25700,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4321,7 +4321,7 @@
     "targetTextMapHash": 1535125832
   },
   {
-    "iD": 25800,
+    "id": 25800,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4337,7 +4337,7 @@
     "targetTextMapHash": 3107831768
   },
   {
-    "iD": 25900,
+    "id": 25900,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4353,7 +4353,7 @@
     "targetTextMapHash": 3250705920
   },
   {
-    "iD": 25901,
+    "id": 25901,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4369,7 +4369,7 @@
     "targetTextMapHash": 2284538920
   },
   {
-    "iD": 25902,
+    "id": 25902,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4385,7 +4385,7 @@
     "targetTextMapHash": 4177572448
   },
   {
-    "iD": 26000,
+    "id": 26000,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4401,7 +4401,7 @@
     "targetTextMapHash": 2141100672
   },
   {
-    "iD": 26100,
+    "id": 26100,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4417,7 +4417,7 @@
     "targetTextMapHash": 4025811800
   },
   {
-    "iD": 26200,
+    "id": 26200,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4433,7 +4433,7 @@
     "targetTextMapHash": 1725937792
   },
   {
-    "iD": 26300,
+    "id": 26300,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4449,7 +4449,7 @@
     "targetTextMapHash": 2749076648
   },
   {
-    "iD": 26400,
+    "id": 26400,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4465,7 +4465,7 @@
     "targetTextMapHash": 4043694336
   },
   {
-    "iD": 26500,
+    "id": 26500,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4481,7 +4481,7 @@
     "targetTextMapHash": 1811353032
   },
   {
-    "iD": 25100,
+    "id": 25100,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4497,7 +4497,7 @@
     "targetTextMapHash": 3184561832
   },
   {
-    "iD": 25200,
+    "id": 25200,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4513,7 +4513,7 @@
     "targetTextMapHash": 3602388704
   },
   {
-    "iD": 25000,
+    "id": 25000,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4529,7 +4529,7 @@
     "targetTextMapHash": 3699752512
   },
   {
-    "iD": 25001,
+    "id": 25001,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4545,7 +4545,7 @@
     "targetTextMapHash": 2740333552
   },
   {
-    "iD": 25002,
+    "id": 25002,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4561,7 +4561,7 @@
     "targetTextMapHash": 4290816232
   },
   {
-    "iD": 26600,
+    "id": 26600,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4577,7 +4577,7 @@
     "targetTextMapHash": 2869930768
   },
   {
-    "iD": 26700,
+    "id": 26700,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4593,7 +4593,7 @@
     "targetTextMapHash": 1106634000
   },
   {
-    "iD": 26800,
+    "id": 26800,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4609,7 +4609,7 @@
     "targetTextMapHash": 2538418408
   },
   {
-    "iD": 26801,
+    "id": 26801,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4625,7 +4625,7 @@
     "targetTextMapHash": 2560366592
   },
   {
-    "iD": 26802,
+    "id": 26802,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4641,7 +4641,7 @@
     "targetTextMapHash": 2591791936
   },
   {
-    "iD": 26900,
+    "id": 26900,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4657,7 +4657,7 @@
     "targetTextMapHash": 1144556408
   },
   {
-    "iD": 27000,
+    "id": 27000,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4673,7 +4673,7 @@
     "targetTextMapHash": 66683136
   },
   {
-    "iD": 28000,
+    "id": 28000,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4689,7 +4689,7 @@
     "targetTextMapHash": 3109580680
   },
   {
-    "iD": 28100,
+    "id": 28100,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4705,7 +4705,7 @@
     "targetTextMapHash": 2674803680
   },
   {
-    "iD": 28200,
+    "id": 28200,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4721,7 +4721,7 @@
     "targetTextMapHash": 57353800
   },
   {
-    "iD": 28300,
+    "id": 28300,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4737,7 +4737,7 @@
     "targetTextMapHash": 641541160
   },
   {
-    "iD": 27500,
+    "id": 27500,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4753,7 +4753,7 @@
     "targetTextMapHash": 1926042064
   },
   {
-    "iD": 28400,
+    "id": 28400,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4770,7 +4770,7 @@
     "targetTextMapHash": 3598356912
   },
   {
-    "iD": 28500,
+    "id": 28500,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4786,7 +4786,7 @@
     "targetTextMapHash": 3500949248
   },
   {
-    "iD": 28700,
+    "id": 28700,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4802,7 +4802,7 @@
     "targetTextMapHash": 1109445816
   },
   {
-    "iD": 29300,
+    "id": 29300,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4818,7 +4818,7 @@
     "targetTextMapHash": 2652399136
   },
   {
-    "iD": 29600,
+    "id": 29600,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4834,7 +4834,7 @@
     "targetTextMapHash": 3357350848
   },
   {
-    "iD": 29700,
+    "id": 29700,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4850,7 +4850,7 @@
     "targetTextMapHash": 968645496
   },
   {
-    "iD": 29800,
+    "id": 29800,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4866,7 +4866,7 @@
     "targetTextMapHash": 2182286040
   },
   {
-    "iD": 29801,
+    "id": 29801,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4882,7 +4882,7 @@
     "targetTextMapHash": 131268744
   },
   {
-    "iD": 29802,
+    "id": 29802,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4898,7 +4898,7 @@
     "targetTextMapHash": 3388276416
   },
   {
-    "iD": 40060,
+    "id": 40060,
     "cityId": 2,
     "poolId": 2101,
     "rarity": 1,
@@ -4914,7 +4914,7 @@
     "targetTextMapHash": 1871193656
   },
   {
-    "iD": 31010,
+    "id": 31010,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -4935,7 +4935,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31020,
+    "id": 31020,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -4956,7 +4956,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31030,
+    "id": 31030,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -4977,7 +4977,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31040,
+    "id": 31040,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -4998,7 +4998,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31090,
+    "id": 31090,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5019,7 +5019,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31091,
+    "id": 31091,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5040,7 +5040,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31092,
+    "id": 31092,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5061,7 +5061,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31093,
+    "id": 31093,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5082,7 +5082,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31094,
+    "id": 31094,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5103,7 +5103,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31095,
+    "id": 31095,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5124,7 +5124,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31110,
+    "id": 31110,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5145,7 +5145,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31111,
+    "id": 31111,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5166,7 +5166,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31112,
+    "id": 31112,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5187,7 +5187,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31113,
+    "id": 31113,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5208,7 +5208,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31114,
+    "id": 31114,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5229,7 +5229,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31170,
+    "id": 31170,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5250,7 +5250,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31171,
+    "id": 31171,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5271,7 +5271,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31172,
+    "id": 31172,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5292,7 +5292,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31220,
+    "id": 31220,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5313,7 +5313,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31221,
+    "id": 31221,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5334,7 +5334,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31222,
+    "id": 31222,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5355,7 +5355,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31230,
+    "id": 31230,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5376,7 +5376,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31231,
+    "id": 31231,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5397,7 +5397,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31240,
+    "id": 31240,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5418,7 +5418,7 @@
     "radarRadius": 160
   },
   {
-    "iD": 31241,
+    "id": 31241,
     "cityId": 3,
     "poolId": 3101,
     "type": "DAILY_TASK_SCENE",
@@ -5439,7 +5439,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31060,
+    "id": 31060,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5462,7 +5462,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31061,
+    "id": 31061,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5485,7 +5485,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31062,
+    "id": 31062,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5508,7 +5508,7 @@
     "radarRadius": 40
   },
   {
-    "iD": 31063,
+    "id": 31063,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5531,7 +5531,7 @@
     "radarRadius": 40
   },
   {
-    "iD": 31064,
+    "id": 31064,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5554,7 +5554,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31065,
+    "id": 31065,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5577,7 +5577,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31066,
+    "id": 31066,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5600,7 +5600,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31067,
+    "id": 31067,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5623,7 +5623,7 @@
     "radarRadius": 50
   },
   {
-    "iD": 31068,
+    "id": 31068,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5646,7 +5646,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31069,
+    "id": 31069,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5669,7 +5669,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31210,
+    "id": 31210,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5692,7 +5692,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31211,
+    "id": 31211,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5715,7 +5715,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31080,
+    "id": 31080,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5737,7 +5737,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31081,
+    "id": 31081,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5759,7 +5759,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31082,
+    "id": 31082,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5781,7 +5781,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31180,
+    "id": 31180,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5804,7 +5804,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31181,
+    "id": 31181,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5827,7 +5827,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31182,
+    "id": 31182,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5850,7 +5850,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31190,
+    "id": 31190,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5873,7 +5873,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31191,
+    "id": 31191,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5896,7 +5896,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31192,
+    "id": 31192,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5919,7 +5919,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31193,
+    "id": 31193,
     "cityId": 3,
     "poolId": 3102,
     "type": "DAILY_TASK_SCENE",
@@ -5942,7 +5942,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31100,
+    "id": 31100,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -5965,7 +5965,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31101,
+    "id": 31101,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -5988,7 +5988,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31102,
+    "id": 31102,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6011,7 +6011,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31103,
+    "id": 31103,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6034,7 +6034,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31104,
+    "id": 31104,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6057,7 +6057,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31105,
+    "id": 31105,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6080,7 +6080,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31106,
+    "id": 31106,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6103,7 +6103,7 @@
     "radarRadius": 80
   },
   {
-    "iD": 31050,
+    "id": 31050,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6126,7 +6126,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31051,
+    "id": 31051,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6149,7 +6149,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31052,
+    "id": 31052,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6172,7 +6172,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31053,
+    "id": 31053,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6195,7 +6195,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31054,
+    "id": 31054,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6218,7 +6218,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31055,
+    "id": 31055,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6241,7 +6241,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31070,
+    "id": 31070,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6264,7 +6264,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31071,
+    "id": 31071,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6287,7 +6287,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31072,
+    "id": 31072,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6310,7 +6310,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31073,
+    "id": 31073,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6333,7 +6333,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31074,
+    "id": 31074,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6356,7 +6356,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31120,
+    "id": 31120,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6379,7 +6379,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31121,
+    "id": 31121,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6402,7 +6402,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31122,
+    "id": 31122,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6425,7 +6425,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31123,
+    "id": 31123,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6448,7 +6448,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31124,
+    "id": 31124,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6471,7 +6471,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31125,
+    "id": 31125,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6494,7 +6494,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31126,
+    "id": 31126,
     "cityId": 3,
     "poolId": 3103,
     "type": "DAILY_TASK_SCENE",
@@ -6517,7 +6517,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31140,
+    "id": 31140,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6540,7 +6540,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31141,
+    "id": 31141,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6563,7 +6563,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31142,
+    "id": 31142,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6586,7 +6586,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31143,
+    "id": 31143,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6609,7 +6609,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31144,
+    "id": 31144,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6632,7 +6632,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31150,
+    "id": 31150,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6655,7 +6655,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31151,
+    "id": 31151,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6678,7 +6678,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31152,
+    "id": 31152,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6701,7 +6701,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31153,
+    "id": 31153,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6724,7 +6724,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31154,
+    "id": 31154,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6747,7 +6747,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 31130,
+    "id": 31130,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6770,7 +6770,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31131,
+    "id": 31131,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6793,7 +6793,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31132,
+    "id": 31132,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6816,7 +6816,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31160,
+    "id": 31160,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6839,7 +6839,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31161,
+    "id": 31161,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6862,7 +6862,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31162,
+    "id": 31162,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6885,7 +6885,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31163,
+    "id": 31163,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6908,7 +6908,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31164,
+    "id": 31164,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6931,7 +6931,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31200,
+    "id": 31200,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6954,7 +6954,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31201,
+    "id": 31201,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -6977,7 +6977,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 31202,
+    "id": 31202,
     "cityId": 3,
     "poolId": 3104,
     "type": "DAILY_TASK_SCENE",
@@ -7000,7 +7000,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 41040,
+    "id": 41040,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2201101,
@@ -7015,7 +7015,7 @@
     "targetTextMapHash": 1809137448
   },
   {
-    "iD": 41060,
+    "id": 41060,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2201201,
@@ -7030,7 +7030,7 @@
     "targetTextMapHash": 2494891176
   },
   {
-    "iD": 41070,
+    "id": 41070,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7046,7 +7046,7 @@
     "targetTextMapHash": 3769768248
   },
   {
-    "iD": 41080,
+    "id": 41080,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7062,7 +7062,7 @@
     "targetTextMapHash": 70794088
   },
   {
-    "iD": 41090,
+    "id": 41090,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7078,7 +7078,7 @@
     "targetTextMapHash": 2011628648
   },
   {
-    "iD": 41100,
+    "id": 41100,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7094,7 +7094,7 @@
     "targetTextMapHash": 2769882496
   },
   {
-    "iD": 41010,
+    "id": 41010,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2201001,
@@ -7109,7 +7109,7 @@
     "targetTextMapHash": 4262755784
   },
   {
-    "iD": 41020,
+    "id": 41020,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2201301,
@@ -7124,7 +7124,7 @@
     "targetTextMapHash": 3910082272
   },
   {
-    "iD": 41030,
+    "id": 41030,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2201701,
@@ -7139,7 +7139,7 @@
     "targetTextMapHash": 601853264
   },
   {
-    "iD": 41110,
+    "id": 41110,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2202701,
@@ -7154,7 +7154,7 @@
     "targetTextMapHash": 1290045320
   },
   {
-    "iD": 41120,
+    "id": 41120,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2202801,
@@ -7169,7 +7169,7 @@
     "targetTextMapHash": 4103250496
   },
   {
-    "iD": 41130,
+    "id": 41130,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7185,7 +7185,7 @@
     "targetTextMapHash": 1783044368
   },
   {
-    "iD": 41140,
+    "id": 41140,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2202901,
@@ -7200,7 +7200,7 @@
     "targetTextMapHash": 4203398528
   },
   {
-    "iD": 41150,
+    "id": 41150,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2203101,
@@ -7215,7 +7215,7 @@
     "targetTextMapHash": 108161016
   },
   {
-    "iD": 41160,
+    "id": 41160,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2202301,
@@ -7230,7 +7230,7 @@
     "targetTextMapHash": 615513528
   },
   {
-    "iD": 41161,
+    "id": 41161,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2203201,
@@ -7245,7 +7245,7 @@
     "targetTextMapHash": 70647264
   },
   {
-    "iD": 41162,
+    "id": 41162,
     "cityId": 3,
     "poolId": 3001,
     "questId": 2203301,
@@ -7260,7 +7260,7 @@
     "targetTextMapHash": 1631286016
   },
   {
-    "iD": 41170,
+    "id": 41170,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7276,7 +7276,7 @@
     "targetTextMapHash": 1384593856
   },
   {
-    "iD": 41180,
+    "id": 41180,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7292,7 +7292,7 @@
     "targetTextMapHash": 224759824
   },
   {
-    "iD": 41190,
+    "id": 41190,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7308,7 +7308,7 @@
     "targetTextMapHash": 3260681240
   },
   {
-    "iD": 41200,
+    "id": 41200,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7324,7 +7324,7 @@
     "targetTextMapHash": 2377049128
   },
   {
-    "iD": 41210,
+    "id": 41210,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 2,
@@ -7340,7 +7340,7 @@
     "targetTextMapHash": 3238107936
   },
   {
-    "iD": 41220,
+    "id": 41220,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7356,7 +7356,7 @@
     "targetTextMapHash": 2992975088
   },
   {
-    "iD": 41230,
+    "id": 41230,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 2,
@@ -7372,7 +7372,7 @@
     "targetTextMapHash": 3865425464
   },
   {
-    "iD": 41240,
+    "id": 41240,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 2,
@@ -7388,7 +7388,7 @@
     "targetTextMapHash": 4248174384
   },
   {
-    "iD": 41250,
+    "id": 41250,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7404,7 +7404,7 @@
     "targetTextMapHash": 181946696
   },
   {
-    "iD": 41260,
+    "id": 41260,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7420,7 +7420,7 @@
     "targetTextMapHash": 2702659872
   },
   {
-    "iD": 41270,
+    "id": 41270,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7436,7 +7436,7 @@
     "targetTextMapHash": 3937063848
   },
   {
-    "iD": 41271,
+    "id": 41271,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7452,7 +7452,7 @@
     "targetTextMapHash": 367506176
   },
   {
-    "iD": 41290,
+    "id": 41290,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7468,7 +7468,7 @@
     "targetTextMapHash": 3643277728
   },
   {
-    "iD": 41280,
+    "id": 41280,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7484,7 +7484,7 @@
     "targetTextMapHash": 2147910016
   },
   {
-    "iD": 41300,
+    "id": 41300,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7500,7 +7500,7 @@
     "targetTextMapHash": 3938229968
   },
   {
-    "iD": 41310,
+    "id": 41310,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7516,7 +7516,7 @@
     "targetTextMapHash": 4292909632
   },
   {
-    "iD": 41320,
+    "id": 41320,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7532,7 +7532,7 @@
     "targetTextMapHash": 2388418640
   },
   {
-    "iD": 41350,
+    "id": 41350,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7548,7 +7548,7 @@
     "targetTextMapHash": 1158341184
   },
   {
-    "iD": 41330,
+    "id": 41330,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7564,7 +7564,7 @@
     "targetTextMapHash": 2998198256
   },
   {
-    "iD": 41331,
+    "id": 41331,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7580,7 +7580,7 @@
     "targetTextMapHash": 3540043880
   },
   {
-    "iD": 41340,
+    "id": 41340,
     "cityId": 3,
     "poolId": 3001,
     "rarity": 1,
@@ -7596,7 +7596,7 @@
     "targetTextMapHash": 1291780664
   },
   {
-    "iD": 32270,
+    "id": 32270,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7617,7 +7617,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32271,
+    "id": 32271,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7638,7 +7638,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32272,
+    "id": 32272,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7659,7 +7659,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32273,
+    "id": 32273,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7680,7 +7680,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32274,
+    "id": 32274,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7701,7 +7701,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32275,
+    "id": 32275,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7722,7 +7722,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32250,
+    "id": 32250,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7743,7 +7743,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32251,
+    "id": 32251,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7764,7 +7764,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32290,
+    "id": 32290,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7785,7 +7785,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32291,
+    "id": 32291,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7806,7 +7806,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32292,
+    "id": 32292,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7827,7 +7827,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32293,
+    "id": 32293,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7848,7 +7848,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32260,
+    "id": 32260,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7869,7 +7869,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32261,
+    "id": 32261,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7890,7 +7890,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32262,
+    "id": 32262,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7911,7 +7911,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32263,
+    "id": 32263,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7932,7 +7932,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32264,
+    "id": 32264,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7953,7 +7953,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32265,
+    "id": 32265,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7974,7 +7974,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32266,
+    "id": 32266,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -7995,7 +7995,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32267,
+    "id": 32267,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8016,7 +8016,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32268,
+    "id": 32268,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8037,7 +8037,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32269,
+    "id": 32269,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8058,7 +8058,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32280,
+    "id": 32280,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8079,7 +8079,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32281,
+    "id": 32281,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8100,7 +8100,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32282,
+    "id": 32282,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8121,7 +8121,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32283,
+    "id": 32283,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8142,7 +8142,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32284,
+    "id": 32284,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8163,7 +8163,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32285,
+    "id": 32285,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8184,7 +8184,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32300,
+    "id": 32300,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8206,7 +8206,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32301,
+    "id": 32301,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8228,7 +8228,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32302,
+    "id": 32302,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8250,7 +8250,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32303,
+    "id": 32303,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8272,7 +8272,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32304,
+    "id": 32304,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8294,7 +8294,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32305,
+    "id": 32305,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8316,7 +8316,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32306,
+    "id": 32306,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8338,7 +8338,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32307,
+    "id": 32307,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8360,7 +8360,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32308,
+    "id": 32308,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8382,7 +8382,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32309,
+    "id": 32309,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8404,7 +8404,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32310,
+    "id": 32310,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8425,7 +8425,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32311,
+    "id": 32311,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8446,7 +8446,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32312,
+    "id": 32312,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8467,7 +8467,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32313,
+    "id": 32313,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8488,7 +8488,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32314,
+    "id": 32314,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8509,7 +8509,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32315,
+    "id": 32315,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8530,7 +8530,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32316,
+    "id": 32316,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8551,7 +8551,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32317,
+    "id": 32317,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8572,7 +8572,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32318,
+    "id": 32318,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8593,7 +8593,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32319,
+    "id": 32319,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8614,7 +8614,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32390,
+    "id": 32390,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8635,7 +8635,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32391,
+    "id": 32391,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8656,7 +8656,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32392,
+    "id": 32392,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8677,7 +8677,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32393,
+    "id": 32393,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8698,7 +8698,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32394,
+    "id": 32394,
     "cityId": 4,
     "poolId": 3201,
     "type": "DAILY_TASK_SCENE",
@@ -8719,7 +8719,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32340,
+    "id": 32340,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8742,7 +8742,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32341,
+    "id": 32341,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8765,7 +8765,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32342,
+    "id": 32342,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8788,7 +8788,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32343,
+    "id": 32343,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8811,7 +8811,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32344,
+    "id": 32344,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8834,7 +8834,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32345,
+    "id": 32345,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8857,7 +8857,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32346,
+    "id": 32346,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8880,7 +8880,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32347,
+    "id": 32347,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8903,7 +8903,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32348,
+    "id": 32348,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8926,7 +8926,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32349,
+    "id": 32349,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8949,7 +8949,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32380,
+    "id": 32380,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8972,7 +8972,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32381,
+    "id": 32381,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -8995,7 +8995,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32382,
+    "id": 32382,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -9018,7 +9018,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32320,
+    "id": 32320,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -9041,7 +9041,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 32321,
+    "id": 32321,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -9064,7 +9064,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 32322,
+    "id": 32322,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -9087,7 +9087,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 32323,
+    "id": 32323,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -9110,7 +9110,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 32324,
+    "id": 32324,
     "cityId": 4,
     "poolId": 3203,
     "type": "DAILY_TASK_SCENE",
@@ -9133,7 +9133,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32370,
+    "id": 32370,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9156,7 +9156,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32371,
+    "id": 32371,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9179,7 +9179,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32372,
+    "id": 32372,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9202,7 +9202,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32373,
+    "id": 32373,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9225,7 +9225,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32374,
+    "id": 32374,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9248,7 +9248,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32375,
+    "id": 32375,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9271,7 +9271,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32376,
+    "id": 32376,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9294,7 +9294,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32360,
+    "id": 32360,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9317,7 +9317,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32361,
+    "id": 32361,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9340,7 +9340,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32362,
+    "id": 32362,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9363,7 +9363,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32363,
+    "id": 32363,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9386,7 +9386,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32364,
+    "id": 32364,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9409,7 +9409,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32365,
+    "id": 32365,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9432,7 +9432,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32366,
+    "id": 32366,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9455,7 +9455,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32410,
+    "id": 32410,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9478,7 +9478,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32411,
+    "id": 32411,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9501,7 +9501,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32412,
+    "id": 32412,
     "cityId": 4,
     "poolId": 3204,
     "type": "DAILY_TASK_SCENE",
@@ -9524,7 +9524,7 @@
     "radarRadius": 30
   },
   {
-    "iD": 32350,
+    "id": 32350,
     "cityId": 4,
     "poolId": 3205,
     "type": "DAILY_TASK_SCENE",
@@ -9547,7 +9547,7 @@
     "radarRadius": 40
   },
   {
-    "iD": 32351,
+    "id": 32351,
     "cityId": 4,
     "poolId": 3205,
     "type": "DAILY_TASK_SCENE",
@@ -9570,7 +9570,7 @@
     "radarRadius": 40
   },
   {
-    "iD": 32352,
+    "id": 32352,
     "cityId": 4,
     "poolId": 3205,
     "type": "DAILY_TASK_SCENE",
@@ -9593,7 +9593,7 @@
     "radarRadius": 40
   },
   {
-    "iD": 32353,
+    "id": 32353,
     "cityId": 4,
     "poolId": 3205,
     "type": "DAILY_TASK_SCENE",
@@ -9616,7 +9616,7 @@
     "radarRadius": 40
   },
   {
-    "iD": 32354,
+    "id": 32354,
     "cityId": 4,
     "poolId": 3205,
     "type": "DAILY_TASK_SCENE",
@@ -9639,7 +9639,7 @@
     "radarRadius": 40
   },
   {
-    "iD": 32400,
+    "id": 32400,
     "cityId": 4,
     "poolId": 3205,
     "type": "DAILY_TASK_SCENE",
@@ -9662,7 +9662,7 @@
     "radarRadius": 20
   },
   {
-    "iD": 42250,
+    "id": 42250,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9678,7 +9678,7 @@
     "targetTextMapHash": 1209238136
   },
   {
-    "iD": 42010,
+    "id": 42010,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9694,7 +9694,7 @@
     "targetTextMapHash": 494797136
   },
   {
-    "iD": 42070,
+    "id": 42070,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9710,7 +9710,7 @@
     "targetTextMapHash": 3811653000
   },
   {
-    "iD": 42060,
+    "id": 42060,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9726,7 +9726,7 @@
     "targetTextMapHash": 1675921048
   },
   {
-    "iD": 42160,
+    "id": 42160,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9742,7 +9742,7 @@
     "targetTextMapHash": 358512808
   },
   {
-    "iD": 42300,
+    "id": 42300,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9758,7 +9758,7 @@
     "targetTextMapHash": 3276763168
   },
   {
-    "iD": 42290,
+    "id": 42290,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9774,7 +9774,7 @@
     "targetTextMapHash": 1447085224
   },
   {
-    "iD": 42020,
+    "id": 42020,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9790,7 +9790,7 @@
     "targetTextMapHash": 1643190128
   },
   {
-    "iD": 42021,
+    "id": 42021,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9806,7 +9806,7 @@
     "targetTextMapHash": 3091699328
   },
   {
-    "iD": 42022,
+    "id": 42022,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9822,7 +9822,7 @@
     "targetTextMapHash": 2866876488
   },
   {
-    "iD": 42023,
+    "id": 42023,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9838,7 +9838,7 @@
     "targetTextMapHash": 1180239216
   },
   {
-    "iD": 42024,
+    "id": 42024,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9854,7 +9854,7 @@
     "targetTextMapHash": 2869601824
   },
   {
-    "iD": 42030,
+    "id": 42030,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9870,7 +9870,7 @@
     "targetTextMapHash": 4005989104
   },
   {
-    "iD": 42031,
+    "id": 42031,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9886,7 +9886,7 @@
     "targetTextMapHash": 1733199704
   },
   {
-    "iD": 42032,
+    "id": 42032,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9902,7 +9902,7 @@
     "targetTextMapHash": 560201320
   },
   {
-    "iD": 42040,
+    "id": 42040,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9918,7 +9918,7 @@
     "targetTextMapHash": 4140718360
   },
   {
-    "iD": 42050,
+    "id": 42050,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9934,7 +9934,7 @@
     "targetTextMapHash": 3060657112
   },
   {
-    "iD": 42230,
+    "id": 42230,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9950,7 +9950,7 @@
     "targetTextMapHash": 2291027320
   },
   {
-    "iD": 42240,
+    "id": 42240,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9966,7 +9966,7 @@
     "targetTextMapHash": 3298160560
   },
   {
-    "iD": 42241,
+    "id": 42241,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9982,7 +9982,7 @@
     "targetTextMapHash": 2901931144
   },
   {
-    "iD": 42242,
+    "id": 42242,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -9998,7 +9998,7 @@
     "targetTextMapHash": 3567241936
   },
   {
-    "iD": 42243,
+    "id": 42243,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10014,7 +10014,7 @@
     "targetTextMapHash": 4240510880
   },
   {
-    "iD": 42260,
+    "id": 42260,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10030,7 +10030,7 @@
     "targetTextMapHash": 4193304400
   },
   {
-    "iD": 42170,
+    "id": 42170,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10046,7 +10046,7 @@
     "targetTextMapHash": 294142280
   },
   {
-    "iD": 42180,
+    "id": 42180,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10062,7 +10062,7 @@
     "targetTextMapHash": 3821388608
   },
   {
-    "iD": 42190,
+    "id": 42190,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10078,7 +10078,7 @@
     "targetTextMapHash": 1250072224
   },
   {
-    "iD": 42280,
+    "id": 42280,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10094,7 +10094,7 @@
     "targetTextMapHash": 361691200
   },
   {
-    "iD": 42310,
+    "id": 42310,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10110,7 +10110,7 @@
     "targetTextMapHash": 4224398400
   },
   {
-    "iD": 42320,
+    "id": 42320,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10126,7 +10126,7 @@
     "targetTextMapHash": 1715799672
   },
   {
-    "iD": 42200,
+    "id": 42200,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10142,7 +10142,7 @@
     "targetTextMapHash": 2307581128
   },
   {
-    "iD": 42220,
+    "id": 42220,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10158,7 +10158,7 @@
     "targetTextMapHash": 2511499320
   },
   {
-    "iD": 42090,
+    "id": 42090,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10174,7 +10174,7 @@
     "targetTextMapHash": 3189933712
   },
   {
-    "iD": 42261,
+    "id": 42261,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10190,7 +10190,7 @@
     "targetTextMapHash": 752324624
   },
   {
-    "iD": 42080,
+    "id": 42080,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10206,7 +10206,7 @@
     "targetTextMapHash": 420941456
   },
   {
-    "iD": 42140,
+    "id": 42140,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10222,7 +10222,7 @@
     "targetTextMapHash": 3978715056
   },
   {
-    "iD": 42330,
+    "id": 42330,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10238,7 +10238,7 @@
     "targetTextMapHash": 2403185832
   },
   {
-    "iD": 42340,
+    "id": 42340,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10254,7 +10254,7 @@
     "targetTextMapHash": 2150234152
   },
   {
-    "iD": 42350,
+    "id": 42350,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10270,7 +10270,7 @@
     "targetTextMapHash": 3194463952
   },
   {
-    "iD": 42360,
+    "id": 42360,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10286,7 +10286,7 @@
     "targetTextMapHash": 692146704
   },
   {
-    "iD": 42361,
+    "id": 42361,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10302,7 +10302,7 @@
     "targetTextMapHash": 3376563904
   },
   {
-    "iD": 42370,
+    "id": 42370,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,
@@ -10318,7 +10318,7 @@
     "targetTextMapHash": 3153652104
   },
   {
-    "iD": 42380,
+    "id": 42380,
     "cityId": 4,
     "poolId": 4001,
     "rarity": 1,

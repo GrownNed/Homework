@@ -1,6 +1,6 @@
 [
   {
-    "iD": 1,
+    "id": 1,
     "effectId": 89,
     "lastRound": 1,
     "descTextMapHash": 1607223502,
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "iD": 2,
+    "id": 2,
     "effectId": 77,
     "lastRound": 1,
     "descTextMapHash": 2930052542,
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "iD": 3,
+    "id": 3,
     "effectId": 78,
     "lastRound": 1,
     "descTextMapHash": 1035785030,
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "iD": 4,
+    "id": 4,
     "effectId": 79,
     "lastRound": 1,
     "descTextMapHash": 3910620766,
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "iD": 5,
+    "id": 5,
     "effectId": 80,
     "lastRound": 1,
     "descTextMapHash": 1520126862,
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "iD": 6,
+    "id": 6,
     "effectId": 81,
     "lastRound": 1,
     "descTextMapHash": 545321086,
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "iD": 7,
+    "id": 7,
     "effectId": 82,
     "lastRound": 1,
     "descTextMapHash": 732471478,
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "iD": 8,
+    "id": 8,
     "effectId": 83,
     "descTextMapHash": 1753661654,
     "descParamList": [
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "iD": 9,
+    "id": 9,
     "effectId": 84,
     "lastRound": 1,
     "descTextMapHash": 2192764094,
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "iD": 10,
+    "id": 10,
     "effectId": 85,
     "lastRound": 1,
     "descTextMapHash": 956325286,
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "iD": 11,
+    "id": 11,
     "effectId": 86,
     "lastRound": 1,
     "descTextMapHash": 822020334,
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "iD": 12,
+    "id": 12,
     "effectId": 87,
     "lastRound": 1,
     "descTextMapHash": 2869798814,
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "iD": 13,
+    "id": 13,
     "effectId": 88,
     "descTextMapHash": 2359096646,
     "descParamList": [

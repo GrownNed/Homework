@@ -1,6 +1,6 @@
 [
   {
-    "iD": 1,
+    "id": 1,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "iD": 2,
+    "id": 2,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "iD": 3,
+    "id": 3,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "iD": 4,
+    "id": 4,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "iD": 5,
+    "id": 5,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "iD": 6,
+    "id": 6,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "iD": 7,
+    "id": 7,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -284,7 +284,7 @@
     ]
   },
   {
-    "iD": 8,
+    "id": 8,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "iD": 9,
+    "id": 9,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -354,7 +354,7 @@
     ]
   },
   {
-    "iD": 10,
+    "id": 10,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "iD": 11,
+    "id": 11,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_ALL",
@@ -430,7 +430,7 @@
     ]
   },
   {
-    "iD": 12,
+    "id": 12,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -467,7 +467,7 @@
     ]
   },
   {
-    "iD": 13,
+    "id": 13,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "iD": 14,
+    "id": 14,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -533,7 +533,7 @@
     ]
   },
   {
-    "iD": 15,
+    "id": 15,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -566,7 +566,7 @@
     ]
   },
   {
-    "iD": 16,
+    "id": 16,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "iD": 17,
+    "id": 17,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -656,7 +656,7 @@
     ]
   },
   {
-    "iD": 18,
+    "id": 18,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -689,7 +689,7 @@
     ]
   },
   {
-    "iD": 19,
+    "id": 19,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -722,7 +722,7 @@
     ]
   },
   {
-    "iD": 20,
+    "id": 20,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -759,7 +759,7 @@
     ]
   },
   {
-    "iD": 21,
+    "id": 21,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -804,7 +804,7 @@
     ]
   },
   {
-    "iD": 22,
+    "id": 22,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -840,7 +840,7 @@
     ]
   },
   {
-    "iD": 23,
+    "id": 23,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "iD": 24,
+    "id": 24,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -917,7 +917,7 @@
     ]
   },
   {
-    "iD": 25,
+    "id": 25,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -950,7 +950,7 @@
     ]
   },
   {
-    "iD": 26,
+    "id": 26,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -983,7 +983,7 @@
     ]
   },
   {
-    "iD": 27,
+    "id": 27,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1028,7 +1028,7 @@
     ]
   },
   {
-    "iD": 28,
+    "id": 28,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1061,7 +1061,7 @@
     ]
   },
   {
-    "iD": 29,
+    "id": 29,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_ALL",
@@ -1092,7 +1092,7 @@
     ]
   },
   {
-    "iD": 30,
+    "id": 30,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1125,7 +1125,7 @@
     ]
   },
   {
-    "iD": 31,
+    "id": 31,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1158,7 +1158,7 @@
     ]
   },
   {
-    "iD": 32,
+    "id": 32,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1195,7 +1195,7 @@
     ]
   },
   {
-    "iD": 33,
+    "id": 33,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1240,7 +1240,7 @@
     ]
   },
   {
-    "iD": 34,
+    "id": 34,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1273,7 +1273,7 @@
     ]
   },
   {
-    "iD": 35,
+    "id": 35,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1306,7 +1306,7 @@
     ]
   },
   {
-    "iD": 36,
+    "id": 36,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1339,7 +1339,7 @@
     ]
   },
   {
-    "iD": 37,
+    "id": 37,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1372,7 +1372,7 @@
     ]
   },
   {
-    "iD": 38,
+    "id": 38,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1405,7 +1405,7 @@
     ]
   },
   {
-    "iD": 39,
+    "id": 39,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1438,7 +1438,7 @@
     ]
   },
   {
-    "iD": 40,
+    "id": 40,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1470,7 +1470,7 @@
     ]
   },
   {
-    "iD": 41,
+    "id": 41,
     "costPoints": 40,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1503,7 +1503,7 @@
     ]
   },
   {
-    "iD": 42,
+    "id": 42,
     "costPoints": 20,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1536,7 +1536,7 @@
     ]
   },
   {
-    "iD": 43,
+    "id": 43,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1568,7 +1568,7 @@
     ]
   },
   {
-    "iD": 44,
+    "id": 44,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1603,7 +1603,7 @@
     ]
   },
   {
-    "iD": 45,
+    "id": 45,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1635,7 +1635,7 @@
     ]
   },
   {
-    "iD": 46,
+    "id": 46,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1667,7 +1667,7 @@
     ]
   },
   {
-    "iD": 47,
+    "id": 47,
     "costPoints": 10,
     "effect": {
       "targetType": "IRODORI_CHESS_CARD_TARGET_GADGETS",
@@ -1699,7 +1699,7 @@
     ]
   },
   {
-    "iD": 48,
+    "id": 48,
     "costPoints": 10,
     "effect": {
       "targetParamList": [],
@@ -1728,7 +1728,7 @@
     ]
   },
   {
-    "iD": 49,
+    "id": 49,
     "costPoints": 10,
     "effect": {
       "targetParamList": [],
@@ -1756,7 +1756,7 @@
     ]
   },
   {
-    "iD": 50,
+    "id": 50,
     "costPoints": 10,
     "effect": {
       "targetParamList": [],
@@ -1784,7 +1784,7 @@
     ]
   },
   {
-    "iD": 51,
+    "id": 51,
     "costPoints": 10,
     "effect": {
       "targetParamList": [],
@@ -1812,7 +1812,7 @@
     ]
   },
   {
-    "iD": 52,
+    "id": 52,
     "costPoints": 10,
     "effect": {
       "targetParamList": [],
@@ -1840,7 +1840,7 @@
     ]
   },
   {
-    "iD": 53,
+    "id": 53,
     "costPoints": 10,
     "effect": {
       "targetParamList": [],

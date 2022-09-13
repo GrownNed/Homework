@@ -1,6 +1,6 @@
 [
   {
-    "iD": 10011,
+    "id": 10011,
     "skillNameTextMapHash": 3160031319,
     "skillDescTextMapHash": 1793916363,
     "abilityName": "Vehicle_Skiff_FireCannon_Small",
@@ -17,7 +17,7 @@
     "globalValueKey": ""
   },
   {
-    "iD": 10012,
+    "id": 10012,
     "skillNameTextMapHash": 2681213991,
     "skillDescTextMapHash": 3413724019,
     "abilityName": "Vehicle_Skiff_FireCannon_Big",
@@ -34,7 +34,7 @@
     "globalValueKey": ""
   },
   {
-    "iD": 10101,
+    "id": 10101,
     "skillNameTextMapHash": 919125991,
     "skillDescTextMapHash": 1400400699,
     "abilityName": "Vehicle_Skiff_Normal_BurstSprint",
@@ -53,7 +53,7 @@
     "NNIEEBPHLEJ": 30
   },
   {
-    "iD": 10102,
+    "id": 10102,
     "skillNameTextMapHash": 3696565551,
     "skillDescTextMapHash": 891269963,
     "abilityName": "Vehicle_Skiff_Normal_WindHole",

@@ -1,6 +1,6 @@
 [
   {
-    "iD": 1,
+    "id": 1,
     "costPoints": 160,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 1,
@@ -13,7 +13,7 @@
     "gearId": 4
   },
   {
-    "iD": 2,
+    "id": 2,
     "costPoints": 160,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 2,
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "iD": 3,
+    "id": 3,
     "costPoints": 160,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 3,
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "iD": 4,
+    "id": 4,
     "costPoints": 160,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 4,
@@ -49,7 +49,7 @@
     ]
   },
   {
-    "iD": 5,
+    "id": 5,
     "costPoints": 160,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 5,
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "iD": 6,
+    "id": 6,
     "costPoints": 160,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 6,
@@ -74,7 +74,7 @@
     "gearId": 6
   },
   {
-    "iD": 7,
+    "id": 7,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 7,
@@ -87,7 +87,7 @@
     "gearId": 4
   },
   {
-    "iD": 8,
+    "id": 8,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 8,
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "iD": 9,
+    "id": 9,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 9,
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "iD": 10,
+    "id": 10,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 10,
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "iD": 11,
+    "id": 11,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 11,
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "iD": 12,
+    "id": 12,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 12,
@@ -148,7 +148,7 @@
     "gearId": 6
   },
   {
-    "iD": 13,
+    "id": 13,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 13,
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "iD": 14,
+    "id": 14,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 14,
@@ -172,7 +172,7 @@
     ]
   },
   {
-    "iD": 15,
+    "id": 15,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 15,
@@ -184,7 +184,7 @@
     ]
   },
   {
-    "iD": 17,
+    "id": 17,
     "costPoints": 80,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 17,
@@ -197,7 +197,7 @@
     "gearId": 4
   },
   {
-    "iD": 18,
+    "id": 18,
     "costPoints": 80,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 18,
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "iD": 19,
+    "id": 19,
     "costPoints": 80,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 19,
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "iD": 20,
+    "id": 20,
     "costPoints": 80,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 20,
@@ -233,7 +233,7 @@
     ]
   },
   {
-    "iD": 21,
+    "id": 21,
     "costPoints": 80,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 21,
@@ -245,7 +245,7 @@
     ]
   },
   {
-    "iD": 22,
+    "id": 22,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 22,
@@ -258,7 +258,7 @@
     "gearId": 4
   },
   {
-    "iD": 23,
+    "id": 23,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 23,
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "iD": 24,
+    "id": 24,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 24,
@@ -282,7 +282,7 @@
     ]
   },
   {
-    "iD": 25,
+    "id": 25,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 25,
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "iD": 26,
+    "id": 26,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 26,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "iD": 27,
+    "id": 27,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 27,
@@ -319,7 +319,7 @@
     "gearId": 6
   },
   {
-    "iD": 28,
+    "id": 28,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 28,
@@ -332,7 +332,7 @@
     "gearId": 7
   },
   {
-    "iD": 29,
+    "id": 29,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 29,
@@ -345,7 +345,7 @@
     "gearId": 8
   },
   {
-    "iD": 30,
+    "id": 30,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 30,
@@ -358,7 +358,7 @@
     "gearId": 9
   },
   {
-    "iD": 31,
+    "id": 31,
     "costPoints": 40,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 31,
@@ -371,7 +371,7 @@
     "gearId": 10
   },
   {
-    "iD": 32,
+    "id": 32,
     "costPoints": 75,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 32,
@@ -383,7 +383,7 @@
     ]
   },
   {
-    "iD": 33,
+    "id": 33,
     "costPoints": 75,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 33,
@@ -395,7 +395,7 @@
     ]
   },
   {
-    "iD": 34,
+    "id": 34,
     "costPoints": 75,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 34,
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "iD": 35,
+    "id": 35,
     "costPoints": 300,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 35,
@@ -420,7 +420,7 @@
     "gearId": 4
   },
   {
-    "iD": 36,
+    "id": 36,
     "costPoints": 300,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 36,
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "iD": 37,
+    "id": 37,
     "costPoints": 300,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 37,
@@ -444,7 +444,7 @@
     ]
   },
   {
-    "iD": 38,
+    "id": 38,
     "costPoints": 300,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 38,
@@ -456,7 +456,7 @@
     ]
   },
   {
-    "iD": 39,
+    "id": 39,
     "costPoints": 300,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 39,
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "iD": 40,
+    "id": 40,
     "costPoints": 300,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 40,
@@ -481,7 +481,7 @@
     "gearId": 6
   },
   {
-    "iD": 41,
+    "id": 41,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 41,
@@ -494,7 +494,7 @@
     "gearId": 7
   },
   {
-    "iD": 42,
+    "id": 42,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 42,
@@ -507,7 +507,7 @@
     "gearId": 8
   },
   {
-    "iD": 43,
+    "id": 43,
     "costPoints": 250,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 43,
@@ -520,7 +520,7 @@
     "gearId": 9
   },
   {
-    "iD": 44,
+    "id": 44,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 44,
     "descTextMapHash": 2596643354,
@@ -531,7 +531,7 @@
     ]
   },
   {
-    "iD": 45,
+    "id": 45,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 45,
@@ -543,7 +543,7 @@
     ]
   },
   {
-    "iD": 46,
+    "id": 46,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 46,
@@ -555,7 +555,7 @@
     ]
   },
   {
-    "iD": 47,
+    "id": 47,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_BUFF",
     "effectId": 47,
@@ -567,7 +567,7 @@
     ]
   },
   {
-    "iD": 48,
+    "id": 48,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 48,
@@ -580,7 +580,7 @@
     "gearId": 4
   },
   {
-    "iD": 49,
+    "id": 49,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 49,
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "iD": 50,
+    "id": 50,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 50,
@@ -604,7 +604,7 @@
     ]
   },
   {
-    "iD": 51,
+    "id": 51,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 51,
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "iD": 52,
+    "id": 52,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 52,
@@ -628,7 +628,7 @@
     ]
   },
   {
-    "iD": 53,
+    "id": 53,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 53,
@@ -641,7 +641,7 @@
     "gearId": 6
   },
   {
-    "iD": 54,
+    "id": 54,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 54,
@@ -654,7 +654,7 @@
     "gearId": 4
   },
   {
-    "iD": 55,
+    "id": 55,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 55,
@@ -666,7 +666,7 @@
     ]
   },
   {
-    "iD": 56,
+    "id": 56,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 56,
@@ -678,7 +678,7 @@
     ]
   },
   {
-    "iD": 57,
+    "id": 57,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 57,
@@ -690,7 +690,7 @@
     ]
   },
   {
-    "iD": 58,
+    "id": 58,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 58,
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "iD": 59,
+    "id": 59,
     "costPoints": 120,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 59,
@@ -715,7 +715,7 @@
     "gearId": 6
   },
   {
-    "iD": 60,
+    "id": 60,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 60,
@@ -727,7 +727,7 @@
     ]
   },
   {
-    "iD": 61,
+    "id": 61,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 61,
@@ -739,7 +739,7 @@
     ]
   },
   {
-    "iD": 62,
+    "id": 62,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 62,
@@ -751,7 +751,7 @@
     ]
   },
   {
-    "iD": 64,
+    "id": 64,
     "costPoints": 200,
     "cardType": "MECHANICUS_CARD_CURSE",
     "effectId": 64,
@@ -763,7 +763,7 @@
     ]
   },
   {
-    "iD": 65,
+    "id": 65,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 65,
     "lastRound": 1,
@@ -775,7 +775,7 @@
     ]
   },
   {
-    "iD": 66,
+    "id": 66,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 66,
     "lastRound": 1,
@@ -787,7 +787,7 @@
     ]
   },
   {
-    "iD": 67,
+    "id": 67,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 67,
     "lastRound": 1,
@@ -799,7 +799,7 @@
     ]
   },
   {
-    "iD": 68,
+    "id": 68,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 68,
     "lastRound": 1,
@@ -811,7 +811,7 @@
     ]
   },
   {
-    "iD": 69,
+    "id": 69,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 69,
     "lastRound": 1,
@@ -823,7 +823,7 @@
     ]
   },
   {
-    "iD": 70,
+    "id": 70,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 70,
     "lastRound": 1,
@@ -835,7 +835,7 @@
     ]
   },
   {
-    "iD": 71,
+    "id": 71,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 71,
     "lastRound": 1,
@@ -847,7 +847,7 @@
     ]
   },
   {
-    "iD": 72,
+    "id": 72,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 72,
     "lastRound": 1,
@@ -859,7 +859,7 @@
     ]
   },
   {
-    "iD": 73,
+    "id": 73,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 73,
     "lastRound": 1,
@@ -871,7 +871,7 @@
     ]
   },
   {
-    "iD": 74,
+    "id": 74,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 74,
     "lastRound": 1,
@@ -883,7 +883,7 @@
     ]
   },
   {
-    "iD": 75,
+    "id": 75,
     "cardType": "MECHANICUS_CARD_CHALLENGE",
     "effectId": 75,
     "lastRound": 1,

@@ -3,7 +3,7 @@
     "furnitureId": 368101,
     "avatarId": 10000047,
     "npcId": 9047,
-    "talkIDs": [
+    "talkIds": [
       6904702,
       6904703,
       6904704
@@ -18,7 +18,7 @@
     "furnitureId": 368102,
     "avatarId": 10000048,
     "npcId": 9048,
-    "talkIDs": [
+    "talkIds": [
       6904802,
       6904803,
       6904804
@@ -33,7 +33,7 @@
     "furnitureId": 368103,
     "avatarId": 10000051,
     "npcId": 9051,
-    "talkIDs": [
+    "talkIds": [
       6905102,
       6905103,
       6905104
@@ -48,7 +48,7 @@
     "furnitureId": 368104,
     "avatarId": 10000003,
     "npcId": 9003,
-    "talkIDs": [
+    "talkIds": [
       6900302,
       6900303,
       6900304
@@ -63,7 +63,7 @@
     "furnitureId": 368105,
     "avatarId": 10000006,
     "npcId": 9006,
-    "talkIDs": [
+    "talkIds": [
       6900602,
       6900603,
       6900604
@@ -78,7 +78,7 @@
     "furnitureId": 368106,
     "avatarId": 10000014,
     "npcId": 9014,
-    "talkIDs": [
+    "talkIds": [
       6901402,
       6901403,
       6901404
@@ -93,7 +93,7 @@
     "furnitureId": 368107,
     "avatarId": 10000015,
     "npcId": 9015,
-    "talkIDs": [
+    "talkIds": [
       6901502,
       6901503,
       6901504
@@ -108,7 +108,7 @@
     "furnitureId": 368108,
     "avatarId": 10000016,
     "npcId": 9016,
-    "talkIDs": [
+    "talkIds": [
       6901602,
       6901603,
       6901604
@@ -123,7 +123,7 @@
     "furnitureId": 368109,
     "avatarId": 10000020,
     "npcId": 9020,
-    "talkIDs": [
+    "talkIds": [
       6902002,
       6902003,
       6902004
@@ -138,7 +138,7 @@
     "furnitureId": 368110,
     "avatarId": 10000021,
     "npcId": 9021,
-    "talkIDs": [
+    "talkIds": [
       6902102,
       6902103,
       6902104
@@ -153,7 +153,7 @@
     "furnitureId": 368111,
     "avatarId": 10000022,
     "npcId": 9022,
-    "talkIDs": [
+    "talkIds": [
       6902202,
       6902203,
       6902204
@@ -168,7 +168,7 @@
     "furnitureId": 368112,
     "avatarId": 10000023,
     "npcId": 9023,
-    "talkIDs": [
+    "talkIds": [
       6902302,
       6902303,
       6902304
@@ -183,7 +183,7 @@
     "furnitureId": 368113,
     "avatarId": 10000024,
     "npcId": 9024,
-    "talkIDs": [
+    "talkIds": [
       6902402,
       6902403,
       6902404
@@ -198,7 +198,7 @@
     "furnitureId": 368114,
     "avatarId": 10000025,
     "npcId": 9025,
-    "talkIDs": [
+    "talkIds": [
       6902502,
       6902503,
       6902504
@@ -213,7 +213,7 @@
     "furnitureId": 368115,
     "avatarId": 10000026,
     "npcId": 9026,
-    "talkIDs": [
+    "talkIds": [
       6902602,
       6902603,
       6902604
@@ -228,7 +228,7 @@
     "furnitureId": 368116,
     "avatarId": 10000027,
     "npcId": 9027,
-    "talkIDs": [
+    "talkIds": [
       6902702,
       6902703,
       6902704
@@ -243,7 +243,7 @@
     "furnitureId": 368117,
     "avatarId": 10000029,
     "npcId": 9029,
-    "talkIDs": [
+    "talkIds": [
       6902902,
       6902903,
       6902904
@@ -258,7 +258,7 @@
     "furnitureId": 368118,
     "avatarId": 10000030,
     "npcId": 9030,
-    "talkIDs": [
+    "talkIds": [
       6903002,
       6903003,
       6903004
@@ -273,7 +273,7 @@
     "furnitureId": 368119,
     "avatarId": 10000031,
     "npcId": 9031,
-    "talkIDs": [
+    "talkIds": [
       6903102,
       6903103,
       6903104
@@ -288,7 +288,7 @@
     "furnitureId": 368120,
     "avatarId": 10000032,
     "npcId": 9032,
-    "talkIDs": [
+    "talkIds": [
       6903202,
       6903203,
       6903204
@@ -303,7 +303,7 @@
     "furnitureId": 368121,
     "avatarId": 10000033,
     "npcId": 9033,
-    "talkIDs": [
+    "talkIds": [
       6903302,
       6903303,
       6903304
@@ -318,7 +318,7 @@
     "furnitureId": 368122,
     "avatarId": 10000034,
     "npcId": 9034,
-    "talkIDs": [
+    "talkIds": [
       6903402,
       6903403,
       6903404
@@ -333,7 +333,7 @@
     "furnitureId": 368123,
     "avatarId": 10000035,
     "npcId": 9035,
-    "talkIDs": [
+    "talkIds": [
       6903502,
       6903503,
       6903504
@@ -348,7 +348,7 @@
     "furnitureId": 368124,
     "avatarId": 10000036,
     "npcId": 9036,
-    "talkIDs": [
+    "talkIds": [
       6903602,
       6903603,
       6903604
@@ -363,7 +363,7 @@
     "furnitureId": 368125,
     "avatarId": 10000037,
     "npcId": 9037,
-    "talkIDs": [
+    "talkIds": [
       6903702,
       6903703,
       6903704
@@ -378,7 +378,7 @@
     "furnitureId": 368126,
     "avatarId": 10000038,
     "npcId": 9038,
-    "talkIDs": [
+    "talkIds": [
       6903802,
       6903803,
       6903804
@@ -393,7 +393,7 @@
     "furnitureId": 368127,
     "avatarId": 10000039,
     "npcId": 9039,
-    "talkIDs": [
+    "talkIds": [
       6903902,
       6903903,
       6903904
@@ -408,7 +408,7 @@
     "furnitureId": 368128,
     "avatarId": 10000041,
     "npcId": 9041,
-    "talkIDs": [
+    "talkIds": [
       6904102,
       6904103,
       6904104
@@ -423,7 +423,7 @@
     "furnitureId": 368129,
     "avatarId": 10000042,
     "npcId": 9042,
-    "talkIDs": [
+    "talkIds": [
       6904202,
       6904203,
       6904204
@@ -438,7 +438,7 @@
     "furnitureId": 368130,
     "avatarId": 10000043,
     "npcId": 9043,
-    "talkIDs": [
+    "talkIds": [
       6904302,
       6904303,
       6904304
@@ -453,7 +453,7 @@
     "furnitureId": 368131,
     "avatarId": 10000044,
     "npcId": 9044,
-    "talkIDs": [
+    "talkIds": [
       6904402,
       6904403,
       6904404
@@ -468,7 +468,7 @@
     "furnitureId": 368132,
     "avatarId": 10000045,
     "npcId": 9045,
-    "talkIDs": [
+    "talkIds": [
       6904502,
       6904503,
       6904504
@@ -483,7 +483,7 @@
     "furnitureId": 368133,
     "avatarId": 10000046,
     "npcId": 9046,
-    "talkIDs": [
+    "talkIds": [
       6904602,
       6904603,
       6904604
@@ -497,7 +497,7 @@
   {
     "furnitureId": 368134,
     "npcId": 9900,
-    "talkIDs": [],
+    "talkIds": [],
     "isNPC": true,
     "headIcon": "UI_AvatarIcon_Side_Paimon",
     "frontIcon": "UI_AvatarIcon_Paimon",
@@ -510,7 +510,7 @@
     "furnitureId": 368135,
     "avatarId": 10000049,
     "npcId": 9049,
-    "talkIDs": [
+    "talkIds": [
       6904907,
       6904908,
       6904909
@@ -525,7 +525,7 @@
     "furnitureId": 368136,
     "avatarId": 10000053,
     "npcId": 9053,
-    "talkIDs": [
+    "talkIds": [
       6905307,
       6905308,
       6905309
@@ -540,7 +540,7 @@
     "furnitureId": 368137,
     "avatarId": 10000002,
     "npcId": 9002,
-    "talkIDs": [
+    "talkIds": [
       6900207,
       6900208,
       6900209
@@ -555,7 +555,7 @@
     "furnitureId": 368138,
     "avatarId": 10000052,
     "npcId": 9052,
-    "talkIDs": [
+    "talkIds": [
       6905208,
       6905209,
       6905210
@@ -570,7 +570,7 @@
     "furnitureId": 368139,
     "avatarId": 10000054,
     "npcId": 9054,
-    "talkIDs": [
+    "talkIds": [
       6905407,
       6905408,
       6905409
@@ -585,7 +585,7 @@
     "furnitureId": 368140,
     "avatarId": 10000056,
     "npcId": 9056,
-    "talkIDs": [
+    "talkIds": [
       6905607,
       6905608,
       6905609
@@ -600,7 +600,7 @@
     "furnitureId": 368141,
     "avatarId": 10000062,
     "npcId": 9062,
-    "talkIDs": [
+    "talkIds": [
       6906207,
       6906208,
       6906209
@@ -615,7 +615,7 @@
     "furnitureId": 368142,
     "avatarId": 10000050,
     "npcId": 9050,
-    "talkIDs": [
+    "talkIds": [
       6905009,
       6905010,
       6905011
@@ -630,7 +630,7 @@
     "furnitureId": 368143,
     "avatarId": 10000055,
     "npcId": 9055,
-    "talkIDs": [
+    "talkIds": [
       6905509,
       6905510,
       6905511
@@ -645,7 +645,7 @@
     "furnitureId": 368144,
     "avatarId": 10000057,
     "npcId": 9057,
-    "talkIDs": [
+    "talkIds": [
       6905709,
       6905710,
       6905711
@@ -660,7 +660,7 @@
     "furnitureId": 368145,
     "avatarId": 10000063,
     "npcId": 9063,
-    "talkIDs": [
+    "talkIds": [
       6906309,
       6906310,
       6906311
@@ -675,7 +675,7 @@
     "furnitureId": 368146,
     "avatarId": 10000064,
     "npcId": 9064,
-    "talkIDs": [
+    "talkIds": [
       6906409,
       6906410,
       6906411
@@ -690,7 +690,7 @@
     "furnitureId": 368147,
     "avatarId": 10000058,
     "npcId": 9058,
-    "talkIDs": [
+    "talkIds": [
       6905809,
       6905810,
       6905811
@@ -705,7 +705,7 @@
     "furnitureId": 368148,
     "avatarId": 10000066,
     "npcId": 9066,
-    "talkIDs": [
+    "talkIds": [
       6906609,
       6906610,
       6906611
@@ -720,7 +720,7 @@
     "furnitureId": 368149,
     "avatarId": 10000060,
     "npcId": 9008,
-    "talkIDs": [
+    "talkIds": [
       6900809,
       6900810,
       6900811
@@ -735,7 +735,7 @@
     "furnitureId": 368150,
     "avatarId": 10000065,
     "npcId": 9009,
-    "talkIDs": [
+    "talkIds": [
       6900909,
       6900910,
       6900911
@@ -750,7 +750,7 @@
     "furnitureId": 368151,
     "avatarId": 10000059,
     "npcId": 9059,
-    "talkIDs": [
+    "talkIds": [
       6905909,
       6905910,
       6905911
@@ -765,7 +765,7 @@
     "furnitureId": 368152,
     "avatarId": 10000069,
     "npcId": 9069,
-    "talkIDs": [
+    "talkIds": [
       6906907,
       6906908,
       6906909
@@ -780,7 +780,7 @@
     "furnitureId": 368153,
     "avatarId": 10000067,
     "npcId": 9067,
-    "talkIDs": [
+    "talkIds": [
       6906707,
       6906708,
       6906709
@@ -795,7 +795,7 @@
     "furnitureId": 368154,
     "avatarId": 10000068,
     "npcId": 9068,
-    "talkIDs": [
+    "talkIds": [
       6906807,
       6906808,
       6906809
@@ -810,7 +810,7 @@
     "furnitureId": 368155,
     "avatarId": 10000070,
     "npcId": 9070,
-    "talkIDs": [
+    "talkIds": [
       6907007,
       6907008,
       6907009
@@ -825,7 +825,7 @@
     "furnitureId": 368156,
     "avatarId": 10000071,
     "npcId": 9071,
-    "talkIDs": [
+    "talkIds": [
       6907107,
       6907108,
       6907109
@@ -840,7 +840,7 @@
     "furnitureId": 368157,
     "avatarId": 10000072,
     "npcId": 9072,
-    "talkIDs": [
+    "talkIds": [
       6907207,
       6907208,
       6907209

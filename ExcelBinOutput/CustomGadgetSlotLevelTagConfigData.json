@@ -1,6 +1,6 @@
 [
   {
-    "iD": 1,
+    "id": 1,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {
@@ -32,7 +32,7 @@
     "MDAJLNBOPMB": 70290379
   },
   {
-    "iD": 2,
+    "id": 2,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {
@@ -64,7 +64,7 @@
     "MDAJLNBOPMB": 70290379
   },
   {
-    "iD": 3,
+    "id": 3,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {
@@ -96,7 +96,7 @@
     "MDAJLNBOPMB": 70290379
   },
   {
-    "iD": 4,
+    "id": 4,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {
@@ -128,7 +128,7 @@
     "MDAJLNBOPMB": 70290379
   },
   {
-    "iD": 5,
+    "id": 5,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {
@@ -160,7 +160,7 @@
     "MDAJLNBOPMB": 70290379
   },
   {
-    "iD": 6,
+    "id": 6,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {
@@ -192,7 +192,7 @@
     "MDAJLNBOPMB": 70290379
   },
   {
-    "iD": 7,
+    "id": 7,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {
@@ -224,7 +224,7 @@
     "MDAJLNBOPMB": 70290379
   },
   {
-    "iD": 8,
+    "id": 8,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {
@@ -256,7 +256,7 @@
     "MDAJLNBOPMB": 70290379
   },
   {
-    "iD": 9,
+    "id": 9,
     "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
     "slotMap": [
       {

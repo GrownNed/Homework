@@ -1,6 +1,6 @@
 [
   {
-    "iD": 1,
+    "id": 1,
     "condId": 2012101,
     "LHICMKKPEOO": 2012121,
     "unlockDay": 1,
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "iD": 2,
+    "id": 2,
     "condId": 2012102,
     "LHICMKKPEOO": 2012122,
     "unlockDay": 2,
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "iD": 3,
+    "id": 3,
     "condId": 2012103,
     "LHICMKKPEOO": 2012123,
     "unlockDay": 3,
