@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "gadgetId": 70290409,
+    "IBJGHNKECND": 1,
+    "materialId": 101887,
+    "FCHHLHBLIOH": "Eff_SceneObj_Homeworld_MechanicalDrawing_01_Rotating"
+  },
+  {
+    "id": 2,
+    "gadgetId": 70290410,
+    "IBJGHNKECND": 2,
+    "materialId": 101888,
+    "FCHHLHBLIOH": "Eff_SceneObj_Homeworld_MechanicalDrawing_02_Rotating"
+  },
+  {
+    "id": 3,
+    "gadgetId": 70290411,
+    "IBJGHNKECND": 3,
+    "materialId": 101889,
+    "FCHHLHBLIOH": "Eff_SceneObj_Homeworld_MechanicalDrawing_03_Rotating"
+  },
+  {
+    "id": 4,
+    "gadgetId": 70290412,
+    "IBJGHNKECND": 4,
+    "materialId": 101890,
+    "FCHHLHBLIOH": "Eff_SceneObj_Homeworld_MechanicalDrawing_04_Rotating"
+  },
+  {
+    "id": 5,
+    "gadgetId": 70290413,
+    "IBJGHNKECND": 5,
+    "materialId": 101891,
+    "FCHHLHBLIOH": "Eff_SceneObj_Homeworld_MechanicalDrawing_05_Rotating"
+  },
+  {
+    "id": 6,
+    "gadgetId": 70290414,
+    "IBJGHNKECND": 6,
+    "materialId": 101892,
+    "FCHHLHBLIOH": "Eff_SceneObj_Homeworld_MechanicalDrawing_06_Rotating"
+  }
+]

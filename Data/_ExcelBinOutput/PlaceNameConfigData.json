@@ -1,0 +1,297 @@
+[
+  {
+    "iD": 4,
+    "IPLGFOJOCEE": "MichiaeMatsuri",
+    "ENGJBEACIGD": "210_1",
+    "conditionType": "ErosionArea",
+    "GLHENDJAKFH": "10",
+    "conditionParam2": "",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 871831160
+  },
+  {
+    "iD": 5,
+    "IPLGFOJOCEE": "MichiaeMatsuri",
+    "ENGJBEACIGD": "210_2",
+    "conditionType": "ErosionArea",
+    "GLHENDJAKFH": "11",
+    "conditionParam2": "",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 4103930824
+  },
+  {
+    "iD": 6,
+    "IPLGFOJOCEE": "MichiaeMatsuri",
+    "ENGJBEACIGD": "210_3",
+    "conditionType": "ErosionArea",
+    "GLHENDJAKFH": "12",
+    "conditionParam2": "",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 3023495768
+  },
+  {
+    "iD": 7,
+    "IPLGFOJOCEE": "MichiaeMatsuri",
+    "ENGJBEACIGD": "210_4",
+    "conditionType": "ErosionArea",
+    "GLHENDJAKFH": "13",
+    "conditionParam2": "",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 2340153712
+  },
+  {
+    "iD": 8,
+    "IPLGFOJOCEE": "MichiaeMatsuri",
+    "ENGJBEACIGD": "210_5",
+    "conditionType": "ErosionArea",
+    "GLHENDJAKFH": "14",
+    "conditionParam2": "",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 3855303680
+  },
+  {
+    "iD": 9,
+    "IPLGFOJOCEE": "MichiaeMatsuri",
+    "ENGJBEACIGD": "210_6",
+    "conditionType": "ErosionArea",
+    "GLHENDJAKFH": "15",
+    "conditionParam2": "",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 774130784
+  },
+  {
+    "iD": 17,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2307,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7301415",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 877632104
+  },
+  {
+    "iD": 18,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2306,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7301808",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 3743427520
+  },
+  {
+    "iD": 20,
+    "ENGJBEACIGD": "22_1",
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7303510",
+    "conditionParam2": "2",
+    "actionType": "Open",
+    "MPGMKJJPGPE": 3372395472
+  },
+  {
+    "iD": 21,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2901,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7302518",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 1817750680
+  },
+  {
+    "iD": 22,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2201,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7303510",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 2479691152
+  },
+  {
+    "iD": 23,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2502,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7303510",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 375354920
+  },
+  {
+    "iD": 26,
+    "IPLGFOJOCEE": "Abyssalisle",
+    "ENGJBEACIGD": "200_6",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "16",
+    "conditionParam2": "0",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 3181215496
+  },
+  {
+    "iD": 27,
+    "IPLGFOJOCEE": "Abyssalisle",
+    "ENGJBEACIGD": "200_7",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "16",
+    "conditionParam2": "0",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 1782111304
+  },
+  {
+    "iD": 28,
+    "IPLGFOJOCEE": "Abyssalisle",
+    "ENGJBEACIGD": "200_8",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "16",
+    "conditionParam2": "0",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 2169820672
+  },
+  {
+    "iD": 29,
+    "IPLGFOJOCEE": "TheChasm",
+    "ENGJBEACIGD": "300_1",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "18",
+    "conditionParam2": "1",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 2509172112
+  },
+  {
+    "iD": 30,
+    "IPLGFOJOCEE": "TheChasm",
+    "ENGJBEACIGD": "300_2",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "18",
+    "conditionParam2": "1",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 3116572528
+  },
+  {
+    "iD": 31,
+    "IPLGFOJOCEE": "TheChasm",
+    "ENGJBEACIGD": "300_3",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "22",
+    "conditionParam2": "1",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 3076560392
+  },
+  {
+    "iD": 32,
+    "IPLGFOJOCEE": "TheChasm",
+    "ENGJBEACIGD": "300_4",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "20",
+    "conditionParam2": "1",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 1799092168
+  },
+  {
+    "iD": 33,
+    "IPLGFOJOCEE": "TheChasm",
+    "ENGJBEACIGD": "300_5",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "21",
+    "conditionParam2": "1",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 3618475032
+  },
+  {
+    "iD": 34,
+    "IPLGFOJOCEE": "TheChasm",
+    "ENGJBEACIGD": "300_6",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "23",
+    "conditionParam2": "1",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 2294488248
+  },
+  {
+    "iD": 35,
+    "IPLGFOJOCEE": "TheChasm",
+    "ENGJBEACIGD": "300_7",
+    "conditionType": "MapArea",
+    "GLHENDJAKFH": "22",
+    "conditionParam2": "1",
+    "actionType": "Close",
+    "MPGMKJJPGPE": 3774198240
+  },
+  {
+    "iD": 36,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2602,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7305437",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 2215081832
+  },
+  {
+    "iD": 37,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2604,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7305208",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 2439891408
+  },
+  {
+    "iD": 38,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2702,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7305327",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 1408406640
+  },
+  {
+    "iD": 39,
+    "type": "SubArea",
+    "ENGJBEACIGD": "",
+    "DLHPMOIOLFB": 2707,
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7308316",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 1562062200
+  },
+  {
+    "iD": 40,
+    "ENGJBEACIGD": "26_2",
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7305437",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 2557505760
+  },
+  {
+    "iD": 41,
+    "ENGJBEACIGD": "26_4",
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7305208",
+    "conditionParam2": "2",
+    "actionType": "SwitchName",
+    "MPGMKJJPGPE": 1729767272
+  },
+  {
+    "iD": 42,
+    "ENGJBEACIGD": "27_2",
+    "conditionType": "Quest",
+    "GLHENDJAKFH": "7305327",
+    "conditionParam2": "2",
+    "actionType": "Open",
+    "MPGMKJJPGPE": 2091511880
+  }
+]

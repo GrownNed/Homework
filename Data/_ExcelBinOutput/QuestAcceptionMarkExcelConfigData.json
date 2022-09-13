@@ -1,0 +1,136 @@
+[
+  {
+    "configId": 507101,
+    "PLNPGNLLBEM": 7104405,
+    "npcId": 2061,
+    "IBGDMFJKGIB": true,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      -767.5441,
+      205.0321,
+      1474.5544
+    ],
+    "PPEDGAAJNEC": true,
+    "descTextMapHash": 2699266440,
+    "PJBBGJJNGID": 3337136618
+  },
+  {
+    "configId": 201301,
+    "PLNPGNLLBEM": 7104201,
+    "npcId": 2616,
+    "IBGDMFJKGIB": true,
+    "sceneId": 6,
+    "GAEFMOOGGAD": [
+      1074.684,
+      961.4124,
+      684.0294
+    ],
+    "PPEDGAAJNEC": true,
+    "descTextMapHash": 2331052560,
+    "PJBBGJJNGID": 831653426
+  },
+  {
+    "configId": 7012301,
+    "PLNPGNLLBEM": 7012302,
+    "npcId": 1668,
+    "IBGDMFJKGIB": true,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      1584.329,
+      287.9617,
+      -1086.769
+    ],
+    "PPEDGAAJNEC": true,
+    "descTextMapHash": 818477736,
+    "PJBBGJJNGID": 3631395690
+  },
+  {
+    "configId": 7214301,
+    "PLNPGNLLBEM": 7214501,
+    "npcId": 3193,
+    "IBGDMFJKGIB": true,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      -3827.133,
+      171.2982,
+      -722.7203
+    ],
+    "PPEDGAAJNEC": true,
+    "descTextMapHash": 756584624,
+    "PJBBGJJNGID": 2103922858
+  },
+  {
+    "configId": 201501,
+    "PLNPGNLLBEM": 7302406,
+    "npcId": 4198,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      -858.251,
+      196.727,
+      2664.226
+    ],
+    "descTextMapHash": 124675480,
+    "PJBBGJJNGID": 4092063778
+  },
+  {
+    "configId": 7300001,
+    "PLNPGNLLBEM": 7300002,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      -1327.95,
+      174.422,
+      2447.711
+    ],
+    "descTextMapHash": 1402255320,
+    "PJBBGJJNGID": 429501098
+  },
+  {
+    "configId": 7301301,
+    "PLNPGNLLBEM": 7301302,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      -152.3892,
+      237.4841,
+      3461.361
+    ],
+    "descTextMapHash": 4065429304,
+    "PJBBGJJNGID": 1337282322
+  },
+  {
+    "configId": 7308101,
+    "PLNPGNLLBEM": 7308103,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      -192.0603,
+      227.2956,
+      3516.348
+    ],
+    "PPEDGAAJNEC": true,
+    "descTextMapHash": 2017129808,
+    "PJBBGJJNGID": 2040515994
+  },
+  {
+    "configId": 7301401,
+    "PLNPGNLLBEM": 7301402,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      -1238.213,
+      186.4055,
+      3464.143
+    ],
+    "descTextMapHash": 1280031512,
+    "PJBBGJJNGID": 285916690
+  },
+  {
+    "configId": 7306101,
+    "PLNPGNLLBEM": 7306133,
+    "sceneId": 3,
+    "GAEFMOOGGAD": [
+      -789.772,
+      161.406,
+      2284.245
+    ],
+    "descTextMapHash": 2131269080,
+    "PJBBGJJNGID": 869088730
+  }
+]

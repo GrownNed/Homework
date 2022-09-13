@@ -1,0 +1,788 @@
+[
+  {
+    "id": 1,
+    "bundleName": "苹果树（通用正式）",
+    "baseGadgetId": 70290002,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3001,
+        "offsetX": -1.071,
+        "offsetY": 1.618,
+        "offsetZ": 0.714,
+        "rotY": 265
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 3001,
+        "offsetX": 0.87,
+        "offsetY": 2.628,
+        "offsetZ": -1.011,
+        "rotY": 314
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 3001,
+        "offsetX": 0.043,
+        "offsetY": 2.908,
+        "offsetZ": 1.381
+      },
+      {}
+    ]
+  },
+  {
+    "id": 2,
+    "bundleName": "树莓树（通用正式）",
+    "baseGadgetId": 70290001,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3002,
+        "offsetX": 0.017,
+        "offsetY": 0.569,
+        "offsetZ": 0.401
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 3002,
+        "offsetX": -0.065,
+        "offsetY": 0.855,
+        "offsetZ": -0.396
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 3002,
+        "offsetX": 0.268,
+        "offsetY": 1.267,
+        "offsetZ": -0.103
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3,
+    "bundleName": "鸟窝（通用正式）",
+    "baseGadgetId": 70290003,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3003,
+        "offsetY": 0.103,
+        "offsetZ": -0.091
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 3003,
+        "offsetY": 0.103,
+        "offsetZ": 0.101
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 4,
+    "bundleName": "鸟窝树",
+    "baseGadgetId": 70290004,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3003,
+        "offsetX": -1.179,
+        "offsetY": 7.043,
+        "offsetZ": 0.494
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 3003,
+        "offsetX": -1.179,
+        "offsetY": 7.043,
+        "offsetZ": 0.754
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 5,
+    "bundleName": "冰雾花套组（通用正式）",
+    "baseGadgetId": 70290008,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3008
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 6,
+    "bundleName": "火焰花套组（通用正式）",
+    "baseGadgetId": 70290009,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3005
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 7,
+    "bundleName": "电气岩套组（通用正式）",
+    "baseGadgetId": 70290010,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3006
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 8,
+    "bundleName": "蒲公英套组（蒙德正式）",
+    "baseGadgetId": 70290011,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3009
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 9,
+    "bundleName": "复合烈焰花套组",
+    "baseGadgetId": 70900233,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 6667,
+        "offsetY": 1
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 6668,
+        "offsetY": 1
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 10,
+    "bundleName": "人参果树",
+    "baseGadgetId": 70290012,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3101,
+        "offsetX": -11.8,
+        "offsetY": 6.5,
+        "offsetZ": -2.03
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 11,
+    "bundleName": "绝云椒椒套组（璃月正式）",
+    "baseGadgetId": 70290013,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2016
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2016,
+        "offsetX": 0.7637,
+        "offsetY": 0.5487,
+        "offsetZ": -0.0038,
+        "rotX": 80.732,
+        "rotY": -162.231,
+        "rotZ": -76.523
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2016,
+        "offsetX": -0.2815,
+        "offsetY": -0.1273,
+        "offsetZ": -0.0214,
+        "rotX": -16.358,
+        "rotY": -29.3,
+        "rotZ": -18.428
+      },
+      {}
+    ]
+  },
+  {
+    "id": 12,
+    "bundleName": "莲蓬套组（璃月正式）",
+    "baseGadgetId": 70290014,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2015,
+        "offsetX": -0.27,
+        "offsetZ": -0.481
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 13,
+    "bundleName": "石珀套组（璃月正式）",
+    "baseGadgetId": 70290016,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3010
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 14,
+    "bundleName": "日落果树（通用正式）",
+    "baseGadgetId": 70290002,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3011,
+        "offsetX": -1.071,
+        "offsetY": 1.618,
+        "offsetZ": 0.714,
+        "rotY": 265
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 3011,
+        "offsetX": 0.87,
+        "offsetY": 2.628,
+        "offsetZ": -1.011,
+        "rotY": 314
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 3011,
+        "offsetX": 0.043,
+        "offsetY": 2.908,
+        "offsetZ": 1.381
+      },
+      {}
+    ]
+  },
+  {
+    "id": 15,
+    "bundleName": "落落莓树（蒙德正式）",
+    "baseGadgetId": 70540011,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2011
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2011,
+        "offsetX": -0.214,
+        "offsetY": -0.258,
+        "offsetZ": 0.059,
+        "rotX": -11.273,
+        "rotY": -18.244,
+        "rotZ": -19.24
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2011,
+        "offsetX": 0.0995,
+        "offsetY": -0.2709,
+        "offsetZ": 0.2137,
+        "rotX": -11.485,
+        "rotY": 87.775,
+        "rotZ": -19.98
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2011,
+        "offsetX": 0.0114,
+        "offsetY": -0.2727,
+        "offsetZ": -0.147,
+        "rotX": -15.514,
+        "rotY": 149.827,
+        "rotZ": 4.688
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bundleName": "霓裳花树（璃月正式）",
+    "baseGadgetId": 70290015,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2023
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2023,
+        "offsetX": 0.03565,
+        "offsetY": -0.010743,
+        "offsetZ": -0.073162,
+        "rotX": 16.17,
+        "rotY": -16.429,
+        "rotZ": 19.39
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 17,
+    "bundleName": "绝云椒椒套组（芭芭拉coop）",
+    "baseGadgetId": 70290013,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 9134
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 9134,
+        "offsetX": 0.7637,
+        "offsetY": 0.5487,
+        "offsetZ": -0.0038,
+        "rotX": 80.732,
+        "rotY": -162.231,
+        "rotZ": -76.523
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 9134,
+        "offsetX": -0.2815,
+        "offsetY": -0.1273,
+        "offsetZ": -0.0214,
+        "rotX": -16.358,
+        "rotY": -29.3,
+        "rotZ": -18.428
+      },
+      {}
+    ]
+  },
+  {
+    "id": 18,
+    "bundleName": "堇瓜树（通用正式）",
+    "baseGadgetId": 70290002,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2034,
+        "offsetX": -1.071,
+        "offsetY": 1.618,
+        "offsetZ": 0.714,
+        "rotY": 265
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2034,
+        "offsetX": 0.87,
+        "offsetY": 2.628,
+        "offsetZ": -1.011,
+        "rotY": 314
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2034,
+        "offsetX": 0.043,
+        "offsetY": 2.908,
+        "offsetZ": 1.381
+      },
+      {}
+    ]
+  },
+  {
+    "id": 19,
+    "bundleName": "珊瑚真珠套组（稻妻正式）",
+    "baseGadgetId": 70520032,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2039
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 20,
+    "bundleName": "天云草实套组（稻妻正式）",
+    "baseGadgetId": 70520036,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2042,
+        "offsetX": 0.078,
+        "offsetY": 0.7357,
+        "rotZ": -5.801
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2042,
+        "offsetX": -0.057,
+        "offsetY": 0.535,
+        "offsetZ": 0.149,
+        "rotX": 21.666,
+        "rotY": -31.428,
+        "rotZ": 5.608
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 21,
+    "bundleName": "老石（任务用）",
+    "baseGadgetId": 70290317,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 9190
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 22,
+    "bundleName": "月莲套组（须弥正式）",
+    "baseGadgetId": 70540044,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2048
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 23,
+    "bundleName": "香辛果套组（须弥正式）",
+    "baseGadgetId": 70540037,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2049,
+        "offsetX": 0.3864,
+        "offsetY": 0.3754,
+        "offsetZ": -0.1787
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2049,
+        "offsetX": -0.169,
+        "offsetY": 0.7211,
+        "offsetZ": 0.3138,
+        "rotY": -89.978
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 24,
+    "bundleName": "劫波莲套组（须弥正式）",
+    "baseGadgetId": 70540039,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2050,
+        "offsetX": -0.2273,
+        "offsetY": -0.4921,
+        "offsetZ": 0.2501,
+        "rotX": 48.676,
+        "rotY": -74.513,
+        "rotZ": -54.626
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 25,
+    "bundleName": "墩墩桃套组（须弥正式）",
+    "baseGadgetId": 70540041,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 2051,
+        "offsetX": 0.2678,
+        "offsetY": 0.982,
+        "offsetZ": 0.2287,
+        "rotX": -13.163,
+        "rotY": 4.866,
+        "rotZ": 14.014
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2051,
+        "offsetX": 0.0803,
+        "offsetY": 0.8715,
+        "offsetZ": 0.0195,
+        "rotX": -15.963,
+        "rotY": 7.209,
+        "rotZ": -10.879
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2051,
+        "offsetX": 0.299,
+        "offsetY": 0.6231,
+        "offsetZ": -0.1496,
+        "rotX": 10.767,
+        "rotY": 8.154,
+        "rotZ": 14.727
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 2051,
+        "offsetX": -0.2813,
+        "offsetY": 0.5263,
+        "offsetZ": -0.065,
+        "rotX": -0.462,
+        "rotY": 0.302,
+        "rotZ": -18
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "bundleName": "钵参花套组（任务用）",
+    "baseGadgetId": 70310228,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 9301
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 27,
+    "bundleName": "沙漠火焰花套组（须弥沙漠）",
+    "baseGadgetId": 70330450,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 3012
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 150001,
+    "bundleName": "霓裳花树（家园专用）",
+    "baseGadgetId": 77305001,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 7001
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7001,
+        "offsetX": 0.03565,
+        "offsetY": -0.010743,
+        "offsetZ": -0.073162,
+        "rotX": 16.17,
+        "rotY": -16.429,
+        "rotZ": 19.39
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 150002,
+    "bundleName": "落落莓树（家园专用）",
+    "baseGadgetId": 77305002,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 7008
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7008,
+        "offsetX": -0.214,
+        "offsetY": -0.258,
+        "offsetZ": 0.059,
+        "rotX": -11.273,
+        "rotY": -18.244,
+        "rotZ": -19.24
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7008,
+        "offsetX": 0.0995,
+        "offsetY": -0.2709,
+        "offsetZ": 0.2137,
+        "rotX": -11.485,
+        "rotY": 87.775,
+        "rotZ": -19.98
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7008,
+        "offsetX": 0.0114,
+        "offsetY": -0.2727,
+        "offsetZ": -0.147,
+        "rotX": -15.514,
+        "rotY": 149.827,
+        "rotZ": 4.688
+      }
+    ]
+  },
+  {
+    "id": 150003,
+    "bundleName": "绝云椒椒套组（家园专用）",
+    "baseGadgetId": 77305003,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 7010
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7010,
+        "offsetX": 0.7637,
+        "offsetY": 0.5487,
+        "offsetZ": -0.0038,
+        "rotX": 80.732,
+        "rotY": -162.231,
+        "rotZ": -76.523
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7010,
+        "offsetX": -0.2815,
+        "offsetY": -0.1273,
+        "offsetZ": -0.0214,
+        "rotX": -16.358,
+        "rotY": -29.3,
+        "rotZ": -18.428
+      },
+      {}
+    ]
+  },
+  {
+    "id": 150004,
+    "bundleName": "莲蓬套组（家园专用）",
+    "baseGadgetId": 77305004,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 7018,
+        "offsetX": -0.27,
+        "offsetZ": -0.481
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 150005,
+    "bundleName": "香辛果套组（家园专用）",
+    "baseGadgetId": 77305005,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 7031,
+        "offsetX": 0.3864,
+        "offsetY": 0.3754,
+        "offsetZ": -0.1787
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7031,
+        "offsetX": -0.169,
+        "offsetY": 0.7211,
+        "offsetZ": 0.3138,
+        "rotY": -89.978
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 150006,
+    "bundleName": "墩墩桃套组（家园专用）",
+    "baseGadgetId": 77305006,
+    "points": [
+      {
+        "pointId": 70500000,
+        "pointType": 7032,
+        "offsetX": 0.2678,
+        "offsetY": 0.982,
+        "offsetZ": 0.2287,
+        "rotX": -13.163,
+        "rotY": 4.866,
+        "rotZ": 14.014
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7032,
+        "offsetX": 0.0803,
+        "offsetY": 0.8715,
+        "offsetZ": 0.0195,
+        "rotX": -15.963,
+        "rotY": 7.209,
+        "rotZ": -10.879
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7032,
+        "offsetX": 0.299,
+        "offsetY": 0.6231,
+        "offsetZ": -0.1496,
+        "rotX": 10.767,
+        "rotY": 8.154,
+        "rotZ": 14.727
+      },
+      {
+        "pointId": 70500000,
+        "pointType": 7032,
+        "offsetX": -0.2813,
+        "offsetY": 0.5263,
+        "offsetZ": -0.065,
+        "rotX": -0.462,
+        "rotY": 0.302,
+        "rotZ": -18
+      }
+    ]
+  }
+]

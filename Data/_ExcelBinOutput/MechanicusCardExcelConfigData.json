@@ -1,0 +1,897 @@
+[
+  {
+    "iD": 1,
+    "costPoints": 160,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 1,
+    "descTextMapHash": 1993009826,
+    "descParamList": [
+      "75",
+      "",
+      ""
+    ],
+    "gearId": 4
+  },
+  {
+    "iD": 2,
+    "costPoints": 160,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 2,
+    "descTextMapHash": 1773567746,
+    "descParamList": [
+      "75",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 3,
+    "costPoints": 160,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 3,
+    "descTextMapHash": 3511714498,
+    "descParamList": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 4,
+    "costPoints": 160,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 4,
+    "descTextMapHash": 3418387898,
+    "descParamList": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 5,
+    "costPoints": 160,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 5,
+    "descTextMapHash": 1499464098,
+    "descParamList": [
+      "75",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 6,
+    "costPoints": 160,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 6,
+    "descTextMapHash": 1985548610,
+    "descParamList": [
+      "50",
+      "",
+      ""
+    ],
+    "gearId": 6
+  },
+  {
+    "iD": 7,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 7,
+    "descTextMapHash": 1022811002,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ],
+    "gearId": 4
+  },
+  {
+    "iD": 8,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 8,
+    "descTextMapHash": 659660002,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 9,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 9,
+    "descTextMapHash": 1259738050,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 10,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 10,
+    "descTextMapHash": 3786131538,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 11,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 11,
+    "descTextMapHash": 2545748522,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 12,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 12,
+    "descTextMapHash": 2346978842,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ],
+    "gearId": 6
+  },
+  {
+    "iD": 13,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 13,
+    "descTextMapHash": 970852426,
+    "descParamList": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 14,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 14,
+    "descTextMapHash": 553873378,
+    "descParamList": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 15,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 15,
+    "descTextMapHash": 1800720898,
+    "descParamList": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 17,
+    "costPoints": 80,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 17,
+    "descTextMapHash": 2721355946,
+    "descParamList": [
+      "100",
+      "",
+      ""
+    ],
+    "gearId": 4
+  },
+  {
+    "iD": 18,
+    "costPoints": 80,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 18,
+    "descTextMapHash": 1706979410,
+    "descParamList": [
+      "100",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 19,
+    "costPoints": 80,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 19,
+    "descTextMapHash": 3076971810,
+    "descParamList": [
+      "100",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 20,
+    "costPoints": 80,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 20,
+    "descTextMapHash": 1884326458,
+    "descParamList": [
+      "100",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 21,
+    "costPoints": 80,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 21,
+    "descTextMapHash": 1218046154,
+    "descParamList": [
+      "100",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 22,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 22,
+    "descTextMapHash": 374536714,
+    "descParamList": [
+      "20",
+      "",
+      ""
+    ],
+    "gearId": 4
+  },
+  {
+    "iD": 23,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 23,
+    "descTextMapHash": 1356015826,
+    "descParamList": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 24,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 24,
+    "descTextMapHash": 2641762050,
+    "descParamList": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 25,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 25,
+    "descTextMapHash": 3542362034,
+    "descParamList": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 26,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 26,
+    "descTextMapHash": 466229162,
+    "descParamList": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 27,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 27,
+    "descTextMapHash": 1250317346,
+    "descParamList": [
+      "20",
+      "",
+      ""
+    ],
+    "gearId": 6
+  },
+  {
+    "iD": 28,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 28,
+    "descTextMapHash": 2101323858,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ],
+    "gearId": 7
+  },
+  {
+    "iD": 29,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 29,
+    "descTextMapHash": 3614071570,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ],
+    "gearId": 8
+  },
+  {
+    "iD": 30,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 30,
+    "descTextMapHash": 2148851746,
+    "descParamList": [
+      "60",
+      "",
+      ""
+    ],
+    "gearId": 9
+  },
+  {
+    "iD": 31,
+    "costPoints": 40,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 31,
+    "descTextMapHash": 3378474098,
+    "descParamList": [
+      "20",
+      "",
+      ""
+    ],
+    "gearId": 10
+  },
+  {
+    "iD": 32,
+    "costPoints": 75,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 32,
+    "descTextMapHash": 2668721922,
+    "descParamList": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 33,
+    "costPoints": 75,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 33,
+    "descTextMapHash": 1851199410,
+    "descParamList": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 34,
+    "costPoints": 75,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 34,
+    "descTextMapHash": 2096829242,
+    "descParamList": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 35,
+    "costPoints": 300,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 35,
+    "descTextMapHash": 4109518506,
+    "descParamList": [
+      "80",
+      "3",
+      "400"
+    ],
+    "gearId": 4
+  },
+  {
+    "iD": 36,
+    "costPoints": 300,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 36,
+    "descTextMapHash": 2844980186,
+    "descParamList": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 37,
+    "costPoints": 300,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 37,
+    "descTextMapHash": 1690364018,
+    "descParamList": [
+      "50",
+      "30",
+      "5"
+    ]
+  },
+  {
+    "iD": 38,
+    "costPoints": 300,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 38,
+    "descTextMapHash": 2118470002,
+    "descParamList": [
+      "2",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 39,
+    "costPoints": 300,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 39,
+    "descTextMapHash": 3953266738,
+    "descParamList": [
+      "1",
+      "150",
+      ""
+    ]
+  },
+  {
+    "iD": 40,
+    "costPoints": 300,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 40,
+    "descTextMapHash": 1062144562,
+    "descParamList": [
+      "300",
+      "",
+      ""
+    ],
+    "gearId": 6
+  },
+  {
+    "iD": 41,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 41,
+    "descTextMapHash": 1190276362,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ],
+    "gearId": 7
+  },
+  {
+    "iD": 42,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 42,
+    "descTextMapHash": 347479218,
+    "descParamList": [
+      "150",
+      "",
+      ""
+    ],
+    "gearId": 8
+  },
+  {
+    "iD": 43,
+    "costPoints": 250,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 43,
+    "descTextMapHash": 2856408610,
+    "descParamList": [
+      "",
+      "",
+      ""
+    ],
+    "gearId": 9
+  },
+  {
+    "iD": 44,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 44,
+    "descTextMapHash": 2596643354,
+    "descParamList": [
+      "250",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 45,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 45,
+    "descTextMapHash": 1664177098,
+    "descParamList": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 46,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 46,
+    "descTextMapHash": 2678181738,
+    "descParamList": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 47,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_BUFF",
+    "effectId": 47,
+    "descTextMapHash": 6222034,
+    "descParamList": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 48,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 48,
+    "descTextMapHash": 4223764770,
+    "descParamList": [
+      "150",
+      "",
+      ""
+    ],
+    "gearId": 4
+  },
+  {
+    "iD": 49,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 49,
+    "descTextMapHash": 2022175250,
+    "descParamList": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 50,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 50,
+    "descTextMapHash": 1152271970,
+    "descParamList": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 51,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 51,
+    "descTextMapHash": 3320026466,
+    "descParamList": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 52,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 52,
+    "descTextMapHash": 2081707474,
+    "descParamList": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 53,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 53,
+    "descTextMapHash": 3388259138,
+    "descParamList": [
+      "150",
+      "",
+      ""
+    ],
+    "gearId": 6
+  },
+  {
+    "iD": 54,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 54,
+    "descTextMapHash": 572859634,
+    "descParamList": [
+      "25",
+      "",
+      ""
+    ],
+    "gearId": 4
+  },
+  {
+    "iD": 55,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 55,
+    "descTextMapHash": 3040475698,
+    "descParamList": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 56,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 56,
+    "descTextMapHash": 2452089538,
+    "descParamList": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 57,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 57,
+    "descTextMapHash": 1289693418,
+    "descParamList": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 58,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 58,
+    "descTextMapHash": 2662930346,
+    "descParamList": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 59,
+    "costPoints": 120,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 59,
+    "descTextMapHash": 3843123450,
+    "descParamList": [
+      "25",
+      "",
+      ""
+    ],
+    "gearId": 6
+  },
+  {
+    "iD": 60,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 60,
+    "descTextMapHash": 3127579946,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 61,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 61,
+    "descTextMapHash": 1712127850,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 62,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 62,
+    "descTextMapHash": 2183261170,
+    "descParamList": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 64,
+    "costPoints": 200,
+    "cardType": "MECHANICUS_CARD_CURSE",
+    "effectId": 64,
+    "descTextMapHash": 1091132730,
+    "descParamList": [
+      "60",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 65,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 65,
+    "lastRound": 1,
+    "descTextMapHash": 23770098,
+    "descParamList": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 66,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 66,
+    "lastRound": 1,
+    "descTextMapHash": 1070093658,
+    "descParamList": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 67,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 67,
+    "lastRound": 1,
+    "descTextMapHash": 868104938,
+    "descParamList": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 68,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 68,
+    "lastRound": 1,
+    "descTextMapHash": 1061995618,
+    "descParamList": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 69,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 69,
+    "lastRound": 1,
+    "descTextMapHash": 852292090,
+    "descParamList": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 70,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 70,
+    "lastRound": 1,
+    "descTextMapHash": 3013168634,
+    "descParamList": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 71,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 71,
+    "lastRound": 1,
+    "descTextMapHash": 374181434,
+    "descParamList": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 72,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 72,
+    "lastRound": 1,
+    "descTextMapHash": 2974202874,
+    "descParamList": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 73,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 73,
+    "lastRound": 1,
+    "descTextMapHash": 2820255778,
+    "descParamList": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 74,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 74,
+    "lastRound": 1,
+    "descTextMapHash": 3443458002,
+    "descParamList": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "iD": 75,
+    "cardType": "MECHANICUS_CARD_CHALLENGE",
+    "effectId": 75,
+    "lastRound": 1,
+    "descTextMapHash": 2629689018,
+    "descParamList": [
+      "30",
+      "",
+      ""
+    ]
+  }
+]

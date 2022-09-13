@@ -1,0 +1,2819 @@
+[
+  {
+    "id": 20011201,
+    "type": "CODEX_MONSTER",
+    "describeId": 112,
+    "sortOrder": 1,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3632663572,
+    "modelPath": "Codex_Monster_Slime_Mid_Fire"
+  },
+  {
+    "id": 20011301,
+    "type": "CODEX_MONSTER",
+    "describeId": 113,
+    "sortOrder": 2,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 801697876,
+    "modelPath": "Codex_Monster_Slime_Large_Fire"
+  },
+  {
+    "id": 20011001,
+    "type": "CODEX_MONSTER",
+    "describeId": 110,
+    "sortOrder": 3,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2618661588,
+    "modelPath": "Codex_Monster_Slime_Mid_Water"
+  },
+  {
+    "id": 20011101,
+    "type": "CODEX_MONSTER",
+    "describeId": 111,
+    "sortOrder": 4,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3077605068,
+    "modelPath": "Codex_Monster_Slime_Large_Water"
+  },
+  {
+    "id": 20010301,
+    "type": "CODEX_MONSTER",
+    "describeId": 103,
+    "sortOrder": 5,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 825096204,
+    "modelPath": "Codex_Monster_Slime_Mid_Wind"
+  },
+  {
+    "id": 20010401,
+    "type": "CODEX_MONSTER",
+    "describeId": 104,
+    "sortOrder": 6,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1126409596,
+    "modelPath": "Codex_Monster_Slime_Large_Wind"
+  },
+  {
+    "id": 20010501,
+    "type": "CODEX_MONSTER",
+    "describeId": 105,
+    "sortOrder": 7,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2404243964,
+    "modelPath": "Codex_Monster_Slime_Mid_Electric"
+  },
+  {
+    "id": 20010601,
+    "type": "CODEX_MONSTER",
+    "describeId": 106,
+    "sortOrder": 8,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1654738036,
+    "modelPath": "Codex_Monster_Slime_Large_Electric"
+  },
+  {
+    "id": 20010701,
+    "type": "CODEX_MONSTER",
+    "describeId": 107,
+    "sortOrder": 9,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4250343500,
+    "modelPath": "Codex_Monster_Slime_Large_Electric_Positive"
+  },
+  {
+    "id": 20010101,
+    "type": "CODEX_MONSTER",
+    "describeId": 101,
+    "sortOrder": 10,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 783763292,
+    "modelPath": "Codex_Monster_Slime_Mid_Grass"
+  },
+  {
+    "id": 20010201,
+    "type": "CODEX_MONSTER",
+    "describeId": 102,
+    "sortOrder": 11,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2944052036,
+    "modelPath": "Codex_Monster_Slime_Large_Grass"
+  },
+  {
+    "id": 20010801,
+    "type": "CODEX_MONSTER",
+    "describeId": 108,
+    "sortOrder": 12,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1711786164,
+    "modelPath": "Codex_Monster_Slime_Mid_Ice"
+  },
+  {
+    "id": 20010901,
+    "type": "CODEX_MONSTER",
+    "describeId": 109,
+    "sortOrder": 13,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3321518100,
+    "modelPath": "Codex_Monster_Slime_Large_Ice",
+    "pushTipsCodexId": 60500001
+  },
+  {
+    "id": 20011401,
+    "type": "CODEX_MONSTER",
+    "describeId": 114,
+    "sortOrder": 14,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1145750372,
+    "modelPath": "Codex_Monster_Slime_Mid_Rock"
+  },
+  {
+    "id": 20011501,
+    "type": "CODEX_MONSTER",
+    "describeId": 115,
+    "sortOrder": 15,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4264606468,
+    "modelPath": "Codex_Monster_Slime_Large_Rock",
+    "pushTipsCodexId": 60500002
+  },
+  {
+    "id": 20020101,
+    "type": "CODEX_MONSTER",
+    "describeId": 201,
+    "sortOrder": 23,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3544887188,
+    "modelPath": "Codex_Monster_Elemental_Wind",
+    "pushTipsCodexId": 60500003
+  },
+  {
+    "id": 20040601,
+    "type": "CODEX_MONSTER",
+    "describeId": 406,
+    "sortOrder": 31,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2556066396,
+    "modelPath": "Codex_Monster_Effigy_Fire",
+    "pushTipsCodexId": 60500035
+  },
+  {
+    "id": 20040401,
+    "type": "CODEX_MONSTER",
+    "describeId": 404,
+    "sortOrder": 32,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1273779404,
+    "modelPath": "Codex_Monster_Effigy_Water",
+    "pushTipsCodexId": 60500037
+  },
+  {
+    "id": 20040201,
+    "type": "CODEX_MONSTER",
+    "describeId": 402,
+    "sortOrder": 33,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 9824516,
+    "modelPath": "Codex_Monster_Effigy_Wind",
+    "pushTipsCodexId": 60500014
+  },
+  {
+    "id": 20040101,
+    "type": "CODEX_MONSTER",
+    "describeId": 401,
+    "sortOrder": 34,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3100814612,
+    "modelPath": "Codex_Monster_Effigy_Electric",
+    "pushTipsCodexId": 60500010
+  },
+  {
+    "id": 20040501,
+    "type": "CODEX_MONSTER",
+    "describeId": 405,
+    "sortOrder": 36,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1663025892,
+    "modelPath": "Codex_Monster_Effigy_Ice",
+    "pushTipsCodexId": 60500033
+  },
+  {
+    "id": 20040301,
+    "type": "CODEX_MONSTER",
+    "describeId": 403,
+    "sortOrder": 37,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3179614468,
+    "modelPath": "Codex_Monster_Effigy_Rock",
+    "pushTipsCodexId": 60500015
+  },
+  {
+    "id": 20050101,
+    "type": "CODEX_MONSTER",
+    "describeId": 501,
+    "sortOrder": 42,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1798076044,
+    "modelPath": "Codex_Monster_Fairfolk_Oceanid",
+    "pushTipsCodexId": 60500026
+  },
+  {
+    "id": 20070101,
+    "type": "CODEX_MONSTER",
+    "describeId": 701,
+    "sortOrder": 44,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 497788,
+    "modelPath": "Codex_Monster_Fairfolk_Raijin",
+    "pushTipsCodexId": 60500038
+  },
+  {
+    "id": 20060601,
+    "type": "CODEX_MONSTER",
+    "describeId": 606,
+    "sortOrder": 51,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 678205580,
+    "modelPath": "Codex_Monster_Sylph_Fire_01",
+    "pushTipsCodexId": 60500049
+  },
+  {
+    "id": 20060101,
+    "type": "CODEX_MONSTER",
+    "describeId": 601,
+    "sortOrder": 52,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1220642028,
+    "modelPath": "Codex_Monster_Sylph_Water_01",
+    "pushTipsCodexId": 60500039
+  },
+  {
+    "id": 20060301,
+    "type": "CODEX_MONSTER",
+    "describeId": 603,
+    "sortOrder": 53,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4078973900,
+    "modelPath": "Codex_Monster_Sylph_Wind_01",
+    "pushTipsCodexId": 60500041
+  },
+  {
+    "id": 20060501,
+    "type": "CODEX_MONSTER",
+    "describeId": 605,
+    "sortOrder": 54,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3971334884,
+    "modelPath": "Codex_Monster_Sylph_Electric_01",
+    "pushTipsCodexId": 60500048
+  },
+  {
+    "id": 20060701,
+    "type": "CODEX_MONSTER",
+    "describeId": 607,
+    "sortOrder": 55,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3054306004,
+    "modelPath": "Codex_Monster_Sylph_Grass_01",
+    "pushTipsCodexId": 60500059
+  },
+  {
+    "id": 20060401,
+    "type": "CODEX_MONSTER",
+    "describeId": 604,
+    "sortOrder": 56,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 563268476,
+    "modelPath": "Codex_Monster_Sylph_Ice_01",
+    "pushTipsCodexId": 60500047
+  },
+  {
+    "id": 20060201,
+    "type": "CODEX_MONSTER",
+    "describeId": 602,
+    "sortOrder": 57,
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2604468108,
+    "modelPath": "Codex_Monster_Sylph_Rock_01",
+    "pushTipsCodexId": 60500040
+  },
+  {
+    "id": 21010101,
+    "type": "CODEX_MONSTER",
+    "describeId": 10101,
+    "sortOrder": 1001,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 531206316,
+    "modelPath": "Codex_Monster_Hili_None_NoWeapon"
+  },
+  {
+    "id": 21010201,
+    "type": "CODEX_MONSTER",
+    "describeId": 10102,
+    "sortOrder": 1002,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 610916844,
+    "modelPath": "Codex_Monster_Hili_None_Club"
+  },
+  {
+    "id": 21010701,
+    "type": "CODEX_MONSTER",
+    "describeId": 10107,
+    "sortOrder": 1003,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 253675740,
+    "modelPath": "Codex_Monster_Hili_Fire_Rush"
+  },
+  {
+    "id": 21010301,
+    "type": "CODEX_MONSTER",
+    "describeId": 10103,
+    "sortOrder": 1004,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1861784820,
+    "modelPath": "Codex_Monster_Hili_None_ShieldGrass",
+    "pushTipsCodexId": 60500004
+  },
+  {
+    "id": 21011401,
+    "type": "CODEX_MONSTER",
+    "describeId": 10114,
+    "sortOrder": 1005,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3714619124,
+    "modelPath": "Codex_Monster_Hili_None_ShieldIce"
+  },
+  {
+    "id": 21011201,
+    "type": "CODEX_MONSTER",
+    "describeId": 10112,
+    "sortOrder": 1006,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 529470220,
+    "modelPath": "Codex_Monster_Hili_None_ShieldRock",
+    "pushTipsCodexId": 60500012
+  },
+  {
+    "id": 21010401,
+    "type": "CODEX_MONSTER",
+    "describeId": 10104,
+    "sortOrder": 1007,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1216892164,
+    "modelPath": "Codex_Monster_Hili_None_Crossbow"
+  },
+  {
+    "id": 21010501,
+    "type": "CODEX_MONSTER",
+    "describeId": 10105,
+    "sortOrder": 1008,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1168944596,
+    "modelPath": "Codex_Monster_Hili_Fire_Crossbow"
+  },
+  {
+    "id": 21011001,
+    "type": "CODEX_MONSTER",
+    "describeId": 10110,
+    "sortOrder": 1009,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3926292036,
+    "modelPath": "Codex_Monster_Hili_Electric_Crossbow"
+  },
+  {
+    "id": 21010901,
+    "type": "CODEX_MONSTER",
+    "describeId": 10109,
+    "sortOrder": 1010,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 202794476,
+    "modelPath": "Codex_Monster_Hili_Ice_Crossbow"
+  },
+  {
+    "id": 21010601,
+    "type": "CODEX_MONSTER",
+    "describeId": 10106,
+    "sortOrder": 1011,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2235915676,
+    "modelPath": "Codex_Monster_Hili_Fire_Range"
+  },
+  {
+    "id": 21011601,
+    "type": "CODEX_MONSTER",
+    "describeId": 10116,
+    "sortOrder": 1014,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1287404276,
+    "modelPath": "Codex_Monster_Hili_Electric_Range"
+  },
+  {
+    "id": 21011301,
+    "type": "CODEX_MONSTER",
+    "describeId": 10113,
+    "sortOrder": 1016,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2487554468,
+    "modelPath": "Codex_Monster_Hili_Ice_Range"
+  },
+  {
+    "id": 21011501,
+    "type": "CODEX_MONSTER",
+    "describeId": 10115,
+    "sortOrder": 1091,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 894137756,
+    "modelPath": "Codex_Monster_Hili_None_NoWeapon_Wei"
+  },
+  {
+    "id": 21020101,
+    "type": "CODEX_MONSTER",
+    "describeId": 10201,
+    "sortOrder": 1101,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2240323180,
+    "modelPath": "Codex_Monster_Brute_None_Shield_Grass",
+    "pushTipsCodexId": 60500005
+  },
+  {
+    "id": 21020301,
+    "type": "CODEX_MONSTER",
+    "describeId": 10203,
+    "sortOrder": 1102,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 474576628,
+    "modelPath": "Codex_Monster_Brute_None_Shield_Rock",
+    "pushTipsCodexId": 60500013
+  },
+  {
+    "id": 21020601,
+    "type": "CODEX_MONSTER",
+    "describeId": 10206,
+    "sortOrder": 1103,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 797471636,
+    "modelPath": "Codex_Monster_Brute_None_Shield_Ice",
+    "pushTipsCodexId": 60500027
+  },
+  {
+    "id": 21020201,
+    "type": "CODEX_MONSTER",
+    "describeId": 10202,
+    "sortOrder": 1104,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2800506452,
+    "modelPath": "Codex_Monster_Brute_None_Axe_Fire"
+  },
+  {
+    "id": 21020701,
+    "type": "CODEX_MONSTER",
+    "describeId": 10207,
+    "sortOrder": 1105,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4269404884,
+    "modelPath": "Codex_Monster_Brute_None_Axe_Electric"
+  },
+  {
+    "id": 21020801,
+    "type": "CODEX_MONSTER",
+    "describeId": 10208,
+    "sortOrder": 1114,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 373933988,
+    "modelPath": "Codex_Monster_Brute_Electric"
+  },
+  {
+    "id": 21020401,
+    "type": "CODEX_MONSTER",
+    "describeId": 10204,
+    "sortOrder": 1116,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1602972604,
+    "modelPath": "Codex_Monster_Brute_Ice"
+  },
+  {
+    "id": 21020501,
+    "type": "CODEX_MONSTER",
+    "describeId": 10205,
+    "sortOrder": 1117,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2679728316,
+    "modelPath": "Codex_Monster_Brute_Rock"
+  },
+  {
+    "id": 21030101,
+    "type": "CODEX_MONSTER",
+    "describeId": 10301,
+    "sortOrder": 1202,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2229588756,
+    "modelPath": "Codex_Monster_Shaman_Water"
+  },
+  {
+    "id": 21030301,
+    "type": "CODEX_MONSTER",
+    "describeId": 10303,
+    "sortOrder": 1203,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2150696492,
+    "modelPath": "Codex_Monster_Shaman_Wind"
+  },
+  {
+    "id": 21030601,
+    "type": "CODEX_MONSTER",
+    "describeId": 10306,
+    "sortOrder": 1204,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 340331220,
+    "modelPath": "Codex_Monster_Shaman_Electric"
+  },
+  {
+    "id": 21030201,
+    "type": "CODEX_MONSTER",
+    "describeId": 10302,
+    "sortOrder": 1205,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2256283548,
+    "modelPath": "Codex_Monster_Shaman_Grass"
+  },
+  {
+    "id": 21030501,
+    "type": "CODEX_MONSTER",
+    "describeId": 10305,
+    "sortOrder": 1206,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 899970532,
+    "modelPath": "Codex_Monster_Shaman_Ice"
+  },
+  {
+    "id": 21030401,
+    "type": "CODEX_MONSTER",
+    "describeId": 10304,
+    "sortOrder": 1207,
+    "subType": "CODEX_SUBTYPE_HILICHURL",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1539792548,
+    "modelPath": "Codex_Monster_Shaman_Rock",
+    "pushTipsCodexId": 60500016
+  },
+  {
+    "id": 22010101,
+    "type": "CODEX_MONSTER",
+    "describeId": 20101,
+    "sortOrder": 2001,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1622409324,
+    "modelPath": "Codex_Monster_Abyss_Fire",
+    "pushTipsCodexId": 60500006
+  },
+  {
+    "id": 22010301,
+    "type": "CODEX_MONSTER",
+    "describeId": 20103,
+    "sortOrder": 2002,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 755122988,
+    "modelPath": "Codex_Monster_Abyss_Water",
+    "pushTipsCodexId": 60500008
+  },
+  {
+    "id": 22010401,
+    "type": "CODEX_MONSTER",
+    "describeId": 20104,
+    "sortOrder": 2004,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2549338316,
+    "modelPath": "Codex_Monster_Abyss_Electric"
+  },
+  {
+    "id": 22010201,
+    "type": "CODEX_MONSTER",
+    "describeId": 20102,
+    "sortOrder": 2006,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2749584508,
+    "modelPath": "Codex_Monster_Abyss_Ice",
+    "pushTipsCodexId": 60500007
+  },
+  {
+    "id": 22020101,
+    "type": "CODEX_MONSTER",
+    "describeId": 20201,
+    "sortOrder": 2010,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2225135964,
+    "modelPath": "Codex_Monster_Invoker_Herald_Water",
+    "pushTipsCodexId": 60500031
+  },
+  {
+    "id": 22030201,
+    "type": "CODEX_MONSTER",
+    "describeId": 20302,
+    "sortOrder": 2021,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1696604268,
+    "modelPath": "Codex_Monster_Invoker_Deacon_Fire",
+    "pushTipsCodexId": 60500053
+  },
+  {
+    "id": 22030101,
+    "type": "CODEX_MONSTER",
+    "describeId": 20301,
+    "sortOrder": 2024,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2378326100,
+    "modelPath": "Codex_Monster_Invoker_Deacon_Electric",
+    "pushTipsCodexId": 60500032
+  },
+  {
+    "id": 22040101,
+    "type": "CODEX_MONSTER",
+    "describeId": 20401,
+    "sortOrder": 2030,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 584463908,
+    "modelPath": "Codex_Monster_Hound_Kanis_Rock",
+    "pushTipsCodexId": 60500042
+  },
+  {
+    "id": 22040201,
+    "type": "CODEX_MONSTER",
+    "describeId": 20402,
+    "sortOrder": 2031,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 456857268,
+    "modelPath": "Codex_Monster_Hound_Kanis_Electric",
+    "pushTipsCodexId": 60500043
+  },
+  {
+    "id": 22050101,
+    "type": "CODEX_MONSTER",
+    "describeId": 20501,
+    "sortOrder": 2040,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3406570708,
+    "modelPath": "Codex_Monster_Hound_Riftstalker_Rock",
+    "pushTipsCodexId": 60500044
+  },
+  {
+    "id": 22050201,
+    "type": "CODEX_MONSTER",
+    "describeId": 20502,
+    "sortOrder": 2041,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2905330572,
+    "modelPath": "Codex_Monster_Hound_Riftstalker_Electric",
+    "pushTipsCodexId": 60500045
+  },
+  {
+    "id": 22060101,
+    "type": "CODEX_MONSTER",
+    "describeId": 20601,
+    "sortOrder": 2051,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 292922628,
+    "modelPath": "Codex_Monster_Hound_Planelurker",
+    "pushTipsCodexId": 60500046
+  },
+  {
+    "id": 22070101,
+    "type": "CODEX_MONSTER",
+    "describeId": 20701,
+    "sortOrder": 2061,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 753817340,
+    "modelPath": "Codex_Monster_ForlornVessel_Strong_Warbanner_Fire",
+    "pushTipsCodexId": 60500054
+  },
+  {
+    "id": 22070201,
+    "type": "CODEX_MONSTER",
+    "describeId": 20702,
+    "sortOrder": 2062,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1838259796,
+    "modelPath": "Codex_Monster_ForlornVessel_Strong_Lance_Water",
+    "pushTipsCodexId": 60500055
+  },
+  {
+    "id": 22070301,
+    "type": "CODEX_MONSTER",
+    "describeId": 20703,
+    "sortOrder": 2063,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2735999460,
+    "modelPath": "Codex_Monster_ForlornVessel_Strong_Chargebow_Ice",
+    "pushTipsCodexId": 60500056
+  },
+  {
+    "id": 22080101,
+    "type": "CODEX_MONSTER",
+    "describeId": 20801,
+    "sortOrder": 2071,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1429988612,
+    "modelPath": "Codex_Monster_ForlornVessel_Darkwraith_Strong_Wind",
+    "pushTipsCodexId": 60500058
+  },
+  {
+    "id": 23010601,
+    "type": "CODEX_MONSTER",
+    "describeId": 30106,
+    "sortOrder": 3001,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3262031948,
+    "modelPath": "Codex_Monster_Skirmisher_Male_Standard_Rifle_Fire",
+    "pushTipsCodexId": 60500022
+  },
+  {
+    "id": 23010201,
+    "type": "CODEX_MONSTER",
+    "describeId": 30102,
+    "sortOrder": 3002,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2059668660,
+    "modelPath": "Codex_Monster_Skirmisher_Male_Fat_SprayGun_Water",
+    "pushTipsCodexId": 60500018
+  },
+  {
+    "id": 23010501,
+    "type": "CODEX_MONSTER",
+    "describeId": 30105,
+    "sortOrder": 3003,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3959773316,
+    "modelPath": "Codex_Monster_Skirmisher_Male_Strong_Gloves_Wind",
+    "pushTipsCodexId": 60500021
+  },
+  {
+    "id": 23010301,
+    "type": "CODEX_MONSTER",
+    "describeId": 30103,
+    "sortOrder": 3004,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 81886676,
+    "modelPath": "Codex_Monster_Skirmisher_Male_Strong_GreatHammer_Electric",
+    "pushTipsCodexId": 60500019
+  },
+  {
+    "id": 23010101,
+    "type": "CODEX_MONSTER",
+    "describeId": 30101,
+    "sortOrder": 3006,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2808002308,
+    "modelPath": "Codex_Monster_Skirmisher_Male_Fat_SprayGun_Ice",
+    "pushTipsCodexId": 60500017
+  },
+  {
+    "id": 23010401,
+    "type": "CODEX_MONSTER",
+    "describeId": 30104,
+    "sortOrder": 3007,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3609829892,
+    "modelPath": "Codex_Monster_Skirmisher_Male_Standard_Staff_Rock",
+    "pushTipsCodexId": 60500020
+  },
+  {
+    "id": 23020101,
+    "type": "CODEX_MONSTER",
+    "describeId": 30201,
+    "sortOrder": 3011,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2721264164,
+    "modelPath": "Codex_Monster_Fatuus_Agent_Fire"
+  },
+  {
+    "id": 23030101,
+    "type": "CODEX_MONSTER",
+    "describeId": 30301,
+    "sortOrder": 3023,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1845452236,
+    "modelPath": "Codex_Monster_Fatuus_Mage_Electric"
+  },
+  {
+    "id": 23040101,
+    "type": "CODEX_MONSTER",
+    "describeId": 30401,
+    "sortOrder": 3026,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 279158900,
+    "modelPath": "Codex_Monster_Fatuus_Mage_Ice"
+  },
+  {
+    "id": 23050101,
+    "type": "CODEX_MONSTER",
+    "describeId": 30501,
+    "sortOrder": 3032,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1136311692,
+    "modelPath": "Codex_Monster_Fatuus_Maiden_Water",
+    "pushTipsCodexId": 60500034
+  },
+  {
+    "id": 24010101,
+    "type": "CODEX_MONSTER",
+    "describeId": 40101,
+    "sortOrder": 4001,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3672762756,
+    "modelPath": "Codex_Monster_Defender_None",
+    "pushTipsCodexId": 60500009
+  },
+  {
+    "id": 24010201,
+    "type": "CODEX_MONSTER",
+    "describeId": 40102,
+    "sortOrder": 4002,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2289588828,
+    "modelPath": "Codex_Monster_Formathr_None",
+    "pushTipsCodexId": 60500011
+  },
+  {
+    "id": 24010301,
+    "type": "CODEX_MONSTER",
+    "describeId": 40103,
+    "sortOrder": 4003,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3173206604,
+    "modelPath": "Codex_Monster_Defender_Konungmathr",
+    "pushTipsCodexId": 60500028
+  },
+  {
+    "id": 24010401,
+    "type": "CODEX_MONSTER",
+    "describeId": 40104,
+    "sortOrder": 4004,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1642184916,
+    "modelPath": "Codex_Monster_Nithhoggr_None",
+    "pushTipsCodexId": 60500057
+  },
+  {
+    "id": 24020101,
+    "type": "CODEX_MONSTER",
+    "describeId": 40201,
+    "sortOrder": 4011,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4150296284,
+    "modelPath": "Codex_Monster_Apparatus_Enigma_BionicDrone"
+  },
+  {
+    "id": 24020201,
+    "type": "CODEX_MONSTER",
+    "describeId": 40202,
+    "sortOrder": 4012,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3150417148,
+    "modelPath": "Codex_Monster_Apparatus_Enigma_BionicFlora"
+  },
+  {
+    "id": 24020301,
+    "type": "CODEX_MONSTER",
+    "describeId": 40203,
+    "sortOrder": 4013,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1969176836,
+    "modelPath": "Codex_Monster_Apparatus_Enigma_BionicInsecta"
+  },
+  {
+    "id": 24020401,
+    "type": "CODEX_MONSTER",
+    "describeId": 40204,
+    "sortOrder": 4014,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3883299804,
+    "modelPath": "Codex_Monster_Apparatus_Enigma_BionicNettler"
+  },
+  {
+    "id": 24021101,
+    "type": "CODEX_MONSTER",
+    "describeId": 40211,
+    "sortOrder": 4021,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 780885388,
+    "modelPath": "Codex_Monster_Apparatus_Perpetual",
+    "pushTipsCodexId": 60500036
+  },
+  {
+    "id": 24030201,
+    "type": "CODEX_MONSTER",
+    "describeId": 40302,
+    "sortOrder": 4031,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4121540020,
+    "modelPath": "Codex_Monster_Gargoyle_Ground",
+    "pushTipsCodexId": 60500062
+  },
+  {
+    "id": 24030101,
+    "type": "CODEX_MONSTER",
+    "describeId": 40301,
+    "sortOrder": 4032,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2430809580,
+    "modelPath": "Codex_Monster_Gargoyle_Airborne",
+    "pushTipsCodexId": 60500063
+  },
+  {
+    "id": 24030301,
+    "type": "CODEX_MONSTER",
+    "describeId": 40303,
+    "sortOrder": 4033,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1189416732,
+    "modelPath": "Codex_Monster_Gargoyle_Fafnir",
+    "pushTipsCodexId": 60500068
+  },
+  {
+    "id": 24040101,
+    "type": "CODEX_MONSTER",
+    "describeId": 40401,
+    "sortOrder": 4041,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3290906604,
+    "modelPath": "Codex_Monster_Monolith_Ordinator_01",
+    "pushTipsCodexId": 60500069
+  },
+  {
+    "id": 24040201,
+    "type": "CODEX_MONSTER",
+    "describeId": 40402,
+    "sortOrder": 4042,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 596357780,
+    "modelPath": "Codex_Monster_Monolith_Ordinator_02",
+    "pushTipsCodexId": 60500069
+  },
+  {
+    "id": 24040301,
+    "type": "CODEX_MONSTER",
+    "describeId": 40403,
+    "sortOrder": 4043,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3193339924,
+    "modelPath": "Codex_Monster_Monolith_Ordinator_03",
+    "pushTipsCodexId": 60500069
+  },
+  {
+    "id": 24050101,
+    "type": "CODEX_MONSTER",
+    "describeId": 40501,
+    "sortOrder": 4051,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2229724964,
+    "modelPath": "Codex_Monster_Monolith_Starchild",
+    "pushTipsCodexId": 60500070
+  },
+  {
+    "id": 25090101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50901,
+    "sortOrder": 4101,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3531349252,
+    "modelPath": "Codex_Monster_Samurai_Ningyo"
+  },
+  {
+    "id": 25010101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50101,
+    "sortOrder": 5001,
+    "isDisuse": true,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3361807732,
+    "modelPath": ""
+  },
+  {
+    "id": 25010201,
+    "type": "CODEX_MONSTER",
+    "describeId": 50102,
+    "sortOrder": 5002,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3203861772,
+    "modelPath": "Codex_Monster_Thoarder_Male_Scout"
+  },
+  {
+    "id": 25010301,
+    "type": "CODEX_MONSTER",
+    "describeId": 50103,
+    "sortOrder": 5003,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4258650324,
+    "modelPath": "Codex_Monster_Thoarder_Male_Chemist_Fire"
+  },
+  {
+    "id": 25010401,
+    "type": "CODEX_MONSTER",
+    "describeId": 50104,
+    "sortOrder": 5004,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 391056196,
+    "modelPath": "Codex_Monster_Thoarder_Male_Chemist_Water"
+  },
+  {
+    "id": 25010501,
+    "type": "CODEX_MONSTER",
+    "describeId": 50105,
+    "sortOrder": 5005,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1056968788,
+    "modelPath": "Codex_Monster_Thoarder_Male_Chemist_Electric"
+  },
+  {
+    "id": 25010601,
+    "type": "CODEX_MONSTER",
+    "describeId": 50106,
+    "sortOrder": 5006,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 932946668,
+    "modelPath": "Codex_Monster_Thoarder_Male_Chemist_Ice"
+  },
+  {
+    "id": 25010701,
+    "type": "CODEX_MONSTER",
+    "describeId": 50107,
+    "sortOrder": 5007,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2932021268,
+    "modelPath": "Codex_Monster_Thoarder_Male_Handyman"
+  },
+  {
+    "id": 25020101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50201,
+    "sortOrder": 5008,
+    "isDisuse": true,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2809913076,
+    "modelPath": ""
+  },
+  {
+    "id": 25020201,
+    "type": "CODEX_MONSTER",
+    "describeId": 50202,
+    "sortOrder": 5009,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2135449188,
+    "modelPath": "Codex_Monster_Thoarder_Male_Marksman"
+  },
+  {
+    "id": 25030101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50301,
+    "sortOrder": 5010,
+    "isDisuse": true,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3343637564,
+    "modelPath": ""
+  },
+  {
+    "id": 25030201,
+    "type": "CODEX_MONSTER",
+    "describeId": 50302,
+    "sortOrder": 5011,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2438565732,
+    "modelPath": "Codex_Monster_Thoarder_Male_Gravedigger"
+  },
+  {
+    "id": 25030301,
+    "type": "CODEX_MONSTER",
+    "describeId": 50303,
+    "sortOrder": 5012,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3176958380,
+    "modelPath": "Codex_Monster_Thoarder_Male_Seaman"
+  },
+  {
+    "id": 25040101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50401,
+    "sortOrder": 5013,
+    "isDisuse": true,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2057035140,
+    "modelPath": ""
+  },
+  {
+    "id": 25050101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50501,
+    "sortOrder": 5014,
+    "isDisuse": true,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3778845460,
+    "modelPath": ""
+  },
+  {
+    "id": 25050201,
+    "type": "CODEX_MONSTER",
+    "describeId": 50502,
+    "sortOrder": 5015,
+    "isDisuse": true,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1822072796,
+    "modelPath": ""
+  },
+  {
+    "id": 25060101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50601,
+    "sortOrder": 5016,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3157705420,
+    "modelPath": "Codex_Monster_Thoarder_MuscleMan_Pugilist"
+  },
+  {
+    "id": 25070101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50701,
+    "sortOrder": 5017,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3599973484,
+    "modelPath": "Codex_Monster_Thoarder_MuscleMan_Crusher"
+  },
+  {
+    "id": 25080101,
+    "type": "CODEX_MONSTER",
+    "describeId": 50801,
+    "sortOrder": 5018,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 965565028,
+    "modelPath": "Codex_Monster_Samurai_Ronin"
+  },
+  {
+    "id": 25080201,
+    "type": "CODEX_MONSTER",
+    "describeId": 50802,
+    "sortOrder": 5019,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2294436340,
+    "modelPath": "Codex_Monster_Samurai_Ronin_Hisago"
+  },
+  {
+    "id": 25080301,
+    "type": "CODEX_MONSTER",
+    "describeId": 50803,
+    "sortOrder": 5020,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4243582156,
+    "modelPath": "Codex_Monster_Samurai_Ronin_Maki"
+  },
+  {
+    "id": 25100201,
+    "type": "CODEX_MONSTER",
+    "describeId": 51002,
+    "sortOrder": 5022,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4004028948,
+    "modelPath": "Codex_Monster_Samurai_Kairagi_Fire"
+  },
+  {
+    "id": 25100101,
+    "type": "CODEX_MONSTER",
+    "describeId": 51001,
+    "sortOrder": 5023,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1746776396,
+    "modelPath": "Codex_Monster_Samurai_Kairagi_Electric"
+  },
+  {
+    "id": 25210101,
+    "type": "CODEX_MONSTER",
+    "describeId": 52101,
+    "sortOrder": 5024,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1578336260,
+    "modelPath": "Codex_Monster_Eremite_Female_Hatchet"
+  },
+  {
+    "id": 25210201,
+    "type": "CODEX_MONSTER",
+    "describeId": 52102,
+    "sortOrder": 5025,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1774778268,
+    "modelPath": "Codex_Monster_Eremite_Male_Standard_Crossbow"
+  },
+  {
+    "id": 25210301,
+    "type": "CODEX_MONSTER",
+    "describeId": 52103,
+    "sortOrder": 5026,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 255350996,
+    "modelPath": "Codex_Monster_Eremite_Male_Standard_Pole"
+  },
+  {
+    "id": 25210401,
+    "type": "CODEX_MONSTER",
+    "describeId": 52104,
+    "sortOrder": 5027,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 983366940,
+    "modelPath": "Codex_Monster_Eremite_MuscleMan_Gloves"
+  },
+  {
+    "id": 25210501,
+    "type": "CODEX_MONSTER",
+    "describeId": 52105,
+    "sortOrder": 5028,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3347785908,
+    "modelPath": "Codex_Monster_Eremite_MuscleMan_Simitar"
+  },
+  {
+    "id": 25310101,
+    "type": "CODEX_MONSTER",
+    "describeId": 53101,
+    "sortOrder": 5029,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3875874876,
+    "modelPath": "Codex_Monster_Eremite_Female_Slim_PushDagger",
+    "pushTipsCodexId": 60500064
+  },
+  {
+    "id": 25310201,
+    "type": "CODEX_MONSTER",
+    "describeId": 53102,
+    "sortOrder": 5030,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1253615596,
+    "modelPath": "Codex_Monster_Eremite_Male_Standard_Glaive",
+    "pushTipsCodexId": 60500065
+  },
+  {
+    "id": 25310301,
+    "type": "CODEX_MONSTER",
+    "describeId": 53103,
+    "sortOrder": 5031,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 875112844,
+    "modelPath": "Codex_Monster_Eremite_Male_Standard_Polearm",
+    "pushTipsCodexId": 60500066
+  },
+  {
+    "id": 25410201,
+    "type": "CODEX_MONSTER",
+    "describeId": 54102,
+    "sortOrder": 5032,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3894595148,
+    "modelPath": "Codex_Monster_Eremite_Female_Standard_Longbow",
+    "pushTipsCodexId": 60500072
+  },
+  {
+    "id": 25410101,
+    "type": "CODEX_MONSTER",
+    "describeId": 54101,
+    "sortOrder": 5033,
+    "subType": "CODEX_SUBTYPE_HUMAN",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2039929068,
+    "modelPath": "Codex_Monster_Eremite_Male_Strong_Katar",
+    "pushTipsCodexId": 60500071
+  },
+  {
+    "id": 26010201,
+    "type": "CODEX_MONSTER",
+    "describeId": 60102,
+    "sortOrder": 6001,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1548992428,
+    "modelPath": "Codex_Monster_Mimik_Fire"
+  },
+  {
+    "id": 26010301,
+    "type": "CODEX_MONSTER",
+    "describeId": 60103,
+    "sortOrder": 6004,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1087861108,
+    "modelPath": "Codex_Monster_Mimik_Electric"
+  },
+  {
+    "id": 26010101,
+    "type": "CODEX_MONSTER",
+    "describeId": 60101,
+    "sortOrder": 6006,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3680567484,
+    "modelPath": "Codex_Monster_Mimik_Ice"
+  },
+  {
+    "id": 26020201,
+    "type": "CODEX_MONSTER",
+    "describeId": 60202,
+    "sortOrder": 6011,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 630342340,
+    "modelPath": "Codex_Monster_Regisvine_Fire",
+    "pushTipsCodexId": 60500024
+  },
+  {
+    "id": 26020301,
+    "type": "CODEX_MONSTER",
+    "describeId": 60203,
+    "sortOrder": 6014,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 581340876,
+    "modelPath": "Codex_Monster_Regisvine_Electric",
+    "pushTipsCodexId": 60500067
+  },
+  {
+    "id": 26020101,
+    "type": "CODEX_MONSTER",
+    "describeId": 60201,
+    "sortOrder": 6016,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 219039580,
+    "modelPath": "Codex_Monster_Regisvine_Ice",
+    "pushTipsCodexId": 60500023
+  },
+  {
+    "id": 26030101,
+    "type": "CODEX_MONSTER",
+    "describeId": 60301,
+    "sortOrder": 6021,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1137679108,
+    "modelPath": "Codex_Monster_Wyrm_Rock",
+    "pushTipsCodexId": 60500025
+  },
+  {
+    "id": 26040101,
+    "type": "CODEX_MONSTER",
+    "describeId": 60401,
+    "sortOrder": 6022,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 962675148,
+    "modelPath": "Codex_Monster_Drake_Rock",
+    "pushTipsCodexId": 60500029
+  },
+  {
+    "id": 26050101,
+    "type": "CODEX_MONSTER",
+    "describeId": 60501,
+    "sortOrder": 6023,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1220970652,
+    "modelPath": "Codex_Monster_Drake_Primo_Rock",
+    "pushTipsCodexId": 60500030
+  },
+  {
+    "id": 26050601,
+    "type": "CODEX_MONSTER",
+    "describeId": 60506,
+    "sortOrder": 6032,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1932880508,
+    "modelPath": "Codex_Monster_Drake_Deepsea_Water",
+    "pushTipsCodexId": 60500050
+  },
+  {
+    "id": 26050701,
+    "type": "CODEX_MONSTER",
+    "describeId": 60507,
+    "sortOrder": 6034,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1342008612,
+    "modelPath": "Codex_Monster_Drake_Deepsea_Ice",
+    "pushTipsCodexId": 60500051
+  },
+  {
+    "id": 26050801,
+    "type": "CODEX_MONSTER",
+    "describeId": 60508,
+    "sortOrder": 6036,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 1569186356,
+    "modelPath": "Codex_Monster_Drake_Deepsea_Electric",
+    "pushTipsCodexId": 60500052
+  },
+  {
+    "id": 26060201,
+    "type": "CODEX_MONSTER",
+    "describeId": 60602,
+    "sortOrder": 6102,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 78252036,
+    "modelPath": "Codex_Monster_Cicin_Water"
+  },
+  {
+    "id": 26060101,
+    "type": "CODEX_MONSTER",
+    "describeId": 60601,
+    "sortOrder": 6104,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 473075596,
+    "modelPath": "Codex_Monster_Cicin_Electric"
+  },
+  {
+    "id": 26060301,
+    "type": "CODEX_MONSTER",
+    "describeId": 60603,
+    "sortOrder": 6106,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3816442516,
+    "modelPath": "Codex_Monster_Cicin_Ice"
+  },
+  {
+    "id": 26090101,
+    "type": "CODEX_MONSTER",
+    "describeId": 60901,
+    "sortOrder": 6202,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3090106492,
+    "modelPath": "Codex_Monster_Fungus_Un_Gamma_Water",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26090301,
+    "type": "CODEX_MONSTER",
+    "describeId": 60903,
+    "sortOrder": 6203,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3770457572,
+    "modelPath": "Codex_Monster_Fungus_Un_Delta_Wind",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26090201,
+    "type": "CODEX_MONSTER",
+    "describeId": 60902,
+    "sortOrder": 6204,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2438004076,
+    "modelPath": "Codex_Monster_Fungus_Un_Delta_Grass",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26090601,
+    "type": "CODEX_MONSTER",
+    "describeId": 60906,
+    "sortOrder": 6205,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 761226076,
+    "modelPath": "Codex_Monster_Fungus_Trois_Gamma_Fire",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26090401,
+    "type": "CODEX_MONSTER",
+    "describeId": 60904,
+    "sortOrder": 6206,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2599145508,
+    "modelPath": "Codex_Monster_Fungus_Trois_Epsilon_Electric",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26090501,
+    "type": "CODEX_MONSTER",
+    "describeId": 60905,
+    "sortOrder": 6207,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2638302180,
+    "modelPath": "Codex_Monster_Fungus_Trois_Alpha_Ice",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26090701,
+    "type": "CODEX_MONSTER",
+    "describeId": 60907,
+    "sortOrder": 6208,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 881726716,
+    "modelPath": "Codex_Monster_Fungus_Deux_Alpha_Fire",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26090801,
+    "type": "CODEX_MONSTER",
+    "describeId": 60908,
+    "sortOrder": 6209,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 995907028,
+    "modelPath": "Codex_Monster_Fungus_Deux_Epsilon_Wind",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26091001,
+    "type": "CODEX_MONSTER",
+    "describeId": 60910,
+    "sortOrder": 6210,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 644664412,
+    "modelPath": "Codex_Monster_Fungus_Deux_Delta_Electric",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26090901,
+    "type": "CODEX_MONSTER",
+    "describeId": 60909,
+    "sortOrder": 6211,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3625713340,
+    "modelPath": "Codex_Monster_Fungus_Deux_Beta_Rock",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26120301,
+    "type": "CODEX_MONSTER",
+    "describeId": 61203,
+    "sortOrder": 6212,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 2251298652,
+    "modelPath": "Codex_Monster_Fungus_Amanita_Du_Anudatta_Water",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26120101,
+    "type": "CODEX_MONSTER",
+    "describeId": 61201,
+    "sortOrder": 6213,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3177626116,
+    "modelPath": "Codex_Monster_Fungus_Amanita_Unu_Anudatta_Grass",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26120201,
+    "type": "CODEX_MONSTER",
+    "describeId": 61202,
+    "sortOrder": 6214,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3998939852,
+    "modelPath": "Codex_Monster_Fungus_Amanita_Unu_Svarita_Ice",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26120401,
+    "type": "CODEX_MONSTER",
+    "describeId": 61204,
+    "sortOrder": 6215,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 3489297980,
+    "modelPath": "Codex_Monster_Fungus_Amanita_Du_Udatta_Rock",
+    "pushTipsCodexId": 60500060
+  },
+  {
+    "id": 26110101,
+    "type": "CODEX_MONSTER",
+    "describeId": 61101,
+    "sortOrder": 6216,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 607377196,
+    "modelPath": "Codex_Monster_Fungus_Raptor",
+    "pushTipsCodexId": 60500061
+  },
+  {
+    "id": 29010101,
+    "type": "CODEX_MONSTER",
+    "describeId": 90101,
+    "sortOrder": 7001,
+    "subType": "CODEX_SUBTYPE_BOSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 572043132,
+    "modelPath": "Codex_Monster_Dvalin"
+  },
+  {
+    "id": 29020101,
+    "type": "CODEX_MONSTER",
+    "describeId": 90201,
+    "sortOrder": 7002,
+    "subType": "CODEX_SUBTYPE_BOSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 4021589100,
+    "modelPath": "Codex_Monster_LupiBoreas"
+  },
+  {
+    "id": 29030101,
+    "type": "CODEX_MONSTER",
+    "describeId": 90301,
+    "sortOrder": 7003,
+    "subType": "CODEX_SUBTYPE_BOSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 397820092,
+    "modelPath": "Codex_Monster_Tartaglia"
+  },
+  {
+    "id": 29040101,
+    "type": "CODEX_MONSTER",
+    "describeId": 90401,
+    "sortOrder": 7004,
+    "subType": "CODEX_SUBTYPE_BOSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 605456996,
+    "modelPath": "Codex_Monster_Dahaka"
+  },
+  {
+    "id": 29050101,
+    "type": "CODEX_MONSTER",
+    "describeId": 90501,
+    "sortOrder": 7005,
+    "subType": "CODEX_SUBTYPE_BOSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 717955844,
+    "modelPath": "Codex_Monster_LaSignora"
+  },
+  {
+    "id": 29060201,
+    "type": "CODEX_MONSTER",
+    "describeId": 90602,
+    "sortOrder": 7006,
+    "subType": "CODEX_SUBTYPE_BOSS",
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "descTextMapHash": 848969412,
+    "modelPath": "Codex_Monster_Shougun_Mitakenarukami"
+  },
+  {
+    "id": 28030201,
+    "describeId": 28030201,
+    "sortOrder": 10001,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "descTextMapHash": 1105531548,
+    "modelPath": "Codex_Animal_Falcon_01"
+  },
+  {
+    "id": 28030202,
+    "describeId": 28030202,
+    "sortOrder": 10002,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "descTextMapHash": 4228486892,
+    "modelPath": "Codex_Animal_Falcon_02"
+  },
+  {
+    "id": 28030203,
+    "describeId": 28030203,
+    "sortOrder": 10003,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "descTextMapHash": 1932071780,
+    "modelPath": "Codex_Animal_Falcon_03"
+  },
+  {
+    "id": 28030204,
+    "describeId": 28030204,
+    "sortOrder": 10004,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "descTextMapHash": 4276303852,
+    "modelPath": "Codex_Animal_Falcon_04"
+  },
+  {
+    "id": 28030301,
+    "describeId": 28030301,
+    "sortOrder": 10005,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 4010649780,
+    "modelPath": "Codex_Animal_Pigeon_01"
+  },
+  {
+    "id": 28030302,
+    "describeId": 28030302,
+    "sortOrder": 10006,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3034101260,
+    "modelPath": "Codex_Animal_Pigeon_02"
+  },
+  {
+    "id": 28030303,
+    "describeId": 28030303,
+    "sortOrder": 10007,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 377350284,
+    "modelPath": "Codex_Animal_Pigeon_03"
+  },
+  {
+    "id": 28030304,
+    "describeId": 28030304,
+    "sortOrder": 10008,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3580989828,
+    "modelPath": "Codex_Animal_Pigeon_04"
+  },
+  {
+    "id": 28030305,
+    "describeId": 28030305,
+    "sortOrder": 10009,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 4011950268,
+    "modelPath": "Codex_Animal_Pigeon_05"
+  },
+  {
+    "id": 28030401,
+    "describeId": 28030401,
+    "sortOrder": 10010,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3267556180,
+    "modelPath": "Codex_Animal_Tit_01"
+  },
+  {
+    "id": 28030402,
+    "describeId": 28030402,
+    "sortOrder": 10011,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3064809156,
+    "modelPath": "Codex_Animal_Tit_02"
+  },
+  {
+    "id": 28030403,
+    "describeId": 28030403,
+    "sortOrder": 10012,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2887369468,
+    "modelPath": "Codex_Animal_Tit_03"
+  },
+  {
+    "id": 28030404,
+    "describeId": 28030404,
+    "sortOrder": 10013,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3386843732,
+    "modelPath": "Codex_Animal_Tit_04"
+  },
+  {
+    "id": 28030501,
+    "describeId": 28030501,
+    "sortOrder": 10014,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "descTextMapHash": 3578611164,
+    "modelPath": "Codex_Animal_Wigeon_01"
+  },
+  {
+    "id": 28030502,
+    "describeId": 28030502,
+    "sortOrder": 10015,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "descTextMapHash": 1355737348,
+    "modelPath": "Codex_Animal_Wigeon_02"
+  },
+  {
+    "id": 28030101,
+    "describeId": 28030101,
+    "sortOrder": 10017,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "descTextMapHash": 10750060,
+    "modelPath": "Codex_Animal_Crane_01"
+  },
+  {
+    "id": 28030102,
+    "describeId": 28030102,
+    "sortOrder": 10018,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 686282284,
+    "modelPath": "Codex_Animal_Crane_02"
+  },
+  {
+    "id": 28030104,
+    "describeId": 28030104,
+    "sortOrder": 10019,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 30657124,
+    "modelPath": "Codex_Animal_Crane_Lbis_01"
+  },
+  {
+    "id": 28030306,
+    "describeId": 28030306,
+    "sortOrder": 10020,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 526707716,
+    "modelPath": "Codex_Animal_Crow_01"
+  },
+  {
+    "id": 28030313,
+    "describeId": 28030313,
+    "sortOrder": 10021,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3924720076,
+    "modelPath": "Codex_Animal_Pigeon_Beak"
+  },
+  {
+    "id": 28020101,
+    "describeId": 28020101,
+    "sortOrder": 11001,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3163587340,
+    "modelPath": "Codex_Animal_Fox_01"
+  },
+  {
+    "id": 28020102,
+    "describeId": 28020102,
+    "sortOrder": 11002,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2713753684,
+    "modelPath": "Codex_Animal_Fox_02"
+  },
+  {
+    "id": 28020108,
+    "describeId": 28020108,
+    "sortOrder": 11003,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2327548140,
+    "modelPath": "Codex_Animal_Fox_03"
+  },
+  {
+    "id": 28020701,
+    "describeId": 28020701,
+    "isSeenActive": true,
+    "sortOrder": 11004,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1235860324,
+    "modelPath": "Codex_Animal_Vulpes_01"
+  },
+  {
+    "id": 28020201,
+    "describeId": 28020201,
+    "sortOrder": 11005,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 409299996,
+    "modelPath": "Codex_Animal_Squirrel_01"
+  },
+  {
+    "id": 28020301,
+    "describeId": 28020301,
+    "sortOrder": 11006,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 3473645700,
+    "modelPath": "Codex_Animal_Boar_01"
+  },
+  {
+    "id": 28020302,
+    "describeId": 28020302,
+    "sortOrder": 11007,
+    "isDisuse": true,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 3009146260,
+    "modelPath": ""
+  },
+  {
+    "id": 28020303,
+    "describeId": 28020303,
+    "sortOrder": 11008,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2586620676,
+    "modelPath": "Codex_Animal_Boar_02"
+  },
+  {
+    "id": 28020304,
+    "describeId": 28020304,
+    "sortOrder": 11009,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 3209357948,
+    "modelPath": "Codex_Animal_Boar_03"
+  },
+  {
+    "id": 28020314,
+    "describeId": 28020314,
+    "sortOrder": 11010,
+    "isDisuse": true,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 3435351308,
+    "modelPath": "Codex_Animal_Boar_Grass_Small"
+  },
+  {
+    "id": 28020313,
+    "describeId": 28020313,
+    "sortOrder": 11011,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1916771356,
+    "modelPath": "Codex_Animal_Boar_Grass"
+  },
+  {
+    "id": 28020401,
+    "describeId": 28020401,
+    "isSeenActive": true,
+    "sortOrder": 11012,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 2316470124,
+    "modelPath": "Codex_Animal_Dog_01"
+  },
+  {
+    "id": 28020402,
+    "describeId": 28020402,
+    "isSeenActive": true,
+    "sortOrder": 11013,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 2339016692,
+    "modelPath": "Codex_Animal_Dog_02"
+  },
+  {
+    "id": 28020403,
+    "describeId": 28020403,
+    "isSeenActive": true,
+    "sortOrder": 11014,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 176728284,
+    "modelPath": "Codex_Animal_Dog_03"
+  },
+  {
+    "id": 28020404,
+    "describeId": 28020404,
+    "isSeenActive": true,
+    "sortOrder": 11015,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 104452900,
+    "modelPath": "Codex_Animal_Dog_04"
+  },
+  {
+    "id": 28020501,
+    "describeId": 28020501,
+    "isSeenActive": true,
+    "sortOrder": 11016,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2510531884,
+    "modelPath": "Codex_Animal_Cat_01"
+  },
+  {
+    "id": 28020502,
+    "describeId": 28020502,
+    "isSeenActive": true,
+    "sortOrder": 11017,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 31740172,
+    "modelPath": "Codex_Animal_Cat_02"
+  },
+  {
+    "id": 28020503,
+    "describeId": 28020503,
+    "isSeenActive": true,
+    "sortOrder": 11018,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1364989956,
+    "modelPath": "Codex_Animal_Cat_03"
+  },
+  {
+    "id": 28020504,
+    "describeId": 28020504,
+    "isSeenActive": true,
+    "sortOrder": 11019,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 1770888828,
+    "modelPath": "Codex_Animal_Cat_04"
+  },
+  {
+    "id": 28020505,
+    "describeId": 28020505,
+    "isSeenActive": true,
+    "sortOrder": 11020,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 4193477012,
+    "modelPath": "Codex_Animal_Cat_05"
+  },
+  {
+    "id": 28020506,
+    "describeId": 28020506,
+    "isSeenActive": true,
+    "sortOrder": 11021,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 725605172,
+    "modelPath": "Codex_Animal_Cat_06"
+  },
+  {
+    "id": 28020507,
+    "describeId": 28020507,
+    "isSeenActive": true,
+    "sortOrder": 11022,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 4183110348,
+    "modelPath": "Codex_Animal_Cat_07"
+  },
+  {
+    "id": 28020601,
+    "describeId": 28020601,
+    "sortOrder": 11023,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 168967340,
+    "modelPath": "Codex_Animal_Marten_01"
+  },
+  {
+    "id": 28020602,
+    "describeId": 28020602,
+    "sortOrder": 11024,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3077374988,
+    "modelPath": "Codex_Animal_Marten_02"
+  },
+  {
+    "id": 28020603,
+    "describeId": 28020603,
+    "sortOrder": 11025,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2471583364,
+    "modelPath": "Codex_Animal_Marten_03"
+  },
+  {
+    "id": 28020604,
+    "describeId": 28020604,
+    "sortOrder": 11026,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2239162292,
+    "modelPath": "Codex_Animal_Marten_04"
+  },
+  {
+    "id": 28020605,
+    "describeId": 28020605,
+    "sortOrder": 11027,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2748853220,
+    "modelPath": "Codex_Animal_Marten_05"
+  },
+  {
+    "id": 28050201,
+    "describeId": 28050201,
+    "sortOrder": 11028,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 3200339764,
+    "modelPath": "Codex_Animal_Thoarder_Weasel_01"
+  },
+  {
+    "id": 28050202,
+    "describeId": 28050202,
+    "sortOrder": 11029,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 3943971220,
+    "modelPath": "Codex_Animal_Thoarder_Weasel_02"
+  },
+  {
+    "id": 28050203,
+    "describeId": 28050203,
+    "sortOrder": 11030,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 3629549876,
+    "modelPath": "Codex_Animal_Thoarder_Weasel_03"
+  },
+  {
+    "id": 28020801,
+    "describeId": 28020801,
+    "isSeenActive": true,
+    "sortOrder": 11031,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 1714856844,
+    "modelPath": "Codex_Animal_Inu_Tanuki_01"
+  },
+  {
+    "id": 28060101,
+    "describeId": 28060101,
+    "sortOrder": 11032,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 2621135756,
+    "modelPath": "Codex_Animal_Gator_01"
+  },
+  {
+    "id": 28060201,
+    "describeId": 28060201,
+    "sortOrder": 11033,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 1357052844,
+    "modelPath": "Codex_Animal_Panther_01"
+  },
+  {
+    "id": 28060301,
+    "describeId": 28060301,
+    "sortOrder": 11034,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 450403756,
+    "modelPath": "Codex_Animal_Vulture_01"
+  },
+  {
+    "id": 28060401,
+    "describeId": 28060401,
+    "sortOrder": 11035,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 1526818932,
+    "modelPath": "Codex_Animal_Scorpion_01"
+  },
+  {
+    "id": 28060501,
+    "describeId": 28060501,
+    "sortOrder": 11036,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 825080508,
+    "modelPath": "Codex_Animal_Megamoth_Desert"
+  },
+  {
+    "id": 28060601,
+    "describeId": 28060601,
+    "sortOrder": 11037,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "descTextMapHash": 1160225108,
+    "modelPath": "Codex_Animal_Megamoth_Jungle"
+  },
+  {
+    "id": 28040101,
+    "describeId": 28040101,
+    "sortOrder": 12001,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "descTextMapHash": 1635980324,
+    "modelPath": "Codex_Animal_Fish_01"
+  },
+  {
+    "id": 28040102,
+    "describeId": 28040102,
+    "sortOrder": 12002,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "descTextMapHash": 1423986404,
+    "modelPath": "Codex_Animal_Fish_02"
+  },
+  {
+    "id": 28040103,
+    "describeId": 28040103,
+    "sortOrder": 12003,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "descTextMapHash": 3148834244,
+    "modelPath": "Codex_Animal_Fish_03"
+  },
+  {
+    "id": 28040703,
+    "describeId": 28040703,
+    "isSeenActive": true,
+    "sortOrder": 12004,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "descTextMapHash": 1117684060,
+    "modelPath": "Codex_Animal_Fishable_Ray_Stellamarisidae_01"
+  },
+  {
+    "id": 28040201,
+    "describeId": 28040201,
+    "sortOrder": 12201,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 996942964,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_01"
+  },
+  {
+    "id": 28040202,
+    "describeId": 28040202,
+    "sortOrder": 12202,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 692376060,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_02"
+  },
+  {
+    "id": 28040203,
+    "describeId": 28040203,
+    "sortOrder": 12203,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 4080124556,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_03"
+  },
+  {
+    "id": 28040204,
+    "describeId": 28040204,
+    "sortOrder": 12204,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 3174647436,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_04"
+  },
+  {
+    "id": 28040205,
+    "describeId": 28040205,
+    "sortOrder": 12205,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 1801568964,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_05"
+  },
+  {
+    "id": 28040206,
+    "describeId": 28040206,
+    "sortOrder": 12206,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 187982980,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Heliobatis_06"
+  },
+  {
+    "id": 28040301,
+    "describeId": 28040301,
+    "sortOrder": 12207,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 4285796596,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_01"
+  },
+  {
+    "id": 28040302,
+    "describeId": 28040302,
+    "sortOrder": 12208,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 1562063228,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_02"
+  },
+  {
+    "id": 28040303,
+    "describeId": 28040303,
+    "sortOrder": 12209,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 3804970196,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_03"
+  },
+  {
+    "id": 28040304,
+    "describeId": 28040304,
+    "sortOrder": 12210,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 584979076,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_04"
+  },
+  {
+    "id": 28040305,
+    "describeId": 28040305,
+    "sortOrder": 12211,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 3520398868,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Aspidorhynchus_05"
+  },
+  {
+    "id": 28040401,
+    "describeId": 28040401,
+    "sortOrder": 12212,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 1293195276,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Cheirolepis_01"
+  },
+  {
+    "id": 28040402,
+    "describeId": 28040402,
+    "sortOrder": 12213,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 3109015980,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Cheirolepis_02"
+  },
+  {
+    "id": 28040501,
+    "describeId": 28040501,
+    "sortOrder": 12214,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 3063244628,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_01"
+  },
+  {
+    "id": 28040502,
+    "describeId": 28040502,
+    "sortOrder": 12215,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 2749687940,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_02"
+  },
+  {
+    "id": 28040503,
+    "describeId": 28040503,
+    "sortOrder": 12216,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 4280266860,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_03"
+  },
+  {
+    "id": 28040504,
+    "describeId": 28040504,
+    "sortOrder": 12217,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 1043847444,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_04"
+  },
+  {
+    "id": 28040505,
+    "describeId": 28040505,
+    "sortOrder": 12218,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 512966356,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_05"
+  },
+  {
+    "id": 28040506,
+    "describeId": 28040506,
+    "sortOrder": 12219,
+    "showOnlyUnlocked": true,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 3034079116,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Doryaspis_06"
+  },
+  {
+    "id": 28040601,
+    "describeId": 28040601,
+    "sortOrder": 12220,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 1139068756,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Namazu_01"
+  },
+  {
+    "id": 28040602,
+    "describeId": 28040602,
+    "sortOrder": 12221,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 2916991412,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Namazu_02"
+  },
+  {
+    "id": 28040701,
+    "describeId": 28040701,
+    "sortOrder": 12222,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 381072868,
+    "modelPath": "Codex_Animal_Fishable_Ray_Stellamarisidae_02"
+  },
+  {
+    "id": 28040702,
+    "describeId": 28040702,
+    "sortOrder": 12223,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 3760543388,
+    "modelPath": "Codex_Animal_Fishable_Ray_Stellamarisidae_03"
+  },
+  {
+    "id": 28040801,
+    "describeId": 28040801,
+    "sortOrder": 12224,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 1339898548,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Batdiodan_01"
+  },
+  {
+    "id": 28040802,
+    "describeId": 28040802,
+    "sortOrder": 12225,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 2720760900,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Batdiodan_02"
+  },
+  {
+    "id": 28040803,
+    "describeId": 28040803,
+    "sortOrder": 12226,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 1306094332,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Batdiodan_03"
+  },
+  {
+    "id": 28040804,
+    "describeId": 28040804,
+    "sortOrder": 12227,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 2682831020,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Batdiodan_04"
+  },
+  {
+    "id": 28040901,
+    "describeId": 28040901,
+    "sortOrder": 12228,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 2665565348,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Apsva_01"
+  },
+  {
+    "id": 28040902,
+    "describeId": 28040902,
+    "sortOrder": 12229,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "descTextMapHash": 196319756,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Apsva_02"
+  },
+  {
+    "id": 28050101,
+    "describeId": 28050101,
+    "sortOrder": 13003,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1371898220,
+    "modelPath": "Codex_Animal_Wisp_Wind"
+  },
+  {
+    "id": 28050104,
+    "describeId": 28050104,
+    "sortOrder": 13004,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 4188945588,
+    "modelPath": "Codex_Animal_Wisp_Electric"
+  },
+  {
+    "id": 28050106,
+    "describeId": 28050106,
+    "sortOrder": 13005,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1880886676,
+    "modelPath": "Codex_Animal_Wisp_Grass"
+  },
+  {
+    "id": 28050103,
+    "describeId": 28050103,
+    "sortOrder": 13006,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1451015284,
+    "modelPath": "Codex_Animal_Wisp_Ice"
+  },
+  {
+    "id": 28050102,
+    "describeId": 28050102,
+    "sortOrder": 13007,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2142925788,
+    "modelPath": "Codex_Animal_Wisp_Rock"
+  },
+  {
+    "id": 28050105,
+    "describeId": 28050105,
+    "sortOrder": 13009,
+    "showOnlyUnlocked": true,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2668560348,
+    "modelPath": "Codex_Animal_Wisp_Tokoyo"
+  },
+  {
+    "id": 28010204,
+    "describeId": 28010204,
+    "sortOrder": 13010,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1731277692,
+    "modelPath": "Codex_Animal_Salamander_01"
+  },
+  {
+    "id": 28010205,
+    "describeId": 28010205,
+    "sortOrder": 13012,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3686681332,
+    "modelPath": "Codex_Animal_Salamander_02"
+  },
+  {
+    "id": 28010206,
+    "describeId": 28010206,
+    "sortOrder": 13013,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2538996404,
+    "modelPath": "Codex_Animal_Salamander_03"
+  },
+  {
+    "id": 28010301,
+    "describeId": 28010301,
+    "sortOrder": 13014,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3774147916,
+    "modelPath": "Codex_Animal_Frog_01"
+  },
+  {
+    "id": 28010302,
+    "describeId": 28010302,
+    "sortOrder": 13015,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1992168004,
+    "modelPath": "Codex_Animal_Frog_02"
+  },
+  {
+    "id": 28010303,
+    "describeId": 28010303,
+    "sortOrder": 13016,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3856616956,
+    "modelPath": "Codex_Animal_Frog_03"
+  },
+  {
+    "id": 28010304,
+    "describeId": 28010304,
+    "sortOrder": 13017,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3617732812,
+    "modelPath": "Codex_Animal_Frog_04"
+  },
+  {
+    "id": 28010101,
+    "describeId": 28010101,
+    "sortOrder": 13018,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3098191524,
+    "modelPath": "Codex_Animal_Crab_01"
+  },
+  {
+    "id": 28010102,
+    "describeId": 28010102,
+    "sortOrder": 13019,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3855411980,
+    "modelPath": "Codex_Animal_Crab_02"
+  },
+  {
+    "id": 28010103,
+    "describeId": 28010103,
+    "sortOrder": 13020,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1501229244,
+    "modelPath": "Codex_Animal_Crab_03"
+  },
+  {
+    "id": 28010104,
+    "describeId": 28010104,
+    "sortOrder": 13021,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1716680068,
+    "modelPath": "Codex_Animal_Crab_04"
+  },
+  {
+    "id": 28010105,
+    "describeId": 28010105,
+    "sortOrder": 13022,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2199690892,
+    "modelPath": "Codex_Animal_Crab_05"
+  },
+  {
+    "id": 28010201,
+    "describeId": 28010201,
+    "sortOrder": 13023,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2739906300,
+    "modelPath": "Codex_Animal_Lizard_01"
+  },
+  {
+    "id": 28010202,
+    "describeId": 28010202,
+    "sortOrder": 13024,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2751025748,
+    "modelPath": "Codex_Animal_Lizard_02"
+  },
+  {
+    "id": 28010203,
+    "describeId": 28010203,
+    "sortOrder": 13025,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1196248124,
+    "modelPath": "Codex_Animal_Lizard_03"
+  },
+  {
+    "id": 28010207,
+    "describeId": 28010207,
+    "sortOrder": 13026,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 57133532,
+    "modelPath": "Codex_Animal_Lizard_04"
+  },
+  {
+    "id": 28010208,
+    "describeId": 28010208,
+    "sortOrder": 13027,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 4090251284,
+    "modelPath": "Codex_Animal_Lizard_05"
+  },
+  {
+    "id": 28010401,
+    "describeId": 28010401,
+    "sortOrder": 13028,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 2694393852,
+    "modelPath": "Codex_Animal_Eel_01"
+  },
+  {
+    "id": 28010402,
+    "describeId": 28010402,
+    "sortOrder": 13029,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 814289124,
+    "modelPath": "Codex_Animal_Eel_02"
+  },
+  {
+    "id": 28010403,
+    "describeId": 28010403,
+    "sortOrder": 13030,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 1921378724,
+    "modelPath": "Codex_Animal_Eel_03"
+  },
+  {
+    "id": 28010404,
+    "describeId": 28010404,
+    "sortOrder": 13031,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 645702052,
+    "modelPath": "Codex_Animal_Eel_04"
+  },
+  {
+    "id": 28050301,
+    "describeId": 28050301,
+    "sortOrder": 13032,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3394957204,
+    "modelPath": "Codex_Animal_Boltbug_Lightbug"
+  },
+  {
+    "id": 28050401,
+    "describeId": 28050401,
+    "sortOrder": 13033,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "descTextMapHash": 3808964628,
+    "modelPath": "Codex_Animal_BoltBug_Scarab_01"
+  }
+]

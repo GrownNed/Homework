@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "IOHBJKHBDNM": "Oculus",
+    "name": "风元素结晶雷达提示",
+    "radius": 80,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkWindCrystal",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 2,
+    "IOHBJKHBDNM": "Ore",
+    "name": "矿石雷达提示",
+    "radius": 160,
+    "effectName": "",
+    "iconName": "UI_MarkPoint_Ore",
+    "audioName": ""
+  },
+  {
+    "id": 3,
+    "IOHBJKHBDNM": "HarvetGadget",
+    "name": "采集物雷达提示",
+    "radius": 160,
+    "effectName": "",
+    "iconName": "UI_MarkPoint_LocalItem",
+    "audioName": ""
+  },
+  {
+    "id": 4,
+    "IOHBJKHBDNM": "SmallMeteorite",
+    "name": "小陨石雷达提示",
+    "radius": 160,
+    "offsetRadius": 20,
+    "areaRadius": 30,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_LocalItem",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 5,
+    "IOHBJKHBDNM": "General",
+    "name": "绯红玉髓雷达提示",
+    "radius": 80,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_DulinsEssence",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 6,
+    "IOHBJKHBDNM": "General",
+    "name": "躲猫猫能量球雷达提示",
+    "radius": 160,
+    "effectName": "",
+    "iconName": "UI_MarkPoint_EnergyBall",
+    "audioName": ""
+  },
+  {
+    "id": 7,
+    "IOHBJKHBDNM": "General",
+    "name": "回声海螺雷达提示",
+    "radius": 160,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_EchoShell",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 8,
+    "IOHBJKHBDNM": "General",
+    "name": "逐月神瞳雷达提示",
+    "radius": 80,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPonint_LunaRiteMoonlitSigil",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 9,
+    "IOHBJKHBDNM": "ReginFeatherIntact",
+    "name": "鹤观羽毛雷达提示",
+    "radius": 80,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_ReginFeatherIntact",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 10,
+    "IOHBJKHBDNM": "General",
+    "name": "鹤观栖木能量体雷达提示",
+    "radius": 80,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_ReginEnergyBall",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 11,
+    "IOHBJKHBDNM": "AbyssalisleHarvest",
+    "name": "渊下宫活动矿石雷达提示",
+    "radius": 160,
+    "effectName": "",
+    "iconName": "UI_MarkPoint_Ore",
+    "audioName": ""
+  },
+  {
+    "id": 12,
+    "IOHBJKHBDNM": "General",
+    "name": "海灯节群玉阁碎片箱子",
+    "radius": 160,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+    "audioName": ""
+  },
+  {
+    "id": 13,
+    "IOHBJKHBDNM": "General",
+    "name": "渊下宫键纹",
+    "radius": 80,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_Kagimon",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 14,
+    "IOHBJKHBDNM": "AbyssalislePlant",
+    "name": "渊下宫活动植物雷达提示",
+    "radius": 160,
+    "effectName": "",
+    "iconName": "UI_MarkPoint_LocalItem",
+    "audioName": ""
+  },
+  {
+    "id": 15,
+    "IOHBJKHBDNM": "General",
+    "name": "天空结晶雷达提示",
+    "radius": 80,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_CelestiaSplinter",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 16,
+    "IOHBJKHBDNM": "General",
+    "name": "肉鸽地城入口",
+    "radius": 160,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_RogueDiaryDungeon",
+    "audioName": ""
+  },
+  {
+    "id": 17,
+    "IOHBJKHBDNM": "General",
+    "name": "茧型空间",
+    "radius": 160,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_RogueDiary",
+    "audioName": ""
+  },
+  {
+    "id": 18,
+    "IOHBJKHBDNM": "ActivityTreasureHuntBall",
+    "name": "寻宝仙灵能量球雷达提示",
+    "radius": 160,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_TreasureHuntBall",
+    "audioName": "",
+    "JPHAFHECAKN": true
+  },
+  {
+    "id": 19,
+    "IOHBJKHBDNM": "EchoShell",
+    "name": "2.8回声海螺",
+    "radius": 160,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_EchoShell",
+    "audioName": "Play_ui_feedback_windCrystal_appear"
+  },
+  {
+    "id": 20,
+    "IOHBJKHBDNM": "General",
+    "name": "未爆发死域雷达提示",
+    "radius": 160,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_LensSmoke",
+    "audioName": ""
+  },
+  {
+    "id": 21,
+    "IOHBJKHBDNM": "ActivityVintagePresent",
+    "name": "3.1找礼物活动雷达提示",
+    "radius": 30,
+    "effectName": "Eff_UI_Mark_WindCrystal",
+    "iconName": "UI_MarkPoint_Vintage1",
+    "audioName": ""
+  }
+]

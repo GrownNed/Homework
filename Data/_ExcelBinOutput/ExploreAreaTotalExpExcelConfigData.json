@@ -1,0 +1,134 @@
+[
+  {
+    "areaId": 1,
+    "totalExp": 273
+  },
+  {
+    "areaId": 2,
+    "totalExp": 146
+  },
+  {
+    "areaId": 3,
+    "totalExp": 218
+  },
+  {
+    "areaId": 4,
+    "totalExp": 211
+  },
+  {
+    "areaId": 5,
+    "totalExp": 450
+  },
+  {
+    "areaId": 6,
+    "totalExp": 571
+  },
+  {
+    "areaId": 7,
+    "totalExp": 274
+  },
+  {
+    "areaId": 8,
+    "totalExp": 185
+  },
+  {
+    "areaId": 9,
+    "totalExp": 286
+  },
+  {
+    "areaId": 10,
+    "totalExp": 470
+  },
+  {
+    "areaId": 11,
+    "totalExp": 333,
+    "reputationRatio": 0.23
+  },
+  {
+    "areaId": 12,
+    "totalExp": 247,
+    "reputationRatio": 0.17
+  },
+  {
+    "areaId": 13,
+    "totalExp": 199,
+    "reputationRatio": 0.14
+  },
+  {
+    "areaId": 14,
+    "totalExp": 258,
+    "reputationRatio": 0.18
+  },
+  {
+    "areaId": 17,
+    "totalExp": 196,
+    "reputationRatio": 0.12
+  },
+  {
+    "areaId": 18,
+    "totalExp": 308,
+    "reputationRatio": 0.16
+  },
+  {
+    "areaId": 200,
+    "totalExp": 306
+  },
+  {
+    "areaId": 19,
+    "totalExp": 113
+  },
+  {
+    "areaId": 300,
+    "totalExp": 463
+  },
+  {
+    "areaId": 20,
+    "totalExp": 1625,
+    "reputationRatio": 0.07
+  },
+  {
+    "areaId": 21,
+    "totalExp": 2391,
+    "reputationRatio": 0.1
+  },
+  {
+    "areaId": 22,
+    "totalExp": 1426,
+    "reputationRatio": 0.05
+  },
+  {
+    "areaId": 23,
+    "totalExp": 3294,
+    "reputationRatio": 0.11
+  },
+  {
+    "areaId": 24,
+    "totalExp": 1544,
+    "reputationRatio": 0.07
+  },
+  {
+    "areaId": 25,
+    "totalExp": 248,
+    "reputationRatio": 0.01
+  },
+  {
+    "areaId": 29,
+    "totalExp": 332,
+    "reputationRatio": 0.02
+  },
+  {
+    "areaId": 26,
+    "totalExp": 2217,
+    "reputationRatio": 0.09
+  },
+  {
+    "areaId": 27,
+    "totalExp": 3078,
+    "reputationRatio": 0.11
+  },
+  {
+    "areaId": 28,
+    "totalExp": 1396,
+    "reputationRatio": 0.06
+  }
+]

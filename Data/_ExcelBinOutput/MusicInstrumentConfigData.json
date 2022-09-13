@@ -1,0 +1,26 @@
+[
+  {
+    "instrumentId": 1,
+    "widgetId": 220025,
+    "performId": 301,
+    "freeModePerfabPath": "InLevelMusicPage"
+  },
+  {
+    "instrumentId": 2,
+    "widgetId": 220044,
+    "performId": 302,
+    "freeModePerfabPath": "InLevelMusicPage_Brown"
+  },
+  {
+    "instrumentId": 3,
+    "widgetId": 220051,
+    "performId": 303,
+    "freeModePerfabPath": "InLevelDrumPage"
+  },
+  {
+    "instrumentId": 4,
+    "widgetId": 220066,
+    "performId": 301,
+    "freeModePerfabPath": "InLevelMusicPage_Aranara"
+  }
+]

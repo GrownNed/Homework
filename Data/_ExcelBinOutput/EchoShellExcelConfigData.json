@@ -1,0 +1,1148 @@
+[
+  {
+    "id": 1,
+    "storyId": 1,
+    "voiceTitleTextMapHash": 2276398331,
+    "voiceDescTextMapHash": 540160387,
+    "voiceList": [
+      680020101,
+      680020102,
+      680020103
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 635541311,
+    "CDHMNGDMBPD": 1713449171,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 314777798,
+    "ENGGPHBOHNK": 1,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 2,
+    "storyId": 1,
+    "voiceTitleTextMapHash": 1180440611,
+    "voiceDescTextMapHash": 515618483,
+    "voiceList": [
+      680020201,
+      680020202,
+      680020203
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2234880583,
+    "CDHMNGDMBPD": 3545314123,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 391328686,
+    "ENGGPHBOHNK": 2,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 3,
+    "storyId": 1,
+    "voiceTitleTextMapHash": 1878535851,
+    "voiceDescTextMapHash": 3052076963,
+    "voiceList": [
+      680020301,
+      680020302,
+      680020303
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2089226111,
+    "CDHMNGDMBPD": 2815110187,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 157127638,
+    "ENGGPHBOHNK": 3,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 4,
+    "storyId": 1,
+    "voiceTitleTextMapHash": 926550811,
+    "voiceDescTextMapHash": 3818422051,
+    "voiceList": [
+      680020401,
+      680020402,
+      680020403
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 1038587487,
+    "CDHMNGDMBPD": 595253251,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2662053406,
+    "ENGGPHBOHNK": 4,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 5,
+    "storyId": 1,
+    "voiceTitleTextMapHash": 2473121739,
+    "voiceDescTextMapHash": 3187812331,
+    "voiceList": [
+      680020501,
+      680020502,
+      680020503,
+      680020504,
+      680020505,
+      680020506
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3636210743,
+    "CDHMNGDMBPD": 671082099,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 772067790,
+    "ENGGPHBOHNK": 5,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 6,
+    "storyId": 2,
+    "voiceTitleTextMapHash": 1911410235,
+    "voiceDescTextMapHash": 307932691,
+    "voiceList": [
+      680020601,
+      680020602
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3853319815,
+    "CDHMNGDMBPD": 2606388835,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 3699543254,
+    "ENGGPHBOHNK": 6,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 7,
+    "storyId": 2,
+    "voiceTitleTextMapHash": 2673575459,
+    "voiceDescTextMapHash": 672189235,
+    "voiceList": [
+      680020701,
+      680020702
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 158414823,
+    "CDHMNGDMBPD": 2508318723,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 4163317702,
+    "ENGGPHBOHNK": 7,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 8,
+    "storyId": 3,
+    "voiceTitleTextMapHash": 366986587,
+    "voiceDescTextMapHash": 75120643,
+    "voiceList": [
+      680020801
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2674456079,
+    "CDHMNGDMBPD": 849019283,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1933020654,
+    "ENGGPHBOHNK": 8,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 9,
+    "storyId": 3,
+    "voiceTitleTextMapHash": 1144773803,
+    "voiceDescTextMapHash": 713974843,
+    "voiceList": [
+      680020901
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 1079606735,
+    "CDHMNGDMBPD": 2561759475,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 4147648310,
+    "ENGGPHBOHNK": 9,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 10,
+    "storyId": 3,
+    "voiceTitleTextMapHash": 77805499,
+    "voiceDescTextMapHash": 3360643939,
+    "voiceList": [
+      680021001
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 1162660135,
+    "CDHMNGDMBPD": 1438433963,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 3872641614,
+    "ENGGPHBOHNK": 10,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 11,
+    "storyId": 4,
+    "voiceTitleTextMapHash": 1998150107,
+    "voiceDescTextMapHash": 2556180587,
+    "voiceList": [
+      680021101,
+      680021102
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2809458543,
+    "CDHMNGDMBPD": 2438534835,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 271275470,
+    "ENGGPHBOHNK": 11,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 12,
+    "storyId": 4,
+    "voiceTitleTextMapHash": 1592453779,
+    "voiceDescTextMapHash": 3037298683,
+    "voiceList": [
+      680021201
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3676450695,
+    "CDHMNGDMBPD": 3401208595,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1677744174,
+    "ENGGPHBOHNK": 12,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 13,
+    "storyId": 4,
+    "voiceTitleTextMapHash": 2590509875,
+    "voiceDescTextMapHash": 2282060619,
+    "voiceList": [
+      680021301,
+      680021302
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3248371839,
+    "CDHMNGDMBPD": 1144943499,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1136589878,
+    "ENGGPHBOHNK": 13,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 14,
+    "storyId": 5,
+    "voiceTitleTextMapHash": 782569747,
+    "voiceDescTextMapHash": 1350475139,
+    "voiceList": [
+      680021401,
+      680021402,
+      680021403,
+      680021404,
+      680021405
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2619790927,
+    "CDHMNGDMBPD": 2814755123,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 4255160966,
+    "ENGGPHBOHNK": 14,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 15,
+    "storyId": 5,
+    "voiceTitleTextMapHash": 3327882243,
+    "voiceDescTextMapHash": 4186030659,
+    "voiceList": [
+      680021501,
+      680021502
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 1882289663,
+    "CDHMNGDMBPD": 2670219035,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 208135598,
+    "ENGGPHBOHNK": 15,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 16,
+    "storyId": 5,
+    "voiceTitleTextMapHash": 1200026963,
+    "voiceDescTextMapHash": 1720310091,
+    "voiceList": [
+      680021601,
+      680021602,
+      680021603,
+      680021604
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2570741303,
+    "CDHMNGDMBPD": 3899765563,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 3404762542,
+    "ENGGPHBOHNK": 16,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 17,
+    "storyId": 5,
+    "voiceTitleTextMapHash": 2316112699,
+    "voiceDescTextMapHash": 413632235,
+    "voiceList": [
+      680021701,
+      680021702,
+      680021703,
+      680021704
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 847036367,
+    "CDHMNGDMBPD": 4244744955,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 379253222,
+    "ENGGPHBOHNK": 17,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 18,
+    "storyId": 5,
+    "voiceTitleTextMapHash": 2953510251,
+    "voiceDescTextMapHash": 2236146251,
+    "voiceList": [
+      680021801,
+      680021802
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2163034631,
+    "CDHMNGDMBPD": 1971694531,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2677954182,
+    "ENGGPHBOHNK": 18,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 19,
+    "storyId": 6,
+    "voiceTitleTextMapHash": 2904668835,
+    "voiceDescTextMapHash": 389059123,
+    "voiceList": [
+      680021901,
+      680021902
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 107826807,
+    "CDHMNGDMBPD": 2895619467,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 541332374,
+    "ENGGPHBOHNK": 19,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 20,
+    "storyId": 6,
+    "voiceTitleTextMapHash": 2088129307,
+    "voiceDescTextMapHash": 444245475,
+    "voiceList": [
+      680022001,
+      680022002,
+      680022003,
+      680022004
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3661197583,
+    "CDHMNGDMBPD": 746332763,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1761143366,
+    "ENGGPHBOHNK": 20,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 21,
+    "storyId": 6,
+    "voiceTitleTextMapHash": 1253164363,
+    "voiceDescTextMapHash": 412983331,
+    "voiceList": [
+      680022101,
+      680022102,
+      680022103,
+      680022104
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2925625215,
+    "CDHMNGDMBPD": 4198145563,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 3396517142,
+    "ENGGPHBOHNK": 21,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 22,
+    "storyId": 6,
+    "voiceTitleTextMapHash": 298977907,
+    "voiceDescTextMapHash": 3127332267,
+    "voiceList": [
+      680022201,
+      680022202,
+      680022203
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 1043227655,
+    "CDHMNGDMBPD": 1464478283,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 399865870,
+    "ENGGPHBOHNK": 22,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 23,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 2935013867,
+    "voiceDescTextMapHash": 1162589643,
+    "voiceList": [
+      680022301,
+      680022302,
+      680022303
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 332712287,
+    "CDHMNGDMBPD": 2319856195,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2163308598,
+    "ENGGPHBOHNK": 23,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 24,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 347143955,
+    "voiceDescTextMapHash": 666537475,
+    "voiceList": [
+      680022401
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3521567135,
+    "CDHMNGDMBPD": 3898552259,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 4075364542,
+    "ENGGPHBOHNK": 24,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 25,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 215180587,
+    "voiceDescTextMapHash": 1218317923,
+    "voiceList": [
+      680022501,
+      680022502,
+      680022503
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2768690359,
+    "CDHMNGDMBPD": 1897303659,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1960810174,
+    "ENGGPHBOHNK": 25,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 26,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 2920205195,
+    "voiceDescTextMapHash": 1578680075,
+    "voiceList": [
+      680022601,
+      680022602,
+      680022603
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3269645303,
+    "CDHMNGDMBPD": 4229304771,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 331708558,
+    "ENGGPHBOHNK": 26,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 27,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 2048330027,
+    "voiceDescTextMapHash": 3592203291,
+    "voiceList": [
+      680022701,
+      680022702
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2399123727,
+    "CDHMNGDMBPD": 2377428275,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1980476854,
+    "ENGGPHBOHNK": 27,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 28,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 3453842675,
+    "voiceDescTextMapHash": 2447973259,
+    "voiceList": [
+      680022801,
+      680022802
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3533119999,
+    "CDHMNGDMBPD": 2208852091,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 4201124966,
+    "ENGGPHBOHNK": 28,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 29,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 3976835763,
+    "voiceDescTextMapHash": 3384093595,
+    "voiceList": [
+      680022901
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 889869711,
+    "CDHMNGDMBPD": 3932312755,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 658449046,
+    "ENGGPHBOHNK": 29,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 30,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 493146835,
+    "voiceDescTextMapHash": 2383737659,
+    "voiceList": [
+      680023001,
+      680023002
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 3229134519,
+    "CDHMNGDMBPD": 123384451,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2634563782,
+    "ENGGPHBOHNK": 30,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 31,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 2546205507,
+    "voiceDescTextMapHash": 753890259,
+    "voiceList": [
+      680023102,
+      680023101
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 1402638327,
+    "CDHMNGDMBPD": 4180876875,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2793592102,
+    "ENGGPHBOHNK": 31,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 32,
+    "storyId": 7,
+    "voiceTitleTextMapHash": 3606491299,
+    "voiceDescTextMapHash": 4190590091,
+    "voiceList": [
+      680023201
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 1956503383,
+    "CDHMNGDMBPD": 2378500635,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2978520766,
+    "ENGGPHBOHNK": 32,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 33,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "voiceTitleTextMapHash": 1423264659,
+    "voiceDescTextMapHash": 2810350355,
+    "voiceList": [
+      680026801
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 170249815,
+    "CDHMNGDMBPD": 39636603,
+    "HLCLCJPNEBD": [],
+    "CNJOJIDCIAM": 1139,
+    "MGDEFJBABLJ": 1766800878,
+    "ENGGPHBOHNK": 3,
+    "JFPNJFFHEEE": [
+      29,
+      54
+    ],
+    "LDJMDHKODHA": 4007414
+  },
+  {
+    "id": 34,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "voiceTitleTextMapHash": 553978179,
+    "voiceDescTextMapHash": 670407467,
+    "voiceList": [
+      680026901
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2959064799,
+    "CDHMNGDMBPD": 2443720691,
+    "HLCLCJPNEBD": [],
+    "CNJOJIDCIAM": 1144,
+    "MGDEFJBABLJ": 2662421150,
+    "ENGGPHBOHNK": 1,
+    "JFPNJFFHEEE": [
+      13,
+      48
+    ],
+    "LDJMDHKODHA": 4006712
+  },
+  {
+    "id": 35,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "voiceTitleTextMapHash": 2588551003,
+    "voiceDescTextMapHash": 355344699,
+    "voiceList": [
+      680027101
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 2373223015,
+    "CDHMNGDMBPD": 519855147,
+    "HLCLCJPNEBD": [],
+    "CNJOJIDCIAM": 1137,
+    "MGDEFJBABLJ": 3882668878,
+    "ENGGPHBOHNK": 2,
+    "JFPNJFFHEEE": [
+      27,
+      52
+    ],
+    "LDJMDHKODHA": 4007005
+  },
+  {
+    "id": 36,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "voiceTitleTextMapHash": 3812452899,
+    "voiceDescTextMapHash": 3986909603,
+    "voiceList": [
+      680027001,
+      680027002
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markPosition": [],
+    "OOELPGADFBE": 941630023,
+    "CDHMNGDMBPD": 394103963,
+    "HLCLCJPNEBD": [],
+    "CNJOJIDCIAM": 1142,
+    "MGDEFJBABLJ": 2958357142,
+    "ENGGPHBOHNK": 4,
+    "JFPNJFFHEEE": [
+      17,
+      50
+    ],
+    "LDJMDHKODHA": 4007201
+  },
+  {
+    "id": 37,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_IMAGE",
+    "storyId": 3,
+    "voiceTitleTextMapHash": 1214430811,
+    "voiceDescTextMapHash": 1027547427,
+    "voiceList": [],
+    "BJNFKKCFPAF": [
+      1111259,
+      1111260,
+      1111261,
+      1111262
+    ],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_01",
+    "markPosition": [],
+    "OOELPGADFBE": 3306433255,
+    "CDHMNGDMBPD": 2352779451,
+    "HLCLCJPNEBD": [
+      22
+    ],
+    "MGDEFJBABLJ": 1757507606,
+    "ENGGPHBOHNK": 1,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 38,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_IMAGE",
+    "storyId": 3,
+    "voiceTitleTextMapHash": 500986107,
+    "voiceDescTextMapHash": 141915131,
+    "voiceList": [],
+    "BJNFKKCFPAF": [
+      1111263,
+      1111264,
+      1111265
+    ],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_02",
+    "markPosition": [],
+    "OOELPGADFBE": 3267593911,
+    "CDHMNGDMBPD": 1665616107,
+    "HLCLCJPNEBD": [
+      15,
+      16
+    ],
+    "MGDEFJBABLJ": 2305911438,
+    "ENGGPHBOHNK": 2,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 39,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_NORMAL_IMAGE",
+    "storyId": 3,
+    "voiceTitleTextMapHash": 512751715,
+    "voiceDescTextMapHash": 1147049051,
+    "voiceList": [],
+    "BJNFKKCFPAF": [
+      1111266,
+      1111267,
+      1111268,
+      1111269,
+      1111270
+    ],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_03",
+    "markId": 2801014,
+    "markPosition": [
+      131.0418,
+      121.0943,
+      -171.7162
+    ],
+    "OOELPGADFBE": 2390246399,
+    "CDHMNGDMBPD": 2092030715,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1759703638,
+    "ENGGPHBOHNK": 3,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 40,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_IMAGE",
+    "storyId": 3,
+    "voiceTitleTextMapHash": 1402805739,
+    "voiceDescTextMapHash": 1306642235,
+    "voiceList": [],
+    "BJNFKKCFPAF": [
+      1111271,
+      1111272,
+      1111273,
+      1111274,
+      1111275
+    ],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_04",
+    "markPosition": [],
+    "OOELPGADFBE": 1016394535,
+    "CDHMNGDMBPD": 275272259,
+    "HLCLCJPNEBD": [
+      18,
+      19
+    ],
+    "MGDEFJBABLJ": 4130831142,
+    "ENGGPHBOHNK": 4,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 41,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_NORMAL_IMAGE",
+    "storyId": 1,
+    "voiceTitleTextMapHash": 4263520195,
+    "voiceDescTextMapHash": 1379975707,
+    "voiceList": [],
+    "BJNFKKCFPAF": [
+      1111276,
+      1111277
+    ],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_05",
+    "markId": 2801001,
+    "markPosition": [
+      381.4398,
+      123.3354,
+      -619.9734
+    ],
+    "OOELPGADFBE": 536785479,
+    "CDHMNGDMBPD": 1928128275,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2706834742,
+    "ENGGPHBOHNK": 3,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 42,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_NORMAL_IMAGE",
+    "storyId": 1,
+    "voiceTitleTextMapHash": 2327155147,
+    "voiceDescTextMapHash": 2416100635,
+    "voiceList": [],
+    "BJNFKKCFPAF": [
+      1111278
+    ],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_06",
+    "markId": 2801002,
+    "markPosition": [
+      302.0734,
+      121.8956,
+      153.7346
+    ],
+    "OOELPGADFBE": 4182735487,
+    "CDHMNGDMBPD": 819838755,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2578016390,
+    "ENGGPHBOHNK": 7,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 43,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_NORMAL_IMAGE",
+    "storyId": 2,
+    "voiceTitleTextMapHash": 274239619,
+    "voiceDescTextMapHash": 1532067163,
+    "voiceList": [],
+    "BJNFKKCFPAF": [
+      1111279,
+      1111280
+    ],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_07",
+    "markId": 2801003,
+    "markPosition": [
+      -345.7832,
+      232.3239,
+      -648.7068
+    ],
+    "OOELPGADFBE": 3500118423,
+    "CDHMNGDMBPD": 3150826627,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 347918710,
+    "ENGGPHBOHNK": 2,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 44,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_NORMAL_IMAGE",
+    "storyId": 2,
+    "voiceTitleTextMapHash": 2429546491,
+    "voiceDescTextMapHash": 3136129203,
+    "voiceList": [],
+    "BJNFKKCFPAF": [
+      1111281,
+      1111282
+    ],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_08",
+    "markId": 2801004,
+    "markPosition": [
+      -709.1096,
+      168.1007,
+      7.126843
+    ],
+    "OOELPGADFBE": 2200191487,
+    "CDHMNGDMBPD": 3344105547,
+    "HLCLCJPNEBD": [
+      22
+    ],
+    "MGDEFJBABLJ": 3084844406,
+    "ENGGPHBOHNK": 4,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 45,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "storyId": 1,
+    "voiceTitleTextMapHash": 1737664787,
+    "voiceDescTextMapHash": 397339219,
+    "voiceList": [
+      680026001
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markId": 2801005,
+    "markPosition": [
+      584.8582,
+      125.3603,
+      -402.5117
+    ],
+    "OOELPGADFBE": 1272619967,
+    "CDHMNGDMBPD": 2580204563,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1098259654,
+    "ENGGPHBOHNK": 1,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 46,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "storyId": 1,
+    "voiceTitleTextMapHash": 3454660811,
+    "voiceDescTextMapHash": 948197643,
+    "voiceList": [
+      680026101,
+      680026102
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markId": 2801006,
+    "markPosition": [
+      629.1614,
+      223.2567,
+      -478.0609
+    ],
+    "OOELPGADFBE": 1569243863,
+    "CDHMNGDMBPD": 1311732419,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1956283270,
+    "ENGGPHBOHNK": 2,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 47,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "storyId": 2,
+    "voiceTitleTextMapHash": 1363255139,
+    "voiceDescTextMapHash": 1152506371,
+    "voiceList": [
+      680026201,
+      680026202,
+      680026203
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markId": 2801007,
+    "markPosition": [
+      -389.5126,
+      120.2539,
+      -540.6815
+    ],
+    "OOELPGADFBE": 1880026551,
+    "CDHMNGDMBPD": 1393023475,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 574673230,
+    "ENGGPHBOHNK": 1,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 48,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "storyId": 1,
+    "voiceTitleTextMapHash": 1247349547,
+    "voiceDescTextMapHash": 629644563,
+    "voiceList": [
+      680026301,
+      680026302
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markId": 2801008,
+    "markPosition": [
+      272.7839,
+      121.7122,
+      384.755
+    ],
+    "OOELPGADFBE": 1078688895,
+    "CDHMNGDMBPD": 2515992115,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 571914942,
+    "ENGGPHBOHNK": 4,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 49,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "storyId": 2,
+    "voiceTitleTextMapHash": 1994137603,
+    "voiceDescTextMapHash": 172139635,
+    "voiceList": [
+      680026401,
+      680026402
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markId": 2801009,
+    "markPosition": [
+      -410.2011,
+      120.1978,
+      -665.0223
+    ],
+    "OOELPGADFBE": 2820167567,
+    "CDHMNGDMBPD": 2714404419,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 1294032598,
+    "ENGGPHBOHNK": 3,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 50,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "storyId": 1,
+    "voiceTitleTextMapHash": 2939180699,
+    "voiceDescTextMapHash": 14584899,
+    "voiceList": [
+      680026501,
+      680026502,
+      680026503,
+      680026504
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markId": 2801010,
+    "markPosition": [
+      234.2592,
+      126.3269,
+      363.2036
+    ],
+    "OOELPGADFBE": 700907431,
+    "CDHMNGDMBPD": 480792187,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 4042198574,
+    "ENGGPHBOHNK": 5,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 51,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "storyId": 1,
+    "voiceTitleTextMapHash": 971490483,
+    "voiceDescTextMapHash": 1172296763,
+    "voiceList": [
+      680026601
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markId": 2801011,
+    "markPosition": [
+      264.9365,
+      120.3423,
+      262.1474
+    ],
+    "OOELPGADFBE": 1102815295,
+    "CDHMNGDMBPD": 3551823411,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 2923859094,
+    "ENGGPHBOHNK": 6,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 52,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_SPECIAL_ECHO",
+    "storyId": 2,
+    "voiceTitleTextMapHash": 2746276115,
+    "voiceDescTextMapHash": 461898931,
+    "voiceList": [
+      680026701,
+      680026702,
+      680026703
+    ],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "",
+    "markId": 2801012,
+    "markPosition": [
+      -727.9802,
+      123.9674,
+      22.00474
+    ],
+    "OOELPGADFBE": 3772296479,
+    "CDHMNGDMBPD": 3437815395,
+    "HLCLCJPNEBD": [
+      22
+    ],
+    "MGDEFJBABLJ": 1178706734,
+    "ENGGPHBOHNK": 5,
+    "JFPNJFFHEEE": []
+  },
+  {
+    "id": 53,
+    "LKBGAJPDLBK": "ECHO_SHELL_TYPE_NORMAL_INTERACT",
+    "storyId": 3,
+    "voiceTitleTextMapHash": 3587443355,
+    "voiceDescTextMapHash": 1053833123,
+    "voiceList": [],
+    "BJNFKKCFPAF": [],
+    "EIFHAOJPFDC": "ART/UI/Atlas/EchoShellV2/UI_Activity_EchoShellV2_Pic_09",
+    "markId": 2801013,
+    "markPosition": [
+      131.0418,
+      121.0943,
+      -171.7162
+    ],
+    "OOELPGADFBE": 2737328455,
+    "CDHMNGDMBPD": 535474635,
+    "HLCLCJPNEBD": [],
+    "MGDEFJBABLJ": 4090226982,
+    "ENGGPHBOHNK": 5,
+    "JFPNJFFHEEE": []
+  }
+]

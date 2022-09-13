@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "priority": 70,
+    "tabShownNameTextMapHash": 1740503310,
+    "chatChannelIcon": "UI_Icon_Team",
+    "tagOtherTextMapHash": 22619715,
+    "tagSelfTextMapHash": 2274944922,
+    "enterTextMapHash": 2471424067,
+    "leaveTextMapHash": 3718958187
+  },
+  {
+    "id": 2,
+    "channel": 1,
+    "priority": 50,
+    "tabShownNameTextMapHash": 1294875014,
+    "chatChannelIcon": "",
+    "tagOtherTextMapHash": 2445127643,
+    "tagSelfTextMapHash": 1709097938,
+    "enterTextMapHash": 4028148187,
+    "leaveTextMapHash": 285312203
+  },
+  {
+    "id": 3,
+    "channel": 3,
+    "priority": 100,
+    "tabShownNameTextMapHash": 2867310894,
+    "chatChannelIcon": "UI_Icon_HideandSeek_Hider",
+    "tagOtherTextMapHash": 4090002923,
+    "tagSelfTextMapHash": 384258410,
+    "enterTextMapHash": 2675038915,
+    "leaveTextMapHash": 1591638643
+  },
+  {
+    "id": 4,
+    "channel": 4,
+    "priority": 69,
+    "tabShownNameTextMapHash": 1447504326,
+    "chatChannelIcon": "UI_Icon_Homeworld",
+    "tagOtherTextMapHash": 2749976211,
+    "tagSelfTextMapHash": 974604522,
+    "enterTextMapHash": 3174926123,
+    "leaveTextMapHash": 1873189931
+  }
+]

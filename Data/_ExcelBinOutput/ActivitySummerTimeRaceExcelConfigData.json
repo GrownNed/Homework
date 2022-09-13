@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "medalWatcher": [
+      1200501,
+      1200502,
+      1200503
+    ],
+    "worldCoord": [
+      604,
+      120,
+      233
+    ],
+    "medalPoint": [
+      10000,
+      20000,
+      30000
+    ],
+    "levelTitleTextMapHash": 1443788822,
+    "timeFactor": 150,
+    "goldFactor": 1500,
+    "activityCondId": 2005021,
+    "groupId": 108096,
+    "openDay": 108100
+  },
+  {
+    "id": 2,
+    "medalWatcher": [
+      1200504,
+      1200505,
+      1200506
+    ],
+    "worldCoord": [
+      -193,
+      120,
+      -466
+    ],
+    "medalPoint": [
+      10000,
+      20000,
+      30000
+    ],
+    "levelTitleTextMapHash": 2178347534,
+    "timeFactor": 150,
+    "goldFactor": 1500,
+    "activityCondId": 2005022,
+    "groupId": 63139,
+    "openDay": 63022
+  },
+  {
+    "id": 3,
+    "medalWatcher": [
+      1200507,
+      1200508,
+      1200509
+    ],
+    "worldCoord": [
+      90,
+      120,
+      270
+    ],
+    "medalPoint": [
+      10000,
+      20000,
+      30000
+    ],
+    "levelTitleTextMapHash": 588766758,
+    "timeFactor": 150,
+    "goldFactor": 1500,
+    "activityCondId": 2005023,
+    "groupId": 127093,
+    "openDay": 127011
+  },
+  {
+    "id": 4,
+    "medalWatcher": [
+      1200510,
+      1200511,
+      1200512
+    ],
+    "worldCoord": [
+      -556,
+      120,
+      -142
+    ],
+    "medalPoint": [
+      10000,
+      20000,
+      30000
+    ],
+    "levelTitleTextMapHash": 2433878222,
+    "timeFactor": 150,
+    "goldFactor": 1500,
+    "activityCondId": 2005024,
+    "groupId": 65070,
+    "openDay": 65045
+  },
+  {
+    "id": 5,
+    "medalWatcher": [
+      1200513,
+      1200514,
+      1200515
+    ],
+    "worldCoord": [
+      -231,
+      120,
+      -630
+    ],
+    "medalPoint": [
+      10000,
+      20000,
+      30000
+    ],
+    "levelTitleTextMapHash": 3726955622,
+    "timeFactor": 150,
+    "goldFactor": 1500,
+    "activityCondId": 2005025,
+    "groupId": 130099,
+    "openDay": 130026
+  },
+  {
+    "id": 6,
+    "medalWatcher": [
+      1200516,
+      1200517,
+      1200518
+    ],
+    "worldCoord": [
+      287,
+      120,
+      -764
+    ],
+    "medalPoint": [
+      10000,
+      20000,
+      30000
+    ],
+    "levelTitleTextMapHash": 3590576158,
+    "timeFactor": 150,
+    "goldFactor": 1500,
+    "activityCondId": 2005026,
+    "groupId": 49058,
+    "openDay": 49039
+  }
+]

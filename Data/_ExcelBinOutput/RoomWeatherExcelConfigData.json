@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "roomId": 1004,
+    "areaId": 1,
+    "profileName": "Data/Environment/EnviroSystemProfile/Indoor/ESP_Knight"
+  },
+  {
+    "id": 2,
+    "roomId": 1004,
+    "areaId": 3,
+    "profileName": "Data/Environment/EnviroSystemProfile/Indoor/ESP_Knight_WindDragon"
+  },
+  {
+    "id": 3,
+    "roomId": 1008,
+    "areaId": 1,
+    "profileName": "Data/Environment/EnviroSystemProfile/Indoor/ESP_Church"
+  },
+  {
+    "id": 4,
+    "roomId": 1008,
+    "areaId": 3,
+    "profileName": "Data/Environment/EnviroSystemProfile/Indoor/ESP_Church_WindDragon"
+  }
+]

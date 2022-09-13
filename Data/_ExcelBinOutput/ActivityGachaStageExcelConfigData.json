@@ -1,0 +1,124 @@
+[
+  {
+    "stageId": 1,
+    "HLOAELINJKE": 2,
+    "CPDLLKMLCHN": true,
+    "type": "TARGET_TYPE_GATHER",
+    "groupIdList": [
+      101,
+      102,
+      103
+    ],
+    "PFKKPFOLGJN": [
+      3,
+      3,
+      6
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": [
+      101,
+      102,
+      103
+    ],
+    "condId": 5080001,
+    "watcherId": 1508001,
+    "openQuestId": 7269401
+  },
+  {
+    "stageId": 2,
+    "HLOAELINJKE": 3,
+    "CPDLLKMLCHN": true,
+    "type": "TARGET_TYPE_ELEM",
+    "groupIdList": [
+      201,
+      202,
+      203
+    ],
+    "PFKKPFOLGJN": [
+      15,
+      15,
+      15
+    ],
+    "JBEICIDFOEP": [
+      133001079,
+      133105077,
+      133213557
+    ],
+    "LPDIHPENLFG": [
+      201,
+      202,
+      203
+    ],
+    "condId": 5080002,
+    "watcherId": 1508002,
+    "openQuestId": 7269501
+  },
+  {
+    "stageId": 3,
+    "HLOAELINJKE": 4,
+    "CPDLLKMLCHN": true,
+    "type": "TARGET_TYPE_MONSTER",
+    "groupIdList": [
+      301,
+      302,
+      303
+    ],
+    "PFKKPFOLGJN": [
+      3,
+      4,
+      4
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": [
+      301,
+      302,
+      303
+    ],
+    "condId": 5080003,
+    "PCMJIABGLGO": true,
+    "watcherId": 1508003,
+    "openQuestId": 7269601
+  },
+  {
+    "stageId": 4,
+    "HLOAELINJKE": 5,
+    "type": "TARGET_TYPE_GATHER",
+    "groupIdList": [
+      110
+    ],
+    "PFKKPFOLGJN": [
+      5
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": [],
+    "condId": 5080004,
+    "openQuestId": 7269701
+  },
+  {
+    "stageId": 5,
+    "HLOAELINJKE": 6,
+    "type": "TARGET_TYPE_ELEM",
+    "groupIdList": [
+      210
+    ],
+    "PFKKPFOLGJN": [
+      15
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": []
+  },
+  {
+    "stageId": 6,
+    "HLOAELINJKE": 4,
+    "type": "TARGET_TYPE_MONSTER",
+    "groupIdList": [
+      310
+    ],
+    "PFKKPFOLGJN": [
+      4
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": [],
+    "PCMJIABGLGO": true
+  }
+]

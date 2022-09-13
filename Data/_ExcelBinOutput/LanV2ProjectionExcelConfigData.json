@@ -1,0 +1,36 @@
+[
+  {
+    "scheduleId": 2010001,
+    "BJDNOKIJINC": 180,
+    "KAPJBKEDJGG": 180,
+    "OCNAFIGKIIB": 5,
+    "NMHGBHDDNLA": 2,
+    "GLPJPKKPOAN": 4,
+    "FDDHNPIBNMD": 0.03,
+    "BCAIINMJPKJ": 11019,
+    "MBDNFHIMCDI": 11020,
+    "FAPBEHGANGC": 11021,
+    "LFMJDDHGNFD": 120,
+    "BPAJIBLNIPL": 10,
+    "ANNIBGDECOJ": 120,
+    "CNLHPGLBPKM": [
+      "GuideProjectionGameRotationXYpc",
+      "GuideProjectionGameRotationXYios",
+      "GuideProjectionGameRotationXYps4"
+    ],
+    "AFLCBAKOFEC": [
+      "GuideProjectionGameRotationXYpc",
+      "GuideProjectionGameRotationXYios",
+      "GuideProjectionGameRotationXYps4",
+      "GuideProjectionGameRotationZpc",
+      "GuideProjectionGameRotationZios",
+      "GuideProjectionGameRotationZps4",
+      "GuideProjectionGameSwitchpc",
+      "GuideProjectionGameSwitchios",
+      "GuideProjectionGameSwitchps4"
+    ],
+    "guideQuestId": 40040,
+    "nameTextMapHash": 1376840672,
+    "descTextMapHash": 3157102895
+  }
+]

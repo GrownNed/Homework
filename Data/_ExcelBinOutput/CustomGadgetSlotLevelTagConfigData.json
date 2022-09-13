@@ -1,0 +1,290 @@
+[
+  {
+    "iD": 1,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400102
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400108
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 5,
+    "MDAJLNBOPMB": 70290379
+  },
+  {
+    "iD": 2,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400102
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400107
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 6,
+    "MDAJLNBOPMB": 70290379
+  },
+  {
+    "iD": 3,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400103
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400108
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 7,
+    "MDAJLNBOPMB": 70290379
+  },
+  {
+    "iD": 4,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400103
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400106
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 8,
+    "MDAJLNBOPMB": 70290379
+  },
+  {
+    "iD": 5,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400104
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400106
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 9,
+    "MDAJLNBOPMB": 70290379
+  },
+  {
+    "iD": 6,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400104
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400107
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 10,
+    "MDAJLNBOPMB": 70290379
+  },
+  {
+    "iD": 7,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400102
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400106
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 11,
+    "MDAJLNBOPMB": 70290379
+  },
+  {
+    "iD": 8,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400104
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400108
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 12,
+    "MDAJLNBOPMB": 70290379
+  },
+  {
+    "iD": 9,
+    "customGadgetType": "ACTICITY_ISLAND_MOUNTAIN",
+    "slotMap": [
+      {
+        "NBIIFLDGLGM": "LeftHill",
+        "slotList": [
+          400103
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "RightHill",
+        "slotList": [
+          400107
+        ]
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      },
+      {
+        "NBIIFLDGLGM": "",
+        "slotList": []
+      }
+    ],
+    "IHAAKMMPFNM": 13,
+    "MDAJLNBOPMB": 70290379
+  }
+]

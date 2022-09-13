@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "sceneId": 3,
+    "name": "鹤观大迷雾",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 2,
+    "sceneId": 3,
+    "name": "鹤观教学迷雾",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 3,
+    "sceneId": 3,
+    "name": "鹤观神殿迷雾",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 4,
+    "sceneId": 3,
+    "name": "鹤观山迷雾",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 5,
+    "sceneId": 3,
+    "name": "鹤观后山迷雾",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382
+  },
+  {
+    "id": 6,
+    "sceneId": 3,
+    "name": "鹤观狼窝迷雾",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 7,
+    "sceneId": 3,
+    "name": "鹤观劫难之日大迷雾",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382
+  },
+  {
+    "id": 8,
+    "sceneId": 3,
+    "name": "鹤观劫难之日后山迷雾",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382
+  },
+  {
+    "id": 9,
+    "sceneId": 3,
+    "name": "鹤观劫难之日大迷雾轻薄",
+    "GNKBBDPHMAG": [
+      18
+    ],
+    "scenePointId": 382
+  },
+  {
+    "id": 10,
+    "sceneId": 7,
+    "name": "三界路飨祭侵蚀难度区域1",
+    "GNKBBDPHMAG": [
+      210
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 11,
+    "sceneId": 7,
+    "name": "三界路飨祭侵蚀难度区域2",
+    "GNKBBDPHMAG": [
+      210
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 12,
+    "sceneId": 7,
+    "name": "三界路飨祭侵蚀难度区域3",
+    "GNKBBDPHMAG": [
+      210
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 13,
+    "sceneId": 7,
+    "name": "三界路飨祭侵蚀难度区域4",
+    "GNKBBDPHMAG": [
+      210
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 14,
+    "sceneId": 7,
+    "name": "三界路飨祭侵蚀难度区域5",
+    "GNKBBDPHMAG": [
+      210
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 15,
+    "sceneId": 7,
+    "name": "三界路飨祭侵蚀难度区域6",
+    "GNKBBDPHMAG": [
+      210
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 16,
+    "sceneId": 5,
+    "name": "渊下宫地图解锁",
+    "GNKBBDPHMAG": [
+      200
+    ],
+    "scenePointId": 39
+  },
+  {
+    "id": 17,
+    "sceneId": 7,
+    "name": "三界路飨祭地图解锁",
+    "GNKBBDPHMAG": [
+      210
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 18,
+    "sceneId": 6,
+    "name": "临时主矿道",
+    "GNKBBDPHMAG": [
+      300
+    ],
+    "scenePointId": 2,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 20,
+    "sceneId": 6,
+    "name": "崎岖石厅",
+    "GNKBBDPHMAG": [
+      300
+    ],
+    "scenePointId": 7,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 21,
+    "sceneId": 6,
+    "name": "无名遗迹",
+    "GNKBBDPHMAG": [
+      300
+    ],
+    "scenePointId": 11,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 22,
+    "sceneId": 6,
+    "name": "巨蛇岩窟",
+    "GNKBBDPHMAG": [
+      300
+    ],
+    "scenePointId": 3,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 23,
+    "sceneId": 6,
+    "name": "荧光曲径",
+    "GNKBBDPHMAG": [
+      300
+    ],
+    "scenePointId": 12,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 24,
+    "sceneId": 6,
+    "name": "大碎片",
+    "GNKBBDPHMAG": [
+      300
+    ],
+    "scenePointId": 13,
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 25,
+    "sceneId": 7,
+    "name": "三界路飨祭侵蚀迷雾",
+    "GNKBBDPHMAG": [
+      210
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 30,
+    "sceneId": 9,
+    "name": "海岛LevelTag切换区域 - 布丁岛",
+    "GNKBBDPHMAG": [
+      400
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 31,
+    "sceneId": 9,
+    "name": "海岛LevelTag切换区域 - 双双岛",
+    "GNKBBDPHMAG": [
+      401
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 32,
+    "sceneId": 9,
+    "name": "海岛LevelTag切换区域 - 破破岛",
+    "GNKBBDPHMAG": [
+      402
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 33,
+    "sceneId": 9,
+    "name": "海岛LevelTag切换区域 - 危危岛",
+    "GNKBBDPHMAG": [
+      403
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 36,
+    "sceneId": 3,
+    "name": "流沙坑区域切换",
+    "GNKBBDPHMAG": [
+      26
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 37,
+    "sceneId": 3,
+    "name": "圣显厅区域切换",
+    "GNKBBDPHMAG": [
+      26
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 38,
+    "sceneId": 3,
+    "name": "赤王陵区域切换",
+    "GNKBBDPHMAG": [
+      27
+    ],
+    "mapAreaState": "MistOpen"
+  },
+  {
+    "id": 39,
+    "sceneId": 3,
+    "name": "赤王陵后方地洞区域切换",
+    "GNKBBDPHMAG": [
+      27
+    ],
+    "mapAreaState": "MistOpen"
+  }
+]
