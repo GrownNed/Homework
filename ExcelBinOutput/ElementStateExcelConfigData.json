@@ -1,0 +1,52 @@
+[
+  {
+    "EEAEPEGGCKP": "Fire",
+    "EMFCGPJMAGN": "UI_Buff_Element_Fire",
+    "BLAJBBEDFAJ": 1
+  },
+  {
+    "EEAEPEGGCKP": "Water",
+    "EMFCGPJMAGN": "UI_Buff_Element_Water",
+    "BLAJBBEDFAJ": 2
+  },
+  {
+    "EEAEPEGGCKP": "Wood",
+    "EMFCGPJMAGN": "UI_Buff_Element_Grass",
+    "BLAJBBEDFAJ": 3
+  },
+  {
+    "EEAEPEGGCKP": "Overdose",
+    "EMFCGPJMAGN": "UI_Buff_Element_Grass",
+    "BLAJBBEDFAJ": 4
+  },
+  {
+    "EEAEPEGGCKP": "Grass",
+    "EMFCGPJMAGN": "UI_Buff_Element_Grass",
+    "BLAJBBEDFAJ": 5
+  },
+  {
+    "EEAEPEGGCKP": "Electric",
+    "EMFCGPJMAGN": "UI_Buff_Element_Elect",
+    "BLAJBBEDFAJ": 6
+  },
+  {
+    "EEAEPEGGCKP": "Wind",
+    "EMFCGPJMAGN": "UI_Buff_Element_Wind",
+    "BLAJBBEDFAJ": 7
+  },
+  {
+    "EEAEPEGGCKP": "Frozen",
+    "EMFCGPJMAGN": "UI_Buff_Element_Frost",
+    "BLAJBBEDFAJ": 8
+  },
+  {
+    "EEAEPEGGCKP": "Ice",
+    "EMFCGPJMAGN": "UI_Buff_Element_Frost",
+    "BLAJBBEDFAJ": 9
+  },
+  {
+    "EEAEPEGGCKP": "Rock",
+    "EMFCGPJMAGN": "UI_Buff_Element_Roach",
+    "BLAJBBEDFAJ": 10
+  }
+]

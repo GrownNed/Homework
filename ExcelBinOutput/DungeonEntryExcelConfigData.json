@@ -1,0 +1,2146 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 48,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 1612886129,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Cubic_Normal",
+    "BAEMDHNFPFG": 4,
+    "FKJIBCAHCAK": 220404,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 50,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 3914992809,
+    "CJEOAJPCPLF": [],
+    "OAHDPLBOOHA": true,
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 16
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 38406
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Water",
+    "BAEMDHNFPFG": 8,
+    "FKJIBCAHCAK": 220402,
+    "AIEFGGOOFIG": [
+      [
+        114001,
+        114002,
+        114003,
+        114004
+      ],
+      [
+        114005,
+        114006,
+        114007,
+        114008
+      ],
+      [
+        114009,
+        114010,
+        114011,
+        114012
+      ],
+      [
+        114001,
+        114002,
+        114003,
+        114004,
+        114005,
+        114006,
+        114007,
+        114008,
+        114009,
+        114010,
+        114011,
+        114012
+      ]
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 135,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 1293176289,
+    "CJEOAJPCPLF": [],
+    "OAHDPLBOOHA": true,
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 16
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 38406
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Thunder",
+    "FKJIBCAHCAK": 220407,
+    "AIEFGGOOFIG": [
+      [
+        114013,
+        114014,
+        114015,
+        114016
+      ],
+      [
+        114017,
+        114018,
+        114019,
+        114020
+      ],
+      [
+        114021,
+        114022,
+        114023,
+        114024
+      ],
+      [
+        114013,
+        114014,
+        114015,
+        114016,
+        114017,
+        114018,
+        114019,
+        114020,
+        114021,
+        114022,
+        114023,
+        114024
+      ]
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 117,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 77310385,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_HuZhongTian",
+    "FKJIBCAHCAK": 220406,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 42,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 2667941777,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Cubic_Normal_1",
+    "FKJIBCAHCAK": 220405,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 137,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 767933225,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Cubic_Normal_2",
+    "FKJIBCAHCAK": 220409,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 107,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 692041689,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Cubic_Normal_3",
+    "FKJIBCAHCAK": 220410,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 139,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 142290817,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Cubic_Normal_4",
+    "FKJIBCAHCAK": 220411,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 44,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 2905358345,
+    "CJEOAJPCPLF": [],
+    "OAHDPLBOOHA": true,
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 27
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 101801
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Ice",
+    "BAEMDHNFPFG": 6,
+    "FKJIBCAHCAK": 220403,
+    "AIEFGGOOFIG": [
+      [
+        104301,
+        104302,
+        104303
+      ],
+      [
+        104304,
+        104305,
+        104306
+      ],
+      [
+        104307,
+        104308,
+        104309
+      ],
+      [
+        104301,
+        104302,
+        104303,
+        104304,
+        104305,
+        104306,
+        104307,
+        104308,
+        104309
+      ]
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 131,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 2189301337,
+    "CJEOAJPCPLF": [],
+    "OAHDPLBOOHA": true,
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 27
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 101801
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Fire",
+    "FKJIBCAHCAK": 220408,
+    "AIEFGGOOFIG": [
+      [
+        104310,
+        104311,
+        104312
+      ],
+      [
+        104313,
+        104314,
+        104315
+      ],
+      [
+        104316,
+        104317,
+        104318
+      ],
+      [
+        104310,
+        104311,
+        104312,
+        104313,
+        104314,
+        104315,
+        104316,
+        104317,
+        104318
+      ]
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 12,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 221,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 4215300953,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Cubic_Cold_1",
+    "FKJIBCAHCAK": 220414,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 13,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 282,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 407495801,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Cubic_Normal_1",
+    "FKJIBCAHCAK": 220415,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 14,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 368,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 3563711113,
+    "CJEOAJPCPLF": [],
+    "OAHDPLBOOHA": true,
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 30
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 201310
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Rock",
+    "FKJIBCAHCAK": 220416,
+    "AIEFGGOOFIG": [
+      [
+        114025,
+        114026,
+        114027,
+        114028
+      ],
+      [
+        114029,
+        114030,
+        114031,
+        114032
+      ],
+      [
+        114033,
+        114034,
+        114035,
+        114036
+      ],
+      [
+        114025,
+        114026,
+        114027,
+        114028,
+        114029,
+        114030,
+        114031,
+        114032,
+        114033,
+        114034,
+        114035,
+        114036
+      ]
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 15,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 310,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 1335742113,
+    "CJEOAJPCPLF": [],
+    "OAHDPLBOOHA": true,
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 30
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 201310
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Thunder_Dq",
+    "FKJIBCAHCAK": 220417,
+    "AIEFGGOOFIG": [
+      [
+        104320,
+        104321,
+        104322
+      ],
+      [
+        104323,
+        104324,
+        104325
+      ],
+      [
+        104326,
+        104327,
+        104328
+      ],
+      [
+        104320,
+        104321,
+        104322,
+        104323,
+        104324,
+        104325,
+        104326,
+        104327,
+        104328
+      ]
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 16,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 361,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 2252726481,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 30
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 201310
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_ThunderCave_Dq",
+    "FKJIBCAHCAK": 220418,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 17,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 433,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 831946953,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 30
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 201310
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_ThunderCave_Dq",
+    "FKJIBCAHCAK": 220419,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 18,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 516,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 2021257257,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_CycleDungeonChasm",
+    "FKJIBCAHCAK": 220420,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 19,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 505,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 3613595857,
+    "CJEOAJPCPLF": [],
+    "OAHDPLBOOHA": true,
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 101801
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMCharacter01",
+    "FKJIBCAHCAK": 220422,
+    "AIEFGGOOFIG": [
+      [
+        104329,
+        104330,
+        104331
+      ],
+      [
+        104332,
+        104333,
+        104334
+      ],
+      [
+        104335,
+        104336,
+        104337
+      ],
+      [
+        104329,
+        104330,
+        104331,
+        104332,
+        104333,
+        104334,
+        104335,
+        104336,
+        104337
+      ]
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 20,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 507,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 3394002473,
+    "CJEOAJPCPLF": [],
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 39604
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMRelic01",
+    "FKJIBCAHCAK": 220423,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 21,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 509,
+    "DDMCMHELJMP": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 1711971481,
+    "CJEOAJPCPLF": [],
+    "OAHDPLBOOHA": true,
+    "HJJGEODHNOK": "LOGIC_OR",
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 22
+      },
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "HFJLCJMCGCP": 38406
+      }
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMWeapon01",
+    "FKJIBCAHCAK": 220421,
+    "AIEFGGOOFIG": [
+      [
+        114037,
+        114038,
+        114039,
+        114040
+      ],
+      [
+        114041,
+        114042,
+        114043,
+        114044
+      ],
+      [
+        114045,
+        114046,
+        114047,
+        114048
+      ],
+      [
+        114037,
+        114038,
+        114039,
+        114040,
+        114041,
+        114042,
+        114043,
+        114044,
+        114045,
+        114046,
+        114047,
+        114048
+      ]
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1001,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 45,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_OBSCURAE",
+    "CMLCFIIJCGA": 2708589641,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {
+        "DDMCMHELJMP": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "HFJLCJMCGCP": 20
+      },
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Tower_Normal",
+    "BAEMDHNFPFG": 3,
+    "FKJIBCAHCAK": 220412,
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1002,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 1,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 3239234745,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Kaeya",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1003,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 20,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 1162985985,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Amber",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1004,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 22,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 3920998985,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Lise",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1005,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 40,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 1972150497,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_DragonTear",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1006,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 38,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 792448241,
+    "CJEOAJPCPLF": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Stormterror",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1007,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 52,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 3246634345,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Kaeya",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1008,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 113,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 332916601,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Fatui",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1009,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 102,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 1575215929,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Diluc",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1010,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 89,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 2484444193,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Diluc",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1011,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 119,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 4121744817,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Diluc",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1012,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 125,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 692976025,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XiangLing",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1013,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 129,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 2511450889,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Diluc",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1014,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 146,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 3994909113,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_YunHai",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1015,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 133,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 3007793081,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_YunHai",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1016,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 218,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 1047671777,
+    "CJEOAJPCPLF": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Goldenhouse",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1017,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 223,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_EFFIGY",
+    "CMLCFIIJCGA": 2923105409,
+    "CJEOAJPCPLF": [],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_EffigyChallenge",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1018,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 265,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_FLEUR_FAIR",
+    "CMLCFIIJCGA": 3303313457,
+    "CJEOAJPCPLF": [
+      5310
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_FleurFair",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1019,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 274,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+    "CMLCFIIJCGA": 2262718049,
+    "CJEOAJPCPLF": [
+      7202
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Kaeya",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1020,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 276,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+    "CMLCFIIJCGA": 2797072865,
+    "CJEOAJPCPLF": [
+      7203
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XiangLing",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1021,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 278,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+    "CMLCFIIJCGA": 2491644225,
+    "CJEOAJPCPLF": [
+      7201
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_DragonTear",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1022,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 280,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_LOOP",
+    "CMLCFIIJCGA": 350839273,
+    "CJEOAJPCPLF": [
+      7204
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_ChannellerSlab",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1023,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 271,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 3790866161,
+    "CJEOAJPCPLF": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_DahakaBoss_1",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1024,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 294,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_EFFIGY",
+    "CMLCFIIJCGA": 3135140769,
+    "CJEOAJPCPLF": [],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_EffigyChallenge_01",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1025,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 334,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_BLITZ_RUSH",
+    "CMLCFIIJCGA": 3528534825,
+    "CJEOAJPCPLF": [
+      7301
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Perpetual",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1026,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 357,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_SUMO",
+    "CMLCFIIJCGA": 1657396761,
+    "CJEOAJPCPLF": [
+      3011
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Sumo",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1027,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 350,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 268653081,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_HFDungeon01",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1028,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 308,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 2309605713,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_HFDungeon02_01",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1029,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 359,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 2262274449,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_HFDungeon02_02",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1030,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 396,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 1251280409,
+    "CJEOAJPCPLF": [
+      127,
+      128,
+      129,
+      130
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_DonjonBattle",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1031,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 351,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 2428969633,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_HFDungeon01_02",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1032,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 417,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 3512394897,
+    "CJEOAJPCPLF": [],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_OnmyoMaze",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1033,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 426,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_HACHI",
+    "CMLCFIIJCGA": 746465721,
+    "CJEOAJPCPLF": [
+      7310
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Hachi",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1034,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 424,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 2323875993,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_HFDungeon02_02",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1035,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 436,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_LOOP",
+    "CMLCFIIJCGA": 76103177,
+    "CJEOAJPCPLF": [
+      7221
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_ChannellerSlab",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1036,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 447,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 433396889,
+    "CJEOAJPCPLF": [
+      2150
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Qiqi",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1037,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 449,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 512326977,
+    "CJEOAJPCPLF": [
+      2154
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XiangLing",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1038,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 451,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 3872861745,
+    "CJEOAJPCPLF": [
+      2158
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_YunHai",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1039,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 457,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 474765937,
+    "CJEOAJPCPLF": [
+      7302
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Eldritch_Minor01",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1040,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 469,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_SUMO",
+    "CMLCFIIJCGA": 916511777,
+    "CJEOAJPCPLF": [
+      3027
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Sumo",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1041,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 512,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 1872280993,
+    "CJEOAJPCPLF": [
+      2122,
+      2120,
+      2121,
+      2119,
+      2123
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Steeplechase_1",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1042,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 520,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 3392902889,
+    "CJEOAJPCPLF": [],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_CrystalLink",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1043,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 503,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "OILCDPPLAPG": true,
+    "CMLCFIIJCGA": 1825844521,
+    "CJEOAJPCPLF": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_WeekDungeon_Baal",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1045,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 9,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 1672606017,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_01_1",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1046,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 48,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 2432468609,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_01_4",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1047,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 50,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 3819188313,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_03_4",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1048,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 52,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 3815529809,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_02_2",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1049,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 54,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 1635795273,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_04_2",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1050,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 11,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 4117405465,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_01_2",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1051,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 13,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 3793477353,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_01_3",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1052,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 15,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 1581179913,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_03_1",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1053,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 17,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 3136096641,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_03_2",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1054,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 19,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 2666163025,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_03_3",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1055,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 27,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 3840739633,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_02_1",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1056,
+    "KLEAGKGDLJC": 9,
+    "IFBNOKELKII": 29,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 1305580185,
+    "CJEOAJPCPLF": [],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_SummerTimeV2_Character_04_1",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1057,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 613,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 705732569,
+    "CJEOAJPCPLF": [],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_ActivityInstableSpray01",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1058,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 620,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 2408826137,
+    "CJEOAJPCPLF": [],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_YunHai",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1059,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 627,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_SUMO",
+    "CMLCFIIJCGA": 4193037505,
+    "CJEOAJPCPLF": [
+      3033
+    ],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_Sumo",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1060,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 656,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "CMLCFIIJCGA": 2811700257,
+    "CJEOAJPCPLF": [],
+    "INEBPGNIFBK": true,
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_WindFildDungeon01",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1061,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 607,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 2522783185,
+    "CJEOAJPCPLF": [
+      4044
+    ],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMChallenge01",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1062,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 646,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 2603966985,
+    "CJEOAJPCPLF": [
+      4045
+    ],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMChallenge02",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1063,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 618,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 1453158609,
+    "CJEOAJPCPLF": [
+      4046
+    ],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMChallenge03",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1064,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 600,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 1399948745,
+    "CJEOAJPCPLF": [
+      4047
+    ],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMChallenge04",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1067,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 675,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 4192782753,
+    "CJEOAJPCPLF": [
+      1158
+    ],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMChallenge01",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1068,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 671,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 199077425,
+    "CJEOAJPCPLF": [
+      1159
+    ],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMChallenge05",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1069,
+    "KLEAGKGDLJC": 3,
+    "IFBNOKELKII": 674,
+    "DDMCMHELJMP": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "CMLCFIIJCGA": 4154774401,
+    "CJEOAJPCPLF": [
+      1160
+    ],
+    "INKEJHDFPKN": [
+      {},
+      {}
+    ],
+    "GICGMDOBNLE": "UI_DungeonPic_XMChallenge05",
+    "AIEFGGOOFIG": [
+      [],
+      [],
+      [],
+      []
+    ]
+  }
+]

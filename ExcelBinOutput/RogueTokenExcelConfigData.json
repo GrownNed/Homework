@@ -1,0 +1,632 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "GDMEEBBJHNA": 1,
+    "AMBNPBEGFBC": 1,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      60
+    ],
+    "CFBLKKMKIMH": [
+      40
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "GDMEEBBJHNA": 1,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      120
+    ],
+    "CFBLKKMKIMH": [
+      80
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "GDMEEBBJHNA": 1,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      180
+    ],
+    "CFBLKKMKIMH": [
+      120
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "GDMEEBBJHNA": 1,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      450
+    ],
+    "CFBLKKMKIMH": [
+      300
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "GDMEEBBJHNA": 1,
+    "AMBNPBEGFBC": 2,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      90
+    ],
+    "CFBLKKMKIMH": [
+      60
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "GDMEEBBJHNA": 1,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      180
+    ],
+    "CFBLKKMKIMH": [
+      120
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "GDMEEBBJHNA": 1,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      270
+    ],
+    "CFBLKKMKIMH": [
+      180
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "GDMEEBBJHNA": 1,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      600
+    ],
+    "CFBLKKMKIMH": [
+      400
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "GDMEEBBJHNA": 2,
+    "AMBNPBEGFBC": 1,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      60
+    ],
+    "CFBLKKMKIMH": [
+      40
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "GDMEEBBJHNA": 2,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      120
+    ],
+    "CFBLKKMKIMH": [
+      80
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "GDMEEBBJHNA": 2,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      180
+    ],
+    "CFBLKKMKIMH": [
+      120
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 12,
+    "GDMEEBBJHNA": 2,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      450
+    ],
+    "CFBLKKMKIMH": [
+      300
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 13,
+    "GDMEEBBJHNA": 2,
+    "AMBNPBEGFBC": 2,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      90
+    ],
+    "CFBLKKMKIMH": [
+      60
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 14,
+    "GDMEEBBJHNA": 2,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      180
+    ],
+    "CFBLKKMKIMH": [
+      120
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 15,
+    "GDMEEBBJHNA": 2,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      270
+    ],
+    "CFBLKKMKIMH": [
+      180
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 16,
+    "GDMEEBBJHNA": 2,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      600
+    ],
+    "CFBLKKMKIMH": [
+      400
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 17,
+    "GDMEEBBJHNA": 3,
+    "AMBNPBEGFBC": 1,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      60
+    ],
+    "CFBLKKMKIMH": [
+      40
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 18,
+    "GDMEEBBJHNA": 3,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      120
+    ],
+    "CFBLKKMKIMH": [
+      80
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 19,
+    "GDMEEBBJHNA": 3,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      180
+    ],
+    "CFBLKKMKIMH": [
+      120
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 20,
+    "GDMEEBBJHNA": 3,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      450
+    ],
+    "CFBLKKMKIMH": [
+      300
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 21,
+    "GDMEEBBJHNA": 3,
+    "AMBNPBEGFBC": 2,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      90
+    ],
+    "CFBLKKMKIMH": [
+      60
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 22,
+    "GDMEEBBJHNA": 3,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      180
+    ],
+    "CFBLKKMKIMH": [
+      120
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 23,
+    "GDMEEBBJHNA": 3,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      270
+    ],
+    "CFBLKKMKIMH": [
+      180
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 24,
+    "GDMEEBBJHNA": 3,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      600
+    ],
+    "CFBLKKMKIMH": [
+      400
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 25,
+    "GDMEEBBJHNA": 4,
+    "AMBNPBEGFBC": 1,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      60
+    ],
+    "CFBLKKMKIMH": [
+      40
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 26,
+    "GDMEEBBJHNA": 4,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      120
+    ],
+    "CFBLKKMKIMH": [
+      80
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 27,
+    "GDMEEBBJHNA": 4,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      180
+    ],
+    "CFBLKKMKIMH": [
+      120
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 28,
+    "GDMEEBBJHNA": 4,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      450
+    ],
+    "CFBLKKMKIMH": [
+      300
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 29,
+    "GDMEEBBJHNA": 4,
+    "AMBNPBEGFBC": 2,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      90
+    ],
+    "CFBLKKMKIMH": [
+      60
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 30,
+    "GDMEEBBJHNA": 4,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      180
+    ],
+    "CFBLKKMKIMH": [
+      120
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 31,
+    "GDMEEBBJHNA": 4,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      270
+    ],
+    "CFBLKKMKIMH": [
+      180
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 32,
+    "GDMEEBBJHNA": 4,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      600
+    ],
+    "CFBLKKMKIMH": [
+      400
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 33,
+    "GDMEEBBJHNA": 5,
+    "AMBNPBEGFBC": 1,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      0
+    ],
+    "CFBLKKMKIMH": [
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 34,
+    "GDMEEBBJHNA": 5,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      0
+    ],
+    "CFBLKKMKIMH": [
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 35,
+    "GDMEEBBJHNA": 5,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      0
+    ],
+    "CFBLKKMKIMH": [
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 36,
+    "GDMEEBBJHNA": 5,
+    "AMBNPBEGFBC": 1,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      0
+    ],
+    "CFBLKKMKIMH": [
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 37,
+    "GDMEEBBJHNA": 5,
+    "AMBNPBEGFBC": 2,
+    "PNONIJHOHOA": [
+      60,
+      80
+    ],
+    "DIBNIILMPHD": [
+      0
+    ],
+    "CFBLKKMKIMH": [
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 38,
+    "GDMEEBBJHNA": 5,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_EASY",
+    "PNONIJHOHOA": [
+      80,
+      100
+    ],
+    "DIBNIILMPHD": [
+      0
+    ],
+    "CFBLKKMKIMH": [
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 39,
+    "GDMEEBBJHNA": 5,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_ELITE_HARD",
+    "PNONIJHOHOA": [
+      100,
+      120
+    ],
+    "DIBNIILMPHD": [
+      0
+    ],
+    "CFBLKKMKIMH": [
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 40,
+    "GDMEEBBJHNA": 5,
+    "AMBNPBEGFBC": 2,
+    "FHDNMLEJGIB": "ROGUE_MONSTER_DIFFICULTY_BOSS",
+    "PNONIJHOHOA": [
+      180,
+      270
+    ],
+    "DIBNIILMPHD": [
+      0
+    ],
+    "CFBLKKMKIMH": [
+      0
+    ]
+  }
+]

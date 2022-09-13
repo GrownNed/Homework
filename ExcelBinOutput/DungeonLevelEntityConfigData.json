@@ -1,0 +1,5994 @@
+[
+  {
+    "HKBFMCDAAIK": 10000,
+    "PKLAPAOFNKA": 1,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Avatar_DefenseDown",
+    "CMLCFIIJCGA": 3109256178,
+    "LLNDCPOAMNP": 797221129
+  },
+  {
+    "HKBFMCDAAIK": 10001,
+    "PKLAPAOFNKA": 2,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 3935856410,
+    "LLNDCPOAMNP": 958638409
+  },
+  {
+    "HKBFMCDAAIK": 10002,
+    "PKLAPAOFNKA": 3,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 2165783538,
+    "LLNDCPOAMNP": 1126419217
+  },
+  {
+    "HKBFMCDAAIK": 10003,
+    "PKLAPAOFNKA": 4,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Wind",
+    "CMLCFIIJCGA": 323728106,
+    "LLNDCPOAMNP": 845690041
+  },
+  {
+    "HKBFMCDAAIK": 10004,
+    "PKLAPAOFNKA": 5,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Ice",
+    "CMLCFIIJCGA": 749862618,
+    "LLNDCPOAMNP": 1575136137
+  },
+  {
+    "HKBFMCDAAIK": 10005,
+    "PKLAPAOFNKA": 6,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Water",
+    "CMLCFIIJCGA": 364338386,
+    "LLNDCPOAMNP": 3800679121
+  },
+  {
+    "HKBFMCDAAIK": 10006,
+    "PKLAPAOFNKA": 7,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Grass",
+    "CMLCFIIJCGA": 2044372618,
+    "LLNDCPOAMNP": 2001743729
+  },
+  {
+    "HKBFMCDAAIK": 10007,
+    "PKLAPAOFNKA": 8,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Rock",
+    "CMLCFIIJCGA": 3206664354,
+    "LLNDCPOAMNP": 776352601
+  },
+  {
+    "HKBFMCDAAIK": 10008,
+    "PKLAPAOFNKA": 9,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Electric",
+    "CMLCFIIJCGA": 1121743490,
+    "LLNDCPOAMNP": 3232482689
+  },
+  {
+    "HKBFMCDAAIK": 10009,
+    "PKLAPAOFNKA": 10,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Fire",
+    "CMLCFIIJCGA": 3841742506,
+    "LLNDCPOAMNP": 1030493537
+  },
+  {
+    "HKBFMCDAAIK": 10010,
+    "PKLAPAOFNKA": 11,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Wind",
+    "CMLCFIIJCGA": 2616124290,
+    "LLNDCPOAMNP": 1024490841
+  },
+  {
+    "HKBFMCDAAIK": 10011,
+    "PKLAPAOFNKA": 12,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Ice",
+    "CMLCFIIJCGA": 293828714,
+    "LLNDCPOAMNP": 3757268761
+  },
+  {
+    "HKBFMCDAAIK": 10012,
+    "PKLAPAOFNKA": 13,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Water",
+    "CMLCFIIJCGA": 4052529698,
+    "LLNDCPOAMNP": 3523977233
+  },
+  {
+    "HKBFMCDAAIK": 10013,
+    "PKLAPAOFNKA": 14,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Grass",
+    "CMLCFIIJCGA": 752183178,
+    "LLNDCPOAMNP": 1964866169
+  },
+  {
+    "HKBFMCDAAIK": 10014,
+    "PKLAPAOFNKA": 15,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Rock",
+    "CMLCFIIJCGA": 3217463890,
+    "LLNDCPOAMNP": 1081659465
+  },
+  {
+    "HKBFMCDAAIK": 10015,
+    "PKLAPAOFNKA": 16,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Heal_Down",
+    "CMLCFIIJCGA": 3852311098,
+    "LLNDCPOAMNP": 3308381465
+  },
+  {
+    "HKBFMCDAAIK": 10016,
+    "PKLAPAOFNKA": 17,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "CMLCFIIJCGA": 199834394,
+    "LLNDCPOAMNP": 3848023073
+  },
+  {
+    "HKBFMCDAAIK": 10017,
+    "PKLAPAOFNKA": 18,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "CMLCFIIJCGA": 2294369709,
+    "LLNDCPOAMNP": 1921444497
+  },
+  {
+    "HKBFMCDAAIK": 10018,
+    "PKLAPAOFNKA": 19,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Wind",
+    "CMLCFIIJCGA": 4248143754,
+    "LLNDCPOAMNP": 1161972177
+  },
+  {
+    "HKBFMCDAAIK": 10019,
+    "PKLAPAOFNKA": 20,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Ice",
+    "CMLCFIIJCGA": 922981514,
+    "LLNDCPOAMNP": 1612405497
+  },
+  {
+    "HKBFMCDAAIK": 10020,
+    "PKLAPAOFNKA": 21,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Water",
+    "CMLCFIIJCGA": 1658476274,
+    "LLNDCPOAMNP": 1858783545
+  },
+  {
+    "HKBFMCDAAIK": 10021,
+    "PKLAPAOFNKA": 22,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Grass",
+    "CMLCFIIJCGA": 2869715682,
+    "LLNDCPOAMNP": 2436022513
+  },
+  {
+    "HKBFMCDAAIK": 10022,
+    "PKLAPAOFNKA": 23,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Rock",
+    "CMLCFIIJCGA": 4162996914,
+    "LLNDCPOAMNP": 4214859353
+  },
+  {
+    "HKBFMCDAAIK": 10023,
+    "PKLAPAOFNKA": 24,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_MeleeAttackDamageUp",
+    "CMLCFIIJCGA": 2298797658,
+    "LLNDCPOAMNP": 3669724873
+  },
+  {
+    "HKBFMCDAAIK": 10024,
+    "PKLAPAOFNKA": 25,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_RangeAttackDamageUp",
+    "CMLCFIIJCGA": 2221785706,
+    "LLNDCPOAMNP": 4219304145
+  },
+  {
+    "HKBFMCDAAIK": 10025,
+    "PKLAPAOFNKA": 26,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_MaleAddHurt",
+    "CMLCFIIJCGA": 552046058,
+    "LLNDCPOAMNP": 3617307633
+  },
+  {
+    "HKBFMCDAAIK": 10026,
+    "PKLAPAOFNKA": 27,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_FemaleAddHurt",
+    "CMLCFIIJCGA": 987434674,
+    "LLNDCPOAMNP": 1670767473
+  },
+  {
+    "HKBFMCDAAIK": 10027,
+    "PKLAPAOFNKA": 28,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_SwordAddHurt",
+    "CMLCFIIJCGA": 687548210,
+    "LLNDCPOAMNP": 3074760769
+  },
+  {
+    "HKBFMCDAAIK": 10028,
+    "PKLAPAOFNKA": 29,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ClaymoreAddHurt",
+    "CMLCFIIJCGA": 1589719226,
+    "LLNDCPOAMNP": 571310161
+  },
+  {
+    "HKBFMCDAAIK": 10029,
+    "PKLAPAOFNKA": 30,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PoleAddHurt",
+    "CMLCFIIJCGA": 1216884570,
+    "LLNDCPOAMNP": 899743097
+  },
+  {
+    "HKBFMCDAAIK": 10030,
+    "PKLAPAOFNKA": 31,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_CatalystAddHurt",
+    "CMLCFIIJCGA": 1042062754,
+    "LLNDCPOAMNP": 2850400977
+  },
+  {
+    "HKBFMCDAAIK": 10031,
+    "PKLAPAOFNKA": 32,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_BowAddHurt",
+    "CMLCFIIJCGA": 3667991738,
+    "LLNDCPOAMNP": 1000359209
+  },
+  {
+    "HKBFMCDAAIK": 10032,
+    "PKLAPAOFNKA": 33,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_AvatarDot_Fire",
+    "CMLCFIIJCGA": 2541895866,
+    "LLNDCPOAMNP": 3311636545
+  },
+  {
+    "HKBFMCDAAIK": 10033,
+    "PKLAPAOFNKA": 34,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_AvatarDot_Electric",
+    "CMLCFIIJCGA": 2012350298,
+    "LLNDCPOAMNP": 1351889729
+  },
+  {
+    "HKBFMCDAAIK": 10034,
+    "PKLAPAOFNKA": 35,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_AvatarDot_Water",
+    "CMLCFIIJCGA": 1246044738,
+    "LLNDCPOAMNP": 2919739025
+  },
+  {
+    "HKBFMCDAAIK": 10035,
+    "PKLAPAOFNKA": 36,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_AvatarDot_Ice",
+    "CMLCFIIJCGA": 990535402,
+    "LLNDCPOAMNP": 4288228145
+  },
+  {
+    "HKBFMCDAAIK": 10036,
+    "PKLAPAOFNKA": 37,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_AvatarDot_Wind",
+    "CMLCFIIJCGA": 3819281194,
+    "LLNDCPOAMNP": 846354145
+  },
+  {
+    "HKBFMCDAAIK": 10037,
+    "PKLAPAOFNKA": 38,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_AvatarDot_Rock",
+    "CMLCFIIJCGA": 2671028298,
+    "LLNDCPOAMNP": 2985617369
+  },
+  {
+    "HKBFMCDAAIK": 10038,
+    "PKLAPAOFNKA": 39,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_AvatarDot_Grass",
+    "CMLCFIIJCGA": 1663658170,
+    "LLNDCPOAMNP": 3034986585
+  },
+  {
+    "HKBFMCDAAIK": 10039,
+    "PKLAPAOFNKA": 40,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_RandomThunder",
+    "CMLCFIIJCGA": 565097242,
+    "LLNDCPOAMNP": 2887339041
+  },
+  {
+    "HKBFMCDAAIK": 10040,
+    "PKLAPAOFNKA": 41,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Electric_Test",
+    "CMLCFIIJCGA": 2769092058,
+    "LLNDCPOAMNP": 2058925793
+  },
+  {
+    "HKBFMCDAAIK": 10041,
+    "PKLAPAOFNKA": 42,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Explode_Test",
+    "CMLCFIIJCGA": 1176272362,
+    "LLNDCPOAMNP": 1466731041
+  },
+  {
+    "HKBFMCDAAIK": 10042,
+    "PKLAPAOFNKA": 43,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Superconductor_Test",
+    "CMLCFIIJCGA": 3267416482,
+    "LLNDCPOAMNP": 3488516241
+  },
+  {
+    "HKBFMCDAAIK": 10043,
+    "PKLAPAOFNKA": 44,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Melt_Test",
+    "CMLCFIIJCGA": 3994675138,
+    "LLNDCPOAMNP": 2802483393
+  },
+  {
+    "HKBFMCDAAIK": 10044,
+    "PKLAPAOFNKA": 45,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Stream_Test",
+    "CMLCFIIJCGA": 3986163610,
+    "LLNDCPOAMNP": 3379515161
+  },
+  {
+    "HKBFMCDAAIK": 10045,
+    "PKLAPAOFNKA": 46,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Freeze_Test",
+    "CMLCFIIJCGA": 2676159698,
+    "LLNDCPOAMNP": 3657938297
+  },
+  {
+    "HKBFMCDAAIK": 10046,
+    "PKLAPAOFNKA": 47,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Burning_Test",
+    "CMLCFIIJCGA": 3059640506,
+    "LLNDCPOAMNP": 1627655657
+  },
+  {
+    "HKBFMCDAAIK": 10047,
+    "PKLAPAOFNKA": 48,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Swril_Test",
+    "CMLCFIIJCGA": 1226662090,
+    "LLNDCPOAMNP": 1764729521
+  },
+  {
+    "HKBFMCDAAIK": 10048,
+    "PKLAPAOFNKA": 49,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_CriticalUp",
+    "CMLCFIIJCGA": 2594743074,
+    "LLNDCPOAMNP": 1331097281
+  },
+  {
+    "HKBFMCDAAIK": 10049,
+    "PKLAPAOFNKA": 50,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_CriticalHurtUp",
+    "CMLCFIIJCGA": 3994069002,
+    "LLNDCPOAMNP": 2712036241
+  },
+  {
+    "HKBFMCDAAIK": 10050,
+    "PKLAPAOFNKA": 51,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 2120603194,
+    "LLNDCPOAMNP": 3820121609
+  },
+  {
+    "HKBFMCDAAIK": 10051,
+    "PKLAPAOFNKA": 52,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 471653194,
+    "LLNDCPOAMNP": 3446635097
+  },
+  {
+    "HKBFMCDAAIK": 10052,
+    "PKLAPAOFNKA": 53,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 654331522,
+    "LLNDCPOAMNP": 1980727641
+  },
+  {
+    "HKBFMCDAAIK": 10053,
+    "PKLAPAOFNKA": 54,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 1870939802,
+    "LLNDCPOAMNP": 1484789377
+  },
+  {
+    "HKBFMCDAAIK": 10054,
+    "PKLAPAOFNKA": 55,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 14713746,
+    "LLNDCPOAMNP": 3915999217
+  },
+  {
+    "HKBFMCDAAIK": 10055,
+    "PKLAPAOFNKA": 56,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 4005610922,
+    "LLNDCPOAMNP": 1759328353
+  },
+  {
+    "HKBFMCDAAIK": 10056,
+    "PKLAPAOFNKA": 57,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_ChargeEfficiencyDown",
+    "CMLCFIIJCGA": 693273602,
+    "LLNDCPOAMNP": 2200867217
+  },
+  {
+    "HKBFMCDAAIK": 10057,
+    "PKLAPAOFNKA": 58,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_GenerateElemBall",
+    "CMLCFIIJCGA": 2662000594,
+    "LLNDCPOAMNP": 3558316737
+  },
+  {
+    "HKBFMCDAAIK": 10058,
+    "PKLAPAOFNKA": 59,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Monster_ElementBeHurtDamageDown_All",
+    "CMLCFIIJCGA": 2190070890,
+    "LLNDCPOAMNP": 1414031409
+  },
+  {
+    "HKBFMCDAAIK": 10059,
+    "PKLAPAOFNKA": 60,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 3589382330,
+    "LLNDCPOAMNP": 840849961
+  },
+  {
+    "HKBFMCDAAIK": 10060,
+    "PKLAPAOFNKA": 61,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Ball_AttackSpeed_Heal",
+    "CMLCFIIJCGA": 2241943954,
+    "LLNDCPOAMNP": 3584259129
+  },
+  {
+    "HKBFMCDAAIK": 10061,
+    "PKLAPAOFNKA": 62,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Ball_MoveSpeed_Defenc",
+    "CMLCFIIJCGA": 111992362,
+    "LLNDCPOAMNP": 4252726801
+  },
+  {
+    "HKBFMCDAAIK": 10062,
+    "PKLAPAOFNKA": 1000,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Avatar_DefenseDown",
+    "CMLCFIIJCGA": 313298138,
+    "LLNDCPOAMNP": 276626249
+  },
+  {
+    "HKBFMCDAAIK": 10063,
+    "PKLAPAOFNKA": 1000,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "CMLCFIIJCGA": 2574956682,
+    "LLNDCPOAMNP": 374713937
+  },
+  {
+    "HKBFMCDAAIK": 10064,
+    "PKLAPAOFNKA": 1000,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 3841139058,
+    "LLNDCPOAMNP": 847177465
+  },
+  {
+    "HKBFMCDAAIK": 10065,
+    "PKLAPAOFNKA": 1001,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Avatar_DefenseDown",
+    "CMLCFIIJCGA": 4067299970,
+    "LLNDCPOAMNP": 3406453801
+  },
+  {
+    "HKBFMCDAAIK": 10066,
+    "PKLAPAOFNKA": 1001,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "CMLCFIIJCGA": 1938435258,
+    "LLNDCPOAMNP": 3340115425
+  },
+  {
+    "HKBFMCDAAIK": 10067,
+    "PKLAPAOFNKA": 1001,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 2981942066,
+    "LLNDCPOAMNP": 3439849585
+  },
+  {
+    "HKBFMCDAAIK": 10068,
+    "PKLAPAOFNKA": 1002,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Avatar_DefenseDown",
+    "CMLCFIIJCGA": 2573579834,
+    "LLNDCPOAMNP": 3054940449
+  },
+  {
+    "HKBFMCDAAIK": 10069,
+    "PKLAPAOFNKA": 1002,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Ice",
+    "CMLCFIIJCGA": 159022466,
+    "LLNDCPOAMNP": 3733503329
+  },
+  {
+    "HKBFMCDAAIK": 10070,
+    "PKLAPAOFNKA": 1002,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Wind",
+    "CMLCFIIJCGA": 2728380970,
+    "LLNDCPOAMNP": 3396266081
+  },
+  {
+    "HKBFMCDAAIK": 10071,
+    "PKLAPAOFNKA": 1003,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Avatar_DefenseDown",
+    "CMLCFIIJCGA": 3899178122,
+    "LLNDCPOAMNP": 2177085353
+  },
+  {
+    "HKBFMCDAAIK": 10072,
+    "PKLAPAOFNKA": 1003,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "CMLCFIIJCGA": 1208004866,
+    "LLNDCPOAMNP": 1610138777
+  },
+  {
+    "HKBFMCDAAIK": 10073,
+    "PKLAPAOFNKA": 1003,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Ice",
+    "CMLCFIIJCGA": 1508642602,
+    "LLNDCPOAMNP": 3228670657
+  },
+  {
+    "HKBFMCDAAIK": 10074,
+    "PKLAPAOFNKA": 1004,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Avatar_DefenseDown",
+    "CMLCFIIJCGA": 2245769674,
+    "LLNDCPOAMNP": 3868632105
+  },
+  {
+    "HKBFMCDAAIK": 10075,
+    "PKLAPAOFNKA": 1004,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "CMLCFIIJCGA": 1003737266,
+    "LLNDCPOAMNP": 971956545
+  },
+  {
+    "HKBFMCDAAIK": 10076,
+    "PKLAPAOFNKA": 1004,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Water",
+    "CMLCFIIJCGA": 162396994,
+    "LLNDCPOAMNP": 2634515617
+  },
+  {
+    "HKBFMCDAAIK": 10077,
+    "PKLAPAOFNKA": 1005,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Avatar_DefenseDown",
+    "CMLCFIIJCGA": 3216507194,
+    "LLNDCPOAMNP": 2939709233
+  },
+  {
+    "HKBFMCDAAIK": 10078,
+    "PKLAPAOFNKA": 1005,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "CMLCFIIJCGA": 2832961706,
+    "LLNDCPOAMNP": 2064256073
+  },
+  {
+    "HKBFMCDAAIK": 10079,
+    "PKLAPAOFNKA": 1005,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Grass",
+    "CMLCFIIJCGA": 878705842,
+    "LLNDCPOAMNP": 2037274081
+  },
+  {
+    "HKBFMCDAAIK": 10080,
+    "PKLAPAOFNKA": 1006,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Avatar_DefenseDown",
+    "CMLCFIIJCGA": 3028267906,
+    "LLNDCPOAMNP": 81701153
+  },
+  {
+    "HKBFMCDAAIK": 10081,
+    "PKLAPAOFNKA": 1006,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "CMLCFIIJCGA": 1765573322,
+    "LLNDCPOAMNP": 953234465
+  },
+  {
+    "HKBFMCDAAIK": 10082,
+    "PKLAPAOFNKA": 1006,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Rock",
+    "CMLCFIIJCGA": 1681004018,
+    "LLNDCPOAMNP": 1324757713
+  },
+  {
+    "HKBFMCDAAIK": 10083,
+    "PKLAPAOFNKA": 1007,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Electric",
+    "CMLCFIIJCGA": 431441130,
+    "LLNDCPOAMNP": 1273519105
+  },
+  {
+    "HKBFMCDAAIK": 10084,
+    "PKLAPAOFNKA": 1007,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 2658411690,
+    "LLNDCPOAMNP": 2478522905
+  },
+  {
+    "HKBFMCDAAIK": 10085,
+    "PKLAPAOFNKA": 1007,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_MeleeAttackDamageUp",
+    "CMLCFIIJCGA": 3530148466,
+    "LLNDCPOAMNP": 4189954649
+  },
+  {
+    "HKBFMCDAAIK": 10086,
+    "PKLAPAOFNKA": 1008,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Fire",
+    "CMLCFIIJCGA": 2635419666,
+    "LLNDCPOAMNP": 496673113
+  },
+  {
+    "HKBFMCDAAIK": 10087,
+    "PKLAPAOFNKA": 1008,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 2290386394,
+    "LLNDCPOAMNP": 379069001
+  },
+  {
+    "HKBFMCDAAIK": 10088,
+    "PKLAPAOFNKA": 1008,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_MeleeAttackDamageUp",
+    "CMLCFIIJCGA": 2725887754,
+    "LLNDCPOAMNP": 3418203113
+  },
+  {
+    "HKBFMCDAAIK": 10089,
+    "PKLAPAOFNKA": 1009,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementBeHurtDamageDown_Ice",
+    "CMLCFIIJCGA": 1565370090,
+    "LLNDCPOAMNP": 2236183897
+  },
+  {
+    "HKBFMCDAAIK": 10090,
+    "PKLAPAOFNKA": 1009,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 1342230378,
+    "LLNDCPOAMNP": 19752249
+  },
+  {
+    "HKBFMCDAAIK": 10091,
+    "PKLAPAOFNKA": 1009,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_RangeAttackDamageUp",
+    "CMLCFIIJCGA": 285595154,
+    "LLNDCPOAMNP": 2684414825
+  },
+  {
+    "HKBFMCDAAIK": 10092,
+    "PKLAPAOFNKA": 1010,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Heal_Down",
+    "CMLCFIIJCGA": 2452293746,
+    "LLNDCPOAMNP": 173845321
+  },
+  {
+    "HKBFMCDAAIK": 10093,
+    "PKLAPAOFNKA": 1010,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_MeleeAttackDamageUp",
+    "CMLCFIIJCGA": 695945138,
+    "LLNDCPOAMNP": 1080635153
+  },
+  {
+    "HKBFMCDAAIK": 10094,
+    "PKLAPAOFNKA": 1010,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_BowAddHurt",
+    "CMLCFIIJCGA": 1332027362,
+    "LLNDCPOAMNP": 3243350225
+  },
+  {
+    "HKBFMCDAAIK": 10095,
+    "PKLAPAOFNKA": 1050,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge",
+    "CMLCFIIJCGA": 3257312394,
+    "LLNDCPOAMNP": 4042818521
+  },
+  {
+    "HKBFMCDAAIK": 10096,
+    "PKLAPAOFNKA": 1050,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_SprintAreaAttack",
+    "CMLCFIIJCGA": 3475418714,
+    "LLNDCPOAMNP": 589940209
+  },
+  {
+    "HKBFMCDAAIK": 10097,
+    "PKLAPAOFNKA": 1051,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_SheildUp",
+    "CMLCFIIJCGA": 314060434,
+    "LLNDCPOAMNP": 1836633385
+  },
+  {
+    "HKBFMCDAAIK": 10098,
+    "PKLAPAOFNKA": 1051,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_HighStaminaAreaAttack",
+    "CMLCFIIJCGA": 1374671218,
+    "LLNDCPOAMNP": 3757061985
+  },
+  {
+    "HKBFMCDAAIK": 10099,
+    "PKLAPAOFNKA": 1052,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_AttackSpeed",
+    "CMLCFIIJCGA": 3503708706,
+    "LLNDCPOAMNP": 916335753
+  },
+  {
+    "HKBFMCDAAIK": 10100,
+    "PKLAPAOFNKA": 1052,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AttackUpAreaAttack",
+    "CMLCFIIJCGA": 3816617762,
+    "LLNDCPOAMNP": 2917804881
+  },
+  {
+    "HKBFMCDAAIK": 10101,
+    "PKLAPAOFNKA": 1053,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_CostReduce",
+    "CMLCFIIJCGA": 832247562,
+    "LLNDCPOAMNP": 1378309345
+  },
+  {
+    "HKBFMCDAAIK": 10102,
+    "PKLAPAOFNKA": 1053,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ExtraAreaAttack",
+    "CMLCFIIJCGA": 3475694210,
+    "LLNDCPOAMNP": 3176609401
+  },
+  {
+    "HKBFMCDAAIK": 10103,
+    "PKLAPAOFNKA": 1054,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_AttackSpeed",
+    "CMLCFIIJCGA": 3894747690,
+    "LLNDCPOAMNP": 1909845745
+  },
+  {
+    "HKBFMCDAAIK": 10104,
+    "PKLAPAOFNKA": 1054,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Ball_MoveSpeed",
+    "CMLCFIIJCGA": 179739018,
+    "LLNDCPOAMNP": 257086425
+  },
+  {
+    "HKBFMCDAAIK": 10105,
+    "PKLAPAOFNKA": 1054,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_SprintAreaAttack",
+    "CMLCFIIJCGA": 2612942114,
+    "LLNDCPOAMNP": 2330714185
+  },
+  {
+    "HKBFMCDAAIK": 10106,
+    "PKLAPAOFNKA": 1055,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_CostReduce",
+    "CMLCFIIJCGA": 1053407106,
+    "LLNDCPOAMNP": 2709716089
+  },
+  {
+    "HKBFMCDAAIK": 10107,
+    "PKLAPAOFNKA": 1055,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Ball_Heal",
+    "CMLCFIIJCGA": 3591149498,
+    "LLNDCPOAMNP": 2422108705
+  },
+  {
+    "HKBFMCDAAIK": 10108,
+    "PKLAPAOFNKA": 1055,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_HighStaminaAreaAttack",
+    "CMLCFIIJCGA": 1874715714,
+    "LLNDCPOAMNP": 3931003497
+  },
+  {
+    "HKBFMCDAAIK": 10109,
+    "PKLAPAOFNKA": 1056,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge",
+    "CMLCFIIJCGA": 2059614322,
+    "LLNDCPOAMNP": 2187506249
+  },
+  {
+    "HKBFMCDAAIK": 10110,
+    "PKLAPAOFNKA": 1056,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Ball_AttackSpeed",
+    "CMLCFIIJCGA": 105491298,
+    "LLNDCPOAMNP": 3578202321
+  },
+  {
+    "HKBFMCDAAIK": 10111,
+    "PKLAPAOFNKA": 1056,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AttackUpAreaAttack",
+    "CMLCFIIJCGA": 3429740770,
+    "LLNDCPOAMNP": 2888895609
+  },
+  {
+    "HKBFMCDAAIK": 10112,
+    "PKLAPAOFNKA": 1057,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_SheildUp",
+    "CMLCFIIJCGA": 4028440834,
+    "LLNDCPOAMNP": 1055866377
+  },
+  {
+    "HKBFMCDAAIK": 10113,
+    "PKLAPAOFNKA": 1057,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Ball_Defence",
+    "CMLCFIIJCGA": 2444906650,
+    "LLNDCPOAMNP": 4070657281
+  },
+  {
+    "HKBFMCDAAIK": 10114,
+    "PKLAPAOFNKA": 1057,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ExtraAreaAttack",
+    "CMLCFIIJCGA": 3569583354,
+    "LLNDCPOAMNP": 144588457
+  },
+  {
+    "HKBFMCDAAIK": 10115,
+    "PKLAPAOFNKA": 1060,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+    "CMLCFIIJCGA": 2571947322,
+    "LLNDCPOAMNP": 3720698745
+  },
+  {
+    "HKBFMCDAAIK": 10116,
+    "PKLAPAOFNKA": 1061,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+    "CMLCFIIJCGA": 2855024690,
+    "LLNDCPOAMNP": 2004533401
+  },
+  {
+    "HKBFMCDAAIK": 10117,
+    "PKLAPAOFNKA": 1062,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+    "CMLCFIIJCGA": 3878238466,
+    "LLNDCPOAMNP": 3444819513
+  },
+  {
+    "HKBFMCDAAIK": 10118,
+    "PKLAPAOFNKA": 1063,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Stream",
+    "CMLCFIIJCGA": 4124797314,
+    "LLNDCPOAMNP": 3721616057
+  },
+  {
+    "HKBFMCDAAIK": 10119,
+    "PKLAPAOFNKA": 1064,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Shock",
+    "CMLCFIIJCGA": 1354856090,
+    "LLNDCPOAMNP": 3229806785
+  },
+  {
+    "HKBFMCDAAIK": 10120,
+    "PKLAPAOFNKA": 1065,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+    "CMLCFIIJCGA": 164079170,
+    "LLNDCPOAMNP": 3642307889
+  },
+  {
+    "HKBFMCDAAIK": 10121,
+    "PKLAPAOFNKA": 1066,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+    "CMLCFIIJCGA": 1636659242,
+    "LLNDCPOAMNP": 569214985
+  },
+  {
+    "HKBFMCDAAIK": 10122,
+    "PKLAPAOFNKA": 1067,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+    "CMLCFIIJCGA": 4293122490,
+    "LLNDCPOAMNP": 3725631513
+  },
+  {
+    "HKBFMCDAAIK": 10123,
+    "PKLAPAOFNKA": 1068,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+    "CMLCFIIJCGA": 555461666,
+    "LLNDCPOAMNP": 2846476713
+  },
+  {
+    "HKBFMCDAAIK": 10124,
+    "PKLAPAOFNKA": 1069,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Shock",
+    "CMLCFIIJCGA": 291401802,
+    "LLNDCPOAMNP": 1835631953
+  },
+  {
+    "HKBFMCDAAIK": 10125,
+    "PKLAPAOFNKA": 1070,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+    "CMLCFIIJCGA": 1107441178,
+    "LLNDCPOAMNP": 418389521
+  },
+  {
+    "HKBFMCDAAIK": 10126,
+    "PKLAPAOFNKA": 1070,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+    "CMLCFIIJCGA": 2449746522,
+    "LLNDCPOAMNP": 4098364273
+  },
+  {
+    "HKBFMCDAAIK": 10127,
+    "PKLAPAOFNKA": 1070,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+    "CMLCFIIJCGA": 2270908410,
+    "LLNDCPOAMNP": 3958722905
+  },
+  {
+    "HKBFMCDAAIK": 10128,
+    "PKLAPAOFNKA": 1071,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+    "CMLCFIIJCGA": 3383841962,
+    "LLNDCPOAMNP": 1496764873
+  },
+  {
+    "HKBFMCDAAIK": 10129,
+    "PKLAPAOFNKA": 1071,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+    "CMLCFIIJCGA": 2395299498,
+    "LLNDCPOAMNP": 3792224393
+  },
+  {
+    "HKBFMCDAAIK": 10130,
+    "PKLAPAOFNKA": 1071,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+    "CMLCFIIJCGA": 4056979274,
+    "LLNDCPOAMNP": 4267054265
+  },
+  {
+    "HKBFMCDAAIK": 10131,
+    "PKLAPAOFNKA": 1100,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+    "CMLCFIIJCGA": 2662671394,
+    "LLNDCPOAMNP": 555753985
+  },
+  {
+    "HKBFMCDAAIK": 10132,
+    "PKLAPAOFNKA": 1101,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+    "CMLCFIIJCGA": 1015758474,
+    "LLNDCPOAMNP": 4147567961
+  },
+  {
+    "HKBFMCDAAIK": 10133,
+    "PKLAPAOFNKA": 1102,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+    "CMLCFIIJCGA": 800231858,
+    "LLNDCPOAMNP": 384032121
+  },
+  {
+    "HKBFMCDAAIK": 10134,
+    "PKLAPAOFNKA": 1102,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+    "CMLCFIIJCGA": 1167520402,
+    "LLNDCPOAMNP": 3336223993
+  },
+  {
+    "HKBFMCDAAIK": 10135,
+    "PKLAPAOFNKA": 1103,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+    "CMLCFIIJCGA": 4147304714,
+    "LLNDCPOAMNP": 4072282009
+  },
+  {
+    "HKBFMCDAAIK": 10136,
+    "PKLAPAOFNKA": 1103,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+    "CMLCFIIJCGA": 2640963306,
+    "LLNDCPOAMNP": 2231586785
+  },
+  {
+    "HKBFMCDAAIK": 10137,
+    "PKLAPAOFNKA": 1104,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Stream",
+    "CMLCFIIJCGA": 1405883634,
+    "LLNDCPOAMNP": 3518415505
+  },
+  {
+    "HKBFMCDAAIK": 10138,
+    "PKLAPAOFNKA": 1104,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Shock",
+    "CMLCFIIJCGA": 2345998442,
+    "LLNDCPOAMNP": 2720258113
+  },
+  {
+    "HKBFMCDAAIK": 10139,
+    "PKLAPAOFNKA": 1105,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+    "CMLCFIIJCGA": 935129274,
+    "LLNDCPOAMNP": 2264194297
+  },
+  {
+    "HKBFMCDAAIK": 10140,
+    "PKLAPAOFNKA": 1105,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+    "CMLCFIIJCGA": 991294394,
+    "LLNDCPOAMNP": 695343097
+  },
+  {
+    "HKBFMCDAAIK": 10141,
+    "PKLAPAOFNKA": 1106,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+    "CMLCFIIJCGA": 2609563922,
+    "LLNDCPOAMNP": 2321815817
+  },
+  {
+    "HKBFMCDAAIK": 10142,
+    "PKLAPAOFNKA": 1106,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+    "CMLCFIIJCGA": 1450993594,
+    "LLNDCPOAMNP": 2135099545
+  },
+  {
+    "HKBFMCDAAIK": 10143,
+    "PKLAPAOFNKA": 1107,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 2604484714,
+    "LLNDCPOAMNP": 719051041
+  },
+  {
+    "HKBFMCDAAIK": 10144,
+    "PKLAPAOFNKA": 1108,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 1004901490,
+    "LLNDCPOAMNP": 2019705993
+  },
+  {
+    "HKBFMCDAAIK": 10145,
+    "PKLAPAOFNKA": 1109,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 43431906,
+    "LLNDCPOAMNP": 4237263945
+  },
+  {
+    "HKBFMCDAAIK": 10146,
+    "PKLAPAOFNKA": 1110,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 4002078290,
+    "LLNDCPOAMNP": 998219321
+  },
+  {
+    "HKBFMCDAAIK": 10147,
+    "PKLAPAOFNKA": 1111,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 2771248346,
+    "LLNDCPOAMNP": 1339924049
+  },
+  {
+    "HKBFMCDAAIK": 10148,
+    "PKLAPAOFNKA": 1112,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 1026467626,
+    "LLNDCPOAMNP": 3796026121
+  },
+  {
+    "HKBFMCDAAIK": 10149,
+    "PKLAPAOFNKA": 1113,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 3740324946,
+    "LLNDCPOAMNP": 2402896257
+  },
+  {
+    "HKBFMCDAAIK": 10150,
+    "PKLAPAOFNKA": 1114,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Electric_Test",
+    "CMLCFIIJCGA": 2886430042,
+    "LLNDCPOAMNP": 3700197897
+  },
+  {
+    "HKBFMCDAAIK": 10151,
+    "PKLAPAOFNKA": 1115,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+    "CMLCFIIJCGA": 1518088634,
+    "LLNDCPOAMNP": 890987137
+  },
+  {
+    "HKBFMCDAAIK": 10152,
+    "PKLAPAOFNKA": 1116,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+    "CMLCFIIJCGA": 3655999154,
+    "LLNDCPOAMNP": 869515521
+  },
+  {
+    "HKBFMCDAAIK": 10153,
+    "PKLAPAOFNKA": 1117,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Electric_Test",
+    "CMLCFIIJCGA": 3262904722,
+    "LLNDCPOAMNP": 2069712009
+  },
+  {
+    "HKBFMCDAAIK": 10154,
+    "PKLAPAOFNKA": 1118,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+    "CMLCFIIJCGA": 614896858,
+    "LLNDCPOAMNP": 1272525121
+  },
+  {
+    "HKBFMCDAAIK": 10155,
+    "PKLAPAOFNKA": 1118,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+    "CMLCFIIJCGA": 3198012202,
+    "LLNDCPOAMNP": 2311611937
+  },
+  {
+    "HKBFMCDAAIK": 10156,
+    "PKLAPAOFNKA": 1118,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+    "CMLCFIIJCGA": 1498136602,
+    "LLNDCPOAMNP": 4054796729
+  },
+  {
+    "HKBFMCDAAIK": 10157,
+    "PKLAPAOFNKA": 1119,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+    "CMLCFIIJCGA": 3497848066,
+    "LLNDCPOAMNP": 2039340857
+  },
+  {
+    "HKBFMCDAAIK": 10158,
+    "PKLAPAOFNKA": 1119,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+    "CMLCFIIJCGA": 3462265546,
+    "LLNDCPOAMNP": 3558759833
+  },
+  {
+    "HKBFMCDAAIK": 10159,
+    "PKLAPAOFNKA": 1119,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+    "CMLCFIIJCGA": 1215912466,
+    "LLNDCPOAMNP": 1055510377
+  },
+  {
+    "HKBFMCDAAIK": 10160,
+    "PKLAPAOFNKA": 1120,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 3003233706,
+    "LLNDCPOAMNP": 1596994937
+  },
+  {
+    "HKBFMCDAAIK": 10161,
+    "PKLAPAOFNKA": 1121,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Freeze_Test",
+    "CMLCFIIJCGA": 1058931314,
+    "LLNDCPOAMNP": 3741945417
+  },
+  {
+    "HKBFMCDAAIK": 10162,
+    "PKLAPAOFNKA": 1121,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+    "CMLCFIIJCGA": 3195210154,
+    "LLNDCPOAMNP": 392993817
+  },
+  {
+    "HKBFMCDAAIK": 10163,
+    "PKLAPAOFNKA": 1122,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+    "CMLCFIIJCGA": 1223682442,
+    "LLNDCPOAMNP": 3451499465
+  },
+  {
+    "HKBFMCDAAIK": 10164,
+    "PKLAPAOFNKA": 1122,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+    "CMLCFIIJCGA": 2581676866,
+    "LLNDCPOAMNP": 527462377
+  },
+  {
+    "HKBFMCDAAIK": 10165,
+    "PKLAPAOFNKA": 1123,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+    "CMLCFIIJCGA": 2393611578,
+    "LLNDCPOAMNP": 3785757057
+  },
+  {
+    "HKBFMCDAAIK": 10166,
+    "PKLAPAOFNKA": 1123,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+    "CMLCFIIJCGA": 690746482,
+    "LLNDCPOAMNP": 333570489
+  },
+  {
+    "HKBFMCDAAIK": 10167,
+    "PKLAPAOFNKA": 1124,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+    "CMLCFIIJCGA": 1232894650,
+    "LLNDCPOAMNP": 1558906177
+  },
+  {
+    "HKBFMCDAAIK": 10168,
+    "PKLAPAOFNKA": 1124,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+    "CMLCFIIJCGA": 2746461074,
+    "LLNDCPOAMNP": 1337329761
+  },
+  {
+    "HKBFMCDAAIK": 10169,
+    "PKLAPAOFNKA": 1125,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Melt_Test",
+    "CMLCFIIJCGA": 1720410066,
+    "LLNDCPOAMNP": 2590561937
+  },
+  {
+    "HKBFMCDAAIK": 10170,
+    "PKLAPAOFNKA": 1126,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Rock",
+    "CMLCFIIJCGA": 2453463594,
+    "LLNDCPOAMNP": 1659341161
+  },
+  {
+    "HKBFMCDAAIK": 10171,
+    "PKLAPAOFNKA": 1127,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Rock",
+    "CMLCFIIJCGA": 1453373442,
+    "LLNDCPOAMNP": 2451004041
+  },
+  {
+    "HKBFMCDAAIK": 10172,
+    "PKLAPAOFNKA": 1128,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Rock",
+    "CMLCFIIJCGA": 2452733498,
+    "LLNDCPOAMNP": 4000021001
+  },
+  {
+    "HKBFMCDAAIK": 10173,
+    "PKLAPAOFNKA": 1129,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 227767066,
+    "LLNDCPOAMNP": 2919598289
+  },
+  {
+    "HKBFMCDAAIK": 10174,
+    "PKLAPAOFNKA": 1129,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_CriticalUp",
+    "CMLCFIIJCGA": 1726500442,
+    "LLNDCPOAMNP": 3238173137
+  },
+  {
+    "HKBFMCDAAIK": 10175,
+    "PKLAPAOFNKA": 1130,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 1975271354,
+    "LLNDCPOAMNP": 1537978345
+  },
+  {
+    "HKBFMCDAAIK": 10176,
+    "PKLAPAOFNKA": 1131,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 3101582170,
+    "LLNDCPOAMNP": 3344307849
+  },
+  {
+    "HKBFMCDAAIK": 10177,
+    "PKLAPAOFNKA": 1131,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 2243525538,
+    "LLNDCPOAMNP": 2065867561
+  },
+  {
+    "HKBFMCDAAIK": 10178,
+    "PKLAPAOFNKA": 1132,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 2619732106,
+    "LLNDCPOAMNP": 1175147905
+  },
+  {
+    "HKBFMCDAAIK": 10179,
+    "PKLAPAOFNKA": 1133,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 3139625826,
+    "LLNDCPOAMNP": 2997892273
+  },
+  {
+    "HKBFMCDAAIK": 10180,
+    "PKLAPAOFNKA": 1134,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 3551814986,
+    "LLNDCPOAMNP": 404570881
+  },
+  {
+    "HKBFMCDAAIK": 10181,
+    "PKLAPAOFNKA": 1135,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 3154081794,
+    "LLNDCPOAMNP": 1961740289
+  },
+  {
+    "HKBFMCDAAIK": 10182,
+    "PKLAPAOFNKA": 1135,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 1953360890,
+    "LLNDCPOAMNP": 3451095673
+  },
+  {
+    "HKBFMCDAAIK": 10183,
+    "PKLAPAOFNKA": 1136,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 3312564242,
+    "LLNDCPOAMNP": 2530570761
+  },
+  {
+    "HKBFMCDAAIK": 10184,
+    "PKLAPAOFNKA": 1137,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 293165154,
+    "LLNDCPOAMNP": 3014783329
+  },
+  {
+    "HKBFMCDAAIK": 10185,
+    "PKLAPAOFNKA": 1137,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 2820874170,
+    "LLNDCPOAMNP": 612343105
+  },
+  {
+    "HKBFMCDAAIK": 10186,
+    "PKLAPAOFNKA": 1138,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 656061794,
+    "LLNDCPOAMNP": 2583354617
+  },
+  {
+    "HKBFMCDAAIK": 10187,
+    "PKLAPAOFNKA": 1139,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp",
+    "CMLCFIIJCGA": 971958506,
+    "LLNDCPOAMNP": 2166919017
+  },
+  {
+    "HKBFMCDAAIK": 10188,
+    "PKLAPAOFNKA": 1139,
+    "CMCKHNNHJKH": "LevelEntity_Monster_AttackUp",
+    "CMLCFIIJCGA": 3151371634,
+    "LLNDCPOAMNP": 594721321
+  },
+  {
+    "HKBFMCDAAIK": 10189,
+    "PKLAPAOFNKA": 1150,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 1690927338,
+    "LLNDCPOAMNP": 71937609
+  },
+  {
+    "HKBFMCDAAIK": 10190,
+    "PKLAPAOFNKA": 1150,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Explode_Test",
+    "CMLCFIIJCGA": 3133787834,
+    "LLNDCPOAMNP": 1977316489
+  },
+  {
+    "HKBFMCDAAIK": 10191,
+    "PKLAPAOFNKA": 1150,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv1",
+    "CMLCFIIJCGA": 82603434,
+    "LLNDCPOAMNP": 3270019721
+  },
+  {
+    "HKBFMCDAAIK": 10192,
+    "PKLAPAOFNKA": 1151,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Ice",
+    "CMLCFIIJCGA": 4065652722,
+    "LLNDCPOAMNP": 143822553
+  },
+  {
+    "HKBFMCDAAIK": 10193,
+    "PKLAPAOFNKA": 1151,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Freeze_Test",
+    "CMLCFIIJCGA": 4253180066,
+    "LLNDCPOAMNP": 2343284225
+  },
+  {
+    "HKBFMCDAAIK": 10194,
+    "PKLAPAOFNKA": 1151,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 806823714,
+    "LLNDCPOAMNP": 87917177
+  },
+  {
+    "HKBFMCDAAIK": 10195,
+    "PKLAPAOFNKA": 1152,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 3556034098,
+    "LLNDCPOAMNP": 30440441
+  },
+  {
+    "HKBFMCDAAIK": 10196,
+    "PKLAPAOFNKA": 1152,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Electric_Test",
+    "CMLCFIIJCGA": 1990364058,
+    "LLNDCPOAMNP": 1128541033
+  },
+  {
+    "HKBFMCDAAIK": 10197,
+    "PKLAPAOFNKA": 1152,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv1",
+    "CMLCFIIJCGA": 3346517434,
+    "LLNDCPOAMNP": 1652594265
+  },
+  {
+    "HKBFMCDAAIK": 10198,
+    "PKLAPAOFNKA": 1153,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 1671088698,
+    "LLNDCPOAMNP": 4257444281
+  },
+  {
+    "HKBFMCDAAIK": 10199,
+    "PKLAPAOFNKA": 1153,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Ice",
+    "CMLCFIIJCGA": 3622592762,
+    "LLNDCPOAMNP": 2998318329
+  },
+  {
+    "HKBFMCDAAIK": 10200,
+    "PKLAPAOFNKA": 1153,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Melt_Test",
+    "CMLCFIIJCGA": 1070824778,
+    "LLNDCPOAMNP": 2848044081
+  },
+  {
+    "HKBFMCDAAIK": 10201,
+    "PKLAPAOFNKA": 1153,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv1",
+    "CMLCFIIJCGA": 2844728426,
+    "LLNDCPOAMNP": 2343981537
+  },
+  {
+    "HKBFMCDAAIK": 10202,
+    "PKLAPAOFNKA": 1154,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 2220947274,
+    "LLNDCPOAMNP": 597155321
+  },
+  {
+    "HKBFMCDAAIK": 10203,
+    "PKLAPAOFNKA": 1154,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 4207839586,
+    "LLNDCPOAMNP": 764451209
+  },
+  {
+    "HKBFMCDAAIK": 10204,
+    "PKLAPAOFNKA": 1154,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Explode_Test",
+    "CMLCFIIJCGA": 484213202,
+    "LLNDCPOAMNP": 1042835385
+  },
+  {
+    "HKBFMCDAAIK": 10205,
+    "PKLAPAOFNKA": 1154,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 1753040570,
+    "LLNDCPOAMNP": 3703410985
+  },
+  {
+    "HKBFMCDAAIK": 10206,
+    "PKLAPAOFNKA": 1140,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Swril_Test",
+    "CMLCFIIJCGA": 2566076098,
+    "LLNDCPOAMNP": 3127223281
+  },
+  {
+    "HKBFMCDAAIK": 10207,
+    "PKLAPAOFNKA": 1140,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Wind",
+    "CMLCFIIJCGA": 1727678882,
+    "LLNDCPOAMNP": 1816585937
+  },
+  {
+    "HKBFMCDAAIK": 10208,
+    "PKLAPAOFNKA": 1140,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 1609757122,
+    "LLNDCPOAMNP": 608304633
+  },
+  {
+    "HKBFMCDAAIK": 10209,
+    "PKLAPAOFNKA": 1141,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 26702082,
+    "LLNDCPOAMNP": 688958073
+  },
+  {
+    "HKBFMCDAAIK": 10210,
+    "PKLAPAOFNKA": 1141,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Electric_Test",
+    "CMLCFIIJCGA": 1916801482,
+    "LLNDCPOAMNP": 3648919401
+  },
+  {
+    "HKBFMCDAAIK": 10211,
+    "PKLAPAOFNKA": 1141,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 3834234618,
+    "LLNDCPOAMNP": 4156387073
+  },
+  {
+    "HKBFMCDAAIK": 10212,
+    "PKLAPAOFNKA": 1142,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Rock",
+    "CMLCFIIJCGA": 279529802,
+    "LLNDCPOAMNP": 298425433
+  },
+  {
+    "HKBFMCDAAIK": 10213,
+    "PKLAPAOFNKA": 1142,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Freeze_Test",
+    "CMLCFIIJCGA": 3795754930,
+    "LLNDCPOAMNP": 107431681
+  },
+  {
+    "HKBFMCDAAIK": 10214,
+    "PKLAPAOFNKA": 1142,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ClaymoreAddHurt",
+    "CMLCFIIJCGA": 1364065922,
+    "LLNDCPOAMNP": 2601981297
+  },
+  {
+    "HKBFMCDAAIK": 10215,
+    "PKLAPAOFNKA": 1142,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 2262209402,
+    "LLNDCPOAMNP": 3713737721
+  },
+  {
+    "HKBFMCDAAIK": 10216,
+    "PKLAPAOFNKA": 1143,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Water",
+    "CMLCFIIJCGA": 3572258818,
+    "LLNDCPOAMNP": 1776851177
+  },
+  {
+    "HKBFMCDAAIK": 10217,
+    "PKLAPAOFNKA": 1143,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 2928137002,
+    "LLNDCPOAMNP": 4140744625
+  },
+  {
+    "HKBFMCDAAIK": 10218,
+    "PKLAPAOFNKA": 1143,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Stream_Test",
+    "CMLCFIIJCGA": 372354778,
+    "LLNDCPOAMNP": 545818449
+  },
+  {
+    "HKBFMCDAAIK": 10219,
+    "PKLAPAOFNKA": 1143,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 3799529874,
+    "LLNDCPOAMNP": 1309292873
+  },
+  {
+    "HKBFMCDAAIK": 10220,
+    "PKLAPAOFNKA": 1144,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 1382236122,
+    "LLNDCPOAMNP": 2407108705
+  },
+  {
+    "HKBFMCDAAIK": 10221,
+    "PKLAPAOFNKA": 1144,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Ice",
+    "CMLCFIIJCGA": 1212502994,
+    "LLNDCPOAMNP": 3828609209
+  },
+  {
+    "HKBFMCDAAIK": 10222,
+    "PKLAPAOFNKA": 1144,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Superconductor_Test",
+    "CMLCFIIJCGA": 3902967722,
+    "LLNDCPOAMNP": 2503606449
+  },
+  {
+    "HKBFMCDAAIK": 10223,
+    "PKLAPAOFNKA": 1144,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 3703378314,
+    "LLNDCPOAMNP": 2216475753
+  },
+  {
+    "HKBFMCDAAIK": 10224,
+    "PKLAPAOFNKA": 1155,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_CriticalHurtUp",
+    "CMLCFIIJCGA": 294644906,
+    "LLNDCPOAMNP": 975497777
+  },
+  {
+    "HKBFMCDAAIK": 10225,
+    "PKLAPAOFNKA": 1155,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 4131141562,
+    "LLNDCPOAMNP": 3739849185
+  },
+  {
+    "HKBFMCDAAIK": 10226,
+    "PKLAPAOFNKA": 1156,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 467595474,
+    "LLNDCPOAMNP": 3070124905
+  },
+  {
+    "HKBFMCDAAIK": 10227,
+    "PKLAPAOFNKA": 1156,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 1981886906,
+    "LLNDCPOAMNP": 1535345617
+  },
+  {
+    "HKBFMCDAAIK": 10228,
+    "PKLAPAOFNKA": 1157,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1278779578,
+    "LLNDCPOAMNP": 1760547873
+  },
+  {
+    "HKBFMCDAAIK": 10229,
+    "PKLAPAOFNKA": 1157,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 3098764138,
+    "LLNDCPOAMNP": 1422311049
+  },
+  {
+    "HKBFMCDAAIK": 10230,
+    "PKLAPAOFNKA": 1157,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_HealUp",
+    "CMLCFIIJCGA": 1062424210,
+    "LLNDCPOAMNP": 2503748737
+  },
+  {
+    "HKBFMCDAAIK": 10231,
+    "PKLAPAOFNKA": 1158,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1888307370,
+    "LLNDCPOAMNP": 277153041
+  },
+  {
+    "HKBFMCDAAIK": 10232,
+    "PKLAPAOFNKA": 1158,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 3546088826,
+    "LLNDCPOAMNP": 2254305793
+  },
+  {
+    "HKBFMCDAAIK": 10233,
+    "PKLAPAOFNKA": 1158,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_TowerBuff_CriticalDropElementBall",
+    "CMLCFIIJCGA": 675115306,
+    "LLNDCPOAMNP": 1312137793
+  },
+  {
+    "HKBFMCDAAIK": 10234,
+    "PKLAPAOFNKA": 1159,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 4064836234,
+    "LLNDCPOAMNP": 369818561
+  },
+  {
+    "HKBFMCDAAIK": 10235,
+    "PKLAPAOFNKA": 1159,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 927466538,
+    "LLNDCPOAMNP": 1334564185
+  },
+  {
+    "HKBFMCDAAIK": 10236,
+    "PKLAPAOFNKA": 1159,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 1110897562,
+    "LLNDCPOAMNP": 487397817
+  },
+  {
+    "HKBFMCDAAIK": 10237,
+    "PKLAPAOFNKA": 1160,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2621093042,
+    "LLNDCPOAMNP": 4138093761
+  },
+  {
+    "HKBFMCDAAIK": 10238,
+    "PKLAPAOFNKA": 1160,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Stream_Test",
+    "CMLCFIIJCGA": 2558591162,
+    "LLNDCPOAMNP": 2508804433
+  },
+  {
+    "HKBFMCDAAIK": 10239,
+    "PKLAPAOFNKA": 1160,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 2118095530,
+    "LLNDCPOAMNP": 2819338793
+  },
+  {
+    "HKBFMCDAAIK": 10240,
+    "PKLAPAOFNKA": 1161,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpHighHP",
+    "CMLCFIIJCGA": 2932374578,
+    "LLNDCPOAMNP": 1815902001
+  },
+  {
+    "HKBFMCDAAIK": 10241,
+    "PKLAPAOFNKA": 1161,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 2099495794,
+    "LLNDCPOAMNP": 1768551865
+  },
+  {
+    "HKBFMCDAAIK": 10242,
+    "PKLAPAOFNKA": 1162,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 1115216922,
+    "LLNDCPOAMNP": 2324665337
+  },
+  {
+    "HKBFMCDAAIK": 10243,
+    "PKLAPAOFNKA": 1162,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Monster_ElementBeHurtDamageDown_All",
+    "CMLCFIIJCGA": 1952890626,
+    "LLNDCPOAMNP": 2868492505
+  },
+  {
+    "HKBFMCDAAIK": 10244,
+    "PKLAPAOFNKA": 1162,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 318664578,
+    "LLNDCPOAMNP": 3416878241
+  },
+  {
+    "HKBFMCDAAIK": 10245,
+    "PKLAPAOFNKA": 1163,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_TowerBuff_CriticalDropElementBall",
+    "CMLCFIIJCGA": 1192521962,
+    "LLNDCPOAMNP": 36694977
+  },
+  {
+    "HKBFMCDAAIK": 10246,
+    "PKLAPAOFNKA": 1163,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 577378826,
+    "LLNDCPOAMNP": 3678352529
+  },
+  {
+    "HKBFMCDAAIK": 10247,
+    "PKLAPAOFNKA": 1164,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ChargeEfficiency",
+    "CMLCFIIJCGA": 597372458,
+    "LLNDCPOAMNP": 3915360849
+  },
+  {
+    "HKBFMCDAAIK": 10248,
+    "PKLAPAOFNKA": 1164,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 2281676746,
+    "LLNDCPOAMNP": 4272056097
+  },
+  {
+    "HKBFMCDAAIK": 10249,
+    "PKLAPAOFNKA": 1165,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_UltimateSkillAllBuff",
+    "CMLCFIIJCGA": 2464183306,
+    "LLNDCPOAMNP": 1661227433
+  },
+  {
+    "HKBFMCDAAIK": 10250,
+    "PKLAPAOFNKA": 1165,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 99628242,
+    "LLNDCPOAMNP": 1159823265
+  },
+  {
+    "HKBFMCDAAIK": 10251,
+    "PKLAPAOFNKA": 1166,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpLowHP",
+    "CMLCFIIJCGA": 3182393114,
+    "LLNDCPOAMNP": 3047614241
+  },
+  {
+    "HKBFMCDAAIK": 10252,
+    "PKLAPAOFNKA": 1166,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 1522564058,
+    "LLNDCPOAMNP": 1795885265
+  },
+  {
+    "HKBFMCDAAIK": 10253,
+    "PKLAPAOFNKA": 1167,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ChargeEfficiency",
+    "CMLCFIIJCGA": 911761730,
+    "LLNDCPOAMNP": 352756097
+  },
+  {
+    "HKBFMCDAAIK": 10254,
+    "PKLAPAOFNKA": 1200,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 3508493090,
+    "LLNDCPOAMNP": 2410626289
+  },
+  {
+    "HKBFMCDAAIK": 10255,
+    "PKLAPAOFNKA": 1200,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Explode_Test",
+    "CMLCFIIJCGA": 3671455578,
+    "LLNDCPOAMNP": 3681313121
+  },
+  {
+    "HKBFMCDAAIK": 10256,
+    "PKLAPAOFNKA": 1201,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Ice",
+    "CMLCFIIJCGA": 1835520338,
+    "LLNDCPOAMNP": 375799057
+  },
+  {
+    "HKBFMCDAAIK": 10257,
+    "PKLAPAOFNKA": 1201,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Freeze_Test",
+    "CMLCFIIJCGA": 788007594,
+    "LLNDCPOAMNP": 3924674281
+  },
+  {
+    "HKBFMCDAAIK": 10258,
+    "PKLAPAOFNKA": 1202,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Swril_Test",
+    "CMLCFIIJCGA": 2316069210,
+    "LLNDCPOAMNP": 1322204449
+  },
+  {
+    "HKBFMCDAAIK": 10259,
+    "PKLAPAOFNKA": 1202,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Wind",
+    "CMLCFIIJCGA": 76632138,
+    "LLNDCPOAMNP": 1377404313
+  },
+  {
+    "HKBFMCDAAIK": 10260,
+    "PKLAPAOFNKA": 1202,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 3075480170,
+    "LLNDCPOAMNP": 2271507457
+  },
+  {
+    "HKBFMCDAAIK": 10261,
+    "PKLAPAOFNKA": 1203,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 3055873738,
+    "LLNDCPOAMNP": 956103985
+  },
+  {
+    "HKBFMCDAAIK": 10262,
+    "PKLAPAOFNKA": 1203,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Electric_Test",
+    "CMLCFIIJCGA": 3754469754,
+    "LLNDCPOAMNP": 1709055241
+  },
+  {
+    "HKBFMCDAAIK": 10263,
+    "PKLAPAOFNKA": 1203,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 3097333978,
+    "LLNDCPOAMNP": 2859621937
+  },
+  {
+    "HKBFMCDAAIK": 10264,
+    "PKLAPAOFNKA": 1204,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpHighHP",
+    "CMLCFIIJCGA": 3567075034,
+    "LLNDCPOAMNP": 693948097
+  },
+  {
+    "HKBFMCDAAIK": 10265,
+    "PKLAPAOFNKA": 1204,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 3622277442,
+    "LLNDCPOAMNP": 1813821529
+  },
+  {
+    "HKBFMCDAAIK": 10266,
+    "PKLAPAOFNKA": 1205,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ChargeEfficiency",
+    "CMLCFIIJCGA": 518037170,
+    "LLNDCPOAMNP": 943222033
+  },
+  {
+    "HKBFMCDAAIK": 10267,
+    "PKLAPAOFNKA": 1205,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_UltimateSkillAllBuff",
+    "CMLCFIIJCGA": 1131631770,
+    "LLNDCPOAMNP": 3323812377
+  },
+  {
+    "HKBFMCDAAIK": 10268,
+    "PKLAPAOFNKA": 1205,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 1112585642,
+    "LLNDCPOAMNP": 3522088145
+  },
+  {
+    "HKBFMCDAAIK": 10269,
+    "PKLAPAOFNKA": 1206,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_TowerBuff_CriticalDropElementBall",
+    "CMLCFIIJCGA": 1308424554,
+    "LLNDCPOAMNP": 617601857
+  },
+  {
+    "HKBFMCDAAIK": 10270,
+    "PKLAPAOFNKA": 1206,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_CriticalHurtUp",
+    "CMLCFIIJCGA": 412647506,
+    "LLNDCPOAMNP": 641583281
+  },
+  {
+    "HKBFMCDAAIK": 10271,
+    "PKLAPAOFNKA": 1206,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 235006458,
+    "LLNDCPOAMNP": 1983545545
+  },
+  {
+    "HKBFMCDAAIK": 10272,
+    "PKLAPAOFNKA": 1207,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpLowHP",
+    "CMLCFIIJCGA": 944979874,
+    "LLNDCPOAMNP": 3337170673
+  },
+  {
+    "HKBFMCDAAIK": 10273,
+    "PKLAPAOFNKA": 1207,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 2775902610,
+    "LLNDCPOAMNP": 12830513
+  },
+  {
+    "HKBFMCDAAIK": 10274,
+    "PKLAPAOFNKA": 1208,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkSpeedLowHP",
+    "CMLCFIIJCGA": 1711662402,
+    "LLNDCPOAMNP": 560834145
+  },
+  {
+    "HKBFMCDAAIK": 10275,
+    "PKLAPAOFNKA": 1209,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkSpeedHighHP",
+    "CMLCFIIJCGA": 3905463922,
+    "LLNDCPOAMNP": 2557999825
+  },
+  {
+    "HKBFMCDAAIK": 10276,
+    "PKLAPAOFNKA": 1210,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_MoveSpeedLowHP",
+    "CMLCFIIJCGA": 3044417802,
+    "LLNDCPOAMNP": 3713465529
+  },
+  {
+    "HKBFMCDAAIK": 10277,
+    "PKLAPAOFNKA": 1211,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_MoveSpeedHighHP",
+    "CMLCFIIJCGA": 575147770,
+    "LLNDCPOAMNP": 1260730025
+  },
+  {
+    "HKBFMCDAAIK": 10278,
+    "PKLAPAOFNKA": 1212,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpLowHP",
+    "CMLCFIIJCGA": 3845950114,
+    "LLNDCPOAMNP": 119194681
+  },
+  {
+    "HKBFMCDAAIK": 10279,
+    "PKLAPAOFNKA": 1213,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpHighHP",
+    "CMLCFIIJCGA": 58734794,
+    "LLNDCPOAMNP": 1429286833
+  },
+  {
+    "HKBFMCDAAIK": 10280,
+    "PKLAPAOFNKA": 1214,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpAfterULT",
+    "CMLCFIIJCGA": 2666972506,
+    "LLNDCPOAMNP": 3389006385
+  },
+  {
+    "HKBFMCDAAIK": 10281,
+    "PKLAPAOFNKA": 1215,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpAfterULT",
+    "CMLCFIIJCGA": 16603986,
+    "LLNDCPOAMNP": 2490983089
+  },
+  {
+    "HKBFMCDAAIK": 10282,
+    "PKLAPAOFNKA": 1215,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 1653816290,
+    "LLNDCPOAMNP": 2660354185
+  },
+  {
+    "HKBFMCDAAIK": 10283,
+    "PKLAPAOFNKA": 1216,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_MoveSpeedHighHP",
+    "CMLCFIIJCGA": 164464626,
+    "LLNDCPOAMNP": 130453417
+  },
+  {
+    "HKBFMCDAAIK": 10284,
+    "PKLAPAOFNKA": 1216,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkSpeedLowHP",
+    "CMLCFIIJCGA": 1901514874,
+    "LLNDCPOAMNP": 511796601
+  },
+  {
+    "HKBFMCDAAIK": 10285,
+    "PKLAPAOFNKA": 1216,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpLowHP",
+    "CMLCFIIJCGA": 3470340634,
+    "LLNDCPOAMNP": 2575074977
+  },
+  {
+    "HKBFMCDAAIK": 10286,
+    "PKLAPAOFNKA": 1216,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 3755675570,
+    "LLNDCPOAMNP": 3762383953
+  },
+  {
+    "HKBFMCDAAIK": 10287,
+    "PKLAPAOFNKA": 1217,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpHighHP",
+    "CMLCFIIJCGA": 4170510546,
+    "LLNDCPOAMNP": 1735552625
+  },
+  {
+    "HKBFMCDAAIK": 10288,
+    "PKLAPAOFNKA": 1217,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkSpeedHighHP",
+    "CMLCFIIJCGA": 3644277890,
+    "LLNDCPOAMNP": 3160289449
+  },
+  {
+    "HKBFMCDAAIK": 10289,
+    "PKLAPAOFNKA": 1217,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_MoveSpeedHighHP",
+    "CMLCFIIJCGA": 288182610,
+    "LLNDCPOAMNP": 274846329
+  },
+  {
+    "HKBFMCDAAIK": 10290,
+    "PKLAPAOFNKA": 1217,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpHighHP",
+    "CMLCFIIJCGA": 1552040202,
+    "LLNDCPOAMNP": 1777075769
+  },
+  {
+    "HKBFMCDAAIK": 10291,
+    "PKLAPAOFNKA": 1217,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 596216162,
+    "LLNDCPOAMNP": 3036011145
+  },
+  {
+    "HKBFMCDAAIK": 10292,
+    "PKLAPAOFNKA": 1218,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpLowHP",
+    "CMLCFIIJCGA": 1392977530,
+    "LLNDCPOAMNP": 478044249
+  },
+  {
+    "HKBFMCDAAIK": 10293,
+    "PKLAPAOFNKA": 1218,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkSpeedLowHP",
+    "CMLCFIIJCGA": 2125560282,
+    "LLNDCPOAMNP": 591953385
+  },
+  {
+    "HKBFMCDAAIK": 10294,
+    "PKLAPAOFNKA": 1218,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_MoveSpeedLowHP",
+    "CMLCFIIJCGA": 1060571170,
+    "LLNDCPOAMNP": 1343474617
+  },
+  {
+    "HKBFMCDAAIK": 10295,
+    "PKLAPAOFNKA": 1218,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpLowHP",
+    "CMLCFIIJCGA": 3029566458,
+    "LLNDCPOAMNP": 1265928865
+  },
+  {
+    "HKBFMCDAAIK": 10296,
+    "PKLAPAOFNKA": 1218,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 3701229970,
+    "LLNDCPOAMNP": 1074768665
+  },
+  {
+    "HKBFMCDAAIK": 10297,
+    "PKLAPAOFNKA": 1219,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 3851638770,
+    "LLNDCPOAMNP": 2273357001
+  },
+  {
+    "HKBFMCDAAIK": 10298,
+    "PKLAPAOFNKA": 1219,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 3952719866,
+    "LLNDCPOAMNP": 588931441
+  },
+  {
+    "HKBFMCDAAIK": 10299,
+    "PKLAPAOFNKA": 1219,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Explode_Test",
+    "CMLCFIIJCGA": 1119987418,
+    "LLNDCPOAMNP": 3147810049
+  },
+  {
+    "HKBFMCDAAIK": 10300,
+    "PKLAPAOFNKA": 1219,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 495356306,
+    "LLNDCPOAMNP": 3540739897
+  },
+  {
+    "HKBFMCDAAIK": 10301,
+    "PKLAPAOFNKA": 1220,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3590153546,
+    "LLNDCPOAMNP": 60519473
+  },
+  {
+    "HKBFMCDAAIK": 10302,
+    "PKLAPAOFNKA": 1220,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_HealUp",
+    "CMLCFIIJCGA": 1451671442,
+    "LLNDCPOAMNP": 2427630745
+  },
+  {
+    "HKBFMCDAAIK": 10303,
+    "PKLAPAOFNKA": 1220,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 2911643466,
+    "LLNDCPOAMNP": 3919328913
+  },
+  {
+    "HKBFMCDAAIK": 10304,
+    "PKLAPAOFNKA": 1221,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 685761794,
+    "LLNDCPOAMNP": 4155527721
+  },
+  {
+    "HKBFMCDAAIK": 10305,
+    "PKLAPAOFNKA": 1221,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Ice",
+    "CMLCFIIJCGA": 1117921522,
+    "LLNDCPOAMNP": 2363161209
+  },
+  {
+    "HKBFMCDAAIK": 10306,
+    "PKLAPAOFNKA": 1221,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Superconductor_Test",
+    "CMLCFIIJCGA": 383813282,
+    "LLNDCPOAMNP": 246239769
+  },
+  {
+    "HKBFMCDAAIK": 10307,
+    "PKLAPAOFNKA": 1221,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 1944550002,
+    "LLNDCPOAMNP": 659469329
+  },
+  {
+    "HKBFMCDAAIK": 10308,
+    "PKLAPAOFNKA": 1222,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3638540962,
+    "LLNDCPOAMNP": 3081969529
+  },
+  {
+    "HKBFMCDAAIK": 10309,
+    "PKLAPAOFNKA": 1222,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 616209498,
+    "LLNDCPOAMNP": 823343881
+  },
+  {
+    "HKBFMCDAAIK": 10310,
+    "PKLAPAOFNKA": 1222,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 750742706,
+    "LLNDCPOAMNP": 3734517089
+  },
+  {
+    "HKBFMCDAAIK": 10311,
+    "PKLAPAOFNKA": 1300,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1363988730,
+    "LLNDCPOAMNP": 4081294569
+  },
+  {
+    "HKBFMCDAAIK": 10312,
+    "PKLAPAOFNKA": 1301,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3115449794,
+    "LLNDCPOAMNP": 1238303977
+  },
+  {
+    "HKBFMCDAAIK": 10313,
+    "PKLAPAOFNKA": 1302,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 282939290,
+    "LLNDCPOAMNP": 276905057
+  },
+  {
+    "HKBFMCDAAIK": 10314,
+    "PKLAPAOFNKA": 1303,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2739839178,
+    "LLNDCPOAMNP": 160213025
+  },
+  {
+    "HKBFMCDAAIK": 10315,
+    "PKLAPAOFNKA": 1304,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1015211514,
+    "LLNDCPOAMNP": 3013849393
+  },
+  {
+    "HKBFMCDAAIK": 10316,
+    "PKLAPAOFNKA": 1305,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3785968906,
+    "LLNDCPOAMNP": 1561306169
+  },
+  {
+    "HKBFMCDAAIK": 10317,
+    "PKLAPAOFNKA": 1306,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpHighHP",
+    "CMLCFIIJCGA": 2764826386,
+    "LLNDCPOAMNP": 1620711449
+  },
+  {
+    "HKBFMCDAAIK": 10318,
+    "PKLAPAOFNKA": 1306,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkSpeedHighHP",
+    "CMLCFIIJCGA": 1648872226,
+    "LLNDCPOAMNP": 1260389465
+  },
+  {
+    "HKBFMCDAAIK": 10319,
+    "PKLAPAOFNKA": 1306,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_MoveSpeedHighHP",
+    "CMLCFIIJCGA": 398464858,
+    "LLNDCPOAMNP": 1373611185
+  },
+  {
+    "HKBFMCDAAIK": 10320,
+    "PKLAPAOFNKA": 1306,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpHighHP",
+    "CMLCFIIJCGA": 3827391098,
+    "LLNDCPOAMNP": 3464088049
+  },
+  {
+    "HKBFMCDAAIK": 10321,
+    "PKLAPAOFNKA": 1306,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 813744714,
+    "LLNDCPOAMNP": 968796857
+  },
+  {
+    "HKBFMCDAAIK": 10322,
+    "PKLAPAOFNKA": 1307,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpAfterULT",
+    "CMLCFIIJCGA": 4217392786,
+    "LLNDCPOAMNP": 2040372665
+  },
+  {
+    "HKBFMCDAAIK": 10323,
+    "PKLAPAOFNKA": 1307,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 3251013754,
+    "LLNDCPOAMNP": 576972441
+  },
+  {
+    "HKBFMCDAAIK": 10324,
+    "PKLAPAOFNKA": 1308,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_TowerBuff_CriticalDropElementBall",
+    "CMLCFIIJCGA": 1412133530,
+    "LLNDCPOAMNP": 1917779049
+  },
+  {
+    "HKBFMCDAAIK": 10325,
+    "PKLAPAOFNKA": 1308,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_CriticalHurtUp",
+    "CMLCFIIJCGA": 4142036442,
+    "LLNDCPOAMNP": 1052684713
+  },
+  {
+    "HKBFMCDAAIK": 10326,
+    "PKLAPAOFNKA": 1308,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 707189594,
+    "LLNDCPOAMNP": 405273
+  },
+  {
+    "HKBFMCDAAIK": 10327,
+    "PKLAPAOFNKA": 1309,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkDefUpLowHP",
+    "CMLCFIIJCGA": 3182514810,
+    "LLNDCPOAMNP": 4153811689
+  },
+  {
+    "HKBFMCDAAIK": 10328,
+    "PKLAPAOFNKA": 1309,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkSpeedLowHP",
+    "CMLCFIIJCGA": 891956626,
+    "LLNDCPOAMNP": 1029794553
+  },
+  {
+    "HKBFMCDAAIK": 10329,
+    "PKLAPAOFNKA": 1309,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_MoveSpeedLowHP",
+    "CMLCFIIJCGA": 1505697018,
+    "LLNDCPOAMNP": 1347074489
+  },
+  {
+    "HKBFMCDAAIK": 10330,
+    "PKLAPAOFNKA": 1309,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpLowHP",
+    "CMLCFIIJCGA": 4015945658,
+    "LLNDCPOAMNP": 3857505
+  },
+  {
+    "HKBFMCDAAIK": 10331,
+    "PKLAPAOFNKA": 1309,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 2624390354,
+    "LLNDCPOAMNP": 1133503601
+  },
+  {
+    "HKBFMCDAAIK": 10332,
+    "PKLAPAOFNKA": 1310,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ShieldEnhanceAtk",
+    "CMLCFIIJCGA": 3790000890,
+    "LLNDCPOAMNP": 1340519433
+  },
+  {
+    "HKBFMCDAAIK": 10333,
+    "PKLAPAOFNKA": 1311,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_GainShieldDoDamage",
+    "CMLCFIIJCGA": 2984396106,
+    "LLNDCPOAMNP": 322780337
+  },
+  {
+    "HKBFMCDAAIK": 10334,
+    "PKLAPAOFNKA": 1312,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ShieldOnBeingHitDoDamage",
+    "CMLCFIIJCGA": 3541742922,
+    "LLNDCPOAMNP": 2197279657
+  },
+  {
+    "HKBFMCDAAIK": 10335,
+    "PKLAPAOFNKA": 1313,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1364787402,
+    "LLNDCPOAMNP": 2610436777
+  },
+  {
+    "HKBFMCDAAIK": 10336,
+    "PKLAPAOFNKA": 1313,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3372415026,
+    "LLNDCPOAMNP": 1955599921
+  },
+  {
+    "HKBFMCDAAIK": 10337,
+    "PKLAPAOFNKA": 1313,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 3295992474,
+    "LLNDCPOAMNP": 3319619257
+  },
+  {
+    "HKBFMCDAAIK": 10338,
+    "PKLAPAOFNKA": 1314,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3869720354,
+    "LLNDCPOAMNP": 1953631649
+  },
+  {
+    "HKBFMCDAAIK": 10339,
+    "PKLAPAOFNKA": 1314,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2436622402,
+    "LLNDCPOAMNP": 241911033
+  },
+  {
+    "HKBFMCDAAIK": 10340,
+    "PKLAPAOFNKA": 1314,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 3466746018,
+    "LLNDCPOAMNP": 656672449
+  },
+  {
+    "HKBFMCDAAIK": 10341,
+    "PKLAPAOFNKA": 1315,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Rock",
+    "CMLCFIIJCGA": 737517898,
+    "LLNDCPOAMNP": 3010105
+  },
+  {
+    "HKBFMCDAAIK": 10342,
+    "PKLAPAOFNKA": 1315,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 3642223034,
+    "LLNDCPOAMNP": 4173497441
+  },
+  {
+    "HKBFMCDAAIK": 10343,
+    "PKLAPAOFNKA": 1316,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 4112856746,
+    "LLNDCPOAMNP": 2814650281
+  },
+  {
+    "HKBFMCDAAIK": 10344,
+    "PKLAPAOFNKA": 1316,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Ice",
+    "CMLCFIIJCGA": 202574490,
+    "LLNDCPOAMNP": 933254177
+  },
+  {
+    "HKBFMCDAAIK": 10345,
+    "PKLAPAOFNKA": 1316,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 3295200034,
+    "LLNDCPOAMNP": 1365046633
+  },
+  {
+    "HKBFMCDAAIK": 10346,
+    "PKLAPAOFNKA": 1317,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_GainShieldDoDamage_Ice",
+    "CMLCFIIJCGA": 3589622938,
+    "LLNDCPOAMNP": 3542265465
+  },
+  {
+    "HKBFMCDAAIK": 10347,
+    "PKLAPAOFNKA": 1317,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_GainShieldReduceCD_Ice",
+    "CMLCFIIJCGA": 4134609602,
+    "LLNDCPOAMNP": 2876813857
+  },
+  {
+    "HKBFMCDAAIK": 10348,
+    "PKLAPAOFNKA": 1318,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_GainShieldAtkSpeedUp_Ice",
+    "CMLCFIIJCGA": 561398154,
+    "LLNDCPOAMNP": 3678600369
+  },
+  {
+    "HKBFMCDAAIK": 10349,
+    "PKLAPAOFNKA": 1319,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_GainShieldCriticalUp_Ice",
+    "CMLCFIIJCGA": 3440098746,
+    "LLNDCPOAMNP": 2437922017
+  },
+  {
+    "HKBFMCDAAIK": 10350,
+    "PKLAPAOFNKA": 1320,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Electric",
+    "CMLCFIIJCGA": 2856340298,
+    "LLNDCPOAMNP": 3577846449
+  },
+  {
+    "HKBFMCDAAIK": 10351,
+    "PKLAPAOFNKA": 1320,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_CriticalDown",
+    "CMLCFIIJCGA": 37504162,
+    "LLNDCPOAMNP": 4227262561
+  },
+  {
+    "HKBFMCDAAIK": 10352,
+    "PKLAPAOFNKA": 1320,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterULT",
+    "CMLCFIIJCGA": 1545401402,
+    "LLNDCPOAMNP": 3294176753
+  },
+  {
+    "HKBFMCDAAIK": 10353,
+    "PKLAPAOFNKA": 1320,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkDownHighHP",
+    "CMLCFIIJCGA": 4089606298,
+    "LLNDCPOAMNP": 704788401
+  },
+  {
+    "HKBFMCDAAIK": 10354,
+    "PKLAPAOFNKA": 1320,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_DashStamina_Increment",
+    "CMLCFIIJCGA": 1465057466,
+    "LLNDCPOAMNP": 3551270433
+  },
+  {
+    "HKBFMCDAAIK": 10355,
+    "PKLAPAOFNKA": 1320,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_SkillCDIncrement",
+    "CMLCFIIJCGA": 858514418,
+    "LLNDCPOAMNP": 3507630769
+  },
+  {
+    "HKBFMCDAAIK": 10356,
+    "PKLAPAOFNKA": 1320,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ShieldCostMinus",
+    "CMLCFIIJCGA": 527146146,
+    "LLNDCPOAMNP": 2874665809
+  },
+  {
+    "HKBFMCDAAIK": 10357,
+    "PKLAPAOFNKA": 1320,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkSpeed",
+    "CMLCFIIJCGA": 3611770946,
+    "LLNDCPOAMNP": 2591637169
+  },
+  {
+    "HKBFMCDAAIK": 10358,
+    "PKLAPAOFNKA": 1321,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Fire",
+    "CMLCFIIJCGA": 2848432874,
+    "LLNDCPOAMNP": 470059161
+  },
+  {
+    "HKBFMCDAAIK": 10359,
+    "PKLAPAOFNKA": 1321,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_CriticalHurtDown",
+    "CMLCFIIJCGA": 2914298738,
+    "LLNDCPOAMNP": 3581934769
+  },
+  {
+    "HKBFMCDAAIK": 10360,
+    "PKLAPAOFNKA": 1321,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkDownLowHP",
+    "CMLCFIIJCGA": 2123217730,
+    "LLNDCPOAMNP": 3188330913
+  },
+  {
+    "HKBFMCDAAIK": 10361,
+    "PKLAPAOFNKA": 1321,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AttackUp",
+    "CMLCFIIJCGA": 2497739586,
+    "LLNDCPOAMNP": 1649012825
+  },
+  {
+    "HKBFMCDAAIK": 10362,
+    "PKLAPAOFNKA": 1321,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_MoveSpeed",
+    "CMLCFIIJCGA": 4294309314,
+    "LLNDCPOAMNP": 2111130673
+  },
+  {
+    "HKBFMCDAAIK": 10363,
+    "PKLAPAOFNKA": 1322,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Ice",
+    "CMLCFIIJCGA": 2222393370,
+    "LLNDCPOAMNP": 2462262609
+  },
+  {
+    "HKBFMCDAAIK": 10364,
+    "PKLAPAOFNKA": 1322,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkDefUpHighHP",
+    "CMLCFIIJCGA": 3793278530,
+    "LLNDCPOAMNP": 3199886337
+  },
+  {
+    "HKBFMCDAAIK": 10365,
+    "PKLAPAOFNKA": 1322,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ShieldCostMinusDown",
+    "CMLCFIIJCGA": 489720194,
+    "LLNDCPOAMNP": 3098545289
+  },
+  {
+    "HKBFMCDAAIK": 10366,
+    "PKLAPAOFNKA": 1323,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_PhysicalDown",
+    "CMLCFIIJCGA": 520713690,
+    "LLNDCPOAMNP": 4024224585
+  },
+  {
+    "HKBFMCDAAIK": 10367,
+    "PKLAPAOFNKA": 1323,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkDefUpLowHP",
+    "CMLCFIIJCGA": 2950033442,
+    "LLNDCPOAMNP": 2371096425
+  },
+  {
+    "HKBFMCDAAIK": 10368,
+    "PKLAPAOFNKA": 1323,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_MoveSpeedDown",
+    "CMLCFIIJCGA": 401632850,
+    "LLNDCPOAMNP": 2017352273
+  },
+  {
+    "HKBFMCDAAIK": 10369,
+    "PKLAPAOFNKA": 1323,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_SprintBeHurtDamageUp",
+    "CMLCFIIJCGA": 2873480570,
+    "LLNDCPOAMNP": 548936169
+  },
+  {
+    "HKBFMCDAAIK": 10370,
+    "PKLAPAOFNKA": 1324,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Electric",
+    "CMLCFIIJCGA": 2867337282,
+    "LLNDCPOAMNP": 2638912441
+  },
+  {
+    "HKBFMCDAAIK": 10371,
+    "PKLAPAOFNKA": 1325,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_CriticalDown",
+    "CMLCFIIJCGA": 4190500042,
+    "LLNDCPOAMNP": 40209705
+  },
+  {
+    "HKBFMCDAAIK": 10372,
+    "PKLAPAOFNKA": 1326,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterULT",
+    "CMLCFIIJCGA": 3020115066,
+    "LLNDCPOAMNP": 2405123969
+  },
+  {
+    "HKBFMCDAAIK": 10373,
+    "PKLAPAOFNKA": 1327,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkDownHighHP",
+    "CMLCFIIJCGA": 2287250026,
+    "LLNDCPOAMNP": 298542289
+  },
+  {
+    "HKBFMCDAAIK": 10374,
+    "PKLAPAOFNKA": 1328,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_DashStamina_Increment",
+    "CMLCFIIJCGA": 3577949266,
+    "LLNDCPOAMNP": 1366158073
+  },
+  {
+    "HKBFMCDAAIK": 10375,
+    "PKLAPAOFNKA": 1329,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_SkillCDIncrement",
+    "CMLCFIIJCGA": 3710409466,
+    "LLNDCPOAMNP": 1700299849
+  },
+  {
+    "HKBFMCDAAIK": 10376,
+    "PKLAPAOFNKA": 1330,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ShieldCostMinus_Ver2",
+    "CMLCFIIJCGA": 3888340418,
+    "LLNDCPOAMNP": 1013389265
+  },
+  {
+    "HKBFMCDAAIK": 10377,
+    "PKLAPAOFNKA": 1331,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkSpeed",
+    "CMLCFIIJCGA": 287912642,
+    "LLNDCPOAMNP": 1520561929
+  },
+  {
+    "HKBFMCDAAIK": 10378,
+    "PKLAPAOFNKA": 1332,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Fire",
+    "CMLCFIIJCGA": 2338578490,
+    "LLNDCPOAMNP": 132289113
+  },
+  {
+    "HKBFMCDAAIK": 10379,
+    "PKLAPAOFNKA": 1333,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_CriticalHurtDown",
+    "CMLCFIIJCGA": 1884290034,
+    "LLNDCPOAMNP": 525761465
+  },
+  {
+    "HKBFMCDAAIK": 10380,
+    "PKLAPAOFNKA": 1334,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkDownLowHP",
+    "CMLCFIIJCGA": 2943473986,
+    "LLNDCPOAMNP": 3261819169
+  },
+  {
+    "HKBFMCDAAIK": 10381,
+    "PKLAPAOFNKA": 1335,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AttackUp",
+    "CMLCFIIJCGA": 1282438826,
+    "LLNDCPOAMNP": 2339275841
+  },
+  {
+    "HKBFMCDAAIK": 10382,
+    "PKLAPAOFNKA": 1336,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_MoveSpeed",
+    "CMLCFIIJCGA": 843406882,
+    "LLNDCPOAMNP": 860772505
+  },
+  {
+    "HKBFMCDAAIK": 10383,
+    "PKLAPAOFNKA": 1337,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Ice",
+    "CMLCFIIJCGA": 3108184218,
+    "LLNDCPOAMNP": 4068476769
+  },
+  {
+    "HKBFMCDAAIK": 10384,
+    "PKLAPAOFNKA": 1338,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkDefUpHighHP",
+    "CMLCFIIJCGA": 1755901394,
+    "LLNDCPOAMNP": 1939599625
+  },
+  {
+    "HKBFMCDAAIK": 10385,
+    "PKLAPAOFNKA": 1339,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_ShieldCostMinusDown",
+    "CMLCFIIJCGA": 4170849074,
+    "LLNDCPOAMNP": 2219956073
+  },
+  {
+    "HKBFMCDAAIK": 10386,
+    "PKLAPAOFNKA": 1340,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_PhysicalDown",
+    "CMLCFIIJCGA": 3998443314,
+    "LLNDCPOAMNP": 3730545593
+  },
+  {
+    "HKBFMCDAAIK": 10387,
+    "PKLAPAOFNKA": 1341,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkDefUpLowHP",
+    "CMLCFIIJCGA": 184389242,
+    "LLNDCPOAMNP": 691502161
+  },
+  {
+    "HKBFMCDAAIK": 10388,
+    "PKLAPAOFNKA": 1342,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_MoveSpeedDown",
+    "CMLCFIIJCGA": 1726065514,
+    "LLNDCPOAMNP": 3345539121
+  },
+  {
+    "HKBFMCDAAIK": 10389,
+    "PKLAPAOFNKA": 1343,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_SprintBeHurtDamageUp",
+    "CMLCFIIJCGA": 3308214634,
+    "LLNDCPOAMNP": 181675889
+  },
+  {
+    "HKBFMCDAAIK": 10390,
+    "PKLAPAOFNKA": 1344,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1075570370,
+    "LLNDCPOAMNP": 2469523113
+  },
+  {
+    "HKBFMCDAAIK": 10391,
+    "PKLAPAOFNKA": 1344,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3909891906,
+    "LLNDCPOAMNP": 1685842505
+  },
+  {
+    "HKBFMCDAAIK": 10392,
+    "PKLAPAOFNKA": 1344,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2451588826,
+    "LLNDCPOAMNP": 890740865
+  },
+  {
+    "HKBFMCDAAIK": 10393,
+    "PKLAPAOFNKA": 1345,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Heal_Down_Ver2",
+    "CMLCFIIJCGA": 1028535922,
+    "LLNDCPOAMNP": 3152150801
+  },
+  {
+    "HKBFMCDAAIK": 10394,
+    "PKLAPAOFNKA": 1346,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_ChargeEfficiencyDown",
+    "CMLCFIIJCGA": 1719058322,
+    "LLNDCPOAMNP": 1364788817
+  },
+  {
+    "HKBFMCDAAIK": 10395,
+    "PKLAPAOFNKA": 1347,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterChangeAvatar",
+    "CMLCFIIJCGA": 3884578722,
+    "LLNDCPOAMNP": 2521277457
+  },
+  {
+    "HKBFMCDAAIK": 10396,
+    "PKLAPAOFNKA": 1348,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_NoShieldAtkDown",
+    "CMLCFIIJCGA": 3764874674,
+    "LLNDCPOAMNP": 3446428361
+  },
+  {
+    "HKBFMCDAAIK": 10397,
+    "PKLAPAOFNKA": 1349,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ChargeEfficiency_Ver2",
+    "CMLCFIIJCGA": 381563794,
+    "LLNDCPOAMNP": 3794107929
+  },
+  {
+    "HKBFMCDAAIK": 10398,
+    "PKLAPAOFNKA": 1350,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpLowHP_Ver2",
+    "CMLCFIIJCGA": 3500653562,
+    "LLNDCPOAMNP": 829287337
+  },
+  {
+    "HKBFMCDAAIK": 10399,
+    "PKLAPAOFNKA": 1351,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpHighHP_Ver2",
+    "CMLCFIIJCGA": 3272335986,
+    "LLNDCPOAMNP": 1680558649
+  },
+  {
+    "HKBFMCDAAIK": 10400,
+    "PKLAPAOFNKA": 1352,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 782541426,
+    "LLNDCPOAMNP": 526803081
+  },
+  {
+    "HKBFMCDAAIK": 10401,
+    "PKLAPAOFNKA": 1353,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_01",
+    "CMLCFIIJCGA": 1473956554,
+    "LLNDCPOAMNP": 1856151721
+  },
+  {
+    "HKBFMCDAAIK": 10402,
+    "PKLAPAOFNKA": 1354,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_02",
+    "CMLCFIIJCGA": 3083179754,
+    "LLNDCPOAMNP": 1420153737
+  },
+  {
+    "HKBFMCDAAIK": 10403,
+    "PKLAPAOFNKA": 1355,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_03",
+    "CMLCFIIJCGA": 1539905810,
+    "LLNDCPOAMNP": 3686565849
+  },
+  {
+    "HKBFMCDAAIK": 10404,
+    "PKLAPAOFNKA": 1356,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_04",
+    "CMLCFIIJCGA": 3198001738,
+    "LLNDCPOAMNP": 3787881649
+  },
+  {
+    "HKBFMCDAAIK": 10405,
+    "PKLAPAOFNKA": 1357,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AtkAtkSpeedUpLowHP_Ver_1_13",
+    "CMLCFIIJCGA": 327650490,
+    "LLNDCPOAMNP": 4096891681
+  },
+  {
+    "HKBFMCDAAIK": 10406,
+    "PKLAPAOFNKA": 1357,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpLowHP_Ver_1_13",
+    "CMLCFIIJCGA": 1523622242,
+    "LLNDCPOAMNP": 1725282705
+  },
+  {
+    "HKBFMCDAAIK": 10407,
+    "PKLAPAOFNKA": 1358,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AreaAttackLowHP_Ver_1_13",
+    "CMLCFIIJCGA": 4206201274,
+    "LLNDCPOAMNP": 815938865
+  },
+  {
+    "HKBFMCDAAIK": 10408,
+    "PKLAPAOFNKA": 1359,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AttackUpAreaDamageLowHP_Ver_1_13",
+    "CMLCFIIJCGA": 567287546,
+    "LLNDCPOAMNP": 3196074289
+  },
+  {
+    "HKBFMCDAAIK": 10409,
+    "PKLAPAOFNKA": 1360,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_MonsterHp_025",
+    "CMLCFIIJCGA": 1887663610,
+    "LLNDCPOAMNP": 3694272745
+  },
+  {
+    "HKBFMCDAAIK": 10410,
+    "PKLAPAOFNKA": 1361,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_MonsterHp_050",
+    "CMLCFIIJCGA": 3199084258,
+    "LLNDCPOAMNP": 3582766121
+  },
+  {
+    "HKBFMCDAAIK": 10411,
+    "PKLAPAOFNKA": 1362,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_MonsterHp_100",
+    "CMLCFIIJCGA": 2324193386,
+    "LLNDCPOAMNP": 1625495129
+  },
+  {
+    "HKBFMCDAAIK": 10412,
+    "PKLAPAOFNKA": 1363,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1098050194,
+    "LLNDCPOAMNP": 1537001489
+  },
+  {
+    "HKBFMCDAAIK": 10413,
+    "PKLAPAOFNKA": 1363,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 50003562,
+    "LLNDCPOAMNP": 3104789177
+  },
+  {
+    "HKBFMCDAAIK": 10414,
+    "PKLAPAOFNKA": 1364,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_AtkSpeed",
+    "CMLCFIIJCGA": 1428048994,
+    "LLNDCPOAMNP": 2982758945
+  },
+  {
+    "HKBFMCDAAIK": 10415,
+    "PKLAPAOFNKA": 1364,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AttackUpAreaAttack",
+    "CMLCFIIJCGA": 3167988130,
+    "LLNDCPOAMNP": 1683867393
+  },
+  {
+    "HKBFMCDAAIK": 10416,
+    "PKLAPAOFNKA": 1364,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ExtraAreaAttack",
+    "CMLCFIIJCGA": 3482174410,
+    "LLNDCPOAMNP": 3598399953
+  },
+  {
+    "HKBFMCDAAIK": 10417,
+    "PKLAPAOFNKA": 1365,
+    "CMCKHNNHJKH": "LevelEntity_Activity_TowerDefence_AvatarDebuff",
+    "CMLCFIIJCGA": 1091727858,
+    "LLNDCPOAMNP": 3078828665
+  },
+  {
+    "HKBFMCDAAIK": 10418,
+    "PKLAPAOFNKA": 1363,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 4281087034,
+    "LLNDCPOAMNP": 85760265
+  },
+  {
+    "HKBFMCDAAIK": 10419,
+    "PKLAPAOFNKA": 1366,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AreaNoEnemyAttackUp_Ver_1_14",
+    "CMLCFIIJCGA": 2153546114,
+    "LLNDCPOAMNP": 2392296281
+  },
+  {
+    "HKBFMCDAAIK": 10420,
+    "PKLAPAOFNKA": 1367,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_EnemyDefDownOnFallingAttack_Ver_1_14",
+    "CMLCFIIJCGA": 2081704354,
+    "LLNDCPOAMNP": 3343505777
+  },
+  {
+    "HKBFMCDAAIK": 10421,
+    "PKLAPAOFNKA": 1368,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_DropElementBallOnFallingAttack_Ver_1_14",
+    "CMLCFIIJCGA": 23145610,
+    "LLNDCPOAMNP": 3822977513
+  },
+  {
+    "HKBFMCDAAIK": 10422,
+    "PKLAPAOFNKA": 1369,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_MaoCheng_Test",
+    "CMLCFIIJCGA": 1231111370,
+    "LLNDCPOAMNP": 1196945289
+  },
+  {
+    "HKBFMCDAAIK": 10423,
+    "PKLAPAOFNKA": 1369,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3685157042,
+    "LLNDCPOAMNP": 1838947025
+  },
+  {
+    "HKBFMCDAAIK": 10424,
+    "PKLAPAOFNKA": 1369,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1219452482,
+    "LLNDCPOAMNP": 2328838289
+  },
+  {
+    "HKBFMCDAAIK": 10425,
+    "PKLAPAOFNKA": 1369,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 346622594,
+    "LLNDCPOAMNP": 1076256049
+  },
+  {
+    "HKBFMCDAAIK": 10426,
+    "PKLAPAOFNKA": 1370,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Electric_Test",
+    "CMLCFIIJCGA": 772159954,
+    "LLNDCPOAMNP": 996170401
+  },
+  {
+    "HKBFMCDAAIK": 10427,
+    "PKLAPAOFNKA": 1370,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElementReactionAttack_Shock",
+    "CMLCFIIJCGA": 1614774714,
+    "LLNDCPOAMNP": 921793753
+  },
+  {
+    "HKBFMCDAAIK": 10428,
+    "PKLAPAOFNKA": 1370,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_GainShieldDoDamage",
+    "CMLCFIIJCGA": 3411770186,
+    "LLNDCPOAMNP": 714872713
+  },
+  {
+    "HKBFMCDAAIK": 10429,
+    "PKLAPAOFNKA": 1370,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ShieldOnBeingHitDoDamage",
+    "CMLCFIIJCGA": 1057181194,
+    "LLNDCPOAMNP": 191489625
+  },
+  {
+    "HKBFMCDAAIK": 10430,
+    "PKLAPAOFNKA": 1371,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_FallingBuff",
+    "CMLCFIIJCGA": 3018784778,
+    "LLNDCPOAMNP": 1027835297
+  },
+  {
+    "HKBFMCDAAIK": 10431,
+    "PKLAPAOFNKA": 1371,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_FallingAreaAttack",
+    "CMLCFIIJCGA": 1682404442,
+    "LLNDCPOAMNP": 153768849
+  },
+  {
+    "HKBFMCDAAIK": 10432,
+    "PKLAPAOFNKA": 1372,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_ShieldDamageUp",
+    "CMLCFIIJCGA": 1145785466,
+    "LLNDCPOAMNP": 282525065
+  },
+  {
+    "HKBFMCDAAIK": 10433,
+    "PKLAPAOFNKA": 1372,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_GainShieldAreaAttack",
+    "CMLCFIIJCGA": 3569750850,
+    "LLNDCPOAMNP": 1550599553
+  },
+  {
+    "HKBFMCDAAIK": 10434,
+    "PKLAPAOFNKA": 1373,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_HealingDamageUp",
+    "CMLCFIIJCGA": 4208463834,
+    "LLNDCPOAMNP": 4241826409
+  },
+  {
+    "HKBFMCDAAIK": 10435,
+    "PKLAPAOFNKA": 1373,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_HealingReviveElemEnergy",
+    "CMLCFIIJCGA": 18448762,
+    "LLNDCPOAMNP": 648219153
+  },
+  {
+    "HKBFMCDAAIK": 10436,
+    "PKLAPAOFNKA": 1374,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_ElementMasteryUp",
+    "CMLCFIIJCGA": 3933111130,
+    "LLNDCPOAMNP": 4179760265
+  },
+  {
+    "HKBFMCDAAIK": 10437,
+    "PKLAPAOFNKA": 1374,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_ElementReactionAttack",
+    "CMLCFIIJCGA": 818397130,
+    "LLNDCPOAMNP": 2512715353
+  },
+  {
+    "HKBFMCDAAIK": 10438,
+    "PKLAPAOFNKA": 1375,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_MeleeDamageUp",
+    "CMLCFIIJCGA": 4008773466,
+    "LLNDCPOAMNP": 2492471553
+  },
+  {
+    "HKBFMCDAAIK": 10439,
+    "PKLAPAOFNKA": 1375,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_MeleeAreaAttack",
+    "CMLCFIIJCGA": 1125082842,
+    "LLNDCPOAMNP": 3427653953
+  },
+  {
+    "HKBFMCDAAIK": 10440,
+    "PKLAPAOFNKA": 1376,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_RangeNoEnemyAttackUp",
+    "CMLCFIIJCGA": 3590149434,
+    "LLNDCPOAMNP": 1942577641
+  },
+  {
+    "HKBFMCDAAIK": 10441,
+    "PKLAPAOFNKA": 1376,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_SuperTrial_RangeNoEnemyStaminaReduction",
+    "CMLCFIIJCGA": 1539845554,
+    "LLNDCPOAMNP": 3061387273
+  },
+  {
+    "HKBFMCDAAIK": 10442,
+    "PKLAPAOFNKA": 1377,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_ShieldOnBeingHitDoDamage_Ver_1_15",
+    "CMLCFIIJCGA": 2458609962,
+    "LLNDCPOAMNP": 396443217
+  },
+  {
+    "HKBFMCDAAIK": 10443,
+    "PKLAPAOFNKA": 1378,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_ShieldOnBeingHitDoDamage_Ver_1_15",
+    "CMLCFIIJCGA": 3172276522,
+    "LLNDCPOAMNP": 3593693993
+  },
+  {
+    "HKBFMCDAAIK": 10444,
+    "PKLAPAOFNKA": 1378,
+    "CMCKHNNHJKH": "LevelEntity_HpUp_20p",
+    "CMLCFIIJCGA": 2137092786,
+    "LLNDCPOAMNP": 2169007929
+  },
+  {
+    "HKBFMCDAAIK": 10445,
+    "PKLAPAOFNKA": 1379,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Avatar_ShieldOnBeingHitDoDamage_Ver_1_15",
+    "CMLCFIIJCGA": 1265049562,
+    "LLNDCPOAMNP": 1616498153
+  },
+  {
+    "HKBFMCDAAIK": 10446,
+    "PKLAPAOFNKA": 1379,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 1217814818,
+    "LLNDCPOAMNP": 3946448729
+  },
+  {
+    "HKBFMCDAAIK": 10447,
+    "PKLAPAOFNKA": 1380,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3771216626,
+    "LLNDCPOAMNP": 1151779353
+  },
+  {
+    "HKBFMCDAAIK": 10448,
+    "PKLAPAOFNKA": 1380,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_PhysicalAddHurt",
+    "CMLCFIIJCGA": 3689198738,
+    "LLNDCPOAMNP": 1936080545
+  },
+  {
+    "HKBFMCDAAIK": 10449,
+    "PKLAPAOFNKA": 1380,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 3516956202,
+    "LLNDCPOAMNP": 3445324953
+  },
+  {
+    "HKBFMCDAAIK": 10450,
+    "PKLAPAOFNKA": 1381,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3442011586,
+    "LLNDCPOAMNP": 1839181473
+  },
+  {
+    "HKBFMCDAAIK": 10451,
+    "PKLAPAOFNKA": 1381,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 3535287602,
+    "LLNDCPOAMNP": 2065942969
+  },
+  {
+    "HKBFMCDAAIK": 10452,
+    "PKLAPAOFNKA": 1382,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_PhysicalHurtUpAreaAttack",
+    "CMLCFIIJCGA": 352431130,
+    "LLNDCPOAMNP": 676855481
+  },
+  {
+    "HKBFMCDAAIK": 10453,
+    "PKLAPAOFNKA": 1383,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ShieldBeingHitDoAttack",
+    "CMLCFIIJCGA": 2681302058,
+    "LLNDCPOAMNP": 3078945625
+  },
+  {
+    "HKBFMCDAAIK": 10454,
+    "PKLAPAOFNKA": 1384,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CriticalUpAreaAttack",
+    "CMLCFIIJCGA": 1420294130,
+    "LLNDCPOAMNP": 2499824585
+  },
+  {
+    "HKBFMCDAAIK": 10455,
+    "PKLAPAOFNKA": 1401,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_HpUp",
+    "CMLCFIIJCGA": 1376549770,
+    "LLNDCPOAMNP": 628642553
+  },
+  {
+    "HKBFMCDAAIK": 10456,
+    "PKLAPAOFNKA": 1402,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv2_HpUp",
+    "CMLCFIIJCGA": 1209113762,
+    "LLNDCPOAMNP": 2251600721
+  },
+  {
+    "HKBFMCDAAIK": 10457,
+    "PKLAPAOFNKA": 1403,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_HpUp",
+    "CMLCFIIJCGA": 1040336506,
+    "LLNDCPOAMNP": 3022107113
+  },
+  {
+    "HKBFMCDAAIK": 10458,
+    "PKLAPAOFNKA": 1411,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_ElecSubHurtDelta",
+    "CMLCFIIJCGA": 501018842,
+    "LLNDCPOAMNP": 2580864337
+  },
+  {
+    "HKBFMCDAAIK": 10459,
+    "PKLAPAOFNKA": 1412,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_FireSubHurtDelta",
+    "CMLCFIIJCGA": 3693878986,
+    "LLNDCPOAMNP": 471850473
+  },
+  {
+    "HKBFMCDAAIK": 10460,
+    "PKLAPAOFNKA": 1413,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv2_RockSubHurtDelta",
+    "CMLCFIIJCGA": 3227943610,
+    "LLNDCPOAMNP": 2251568961
+  },
+  {
+    "HKBFMCDAAIK": 10461,
+    "PKLAPAOFNKA": 1414,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_Actor_IceSubHurtDelta",
+    "CMLCFIIJCGA": 2101579090,
+    "LLNDCPOAMNP": 3736189145
+  },
+  {
+    "HKBFMCDAAIK": 10462,
+    "PKLAPAOFNKA": 1415,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_Actor_WaterSubHurtDelta",
+    "CMLCFIIJCGA": 1948273658,
+    "LLNDCPOAMNP": 2724640417
+  },
+  {
+    "HKBFMCDAAIK": 10463,
+    "PKLAPAOFNKA": 1416,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv2_WindSubHurtDelta",
+    "CMLCFIIJCGA": 1953066442,
+    "LLNDCPOAMNP": 2444449737
+  },
+  {
+    "HKBFMCDAAIK": 10464,
+    "PKLAPAOFNKA": 1417,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv4_PhysicalSubHurt",
+    "CMLCFIIJCGA": 3072930698,
+    "LLNDCPOAMNP": 836101377
+  },
+  {
+    "HKBFMCDAAIK": 10465,
+    "PKLAPAOFNKA": 1418,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_AtkUp",
+    "CMLCFIIJCGA": 913866530,
+    "LLNDCPOAMNP": 1943171945
+  },
+  {
+    "HKBFMCDAAIK": 10466,
+    "PKLAPAOFNKA": 1421,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_ShieldCostMinusDown",
+    "CMLCFIIJCGA": 3896648890,
+    "LLNDCPOAMNP": 894600265
+  },
+  {
+    "HKBFMCDAAIK": 10467,
+    "PKLAPAOFNKA": 1422,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_MoveSpeedDown",
+    "CMLCFIIJCGA": 3182178722,
+    "LLNDCPOAMNP": 2913143793
+  },
+  {
+    "HKBFMCDAAIK": 10468,
+    "PKLAPAOFNKA": 1423,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_HealDown",
+    "CMLCFIIJCGA": 1904857938,
+    "LLNDCPOAMNP": 2940749577
+  },
+  {
+    "HKBFMCDAAIK": 10469,
+    "PKLAPAOFNKA": 1424,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_ChargeEfficiencyDown",
+    "CMLCFIIJCGA": 2531400490,
+    "LLNDCPOAMNP": 283467721
+  },
+  {
+    "HKBFMCDAAIK": 10470,
+    "PKLAPAOFNKA": 1431,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_DashStaminaUp",
+    "CMLCFIIJCGA": 2272532802,
+    "LLNDCPOAMNP": 1597620385
+  },
+  {
+    "HKBFMCDAAIK": 10471,
+    "PKLAPAOFNKA": 1432,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_SkillCDIncrement",
+    "CMLCFIIJCGA": 1800033282,
+    "LLNDCPOAMNP": 3169822353
+  },
+  {
+    "HKBFMCDAAIK": 10472,
+    "PKLAPAOFNKA": 1433,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_RecoverStaminaRatioDown",
+    "CMLCFIIJCGA": 3996931146,
+    "LLNDCPOAMNP": 3668101201
+  },
+  {
+    "HKBFMCDAAIK": 10473,
+    "PKLAPAOFNKA": 1434,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv1_NoShieldAtkDown",
+    "CMLCFIIJCGA": 4020580866,
+    "LLNDCPOAMNP": 2401081273
+  },
+  {
+    "HKBFMCDAAIK": 10474,
+    "PKLAPAOFNKA": 1435,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_AtkDownHighHP",
+    "CMLCFIIJCGA": 3446322066,
+    "LLNDCPOAMNP": 781935065
+  },
+  {
+    "HKBFMCDAAIK": 10475,
+    "PKLAPAOFNKA": 1436,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_AtkDownLowHP",
+    "CMLCFIIJCGA": 404032298,
+    "LLNDCPOAMNP": 660740745
+  },
+  {
+    "HKBFMCDAAIK": 10476,
+    "PKLAPAOFNKA": 1437,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_SpeedDownLowHP",
+    "CMLCFIIJCGA": 3318236874,
+    "LLNDCPOAMNP": 3285670873
+  },
+  {
+    "HKBFMCDAAIK": 10477,
+    "PKLAPAOFNKA": 1438,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_SprintBeHurtDamageUp",
+    "CMLCFIIJCGA": 4173284538,
+    "LLNDCPOAMNP": 88240897
+  },
+  {
+    "HKBFMCDAAIK": 10478,
+    "PKLAPAOFNKA": 1439,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv3_BeHurtDamageUpAfterChangeAvatar",
+    "CMLCFIIJCGA": 3003213578,
+    "LLNDCPOAMNP": 1533667297
+  },
+  {
+    "HKBFMCDAAIK": 10479,
+    "PKLAPAOFNKA": 1440,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv4_BeHurtDamageUpAfterULT",
+    "CMLCFIIJCGA": 3359924938,
+    "LLNDCPOAMNP": 4208920281
+  },
+  {
+    "HKBFMCDAAIK": 10480,
+    "PKLAPAOFNKA": 1441,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Lv2_AtkDownLowHP",
+    "CMLCFIIJCGA": 1588351266,
+    "LLNDCPOAMNP": 3892980153
+  },
+  {
+    "HKBFMCDAAIK": 10490,
+    "PKLAPAOFNKA": 1451,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_DeathRattleCrystal_ExtraLifeTime",
+    "CMLCFIIJCGA": 2537501106,
+    "LLNDCPOAMNP": 3384969353
+  },
+  {
+    "HKBFMCDAAIK": 10491,
+    "PKLAPAOFNKA": 1452,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_DeathRattleCrystal_ExtraTimes",
+    "CMLCFIIJCGA": 1679500210,
+    "LLNDCPOAMNP": 636635321
+  },
+  {
+    "HKBFMCDAAIK": 10492,
+    "PKLAPAOFNKA": 1453,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Sovereign_ExtraHeal",
+    "CMLCFIIJCGA": 2225924842,
+    "LLNDCPOAMNP": 4150802753
+  },
+  {
+    "HKBFMCDAAIK": 10493,
+    "PKLAPAOFNKA": 1454,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EnergyDisk_Sovereign_AtkUp",
+    "CMLCFIIJCGA": 319397050,
+    "LLNDCPOAMNP": 1306832777
+  },
+  {
+    "HKBFMCDAAIK": 10494,
+    "PKLAPAOFNKA": 1461,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3407606170,
+    "LLNDCPOAMNP": 2073024273
+  },
+  {
+    "HKBFMCDAAIK": 10495,
+    "PKLAPAOFNKA": 1462,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1079412098,
+    "LLNDCPOAMNP": 760364593
+  },
+  {
+    "HKBFMCDAAIK": 10496,
+    "PKLAPAOFNKA": 1463,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 790337874,
+    "LLNDCPOAMNP": 1327558585
+  },
+  {
+    "HKBFMCDAAIK": 10497,
+    "PKLAPAOFNKA": 1464,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 4050188194,
+    "LLNDCPOAMNP": 2854646161
+  },
+  {
+    "HKBFMCDAAIK": 10498,
+    "PKLAPAOFNKA": 1465,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2554443354,
+    "LLNDCPOAMNP": 3126017809
+  },
+  {
+    "HKBFMCDAAIK": 10499,
+    "PKLAPAOFNKA": 1466,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2660133498,
+    "LLNDCPOAMNP": 18605425
+  },
+  {
+    "HKBFMCDAAIK": 10500,
+    "PKLAPAOFNKA": 1467,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3297239514,
+    "LLNDCPOAMNP": 253137849
+  },
+  {
+    "HKBFMCDAAIK": 10501,
+    "PKLAPAOFNKA": 1385,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Swril_Test",
+    "CMLCFIIJCGA": 1880227706,
+    "LLNDCPOAMNP": 1162160985
+  },
+  {
+    "HKBFMCDAAIK": 10502,
+    "PKLAPAOFNKA": 1385,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 2580970362,
+    "LLNDCPOAMNP": 2016831177
+  },
+  {
+    "HKBFMCDAAIK": 10503,
+    "PKLAPAOFNKA": 1386,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1858278930,
+    "LLNDCPOAMNP": 1091379481
+  },
+  {
+    "HKBFMCDAAIK": 10504,
+    "PKLAPAOFNKA": 1387,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_SwirlDoAttack",
+    "CMLCFIIJCGA": 3423214530,
+    "LLNDCPOAMNP": 1887734649
+  },
+  {
+    "HKBFMCDAAIK": 10505,
+    "PKLAPAOFNKA": 1388,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_SwirlReviveElemEnergy",
+    "CMLCFIIJCGA": 97702826,
+    "LLNDCPOAMNP": 2276913177
+  },
+  {
+    "HKBFMCDAAIK": 10506,
+    "PKLAPAOFNKA": 1389,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_SwirlDoField",
+    "CMLCFIIJCGA": 1053919306,
+    "LLNDCPOAMNP": 2125587785
+  },
+  {
+    "HKBFMCDAAIK": 10507,
+    "PKLAPAOFNKA": 1501,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Monster_HpUp_LV1",
+    "CMLCFIIJCGA": 1549022770,
+    "LLNDCPOAMNP": 3147191233
+  },
+  {
+    "HKBFMCDAAIK": 10508,
+    "PKLAPAOFNKA": 1502,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Monster_HpUp_LV2",
+    "CMLCFIIJCGA": 2066644866,
+    "LLNDCPOAMNP": 2736660729
+  },
+  {
+    "HKBFMCDAAIK": 10509,
+    "PKLAPAOFNKA": 1503,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Monster_HpUp_LV3",
+    "CMLCFIIJCGA": 2143263842,
+    "LLNDCPOAMNP": 3090718409
+  },
+  {
+    "HKBFMCDAAIK": 10510,
+    "PKLAPAOFNKA": 1504,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_IceSubHurtDelta",
+    "CMLCFIIJCGA": 827112514,
+    "LLNDCPOAMNP": 645677913
+  },
+  {
+    "HKBFMCDAAIK": 10511,
+    "PKLAPAOFNKA": 1505,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_ElecSubHurtDelta",
+    "CMLCFIIJCGA": 2035695146,
+    "LLNDCPOAMNP": 912734529
+  },
+  {
+    "HKBFMCDAAIK": 10512,
+    "PKLAPAOFNKA": 1506,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_AtkUp",
+    "CMLCFIIJCGA": 2744344842,
+    "LLNDCPOAMNP": 4286660585
+  },
+  {
+    "HKBFMCDAAIK": 10513,
+    "PKLAPAOFNKA": 1507,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_HurtDown",
+    "CMLCFIIJCGA": 2157860034,
+    "LLNDCPOAMNP": 1879924305
+  },
+  {
+    "HKBFMCDAAIK": 10514,
+    "PKLAPAOFNKA": 1508,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_SprintBeHurtDamageUp",
+    "CMLCFIIJCGA": 2718579618,
+    "LLNDCPOAMNP": 2784276409
+  },
+  {
+    "HKBFMCDAAIK": 10515,
+    "PKLAPAOFNKA": 1509,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterChangeAvatar",
+    "CMLCFIIJCGA": 4040337738,
+    "LLNDCPOAMNP": 1833699857
+  },
+  {
+    "HKBFMCDAAIK": 10516,
+    "PKLAPAOFNKA": 1510,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_AtkDownHighHP",
+    "CMLCFIIJCGA": 762668050,
+    "LLNDCPOAMNP": 1972095137
+  },
+  {
+    "HKBFMCDAAIK": 10517,
+    "PKLAPAOFNKA": 1511,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_AtkTriggerAoe_LV1",
+    "CMLCFIIJCGA": 396507178,
+    "LLNDCPOAMNP": 3177194553
+  },
+  {
+    "HKBFMCDAAIK": 10518,
+    "PKLAPAOFNKA": 1512,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_AtkTriggerAoe_LV2",
+    "CMLCFIIJCGA": 1950771986,
+    "LLNDCPOAMNP": 737692649
+  },
+  {
+    "HKBFMCDAAIK": 10519,
+    "PKLAPAOFNKA": 1513,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_AtkTriggerAoe_LV3",
+    "CMLCFIIJCGA": 3434716170,
+    "LLNDCPOAMNP": 1310940873
+  },
+  {
+    "HKBFMCDAAIK": 10520,
+    "PKLAPAOFNKA": 1514,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_AtkUpWhenNoHarm_LV1",
+    "CMLCFIIJCGA": 1459880666,
+    "LLNDCPOAMNP": 1374752521
+  },
+  {
+    "HKBFMCDAAIK": 10521,
+    "PKLAPAOFNKA": 1515,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_AtkUpWhenNoHarm_LV2",
+    "CMLCFIIJCGA": 1005372402,
+    "LLNDCPOAMNP": 1554230969
+  },
+  {
+    "HKBFMCDAAIK": 10522,
+    "PKLAPAOFNKA": 1516,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidA_AtkUpWhenNoHarm_LV3",
+    "CMLCFIIJCGA": 1974511170,
+    "LLNDCPOAMNP": 2233519785
+  },
+  {
+    "HKBFMCDAAIK": 10523,
+    "PKLAPAOFNKA": 1517,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoA_FireSubHurtDelta",
+    "CMLCFIIJCGA": 1550096002,
+    "LLNDCPOAMNP": 1845505225
+  },
+  {
+    "HKBFMCDAAIK": 10524,
+    "PKLAPAOFNKA": 1518,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoA_WaterSubHurtDelta",
+    "CMLCFIIJCGA": 1059757674,
+    "LLNDCPOAMNP": 1207240001
+  },
+  {
+    "HKBFMCDAAIK": 10525,
+    "PKLAPAOFNKA": 1519,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoA_AtkUp",
+    "CMLCFIIJCGA": 1767644906,
+    "LLNDCPOAMNP": 1514401353
+  },
+  {
+    "HKBFMCDAAIK": 10526,
+    "PKLAPAOFNKA": 1520,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoA_LowHPTriggerLoseHP",
+    "CMLCFIIJCGA": 3824369698,
+    "LLNDCPOAMNP": 1499727537
+  },
+  {
+    "HKBFMCDAAIK": 10527,
+    "PKLAPAOFNKA": 1521,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_BeHurtDamageUpAfterULT",
+    "CMLCFIIJCGA": 3784860994,
+    "LLNDCPOAMNP": 1973783097
+  },
+  {
+    "HKBFMCDAAIK": 10528,
+    "PKLAPAOFNKA": 1522,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoA_AtkDownHighHP",
+    "CMLCFIIJCGA": 2604689882,
+    "LLNDCPOAMNP": 678379769
+  },
+  {
+    "HKBFMCDAAIK": 10529,
+    "PKLAPAOFNKA": 1523,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_SkillCDIncrementAtkUp_LV1",
+    "CMLCFIIJCGA": 685040498,
+    "LLNDCPOAMNP": 1072966353
+  },
+  {
+    "HKBFMCDAAIK": 10530,
+    "PKLAPAOFNKA": 1524,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_SkillCDIncrementAtkUp_LV2",
+    "CMLCFIIJCGA": 2078886810,
+    "LLNDCPOAMNP": 3258682577
+  },
+  {
+    "HKBFMCDAAIK": 10531,
+    "PKLAPAOFNKA": 1525,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_SkillCDIncrementAtkUp_LV3",
+    "CMLCFIIJCGA": 205860914,
+    "LLNDCPOAMNP": 2546442097
+  },
+  {
+    "HKBFMCDAAIK": 10532,
+    "PKLAPAOFNKA": 1526,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Samurai_NingyoA_RockSubHurtDelta",
+    "CMLCFIIJCGA": 306345906,
+    "LLNDCPOAMNP": 3231781793
+  },
+  {
+    "HKBFMCDAAIK": 10533,
+    "PKLAPAOFNKA": 1527,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Samurai_NingyoA_WindSubHurtDelta",
+    "CMLCFIIJCGA": 1567882810,
+    "LLNDCPOAMNP": 816701777
+  },
+  {
+    "HKBFMCDAAIK": 10534,
+    "PKLAPAOFNKA": 1528,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Samurai_NingyoA_AtkUp",
+    "CMLCFIIJCGA": 532951162,
+    "LLNDCPOAMNP": 3708447553
+  },
+  {
+    "HKBFMCDAAIK": 10535,
+    "PKLAPAOFNKA": 1529,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterChangeAvatar",
+    "CMLCFIIJCGA": 3505183090,
+    "LLNDCPOAMNP": 394299561
+  },
+  {
+    "HKBFMCDAAIK": 10536,
+    "PKLAPAOFNKA": 1530,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoB_OnAvatarIn_AtkDown",
+    "CMLCFIIJCGA": 2990562770,
+    "LLNDCPOAMNP": 3686557985
+  },
+  {
+    "HKBFMCDAAIK": 10537,
+    "PKLAPAOFNKA": 1531,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoB_SprintAreaAttack_LV1",
+    "CMLCFIIJCGA": 1065780402,
+    "LLNDCPOAMNP": 2191632153
+  },
+  {
+    "HKBFMCDAAIK": 10538,
+    "PKLAPAOFNKA": 1532,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoB_SprintAreaAttack_LV2",
+    "CMLCFIIJCGA": 1275740162,
+    "LLNDCPOAMNP": 3281733473
+  },
+  {
+    "HKBFMCDAAIK": 10539,
+    "PKLAPAOFNKA": 1533,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoB_SprintAreaAttack_LV3",
+    "CMLCFIIJCGA": 3802025082,
+    "LLNDCPOAMNP": 2066733993
+  },
+  {
+    "HKBFMCDAAIK": 10540,
+    "PKLAPAOFNKA": 1534,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_FireSubHurtDelta",
+    "CMLCFIIJCGA": 1548486514,
+    "LLNDCPOAMNP": 3610398969
+  },
+  {
+    "HKBFMCDAAIK": 10541,
+    "PKLAPAOFNKA": 1535,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_PhysicalSubHurt",
+    "CMLCFIIJCGA": 2595243306,
+    "LLNDCPOAMNP": 1186798137
+  },
+  {
+    "HKBFMCDAAIK": 10542,
+    "PKLAPAOFNKA": 1536,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_AtkUp",
+    "CMLCFIIJCGA": 2453893074,
+    "LLNDCPOAMNP": 2821317889
+  },
+  {
+    "HKBFMCDAAIK": 10543,
+    "PKLAPAOFNKA": 1537,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_ShieldCostMinusDown",
+    "CMLCFIIJCGA": 3524252586,
+    "LLNDCPOAMNP": 3478657169
+  },
+  {
+    "HKBFMCDAAIK": 10544,
+    "PKLAPAOFNKA": 1538,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_CritLoseHp",
+    "CMLCFIIJCGA": 3930569010,
+    "LLNDCPOAMNP": 3316530225
+  },
+  {
+    "HKBFMCDAAIK": 10545,
+    "PKLAPAOFNKA": 1539,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_BeHurtDamageUpAfterULT",
+    "CMLCFIIJCGA": 160827682,
+    "LLNDCPOAMNP": 2668698697
+  },
+  {
+    "HKBFMCDAAIK": 10546,
+    "PKLAPAOFNKA": 1540,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_FrozenRevive",
+    "CMLCFIIJCGA": 433744402,
+    "LLNDCPOAMNP": 2154506177
+  },
+  {
+    "HKBFMCDAAIK": 10547,
+    "PKLAPAOFNKA": 1541,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_LowHpAtkUpAndTriggerAoe_LV1",
+    "CMLCFIIJCGA": 2246115770,
+    "LLNDCPOAMNP": 1595334809
+  },
+  {
+    "HKBFMCDAAIK": 10548,
+    "PKLAPAOFNKA": 1542,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_LowHpAtkUpAndTriggerAoe_LV2",
+    "CMLCFIIJCGA": 943201850,
+    "LLNDCPOAMNP": 3835688601
+  },
+  {
+    "HKBFMCDAAIK": 10549,
+    "PKLAPAOFNKA": 1543,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_OceanidB_LowHpAtkUpAndTriggerAoe_LV3",
+    "CMLCFIIJCGA": 1750346978,
+    "LLNDCPOAMNP": 3500357953
+  },
+  {
+    "HKBFMCDAAIK": 10550,
+    "PKLAPAOFNKA": 1544,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_ShieldLv1",
+    "CMLCFIIJCGA": 3340538730,
+    "LLNDCPOAMNP": 1653187849
+  },
+  {
+    "HKBFMCDAAIK": 10551,
+    "PKLAPAOFNKA": 1545,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_ShieldLv2",
+    "CMLCFIIJCGA": 2486347474,
+    "LLNDCPOAMNP": 2097604473
+  },
+  {
+    "HKBFMCDAAIK": 10552,
+    "PKLAPAOFNKA": 1546,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_ShieldLv3",
+    "CMLCFIIJCGA": 1247268882,
+    "LLNDCPOAMNP": 511917561
+  },
+  {
+    "HKBFMCDAAIK": 10553,
+    "PKLAPAOFNKA": 1547,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_SkillCDIncrement",
+    "CMLCFIIJCGA": 974625578,
+    "LLNDCPOAMNP": 186690257
+  },
+  {
+    "HKBFMCDAAIK": 10554,
+    "PKLAPAOFNKA": 1548,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Drake_PrimoB_HasShieldSpeedDown",
+    "CMLCFIIJCGA": 3425661842,
+    "LLNDCPOAMNP": 1694576945
+  },
+  {
+    "HKBFMCDAAIK": 10555,
+    "PKLAPAOFNKA": 1549,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_ChargeDown",
+    "CMLCFIIJCGA": 2174932306,
+    "LLNDCPOAMNP": 1092191033
+  },
+  {
+    "HKBFMCDAAIK": 10556,
+    "PKLAPAOFNKA": 1550,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_HealDown",
+    "CMLCFIIJCGA": 3791850650,
+    "LLNDCPOAMNP": 3161518193
+  },
+  {
+    "HKBFMCDAAIK": 10557,
+    "PKLAPAOFNKA": 1551,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_SpecialAvatarDamageUp_01",
+    "CMLCFIIJCGA": 1203913058,
+    "LLNDCPOAMNP": 3771359425
+  },
+  {
+    "HKBFMCDAAIK": 10558,
+    "PKLAPAOFNKA": 1552,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_SpecialAvatarDamageUp_02",
+    "CMLCFIIJCGA": 2762036770,
+    "LLNDCPOAMNP": 278902721
+  },
+  {
+    "HKBFMCDAAIK": 10559,
+    "PKLAPAOFNKA": 1553,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_SpecialAvatarDamageUp_03",
+    "CMLCFIIJCGA": 3463719874,
+    "LLNDCPOAMNP": 756572497
+  },
+  {
+    "HKBFMCDAAIK": 10560,
+    "PKLAPAOFNKA": 1554,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge2_SpecialAvatarDamageUp_04",
+    "CMLCFIIJCGA": 578374994,
+    "LLNDCPOAMNP": 1852163473
+  },
+  {
+    "HKBFMCDAAIK": 10561,
+    "PKLAPAOFNKA": 1555,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_EffigyChallenge_Samurai_NingyoA_CritDownAfterBurst",
+    "CMLCFIIJCGA": 774177122,
+    "LLNDCPOAMNP": 2415920713
+  },
+  {
+    "HKBFMCDAAIK": 10562,
+    "PKLAPAOFNKA": 1390,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_OnGainEnergyMax_DefenseDown",
+    "CMLCFIIJCGA": 2491478586,
+    "LLNDCPOAMNP": 3790812817
+  },
+  {
+    "HKBFMCDAAIK": 10563,
+    "PKLAPAOFNKA": 1391,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_OnGainEnergyByBall_TriggerAoe",
+    "CMLCFIIJCGA": 4211896026,
+    "LLNDCPOAMNP": 1258255961
+  },
+  {
+    "HKBFMCDAAIK": 10564,
+    "PKLAPAOFNKA": 1392,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_AtkUpAfterUseUltimateSkill",
+    "CMLCFIIJCGA": 1426869602,
+    "LLNDCPOAMNP": 2766231353
+  },
+  {
+    "HKBFMCDAAIK": 10565,
+    "PKLAPAOFNKA": 1600,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3456940330,
+    "LLNDCPOAMNP": 1985326105
+  },
+  {
+    "HKBFMCDAAIK": 10566,
+    "PKLAPAOFNKA": 1600,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 1091422170,
+    "LLNDCPOAMNP": 3780016873
+  },
+  {
+    "HKBFMCDAAIK": 10567,
+    "PKLAPAOFNKA": 1601,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2898360866,
+    "LLNDCPOAMNP": 755825097
+  },
+  {
+    "HKBFMCDAAIK": 10568,
+    "PKLAPAOFNKA": 1601,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 123762138,
+    "LLNDCPOAMNP": 1621438129
+  },
+  {
+    "HKBFMCDAAIK": 10569,
+    "PKLAPAOFNKA": 1602,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_ElementAddHurt_Fire_V2",
+    "CMLCFIIJCGA": 2276550066,
+    "LLNDCPOAMNP": 1126047569
+  },
+  {
+    "HKBFMCDAAIK": 10570,
+    "PKLAPAOFNKA": 1602,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_ElementAddHurt_Ice_V2",
+    "CMLCFIIJCGA": 195320674,
+    "LLNDCPOAMNP": 2093955673
+  },
+  {
+    "HKBFMCDAAIK": 10571,
+    "PKLAPAOFNKA": 1602,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 1266833954,
+    "LLNDCPOAMNP": 2675783025
+  },
+  {
+    "HKBFMCDAAIK": 10572,
+    "PKLAPAOFNKA": 1603,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3092234162,
+    "LLNDCPOAMNP": 2762747961
+  },
+  {
+    "HKBFMCDAAIK": 10573,
+    "PKLAPAOFNKA": 1603,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2291667954,
+    "LLNDCPOAMNP": 1423609753
+  },
+  {
+    "HKBFMCDAAIK": 10574,
+    "PKLAPAOFNKA": 1603,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 48075298,
+    "LLNDCPOAMNP": 2422285025
+  },
+  {
+    "HKBFMCDAAIK": 10575,
+    "PKLAPAOFNKA": 1603,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 2688233602,
+    "LLNDCPOAMNP": 156806449
+  },
+  {
+    "HKBFMCDAAIK": 10576,
+    "PKLAPAOFNKA": 1604,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_LoopBuff_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 3833469986,
+    "LLNDCPOAMNP": 2535524009
+  },
+  {
+    "HKBFMCDAAIK": 10577,
+    "PKLAPAOFNKA": 1604,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2565591002,
+    "LLNDCPOAMNP": 1693270961
+  },
+  {
+    "HKBFMCDAAIK": 10578,
+    "PKLAPAOFNKA": 1605,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2652721162,
+    "LLNDCPOAMNP": 828682801
+  },
+  {
+    "HKBFMCDAAIK": 10579,
+    "PKLAPAOFNKA": 1605,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_LoopBuff_GainCrystalTriggerAoe",
+    "CMLCFIIJCGA": 1720857730,
+    "LLNDCPOAMNP": 2155282993
+  },
+  {
+    "HKBFMCDAAIK": 10580,
+    "PKLAPAOFNKA": 1606,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3545781642,
+    "LLNDCPOAMNP": 3992044097
+  },
+  {
+    "HKBFMCDAAIK": 10581,
+    "PKLAPAOFNKA": 1606,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1112466162,
+    "LLNDCPOAMNP": 1116342737
+  },
+  {
+    "HKBFMCDAAIK": 10582,
+    "PKLAPAOFNKA": 1606,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1635895786,
+    "LLNDCPOAMNP": 908291809
+  },
+  {
+    "HKBFMCDAAIK": 10583,
+    "PKLAPAOFNKA": 1607,
+    "CMCKHNNHJKH": "LevelEntity_Activity_BlitzRush_FlipCard",
+    "CMLCFIIJCGA": 3492168850,
+    "LLNDCPOAMNP": 2279036785
+  },
+  {
+    "HKBFMCDAAIK": 10584,
+    "PKLAPAOFNKA": 1608,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_Deathrattle_Corruption",
+    "CMLCFIIJCGA": 1724279242,
+    "LLNDCPOAMNP": 2166091097
+  },
+  {
+    "HKBFMCDAAIK": 10585,
+    "PKLAPAOFNKA": 1608,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1445847442,
+    "LLNDCPOAMNP": 3077286025
+  },
+  {
+    "HKBFMCDAAIK": 10586,
+    "PKLAPAOFNKA": 1608,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2265613354,
+    "LLNDCPOAMNP": 262300937
+  },
+  {
+    "HKBFMCDAAIK": 10587,
+    "PKLAPAOFNKA": 1608,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 1081629658,
+    "LLNDCPOAMNP": 458898617
+  },
+  {
+    "HKBFMCDAAIK": 10588,
+    "PKLAPAOFNKA": 1609,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1520028026,
+    "LLNDCPOAMNP": 1632289849
+  },
+  {
+    "HKBFMCDAAIK": 10589,
+    "PKLAPAOFNKA": 1609,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1362909754,
+    "LLNDCPOAMNP": 2242758289
+  },
+  {
+    "HKBFMCDAAIK": 10590,
+    "PKLAPAOFNKA": 1609,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1877708874,
+    "LLNDCPOAMNP": 2387728977
+  },
+  {
+    "HKBFMCDAAIK": 10591,
+    "PKLAPAOFNKA": 1609,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 65707442,
+    "LLNDCPOAMNP": 680918721
+  },
+  {
+    "HKBFMCDAAIK": 10592,
+    "PKLAPAOFNKA": 1610,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_AtkUpAfterUseUltimateSkill_Multiple",
+    "CMLCFIIJCGA": 3329368114,
+    "LLNDCPOAMNP": 2084970601
+  },
+  {
+    "HKBFMCDAAIK": 10593,
+    "PKLAPAOFNKA": 1611,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_AoeAfterUseUltimateSkill_LoseHp",
+    "CMLCFIIJCGA": 2776458266,
+    "LLNDCPOAMNP": 3436895329
+  },
+  {
+    "HKBFMCDAAIK": 10594,
+    "PKLAPAOFNKA": 1612,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_PhysicalAddHurt",
+    "CMLCFIIJCGA": 3294138930,
+    "LLNDCPOAMNP": 458451233
+  },
+  {
+    "HKBFMCDAAIK": 10595,
+    "PKLAPAOFNKA": 1612,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_NoSwitch_Punishment_ForMonster",
+    "CMLCFIIJCGA": 3776672826,
+    "LLNDCPOAMNP": 1572432729
+  },
+  {
+    "HKBFMCDAAIK": 10596,
+    "PKLAPAOFNKA": 1612,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 2909156546,
+    "LLNDCPOAMNP": 3110571913
+  },
+  {
+    "HKBFMCDAAIK": 10597,
+    "PKLAPAOFNKA": 1613,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 3479084994,
+    "LLNDCPOAMNP": 2130751929
+  },
+  {
+    "HKBFMCDAAIK": 10598,
+    "PKLAPAOFNKA": 1613,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_NoSwitch_Punishment_ForMonster",
+    "CMLCFIIJCGA": 3005907370,
+    "LLNDCPOAMNP": 438632777
+  },
+  {
+    "HKBFMCDAAIK": 10599,
+    "PKLAPAOFNKA": 1613,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 1216455002,
+    "LLNDCPOAMNP": 1544058897
+  },
+  {
+    "HKBFMCDAAIK": 10600,
+    "PKLAPAOFNKA": 1614,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_ElementAddHurt_Wind",
+    "CMLCFIIJCGA": 771142202,
+    "LLNDCPOAMNP": 39043809
+  },
+  {
+    "HKBFMCDAAIK": 10601,
+    "PKLAPAOFNKA": 1614,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_NoSwitch_Punishment_ForMonster",
+    "CMLCFIIJCGA": 2366374786,
+    "LLNDCPOAMNP": 2754129745
+  },
+  {
+    "HKBFMCDAAIK": 10602,
+    "PKLAPAOFNKA": 1614,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv5",
+    "CMLCFIIJCGA": 3019674602,
+    "LLNDCPOAMNP": 3217278041
+  },
+  {
+    "HKBFMCDAAIK": 10603,
+    "PKLAPAOFNKA": 1615,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_ElementAddHurt_Rock",
+    "CMLCFIIJCGA": 2355111762,
+    "LLNDCPOAMNP": 2519259385
+  },
+  {
+    "HKBFMCDAAIK": 10604,
+    "PKLAPAOFNKA": 1615,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_NoSwitch_Punishment_ForMonster",
+    "CMLCFIIJCGA": 3442783370,
+    "LLNDCPOAMNP": 1543882841
+  },
+  {
+    "HKBFMCDAAIK": 10605,
+    "PKLAPAOFNKA": 1615,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 392099034,
+    "LLNDCPOAMNP": 923710425
+  },
+  {
+    "HKBFMCDAAIK": 10606,
+    "PKLAPAOFNKA": 1616,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_ElementAddHurt_ElecAndWater",
+    "CMLCFIIJCGA": 3220081882,
+    "LLNDCPOAMNP": 4048276745
+  },
+  {
+    "HKBFMCDAAIK": 10607,
+    "PKLAPAOFNKA": 1616,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_NoSwitch_Punishment_ForMonster",
+    "CMLCFIIJCGA": 3272806258,
+    "LLNDCPOAMNP": 1790206409
+  },
+  {
+    "HKBFMCDAAIK": 10608,
+    "PKLAPAOFNKA": 1616,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 4141752842,
+    "LLNDCPOAMNP": 691823857
+  },
+  {
+    "HKBFMCDAAIK": 10609,
+    "PKLAPAOFNKA": 1617,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_ElementAddHurt_React",
+    "CMLCFIIJCGA": 2272925818,
+    "LLNDCPOAMNP": 2126167161
+  },
+  {
+    "HKBFMCDAAIK": 10610,
+    "PKLAPAOFNKA": 1617,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_NoSwitch_Punishment_ForMonster",
+    "CMLCFIIJCGA": 4010042178,
+    "LLNDCPOAMNP": 1565457257
+  },
+  {
+    "HKBFMCDAAIK": 10611,
+    "PKLAPAOFNKA": 1617,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 4168349906,
+    "LLNDCPOAMNP": 1143810841
+  },
+  {
+    "HKBFMCDAAIK": 10612,
+    "PKLAPAOFNKA": 1618,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 135890522,
+    "LLNDCPOAMNP": 2244078689
+  },
+  {
+    "HKBFMCDAAIK": 10613,
+    "PKLAPAOFNKA": 1618,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 3794934954,
+    "LLNDCPOAMNP": 387097513
+  },
+  {
+    "HKBFMCDAAIK": 10614,
+    "PKLAPAOFNKA": 1619,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_LaSignora",
+    "CMLCFIIJCGA": 3621465978,
+    "LLNDCPOAMNP": 533691857
+  },
+  {
+    "HKBFMCDAAIK": 10615,
+    "PKLAPAOFNKA": 1619,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_LaSignora",
+    "CMLCFIIJCGA": 3417074754,
+    "LLNDCPOAMNP": 1481763129
+  },
+  {
+    "HKBFMCDAAIK": 10616,
+    "PKLAPAOFNKA": 1620,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 2939137442,
+    "LLNDCPOAMNP": 1073543121
+  },
+  {
+    "HKBFMCDAAIK": 10617,
+    "PKLAPAOFNKA": 1620,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage1",
+    "CMLCFIIJCGA": 2575120514,
+    "LLNDCPOAMNP": 169927281
+  },
+  {
+    "HKBFMCDAAIK": 10618,
+    "PKLAPAOFNKA": 1621,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 3384632922,
+    "LLNDCPOAMNP": 3382849697
+  },
+  {
+    "HKBFMCDAAIK": 10619,
+    "PKLAPAOFNKA": 1621,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage2",
+    "CMLCFIIJCGA": 3173670946,
+    "LLNDCPOAMNP": 3769497009
+  },
+  {
+    "HKBFMCDAAIK": 10620,
+    "PKLAPAOFNKA": 1622,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 812621034,
+    "LLNDCPOAMNP": 166948513
+  },
+  {
+    "HKBFMCDAAIK": 10621,
+    "PKLAPAOFNKA": 1622,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage3",
+    "CMLCFIIJCGA": 3544353570,
+    "LLNDCPOAMNP": 3863505209
+  },
+  {
+    "HKBFMCDAAIK": 10622,
+    "PKLAPAOFNKA": 1623,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 514545410,
+    "LLNDCPOAMNP": 1905818401
+  },
+  {
+    "HKBFMCDAAIK": 10623,
+    "PKLAPAOFNKA": 1623,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage4",
+    "CMLCFIIJCGA": 1473741314,
+    "LLNDCPOAMNP": 3149439889
+  },
+  {
+    "HKBFMCDAAIK": 10624,
+    "PKLAPAOFNKA": 1624,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 1249195202,
+    "LLNDCPOAMNP": 4038222809
+  },
+  {
+    "HKBFMCDAAIK": 10625,
+    "PKLAPAOFNKA": 1624,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage5",
+    "CMLCFIIJCGA": 622535370,
+    "LLNDCPOAMNP": 2560745913
+  },
+  {
+    "HKBFMCDAAIK": 10626,
+    "PKLAPAOFNKA": 1625,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 2354324418,
+    "LLNDCPOAMNP": 3498750929
+  },
+  {
+    "HKBFMCDAAIK": 10627,
+    "PKLAPAOFNKA": 1625,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage6",
+    "CMLCFIIJCGA": 3594044146,
+    "LLNDCPOAMNP": 1396592889
+  },
+  {
+    "HKBFMCDAAIK": 10628,
+    "PKLAPAOFNKA": 1626,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 4206976642,
+    "LLNDCPOAMNP": 714304337
+  },
+  {
+    "HKBFMCDAAIK": 10629,
+    "PKLAPAOFNKA": 1626,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage7",
+    "CMLCFIIJCGA": 3155124514,
+    "LLNDCPOAMNP": 2708673985
+  },
+  {
+    "HKBFMCDAAIK": 10630,
+    "PKLAPAOFNKA": 1627,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_ElementAddHurt_Fire_V2",
+    "CMLCFIIJCGA": 3201181602,
+    "LLNDCPOAMNP": 3664370969
+  },
+  {
+    "HKBFMCDAAIK": 10631,
+    "PKLAPAOFNKA": 1627,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Water_V22",
+    "CMLCFIIJCGA": 3969245562,
+    "LLNDCPOAMNP": 2044636665
+  },
+  {
+    "HKBFMCDAAIK": 10632,
+    "PKLAPAOFNKA": 1627,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 1804262378,
+    "LLNDCPOAMNP": 4065117161
+  },
+  {
+    "HKBFMCDAAIK": 10633,
+    "PKLAPAOFNKA": 1628,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2526030914,
+    "LLNDCPOAMNP": 4191293121
+  },
+  {
+    "HKBFMCDAAIK": 10634,
+    "PKLAPAOFNKA": 1628,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 390112282,
+    "LLNDCPOAMNP": 2562088241
+  },
+  {
+    "HKBFMCDAAIK": 10635,
+    "PKLAPAOFNKA": 1629,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_HighEnergyAtkUp_Multiple",
+    "CMLCFIIJCGA": 2795222746,
+    "LLNDCPOAMNP": 3991114849
+  },
+  {
+    "HKBFMCDAAIK": 10636,
+    "PKLAPAOFNKA": 1630,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_MaxEnergyDamageUp_Multiple",
+    "CMLCFIIJCGA": 3989873618,
+    "LLNDCPOAMNP": 3349464945
+  },
+  {
+    "HKBFMCDAAIK": 10637,
+    "PKLAPAOFNKA": 1631,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_HighEnergyTriggerAoe",
+    "CMLCFIIJCGA": 3868881538,
+    "LLNDCPOAMNP": 344158625
+  },
+  {
+    "HKBFMCDAAIK": 10638,
+    "PKLAPAOFNKA": 1632,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 2779198810,
+    "LLNDCPOAMNP": 2086635697
+  },
+  {
+    "HKBFMCDAAIK": 10639,
+    "PKLAPAOFNKA": 1633,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Hachi_LevelHandle",
+    "CMLCFIIJCGA": 975657170,
+    "LLNDCPOAMNP": 3586516617
+  },
+  {
+    "HKBFMCDAAIK": 10640,
+    "PKLAPAOFNKA": 1634,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_V2_3_Level04",
+    "CMLCFIIJCGA": 1668931698,
+    "LLNDCPOAMNP": 1616797065
+  },
+  {
+    "HKBFMCDAAIK": 10641,
+    "PKLAPAOFNKA": 1634,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_V2_3_Level05",
+    "CMLCFIIJCGA": 2640238226,
+    "LLNDCPOAMNP": 2010951217
+  },
+  {
+    "HKBFMCDAAIK": 10642,
+    "PKLAPAOFNKA": 1634,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 4010100314,
+    "LLNDCPOAMNP": 4163217121
+  },
+  {
+    "HKBFMCDAAIK": 10643,
+    "PKLAPAOFNKA": 1635,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1775761026,
+    "LLNDCPOAMNP": 2991852985
+  },
+  {
+    "HKBFMCDAAIK": 10644,
+    "PKLAPAOFNKA": 1635,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 1407102546,
+    "LLNDCPOAMNP": 2640231513
+  },
+  {
+    "HKBFMCDAAIK": 10645,
+    "PKLAPAOFNKA": 1636,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_V2_3_Level01",
+    "CMLCFIIJCGA": 784207778,
+    "LLNDCPOAMNP": 2479195529
+  },
+  {
+    "HKBFMCDAAIK": 10646,
+    "PKLAPAOFNKA": 1637,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_V2_3_Level02",
+    "CMLCFIIJCGA": 1906073434,
+    "LLNDCPOAMNP": 285461529
+  },
+  {
+    "HKBFMCDAAIK": 10647,
+    "PKLAPAOFNKA": 1638,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntityTowerBuff_V2_3_Level03",
+    "CMLCFIIJCGA": 2436328386,
+    "LLNDCPOAMNP": 3804885377
+  },
+  {
+    "HKBFMCDAAIK": 10648,
+    "PKLAPAOFNKA": 1619,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_LaSignora",
+    "CMLCFIIJCGA": 2710514930,
+    "LLNDCPOAMNP": 891590497
+  },
+  {
+    "HKBFMCDAAIK": 10649,
+    "PKLAPAOFNKA": 1639,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 1559199458,
+    "LLNDCPOAMNP": 347915753
+  },
+  {
+    "HKBFMCDAAIK": 10650,
+    "PKLAPAOFNKA": 1639,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage8",
+    "CMLCFIIJCGA": 1400101530,
+    "LLNDCPOAMNP": 599673817
+  },
+  {
+    "HKBFMCDAAIK": 10651,
+    "PKLAPAOFNKA": 1640,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_DiePatternSwitch",
+    "CMLCFIIJCGA": 641493130,
+    "LLNDCPOAMNP": 2189737249
+  },
+  {
+    "HKBFMCDAAIK": 10652,
+    "PKLAPAOFNKA": 1640,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Rogue_Monster_HPUp_Stage9",
+    "CMLCFIIJCGA": 1916958010,
+    "LLNDCPOAMNP": 885795489
+  },
+  {
+    "HKBFMCDAAIK": 10653,
+    "PKLAPAOFNKA": 1641,
+    "CMCKHNNHJKH": "LevelEntity_Activity_ChannellerSlab_Monster_Sylph_ChargeUp",
+    "CMLCFIIJCGA": 2145308546,
+    "LLNDCPOAMNP": 3371595265
+  },
+  {
+    "HKBFMCDAAIK": 10654,
+    "PKLAPAOFNKA": 1642,
+    "CMCKHNNHJKH": "LevelEntity_Activity_ChannellerSlab_Monster_Sylph_DeathrattleCharge",
+    "CMLCFIIJCGA": 2709785066,
+    "LLNDCPOAMNP": 180597425
+  },
+  {
+    "HKBFMCDAAIK": 10655,
+    "PKLAPAOFNKA": 1643,
+    "CMCKHNNHJKH": "LevelEntity_Activity_ChannellerSlab_Monster_Hound_AttackEnhance",
+    "CMLCFIIJCGA": 2389408850,
+    "LLNDCPOAMNP": 304546441
+  },
+  {
+    "HKBFMCDAAIK": 10656,
+    "PKLAPAOFNKA": 1644,
+    "CMCKHNNHJKH": "LevelEntity_Activity_ChannellerSlab_Monster_Hound_ResetStrike",
+    "CMLCFIIJCGA": 3480457994,
+    "LLNDCPOAMNP": 2959417057
+  },
+  {
+    "HKBFMCDAAIK": 10657,
+    "PKLAPAOFNKA": 1645,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv1",
+    "CMLCFIIJCGA": 4247884106,
+    "LLNDCPOAMNP": 1102204129
+  },
+  {
+    "HKBFMCDAAIK": 10658,
+    "PKLAPAOFNKA": 1646,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv2",
+    "CMLCFIIJCGA": 2350289578,
+    "LLNDCPOAMNP": 2661917673
+  },
+  {
+    "HKBFMCDAAIK": 10659,
+    "PKLAPAOFNKA": 1647,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 2070299386,
+    "LLNDCPOAMNP": 1037355465
+  },
+  {
+    "HKBFMCDAAIK": 10660,
+    "PKLAPAOFNKA": 1648,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Monster_AtkUp_Lv1",
+    "CMLCFIIJCGA": 1211790298,
+    "LLNDCPOAMNP": 2771960889
+  },
+  {
+    "HKBFMCDAAIK": 10661,
+    "PKLAPAOFNKA": 1649,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Avatar_ShieldCostMinusDown",
+    "CMLCFIIJCGA": 1977167186,
+    "LLNDCPOAMNP": 3803974233
+  },
+  {
+    "HKBFMCDAAIK": 10662,
+    "PKLAPAOFNKA": 1650,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Avatar_MoveSpeedDown",
+    "CMLCFIIJCGA": 1392742466,
+    "LLNDCPOAMNP": 2623556105
+  },
+  {
+    "HKBFMCDAAIK": 10663,
+    "PKLAPAOFNKA": 1651,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Avatar_DashStaminaUp",
+    "CMLCFIIJCGA": 2616116690,
+    "LLNDCPOAMNP": 3849937545
+  },
+  {
+    "HKBFMCDAAIK": 10664,
+    "PKLAPAOFNKA": 1652,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Avatar_SkillCDIncrement",
+    "CMLCFIIJCGA": 960327418,
+    "LLNDCPOAMNP": 993173521
+  },
+  {
+    "HKBFMCDAAIK": 10665,
+    "PKLAPAOFNKA": 1653,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Avatar_RecoverStaminaRatioDown",
+    "CMLCFIIJCGA": 2723234426,
+    "LLNDCPOAMNP": 1339147481
+  },
+  {
+    "HKBFMCDAAIK": 10666,
+    "PKLAPAOFNKA": 1654,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Avatar_NoShieldAtkDown",
+    "CMLCFIIJCGA": 1416546442,
+    "LLNDCPOAMNP": 1714329665
+  },
+  {
+    "HKBFMCDAAIK": 10667,
+    "PKLAPAOFNKA": 1655,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Team_AtkDownLowHP",
+    "CMLCFIIJCGA": 1068020538,
+    "LLNDCPOAMNP": 2177875601
+  },
+  {
+    "HKBFMCDAAIK": 10668,
+    "PKLAPAOFNKA": 1656,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Team_SpeedDownLowHP",
+    "CMLCFIIJCGA": 1140715378,
+    "LLNDCPOAMNP": 1636029561
+  },
+  {
+    "HKBFMCDAAIK": 10669,
+    "PKLAPAOFNKA": 1657,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Avatar_SprintBeHurtDamageUp",
+    "CMLCFIIJCGA": 3350987634,
+    "LLNDCPOAMNP": 2369103265
+  },
+  {
+    "HKBFMCDAAIK": 10670,
+    "PKLAPAOFNKA": 1658,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Team_BeHurtDamageUpAfterChangeAvatar",
+    "CMLCFIIJCGA": 681802146,
+    "LLNDCPOAMNP": 2957530017
+  },
+  {
+    "HKBFMCDAAIK": 10671,
+    "PKLAPAOFNKA": 1659,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Team_BeHurtDamageUpAfterULT",
+    "CMLCFIIJCGA": 4236012202,
+    "LLNDCPOAMNP": 359175313
+  },
+  {
+    "HKBFMCDAAIK": 10672,
+    "PKLAPAOFNKA": 1660,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Team_AtkDownLowHP_TwoStages",
+    "CMLCFIIJCGA": 3794220738,
+    "LLNDCPOAMNP": 1142740921
+  },
+  {
+    "HKBFMCDAAIK": 10673,
+    "PKLAPAOFNKA": 1661,
+    "CMCKHNNHJKH": "LevelEntity_Activity_ChannellerSlab_Monster_Sylph_AttackEnhance",
+    "CMLCFIIJCGA": 4110165442,
+    "LLNDCPOAMNP": 2014249369
+  },
+  {
+    "HKBFMCDAAIK": 10674,
+    "PKLAPAOFNKA": 1662,
+    "CMCKHNNHJKH": "LevelEntity_ChannellerSlabV2_Avatar_ChargeEfficiencyDelta",
+    "CMLCFIIJCGA": 1723476210,
+    "LLNDCPOAMNP": 240945937
+  },
+  {
+    "HKBFMCDAAIK": 10675,
+    "PKLAPAOFNKA": 1671,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 355588714,
+    "LLNDCPOAMNP": 3148180009
+  },
+  {
+    "HKBFMCDAAIK": 10676,
+    "PKLAPAOFNKA": 1672,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 333193810,
+    "LLNDCPOAMNP": 66399681
+  },
+  {
+    "HKBFMCDAAIK": 10677,
+    "PKLAPAOFNKA": 1673,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3200237378,
+    "LLNDCPOAMNP": 4274604873
+  },
+  {
+    "HKBFMCDAAIK": 10678,
+    "PKLAPAOFNKA": 1674,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Potion_LevelBuff_Stage1",
+    "CMLCFIIJCGA": 547528194,
+    "LLNDCPOAMNP": 1551188385
+  },
+  {
+    "HKBFMCDAAIK": 10679,
+    "PKLAPAOFNKA": 1675,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Potion_LevelBuff_QuicklyAttack_Stage2",
+    "CMLCFIIJCGA": 2413360346,
+    "LLNDCPOAMNP": 1795315505
+  },
+  {
+    "HKBFMCDAAIK": 10680,
+    "PKLAPAOFNKA": 1676,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Potion_LevelBuff_Stage3",
+    "CMLCFIIJCGA": 676614290,
+    "LLNDCPOAMNP": 3321214689
+  },
+  {
+    "HKBFMCDAAIK": 10681,
+    "PKLAPAOFNKA": 1677,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric_LoopDungeon",
+    "CMLCFIIJCGA": 2436666218,
+    "LLNDCPOAMNP": 2580482569
+  },
+  {
+    "HKBFMCDAAIK": 10682,
+    "PKLAPAOFNKA": 1677,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_LoopDungeon_ElementReactionAttack_Shock",
+    "CMLCFIIJCGA": 3443657562,
+    "LLNDCPOAMNP": 852642153
+  },
+  {
+    "HKBFMCDAAIK": 10683,
+    "PKLAPAOFNKA": 1678,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_NormalAttackUp",
+    "CMLCFIIJCGA": 3908509906,
+    "LLNDCPOAMNP": 307350185
+  },
+  {
+    "HKBFMCDAAIK": 10684,
+    "PKLAPAOFNKA": 1678,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 2259470602,
+    "LLNDCPOAMNP": 2647384097
+  },
+  {
+    "HKBFMCDAAIK": 10685,
+    "PKLAPAOFNKA": 1679,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 433185034,
+    "LLNDCPOAMNP": 2060026081
+  },
+  {
+    "HKBFMCDAAIK": 10686,
+    "PKLAPAOFNKA": 1679,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 1997524962,
+    "LLNDCPOAMNP": 1138445225
+  },
+  {
+    "HKBFMCDAAIK": 10687,
+    "PKLAPAOFNKA": 1680,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_NormalExFallSustainAttackUp",
+    "CMLCFIIJCGA": 100010186,
+    "LLNDCPOAMNP": 2934200097
+  },
+  {
+    "HKBFMCDAAIK": 10688,
+    "PKLAPAOFNKA": 1681,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_NormalAttackRandomShock",
+    "CMLCFIIJCGA": 3621409666,
+    "LLNDCPOAMNP": 1084026945
+  },
+  {
+    "HKBFMCDAAIK": 10689,
+    "PKLAPAOFNKA": 1682,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_NormalExFallSustainAttackShockUp",
+    "CMLCFIIJCGA": 823202674,
+    "LLNDCPOAMNP": 2773136313
+  },
+  {
+    "HKBFMCDAAIK": 10690,
+    "PKLAPAOFNKA": 1674,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Potion_AdditionalHPAndAttack_ForMonster",
+    "CMLCFIIJCGA": 649960578,
+    "LLNDCPOAMNP": 3908527633
+  },
+  {
+    "HKBFMCDAAIK": 10691,
+    "PKLAPAOFNKA": 1675,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Potion_AdditionalHPAndAttack_ForMonster",
+    "CMLCFIIJCGA": 1118478250,
+    "LLNDCPOAMNP": 97452457
+  },
+  {
+    "HKBFMCDAAIK": 10692,
+    "PKLAPAOFNKA": 1676,
+    "CMCKHNNHJKH": "LevelEntity_Activity_Potion_AdditionalHPAndAttack_ForMonster",
+    "CMLCFIIJCGA": 3058804394,
+    "LLNDCPOAMNP": 3858305529
+  },
+  {
+    "HKBFMCDAAIK": 10693,
+    "PKLAPAOFNKA": 1683,
+    "CMCKHNNHJKH": "LevelEntity_Sumo_NoSwitch_Punishment_ForMonster",
+    "CMLCFIIJCGA": 3270133658,
+    "LLNDCPOAMNP": 1827128905
+  },
+  {
+    "HKBFMCDAAIK": 10694,
+    "PKLAPAOFNKA": 1684,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ReduceMonster_ElecAddHurtDelta",
+    "CMLCFIIJCGA": 1142556586,
+    "LLNDCPOAMNP": 2238479817
+  },
+  {
+    "HKBFMCDAAIK": 10695,
+    "PKLAPAOFNKA": 1685,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AvatarHitMonsterHasElec_ImpactDamage",
+    "CMLCFIIJCGA": 4026597010,
+    "LLNDCPOAMNP": 3040259809
+  },
+  {
+    "HKBFMCDAAIK": 10696,
+    "PKLAPAOFNKA": 1686,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ImproveElecDamage",
+    "CMLCFIIJCGA": 1796472666,
+    "LLNDCPOAMNP": 4168512057
+  },
+  {
+    "HKBFMCDAAIK": 10697,
+    "PKLAPAOFNKA": 1686,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ImproveHeal",
+    "CMLCFIIJCGA": 1127321850,
+    "LLNDCPOAMNP": 3888737969
+  },
+  {
+    "HKBFMCDAAIK": 10698,
+    "PKLAPAOFNKA": 1686,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 4285062522,
+    "LLNDCPOAMNP": 905087233
+  },
+  {
+    "HKBFMCDAAIK": 10699,
+    "PKLAPAOFNKA": 1687,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2845724218,
+    "LLNDCPOAMNP": 23134913
+  },
+  {
+    "HKBFMCDAAIK": 10700,
+    "PKLAPAOFNKA": 1687,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 3132660850,
+    "LLNDCPOAMNP": 1383480297
+  },
+  {
+    "HKBFMCDAAIK": 10701,
+    "PKLAPAOFNKA": 1688,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1216624690,
+    "LLNDCPOAMNP": 1168074233
+  },
+  {
+    "HKBFMCDAAIK": 10702,
+    "PKLAPAOFNKA": 1689,
+    "CMCKHNNHJKH": "LevelEntity_CrystalLink_MonsterEnhanced01",
+    "CMLCFIIJCGA": 3381009522,
+    "LLNDCPOAMNP": 2986504417
+  },
+  {
+    "HKBFMCDAAIK": 10703,
+    "PKLAPAOFNKA": 1690,
+    "CMCKHNNHJKH": "LevelEntity_CrystalLink_MonsterEnhanced02",
+    "CMLCFIIJCGA": 4168718474,
+    "LLNDCPOAMNP": 1113148953
+  },
+  {
+    "HKBFMCDAAIK": 10704,
+    "PKLAPAOFNKA": 1691,
+    "CMCKHNNHJKH": "LevelEntity_CrystalLink_MonsterEnhanced03",
+    "CMLCFIIJCGA": 1511478138,
+    "LLNDCPOAMNP": 884932961
+  },
+  {
+    "HKBFMCDAAIK": 10705,
+    "PKLAPAOFNKA": 1692,
+    "CMCKHNNHJKH": "LevelEntity_CrystalLink_MonsterEnhanced04",
+    "CMLCFIIJCGA": 4272457002,
+    "LLNDCPOAMNP": 669872673
+  },
+  {
+    "HKBFMCDAAIK": 10706,
+    "PKLAPAOFNKA": 1693,
+    "CMCKHNNHJKH": "LevelEntity_CrystalLink_MonsterEnhanced05",
+    "CMLCFIIJCGA": 2750487042,
+    "LLNDCPOAMNP": 2234185161
+  },
+  {
+    "HKBFMCDAAIK": 10707,
+    "PKLAPAOFNKA": 1694,
+    "CMCKHNNHJKH": "LevelEntity_CrystalLink_MonsterEnhanced06",
+    "CMLCFIIJCGA": 3120941850,
+    "LLNDCPOAMNP": 3726588865
+  },
+  {
+    "HKBFMCDAAIK": 10708,
+    "PKLAPAOFNKA": 1695,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_NormalAttackTriggerBomb_V26",
+    "CMLCFIIJCGA": 2894141586,
+    "LLNDCPOAMNP": 2413718385
+  },
+  {
+    "HKBFMCDAAIK": 10709,
+    "PKLAPAOFNKA": 1696,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_NormalAttackDamageUp_V26",
+    "CMLCFIIJCGA": 2278908530,
+    "LLNDCPOAMNP": 3104464385
+  },
+  {
+    "HKBFMCDAAIK": 10710,
+    "PKLAPAOFNKA": 1697,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_MonsterElementBeHurt_V26",
+    "CMLCFIIJCGA": 3604170394,
+    "LLNDCPOAMNP": 1183418049
+  },
+  {
+    "HKBFMCDAAIK": 10711,
+    "PKLAPAOFNKA": 1698,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Wind",
+    "CMLCFIIJCGA": 3828732186,
+    "LLNDCPOAMNP": 235391713
+  },
+  {
+    "HKBFMCDAAIK": 10712,
+    "PKLAPAOFNKA": 1698,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 208288226,
+    "LLNDCPOAMNP": 3409466841
+  },
+  {
+    "HKBFMCDAAIK": 10713,
+    "PKLAPAOFNKA": 1699,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2510140434,
+    "LLNDCPOAMNP": 3215232953
+  },
+  {
+    "HKBFMCDAAIK": 10714,
+    "PKLAPAOFNKA": 1699,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 2515164658,
+    "LLNDCPOAMNP": 2173802785
+  },
+  {
+    "HKBFMCDAAIK": 10715,
+    "PKLAPAOFNKA": 1688,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3954779938,
+    "LLNDCPOAMNP": 49480913
+  },
+  {
+    "HKBFMCDAAIK": 10716,
+    "PKLAPAOFNKA": 1689,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ActivityAbility_CrystalLink_UltimateSkill_AttackUp",
+    "CMLCFIIJCGA": 1775771130,
+    "LLNDCPOAMNP": 2906873705
+  },
+  {
+    "HKBFMCDAAIK": 10717,
+    "PKLAPAOFNKA": 1690,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ActivityAbility_CrystalLink_QuicklyAttack",
+    "CMLCFIIJCGA": 2875189874,
+    "LLNDCPOAMNP": 3294085081
+  },
+  {
+    "HKBFMCDAAIK": 10718,
+    "PKLAPAOFNKA": 1691,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ActivityAbility_CrystalLink_ElectricDamageUp",
+    "CMLCFIIJCGA": 677965818,
+    "LLNDCPOAMNP": 1498969305
+  },
+  {
+    "HKBFMCDAAIK": 10719,
+    "PKLAPAOFNKA": 1692,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ActivityAbility_CrystalLink_GetRockSeed_DamageUp",
+    "CMLCFIIJCGA": 3216826074,
+    "LLNDCPOAMNP": 1177981193
+  },
+  {
+    "HKBFMCDAAIK": 10720,
+    "PKLAPAOFNKA": 1693,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ActivityAbility_CrystalLink_UltimateSkill_Skill_LoseHP",
+    "CMLCFIIJCGA": 3394019962,
+    "LLNDCPOAMNP": 3862420969
+  },
+  {
+    "HKBFMCDAAIK": 10721,
+    "PKLAPAOFNKA": 1693,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ActivityAbility_CrystalLink_Skill_UltimateSkill_DamageUp_ByCurHP",
+    "CMLCFIIJCGA": 2849614858,
+    "LLNDCPOAMNP": 2499139353
+  },
+  {
+    "HKBFMCDAAIK": 10722,
+    "PKLAPAOFNKA": 1693,
+    "CMCKHNNHJKH": "LevelEntity_ActivityAbility_CrystalLink_DeathRattle_Corruption_LoseHPEff_ChallangeFinishHandler",
+    "CMLCFIIJCGA": 2085490746,
+    "LLNDCPOAMNP": 1106357049
+  },
+  {
+    "HKBFMCDAAIK": 10723,
+    "PKLAPAOFNKA": 1694,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ActivityAbility_CrystalLink_FrozenTarget_DefenceDown",
+    "CMLCFIIJCGA": 2082056274,
+    "LLNDCPOAMNP": 139948665
+  },
+  {
+    "HKBFMCDAAIK": 10724,
+    "PKLAPAOFNKA": 1700,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_LoopDungeon_UseSkill_GenerateBlastWave",
+    "CMLCFIIJCGA": 4145618250,
+    "LLNDCPOAMNP": 1219863697
+  },
+  {
+    "HKBFMCDAAIK": 10725,
+    "PKLAPAOFNKA": 1701,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 2927567450,
+    "LLNDCPOAMNP": 2511665753
+  },
+  {
+    "HKBFMCDAAIK": 10726,
+    "PKLAPAOFNKA": 1702,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_UseSkill_AddNormalAtkDamage",
+    "CMLCFIIJCGA": 612340562,
+    "LLNDCPOAMNP": 2571933625
+  },
+  {
+    "HKBFMCDAAIK": 10727,
+    "PKLAPAOFNKA": 1703,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_UseSkillHit_DecreaseTargetSubHurt",
+    "CMLCFIIJCGA": 1984184810,
+    "LLNDCPOAMNP": 945551441
+  },
+  {
+    "HKBFMCDAAIK": 10728,
+    "PKLAPAOFNKA": 1704,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_AvatarElementArt_HitMonster_ImpactDamage",
+    "CMLCFIIJCGA": 3235782818,
+    "LLNDCPOAMNP": 772316393
+  },
+  {
+    "HKBFMCDAAIK": 10729,
+    "PKLAPAOFNKA": 1705,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerAvatarBuff_ClaymoreAddHurt",
+    "CMLCFIIJCGA": 3111332610,
+    "LLNDCPOAMNP": 1908260817
+  },
+  {
+    "HKBFMCDAAIK": 10730,
+    "PKLAPAOFNKA": 1705,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 1822786130,
+    "LLNDCPOAMNP": 1286693817
+  },
+  {
+    "HKBFMCDAAIK": 10731,
+    "PKLAPAOFNKA": 1706,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 4248800562,
+    "LLNDCPOAMNP": 3828877073
+  },
+  {
+    "HKBFMCDAAIK": 10732,
+    "PKLAPAOFNKA": 1706,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 3301810210,
+    "LLNDCPOAMNP": 907935169
+  },
+  {
+    "HKBFMCDAAIK": 10733,
+    "PKLAPAOFNKA": 1707,
+    "CMCKHNNHJKH": "LevelEntity_RogueV2_AdditionalHP_HardMode",
+    "CMLCFIIJCGA": 658502162,
+    "LLNDCPOAMNP": 4142186809
+  },
+  {
+    "HKBFMCDAAIK": 10734,
+    "PKLAPAOFNKA": 1707,
+    "CMCKHNNHJKH": "LevelEntity_RogueV2_AdditionalHP_Dynamic",
+    "CMLCFIIJCGA": 2979865762,
+    "LLNDCPOAMNP": 3758616193
+  },
+  {
+    "HKBFMCDAAIK": 10735,
+    "PKLAPAOFNKA": 1708,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_TickAtkUp_ExtraTriggerCJB",
+    "CMLCFIIJCGA": 629555122,
+    "LLNDCPOAMNP": 364849329
+  },
+  {
+    "HKBFMCDAAIK": 10736,
+    "PKLAPAOFNKA": 1709,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_SwirlDefenseDown",
+    "CMLCFIIJCGA": 3209924202,
+    "LLNDCPOAMNP": 3311493985
+  },
+  {
+    "HKBFMCDAAIK": 10737,
+    "PKLAPAOFNKA": 1710,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_CurAvatarAttackUp_NormalExtraFall",
+    "CMLCFIIJCGA": 2736263858,
+    "LLNDCPOAMNP": 2387999561
+  },
+  {
+    "HKBFMCDAAIK": 10738,
+    "PKLAPAOFNKA": 1711,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Fire",
+    "CMLCFIIJCGA": 3870897898,
+    "LLNDCPOAMNP": 687158817
+  },
+  {
+    "HKBFMCDAAIK": 10739,
+    "PKLAPAOFNKA": 1711,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 788964410,
+    "LLNDCPOAMNP": 2136596297
+  },
+  {
+    "HKBFMCDAAIK": 10740,
+    "PKLAPAOFNKA": 1712,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2303790618,
+    "LLNDCPOAMNP": 1471439401
+  },
+  {
+    "HKBFMCDAAIK": 10741,
+    "PKLAPAOFNKA": 1712,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 1460476738,
+    "LLNDCPOAMNP": 2650524017
+  },
+  {
+    "HKBFMCDAAIK": 10742,
+    "PKLAPAOFNKA": 1713,
+    "CMCKHNNHJKH": "LevelEntity_Activity_SummerTimeV2_Dungeon_Mona_StruggleBubble",
+    "CMLCFIIJCGA": 3743459338,
+    "LLNDCPOAMNP": 658397521
+  },
+  {
+    "HKBFMCDAAIK": 10743,
+    "PKLAPAOFNKA": 1714,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElemReactOvergrowDelta",
+    "CMLCFIIJCGA": 1953297834,
+    "LLNDCPOAMNP": 1696237081
+  },
+  {
+    "HKBFMCDAAIK": 10744,
+    "PKLAPAOFNKA": 1714,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 412317162,
+    "LLNDCPOAMNP": 2754230753
+  },
+  {
+    "HKBFMCDAAIK": 10745,
+    "PKLAPAOFNKA": 1715,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_ElemReactOverdoseDelta",
+    "CMLCFIIJCGA": 1166426930,
+    "LLNDCPOAMNP": 1566600505
+  },
+  {
+    "HKBFMCDAAIK": 10746,
+    "PKLAPAOFNKA": 1715,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 441630866,
+    "LLNDCPOAMNP": 2049834377
+  },
+  {
+    "HKBFMCDAAIK": 10747,
+    "PKLAPAOFNKA": 1716,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_GrassAddHurt",
+    "CMLCFIIJCGA": 528939714,
+    "LLNDCPOAMNP": 2587698409
+  },
+  {
+    "HKBFMCDAAIK": 10748,
+    "PKLAPAOFNKA": 1716,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 970795442,
+    "LLNDCPOAMNP": 1329208953
+  },
+  {
+    "HKBFMCDAAIK": 10749,
+    "PKLAPAOFNKA": 1717,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3087881074,
+    "LLNDCPOAMNP": 3345239497
+  },
+  {
+    "HKBFMCDAAIK": 10750,
+    "PKLAPAOFNKA": 1717,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 3757022050,
+    "LLNDCPOAMNP": 3939213049
+  },
+  {
+    "HKBFMCDAAIK": 10751,
+    "PKLAPAOFNKA": 1718,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_OverdoseTriggerDefenseDown",
+    "CMLCFIIJCGA": 771048954,
+    "LLNDCPOAMNP": 820447353
+  },
+  {
+    "HKBFMCDAAIK": 10752,
+    "PKLAPAOFNKA": 1719,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_OverGrowTriggerAtkUp",
+    "CMLCFIIJCGA": 2986696570,
+    "LLNDCPOAMNP": 3413849537
+  },
+  {
+    "HKBFMCDAAIK": 10753,
+    "PKLAPAOFNKA": 1720,
+    "CMCKHNNHJKH": "LevelEntity_MonsterAffix_PropertiesUp_ForInstableSpray_Stage1",
+    "CMLCFIIJCGA": 978457346,
+    "LLNDCPOAMNP": 1950652897
+  },
+  {
+    "HKBFMCDAAIK": 10754,
+    "PKLAPAOFNKA": 1721,
+    "CMCKHNNHJKH": "LevelEntity_MonsterAffix_PropertiesUp_ForInstableSpray_Stage2",
+    "CMLCFIIJCGA": 3509253946,
+    "LLNDCPOAMNP": 4197822865
+  },
+  {
+    "HKBFMCDAAIK": 10755,
+    "PKLAPAOFNKA": 1722,
+    "CMCKHNNHJKH": "LevelEntity_MonsterAffix_PropertiesUp_ForInstableSpray_Stage3",
+    "CMLCFIIJCGA": 1687967986,
+    "LLNDCPOAMNP": 1003730465
+  },
+  {
+    "HKBFMCDAAIK": 10756,
+    "PKLAPAOFNKA": 1723,
+    "CMCKHNNHJKH": "LevelEntity_MonsterAffix_PropertiesUp_ForInstableSpray_Stage4",
+    "CMLCFIIJCGA": 2730574186,
+    "LLNDCPOAMNP": 2787420177
+  },
+  {
+    "HKBFMCDAAIK": 10757,
+    "PKLAPAOFNKA": 1724,
+    "CMCKHNNHJKH": "LevelEntity_Ability_SummerTimeV2_BeHit_HasShield",
+    "CMLCFIIJCGA": 1215292186,
+    "LLNDCPOAMNP": 1085877305
+  },
+  {
+    "HKBFMCDAAIK": 10758,
+    "PKLAPAOFNKA": 1724,
+    "CMCKHNNHJKH": "LevelEntity_Ability_SummerTimeV2_Dungeon_FallingAttack_Impact",
+    "CMLCFIIJCGA": 1213479426,
+    "LLNDCPOAMNP": 22898921
+  },
+  {
+    "HKBFMCDAAIK": 10759,
+    "PKLAPAOFNKA": 1725,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelBuff_LoopDungeon_DamageUp_ElemDamage",
+    "CMLCFIIJCGA": 312723018,
+    "LLNDCPOAMNP": 2562623985
+  },
+  {
+    "HKBFMCDAAIK": 10760,
+    "PKLAPAOFNKA": 1726,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelBuff_LoopDungeon_OverdoseTarget_ElemSubHurtDown",
+    "CMLCFIIJCGA": 4155430658,
+    "LLNDCPOAMNP": 1250706129
+  },
+  {
+    "HKBFMCDAAIK": 10761,
+    "PKLAPAOFNKA": 1727,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelBuff_LoopDungeon_MasteryUp_ByAllCharacterMastery",
+    "CMLCFIIJCGA": 1639764722,
+    "LLNDCPOAMNP": 4190701777
+  },
+  {
+    "HKBFMCDAAIK": 10762,
+    "PKLAPAOFNKA": 1727,
+    "CMCKHNNHJKH": "LevelBuff_LoopDungeon_MasteryUp_ByAllCharacterMastery_Sum",
+    "CMLCFIIJCGA": 3171569282,
+    "LLNDCPOAMNP": 1441835585
+  },
+  {
+    "HKBFMCDAAIK": 10763,
+    "PKLAPAOFNKA": 1728,
+    "CMCKHNNHJKH": "Level_DreamDungeon_Kazuha",
+    "CMLCFIIJCGA": 2977933730,
+    "LLNDCPOAMNP": 2960147753
+  },
+  {
+    "HKBFMCDAAIK": 10764,
+    "PKLAPAOFNKA": 1729,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3161793298,
+    "LLNDCPOAMNP": 4218571433
+  },
+  {
+    "HKBFMCDAAIK": 10765,
+    "PKLAPAOFNKA": 1730,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3155398474,
+    "LLNDCPOAMNP": 3969176049
+  },
+  {
+    "HKBFMCDAAIK": 10766,
+    "PKLAPAOFNKA": 1731,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2646183154,
+    "LLNDCPOAMNP": 1518618217
+  },
+  {
+    "HKBFMCDAAIK": 10767,
+    "PKLAPAOFNKA": 1732,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 1948814410,
+    "LLNDCPOAMNP": 3409110105
+  },
+  {
+    "HKBFMCDAAIK": 10768,
+    "PKLAPAOFNKA": 1733,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2376322994,
+    "LLNDCPOAMNP": 3078909721
+  },
+  {
+    "HKBFMCDAAIK": 10769,
+    "PKLAPAOFNKA": 1734,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 2537376874,
+    "LLNDCPOAMNP": 375308649
+  },
+  {
+    "HKBFMCDAAIK": 10770,
+    "PKLAPAOFNKA": 1735,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 3209215122,
+    "LLNDCPOAMNP": 2891563857
+  },
+  {
+    "HKBFMCDAAIK": 10771,
+    "PKLAPAOFNKA": 1736,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_OverGrowTriggerCriticalHurtUp",
+    "CMLCFIIJCGA": 3433484106,
+    "LLNDCPOAMNP": 967024481
+  },
+  {
+    "HKBFMCDAAIK": 10772,
+    "PKLAPAOFNKA": 1737,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_OverdoseTriggerSubHurtDown",
+    "CMLCFIIJCGA": 2329670922,
+    "LLNDCPOAMNP": 4183591057
+  },
+  {
+    "HKBFMCDAAIK": 10773,
+    "PKLAPAOFNKA": 1738,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_ElementAddHurt_Electric",
+    "CMLCFIIJCGA": 1399198938,
+    "LLNDCPOAMNP": 2707703785
+  },
+  {
+    "HKBFMCDAAIK": 10774,
+    "PKLAPAOFNKA": 1738,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv3",
+    "CMLCFIIJCGA": 1044025858,
+    "LLNDCPOAMNP": 2139116321
+  },
+  {
+    "HKBFMCDAAIK": 10775,
+    "PKLAPAOFNKA": 1739,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "Level_Spiral_Abyss_Charge_Empty",
+    "CMLCFIIJCGA": 336188386,
+    "LLNDCPOAMNP": 221812753
+  },
+  {
+    "HKBFMCDAAIK": 10776,
+    "PKLAPAOFNKA": 1739,
+    "CMCKHNNHJKH": "LevelEntity_Monster_HpUp_Lv4",
+    "CMLCFIIJCGA": 1204797002,
+    "LLNDCPOAMNP": 915705849
+  },
+  {
+    "HKBFMCDAAIK": 10777,
+    "PKLAPAOFNKA": 1740,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_OverGrowTriggerElemMasteryDelta",
+    "CMLCFIIJCGA": 4019341258,
+    "LLNDCPOAMNP": 366602273
+  },
+  {
+    "HKBFMCDAAIK": 10778,
+    "PKLAPAOFNKA": 1741,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_OverGrowTriggerMonsterSubHurtDown",
+    "CMLCFIIJCGA": 2429678858,
+    "LLNDCPOAMNP": 763950953
+  },
+  {
+    "HKBFMCDAAIK": 10779,
+    "PKLAPAOFNKA": 1742,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "LevelEntity_TowerBuff_OverGrowTriggerCJB_V3.1",
+    "CMLCFIIJCGA": 1850025794,
+    "LLNDCPOAMNP": 615122881
+  },
+  {
+    "HKBFMCDAAIK": 10780,
+    "PKLAPAOFNKA": 1743,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_LevelEntity_Challenge_FallingWindZone",
+    "CMLCFIIJCGA": 4092891474,
+    "LLNDCPOAMNP": 914655089
+  },
+  {
+    "HKBFMCDAAIK": 10781,
+    "PKLAPAOFNKA": 1744,
+    "EBFMFGMONCG": true,
+    "CMCKHNNHJKH": "ActivityAbility_LevelEntity_Challenge_GrassReaction_Impact",
+    "CMLCFIIJCGA": 94693506,
+    "LLNDCPOAMNP": 2561403193
+  }
+]

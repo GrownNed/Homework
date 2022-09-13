@@ -1,0 +1,932 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "JPFPFFAGAPJ": 1,
+    "AIILHPCJLMO": 1,
+    "HDPDPDGLELF": "XiaoGong_Easy",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1362,
+      1635,
+      2452,
+      2725
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 145,
+    "ECFCJEEENPL": {
+      "0": 145
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "XiaoGong_Hint_Complex",
+    "FJLLKMNCFEH": "XiaoGong_Hint_Complex",
+    "AMNHELPNKNO": 102,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 1978622692,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "JPFPFFAGAPJ": 1,
+    "AIILHPCJLMO": 2,
+    "HDPDPDGLELF": "XiaoGong_Normal",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1685,
+      2022,
+      3033,
+      3370
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 145,
+    "ECFCJEEENPL": {
+      "0": 145
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "XiaoGong_Hint_Complex",
+    "FJLLKMNCFEH": "XiaoGong_Hint_Complex",
+    "AMNHELPNKNO": 122,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 2239859412,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "JPFPFFAGAPJ": 1,
+    "AIILHPCJLMO": 3,
+    "HDPDPDGLELF": "XiaoGong_Hard",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      2480,
+      2976,
+      4464,
+      4960
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 145,
+    "ECFCJEEENPL": {
+      "0": 145
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "XiaoGong_Hint_Complex",
+    "FJLLKMNCFEH": "XiaoGong_Hint_Complex",
+    "AMNHELPNKNO": 179,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 2777352964,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "JPFPFFAGAPJ": 2,
+    "AIILHPCJLMO": 1,
+    "HDPDPDGLELF": "YiDou_Easy",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1375,
+      1650,
+      2475,
+      2750
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 150,
+    "ECFCJEEENPL": {
+      "0": 150
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "YiDou_Hint_Complex",
+    "FJLLKMNCFEH": "YiDou_Hint_Complex",
+    "AMNHELPNKNO": 97,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 4163533660,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "JPFPFFAGAPJ": 2,
+    "AIILHPCJLMO": 2,
+    "HDPDPDGLELF": "YiDou_Normal",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1817,
+      2181,
+      3271,
+      3635
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 150,
+    "ECFCJEEENPL": {
+      "0": 150
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "YiDou_Hint_Complex",
+    "FJLLKMNCFEH": "YiDou_Hint_Complex",
+    "AMNHELPNKNO": 121,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 575239028,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "JPFPFFAGAPJ": 2,
+    "AIILHPCJLMO": 3,
+    "HDPDPDGLELF": "YiDou_Hard",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      2342,
+      2811,
+      4216,
+      4685
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 150,
+    "ECFCJEEENPL": {
+      "0": 150
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "YiDou_Hint_Complex",
+    "FJLLKMNCFEH": "YiDou_Hint_Complex",
+    "AMNHELPNKNO": 168,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 627147492,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "JPFPFFAGAPJ": 3,
+    "AIILHPCJLMO": 1,
+    "HDPDPDGLELF": "WanYe_Easy",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1335,
+      1602,
+      2403,
+      2670
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 168,
+    "ECFCJEEENPL": {
+      "0": 168,
+      "2841": 168,
+      "54265": 170
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "WanYe_Hint_Complex",
+    "FJLLKMNCFEH": "WanYe_Hint_Complex",
+    "AMNHELPNKNO": 99,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 1710397604,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "JPFPFFAGAPJ": 3,
+    "AIILHPCJLMO": 2,
+    "HDPDPDGLELF": "WanYe_Normal",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1870,
+      2244,
+      3366,
+      3740
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 168,
+    "ECFCJEEENPL": {
+      "0": 168,
+      "2841": 168,
+      "54265": 170
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "WanYe_Hint_Complex",
+    "FJLLKMNCFEH": "WanYe_Hint_Complex",
+    "AMNHELPNKNO": 129,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 1852506564,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "JPFPFFAGAPJ": 3,
+    "AIILHPCJLMO": 3,
+    "HDPDPDGLELF": "WanYe_Hard",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      2410,
+      2892,
+      4338,
+      4820
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 168,
+    "ECFCJEEENPL": {
+      "0": 168,
+      "2841": 168,
+      "54265": 170
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "WanYe_Hint_Complex",
+    "FJLLKMNCFEH": "WanYe_Hint_Complex",
+    "AMNHELPNKNO": 171,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 1750823012,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "JPFPFFAGAPJ": 4,
+    "AIILHPCJLMO": 1,
+    "HDPDPDGLELF": "TuoMa_Easy",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1055,
+      1266,
+      1899,
+      2110
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 143,
+    "ECFCJEEENPL": {
+      "0": 143
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "TuoMa_Hint_Complex",
+    "FJLLKMNCFEH": "TuoMa_Hint_Complex",
+    "AMNHELPNKNO": 77,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 2032707428,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "JPFPFFAGAPJ": 4,
+    "AIILHPCJLMO": 2,
+    "HDPDPDGLELF": "TuoMa_Normal",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1387,
+      1665,
+      2497,
+      2775
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 143,
+    "ECFCJEEENPL": {
+      "0": 143
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "TuoMa_Hint_Complex",
+    "FJLLKMNCFEH": "TuoMa_Hint_Complex",
+    "AMNHELPNKNO": 102,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 2891835564,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 12,
+    "JPFPFFAGAPJ": 4,
+    "AIILHPCJLMO": 3,
+    "HDPDPDGLELF": "TuoMa_Hard",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1777,
+      2133,
+      3199,
+      3555
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 143,
+    "ECFCJEEENPL": {
+      "0": 143
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "TuoMa_Hint_Complex",
+    "FJLLKMNCFEH": "TuoMa_Hint_Complex",
+    "AMNHELPNKNO": 135,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 2765580940,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 13,
+    "JPFPFFAGAPJ": 5,
+    "AIILHPCJLMO": 1,
+    "HDPDPDGLELF": "KeLi_Easy",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1075,
+      1290,
+      1935,
+      2150
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 129,
+    "ECFCJEEENPL": {
+      "0": 129,
+      "20248": 135,
+      "46144": 135,
+      "55424": 140.75,
+      "67350": 140,
+      "74221": 145,
+      "77517": 139,
+      "84358": 117
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "KeLi_Hint_Complex",
+    "FJLLKMNCFEH": "KeLi_Hint_Complex",
+    "AMNHELPNKNO": 101,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 450371132,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 14,
+    "JPFPFFAGAPJ": 5,
+    "AIILHPCJLMO": 2,
+    "HDPDPDGLELF": "KeLi_Normal",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1575,
+      1890,
+      2835,
+      3150
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 129,
+    "ECFCJEEENPL": {
+      "0": 129,
+      "20248": 135,
+      "46144": 135,
+      "55424": 140.75,
+      "67350": 140,
+      "74221": 145,
+      "77517": 139,
+      "84358": 117
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "KeLi_Hint_Complex",
+    "FJLLKMNCFEH": "KeLi_Hint_Complex",
+    "AMNHELPNKNO": 133,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 2490751876,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 15,
+    "JPFPFFAGAPJ": 5,
+    "AIILHPCJLMO": 3,
+    "HDPDPDGLELF": "KeLi_Hard",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      2320,
+      2784,
+      4176,
+      4640
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 129,
+    "ECFCJEEENPL": {
+      "0": 129,
+      "20248": 135,
+      "46144": 135,
+      "55424": 140.75,
+      "67350": 140,
+      "74221": 145,
+      "77517": 139,
+      "84358": 117
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "KeLi_Hint_Complex",
+    "FJLLKMNCFEH": "KeLi_Hint_Complex",
+    "AMNHELPNKNO": 178,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 845524156,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 16,
+    "JPFPFFAGAPJ": 6,
+    "AIILHPCJLMO": 1,
+    "HDPDPDGLELF": "ReTuoLongWang_Easy",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1112,
+      1335,
+      2002,
+      2225
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 136,
+    "ECFCJEEENPL": {
+      "0": 136
+    },
+    "EJCBAFAGEEO": [
+      3,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 3,
+    "CNNGOBKHIMN": "ReTuoLongWang_Hint_Complex",
+    "FJLLKMNCFEH": "ReTuoLongWang_Hint_Complex",
+    "AMNHELPNKNO": 99,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 1680807580,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 17,
+    "JPFPFFAGAPJ": 6,
+    "AIILHPCJLMO": 2,
+    "HDPDPDGLELF": "ReTuoLongWang_Normal",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1635,
+      1962,
+      2943,
+      3270
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 136,
+    "ECFCJEEENPL": {
+      "0": 136
+    },
+    "EJCBAFAGEEO": [
+      3,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 3,
+    "CNNGOBKHIMN": "ReTuoLongWang_Hint_Complex",
+    "FJLLKMNCFEH": "ReTuoLongWang_Hint_Complex",
+    "AMNHELPNKNO": 127,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 1642361068,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 18,
+    "JPFPFFAGAPJ": 6,
+    "AIILHPCJLMO": 3,
+    "HDPDPDGLELF": "ReTuoLongWang_Hard",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      2252,
+      2703,
+      4054,
+      4505
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 136,
+    "ECFCJEEENPL": {
+      "0": 136
+    },
+    "EJCBAFAGEEO": [
+      3,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 3,
+    "CNNGOBKHIMN": "ReTuoLongWang_Hint_Complex",
+    "FJLLKMNCFEH": "ReTuoLongWang_Hint_Complex",
+    "AMNHELPNKNO": 156,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 4217629892,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 19,
+    "JPFPFFAGAPJ": 7,
+    "AIILHPCJLMO": 1,
+    "HDPDPDGLELF": "LeiShen_Easy",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1192,
+      1431,
+      2146,
+      2385
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 144,
+    "ECFCJEEENPL": {
+      "0": 144
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "LeiShen_Hint_Complex",
+    "FJLLKMNCFEH": "LeiShen_Hint_Complex",
+    "AMNHELPNKNO": 102,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 2867394468,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 20,
+    "JPFPFFAGAPJ": 7,
+    "AIILHPCJLMO": 2,
+    "HDPDPDGLELF": "LeiShen_Normal",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      1750,
+      2100,
+      3150,
+      3500
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 144,
+    "ECFCJEEENPL": {
+      "0": 144
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "LeiShen_Hint_Complex",
+    "FJLLKMNCFEH": "LeiShen_Hint_Complex",
+    "AMNHELPNKNO": 132,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 477471884,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 21,
+    "JPFPFFAGAPJ": 7,
+    "AIILHPCJLMO": 3,
+    "HDPDPDGLELF": "LeiShen_Hard",
+    "GJJEGJIHABK": 1300,
+    "IGADJOHJEMP": 150,
+    "MMKABJBEINH": [
+      2457,
+      2949,
+      4423,
+      4915
+    ],
+    "FCCKIFBGPHL": 20,
+    "AJHHAFCKKCI": 15,
+    "LPHNJCHNMFH": 5,
+    "AFPIAFGIBID": 144,
+    "ECFCJEEENPL": {
+      "0": 144
+    },
+    "EJCBAFAGEEO": [
+      2,
+      4,
+      6
+    ],
+    "OPLOEHLLOCN": 4,
+    "CNNGOBKHIMN": "LeiShen_Hint_Complex",
+    "FJLLKMNCFEH": "LeiShen_Hint_Complex",
+    "AMNHELPNKNO": 178,
+    "BNDBECNBEOK": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "OEHPLPNFFKA": 132414284,
+    "CHPLIFGKJDB": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  }
+]

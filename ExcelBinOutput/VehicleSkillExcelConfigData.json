@@ -1,0 +1,72 @@
+[
+  {
+    "HMNEJGOMDPD": 10011,
+    "NIBHCGIHAOF": 3160031319,
+    "JHLHNFNBMAK": 1793916363,
+    "KCLGPFAPONH": "Vehicle_Skiff_FireCannon_Small",
+    "DICOMFDEABO": "Btn_Vehicle_Skiff_CannonFire_Small",
+    "HJKGCNIEHML": 1,
+    "ANMBEJDOCPB": 1,
+    "MJEIHIPHFDC": "CircleLockEnemyR50H30HC",
+    "ACOMGKENHGH": [
+      1,
+      1,
+      0.1,
+      0
+    ],
+    "EKKOPPELCFO": ""
+  },
+  {
+    "HMNEJGOMDPD": 10012,
+    "NIBHCGIHAOF": 2681213991,
+    "JHLHNFNBMAK": 3413724019,
+    "KCLGPFAPONH": "Vehicle_Skiff_FireCannon_Big",
+    "DICOMFDEABO": "Btn_Vehicle_Skiff_CannonFire_Big",
+    "HJKGCNIEHML": 15,
+    "ANMBEJDOCPB": 1,
+    "MJEIHIPHFDC": "CircleLockEnemyR50H30HC",
+    "ACOMGKENHGH": [
+      1,
+      1,
+      0.1,
+      0
+    ],
+    "EKKOPPELCFO": ""
+  },
+  {
+    "HMNEJGOMDPD": 10101,
+    "NIBHCGIHAOF": 919125991,
+    "JHLHNFNBMAK": 1400400699,
+    "KCLGPFAPONH": "Vehicle_Skiff_Normal_BurstSprint",
+    "DICOMFDEABO": "Skill_SummerTimeV2_03",
+    "HJKGCNIEHML": 1,
+    "ANMBEJDOCPB": 1,
+    "MJEIHIPHFDC": "CircleLockEnemyR5H6HC",
+    "ACOMGKENHGH": [
+      1,
+      1,
+      0.1,
+      0
+    ],
+    "EKKOPPELCFO": "_ABILITY_Skiff_SprintValue",
+    "OBIBGHGPELD": 10,
+    "NNIEEBPHLEJ": 30
+  },
+  {
+    "HMNEJGOMDPD": 10102,
+    "NIBHCGIHAOF": 3696565551,
+    "JHLHNFNBMAK": 891269963,
+    "KCLGPFAPONH": "Vehicle_Skiff_Normal_WindHole",
+    "DICOMFDEABO": "Skill_SummerTimeV2_02",
+    "HJKGCNIEHML": 3,
+    "ANMBEJDOCPB": 1,
+    "MJEIHIPHFDC": "CircleLockEnemyR5H6HC",
+    "ACOMGKENHGH": [
+      1,
+      1,
+      0.1,
+      0
+    ],
+    "EKKOPPELCFO": ""
+  }
+]

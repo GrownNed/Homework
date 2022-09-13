@@ -1,0 +1,58 @@
+[
+  {
+    "DDMCMHELJMP": "Default",
+    "JEJJFPNBOGB": "Mute"
+  },
+  {
+    "DDMCMHELJMP": "LV0",
+    "JEJJFPNBOGB": "Mute"
+  },
+  {
+    "DDMCMHELJMP": "LV1",
+    "JEJJFPNBOGB": "Shake"
+  },
+  {
+    "DDMCMHELJMP": "LV2",
+    "JEJJFPNBOGB": "Light",
+    "OJCPALOBOLE": 200
+  },
+  {
+    "DDMCMHELJMP": "LV3",
+    "JEJJFPNBOGB": "Heavy",
+    "OJCPALOBOLE": 200
+  },
+  {
+    "DDMCMHELJMP": "LV4",
+    "JEJJFPNBOGB": "Heavy",
+    "OJCPALOBOLE": 800
+  },
+  {
+    "DDMCMHELJMP": "LV5",
+    "JEJJFPNBOGB": "Air",
+    "OJCPALOBOLE": 480,
+    "FKOLHOEJAFH": 600
+  },
+  {
+    "DDMCMHELJMP": "LV6",
+    "JEJJFPNBOGB": "Air",
+    "OJCPALOBOLE": 655,
+    "FKOLHOEJAFH": 800
+  },
+  {
+    "DDMCMHELJMP": "LV7",
+    "JEJJFPNBOGB": "Air",
+    "FKOLHOEJAFH": 800
+  },
+  {
+    "DDMCMHELJMP": "LV8",
+    "JEJJFPNBOGB": "Air",
+    "OJCPALOBOLE": 795,
+    "FKOLHOEJAFH": 900
+  },
+  {
+    "DDMCMHELJMP": "LV9",
+    "JEJJFPNBOGB": "Air",
+    "OJCPALOBOLE": 1200,
+    "FKOLHOEJAFH": 600
+  }
+]

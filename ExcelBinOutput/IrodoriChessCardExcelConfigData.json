@@ -1,0 +1,1870 @@
+[
+  {
+    "HMNEJGOMDPD": 1,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350413
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350413
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_AttackSpeedLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WATER",
+    "FFMGPDNCIEI": 1435939934,
+    "CMLCFIIJCGA": 822483241,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 2000
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": -0.2
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 2,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350413
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_WaterImpulse",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WATER",
+    "FFMGPDNCIEI": 2201362086,
+    "CMLCFIIJCGA": 1860583793,
+    "FHPFHCOPKGB": [
+      8,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 3,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350413
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_TargetAOE",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WATER",
+    "FFMGPDNCIEI": 1179226686,
+    "CMLCFIIJCGA": 1180439801,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 4,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350413
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": -1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350413
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_RangeLevel",
+        "AGLNNGDPMME": 3
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WATER",
+    "FFMGPDNCIEI": 134083238,
+    "CMLCFIIJCGA": 2115922001,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": -2000
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 6
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 5,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350413
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_ElementMasteryLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350413
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_AttackSpeedLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WATER",
+    "FFMGPDNCIEI": 3783534534,
+    "CMLCFIIJCGA": 2501651289,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_MASTERY",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 75
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": -0.2
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 6,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350413
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": 2
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WATER",
+    "FFMGPDNCIEI": 3288264398,
+    "CMLCFIIJCGA": 842515657,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 4000
+      },
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 7,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350416
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350416
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_AttackSpeedLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WIND",
+    "FFMGPDNCIEI": 2927144454,
+    "CMLCFIIJCGA": 2247920769,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 2000
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": -0.2
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 8,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350416
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_ShootBullet",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WIND",
+    "FFMGPDNCIEI": 234182422,
+    "CMLCFIIJCGA": 1747520889,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": 2
+      },
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 9,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350416
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_TowUnits",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_WIND",
+    "FFMGPDNCIEI": 4189837230,
+    "CMLCFIIJCGA": 3314507897,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 10,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350417
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350417
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_RangeLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ELECTRIC",
+    "FFMGPDNCIEI": 4060971878,
+    "CMLCFIIJCGA": 3413131689,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 2000
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 8
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 11,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_ALL",
+      "BBLHGKBPHPF": [],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_UpgradeElectricRecation",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ELECTRIC",
+    "FFMGPDNCIEI": 1526692086,
+    "CMLCFIIJCGA": 2002158305,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 12,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350417
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_UpgradeNormalAttack",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ELECTRIC",
+    "FFMGPDNCIEI": 2942749918,
+    "CMLCFIIJCGA": 3965891137,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": 1.5
+      },
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 13,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350417
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_ExtraThunder",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ELECTRIC",
+    "FFMGPDNCIEI": 4139391094,
+    "CMLCFIIJCGA": 1046716521,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 14,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350417
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Confine",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ELECTRIC",
+    "FFMGPDNCIEI": 3447746710,
+    "CMLCFIIJCGA": 2408406937,
+    "FHPFHCOPKGB": [
+      10,
+      1,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 15,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350417
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_ExtraTargets",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ELECTRIC",
+    "FFMGPDNCIEI": 2668495142,
+    "CMLCFIIJCGA": 571903425,
+    "FHPFHCOPKGB": [
+      1,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 16,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350417
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350417
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_AttackSpeedLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ELECTRIC",
+    "FFMGPDNCIEI": 560020302,
+    "CMLCFIIJCGA": 2398546089,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 2000
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": -0.2
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 17,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350414
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350414
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_RangeLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_FIRE",
+    "FFMGPDNCIEI": 2207796038,
+    "CMLCFIIJCGA": 3529145473,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 2000
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 8
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 18,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350414
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Enbreak",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_FIRE",
+    "FFMGPDNCIEI": 2968350262,
+    "CMLCFIIJCGA": 971401681,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 19,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350414
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Missile",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_FIRE",
+    "FFMGPDNCIEI": 678128262,
+    "CMLCFIIJCGA": 4058535809,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 20,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350414
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_RangeLevel",
+      "AGLNNGDPMME": 2
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_FIRE",
+    "FFMGPDNCIEI": 3540864942,
+    "CMLCFIIJCGA": 1579853905,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 8
+      },
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 21,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350414
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350414
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_AttackSpeedLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_FIRE",
+    "FFMGPDNCIEI": 3189710246,
+    "CMLCFIIJCGA": 3265489609,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 2000
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": -0.2
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 22,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350414
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_ElementMasteryLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_FIRE",
+    "FFMGPDNCIEI": 579377054,
+    "CMLCFIIJCGA": 4262655265,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_MASTERY",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 75
+      },
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 23,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350415
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_RangeLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350415
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_AttackSpeedLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ICE",
+    "FFMGPDNCIEI": 325510510,
+    "CMLCFIIJCGA": 1231354681,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 8
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": -0.2
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 24,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350415
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Resistancedown",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ICE",
+    "FFMGPDNCIEI": 1864257462,
+    "CMLCFIIJCGA": 3978375673,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 25,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350415
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_TDSpecialGrade_Ice",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ICE",
+    "FFMGPDNCIEI": 3034090182,
+    "CMLCFIIJCGA": 1670603649,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 26,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350415
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Ice_Fog",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_ICE",
+    "FFMGPDNCIEI": 2975664950,
+    "CMLCFIIJCGA": 2178765889,
+    "FHPFHCOPKGB": [
+      25,
+      10,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 27,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350397
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_RangeLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350397
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_AttackSpeedLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_PHYSICS",
+    "FFMGPDNCIEI": 2714661502,
+    "CMLCFIIJCGA": 4212671241,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 8
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": -0.2
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 28,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350397
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_EnergyBallAttack",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_PHYSICS",
+    "FFMGPDNCIEI": 2454508198,
+    "CMLCFIIJCGA": 1005832577,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 29,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_ALL",
+      "BBLHGKBPHPF": [],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_ReducePhysicalResistance",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_PHYSICS",
+    "FFMGPDNCIEI": 3499922230,
+    "CMLCFIIJCGA": 3854375929,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 30,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350397
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_DamageShieldExplosion",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_PHYSICS",
+    "FFMGPDNCIEI": 3689191526,
+    "CMLCFIIJCGA": 602233617,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 31,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350397
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_DamageByTime",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_PHYSICS",
+    "FFMGPDNCIEI": 2005419878,
+    "CMLCFIIJCGA": 142804161,
+    "FHPFHCOPKGB": [
+      0.1,
+      10,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 32,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350397
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_RangeLevel",
+      "AGLNNGDPMME": 2
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_PHYSICS",
+    "FFMGPDNCIEI": 3353992798,
+    "CMLCFIIJCGA": 2956124889,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_RANGE",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 16
+      },
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 33,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350397
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_AttackDamageLevel",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+        "BBLHGKBPHPF": [
+          70350397
+        ],
+        "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+        "FCLFJKCMAFL": "SGV_AttackSpeedLevel",
+        "AGLNNGDPMME": 1
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_PHYSICS",
+    "FFMGPDNCIEI": 2206194902,
+    "CMLCFIIJCGA": 399321841,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_BASE",
+        "GNEPGOIPDOL": 2000
+      },
+      {
+        "JOLMKPBJOHI": "IRODORI_CARD_NUMERICAL_ATTACK_INTERVAL",
+        "NIDIFGEJLJE": "IRODORI_CARD_NUMERICAL_PERCENTAGE",
+        "GNEPGOIPDOL": -0.2
+      }
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 34,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350419
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_SpeedDown",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_REPEL",
+    "FFMGPDNCIEI": 1171389542,
+    "CMLCFIIJCGA": 2486380801,
+    "FHPFHCOPKGB": [
+      4,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 35,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350419
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Durability",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_REPEL",
+    "FFMGPDNCIEI": 448141934,
+    "CMLCFIIJCGA": 2137669289,
+    "FHPFHCOPKGB": [
+      4,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 36,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350418
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Trap_Extradamage",
+      "AGLNNGDPMME": 2
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_TRAP",
+    "FFMGPDNCIEI": 81209510,
+    "CMLCFIIJCGA": 2364865313,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 37,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350418
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Trap_Reset",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_TRAP",
+    "FFMGPDNCIEI": 2911948830,
+    "CMLCFIIJCGA": 3083159673,
+    "FHPFHCOPKGB": [
+      7,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 38,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350418
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Trap_Multiple",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_TRAP",
+    "FFMGPDNCIEI": 4061514910,
+    "CMLCFIIJCGA": 2639234681,
+    "FHPFHCOPKGB": [
+      0,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 39,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350418
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Trap_Extratime",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_TRAP",
+    "FFMGPDNCIEI": 1574170814,
+    "CMLCFIIJCGA": 909594697,
+    "FHPFHCOPKGB": [
+      2,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 40,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350418
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Trap_Extradamage",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_TRAP",
+    "FFMGPDNCIEI": 542180726,
+    "CMLCFIIJCGA": 977125785,
+    "FHPFHCOPKGB": [
+      50,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 41,
+    "PBNINFLCHPJ": 40,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350412
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Mine_Reset",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_PERCECT",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_BOMB",
+    "FFMGPDNCIEI": 786500982,
+    "CMLCFIIJCGA": 157259969,
+    "FHPFHCOPKGB": [
+      7,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 42,
+    "PBNINFLCHPJ": 20,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350412
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_ExplosionReturnPoint",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_BOMB",
+    "FFMGPDNCIEI": 920823542,
+    "CMLCFIIJCGA": 3167909705,
+    "FHPFHCOPKGB": [
+      20,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 43,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350412
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_SGV",
+      "FCLFJKCMAFL": "SGV_Mine_Extradamage",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "DJNAEKGEEBK": "IRODORI_CHESS_CARD_STRENGTHEN",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_BOMB",
+    "FFMGPDNCIEI": 3137233790,
+    "CMLCFIIJCGA": 1992285033,
+    "FHPFHCOPKGB": [
+      50,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 44,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350414,
+        70350417,
+        70350416,
+        70350419
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_TARGET_GEAR_NUM",
+      "FCLFJKCMAFL": "",
+      "AGLNNGDPMME": 1
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_OTHER",
+    "FFMGPDNCIEI": 3179741622,
+    "CMLCFIIJCGA": 748754481,
+    "FHPFHCOPKGB": [
+      1,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 45,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350397
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_TARGET_GEAR_NUM",
+      "FCLFJKCMAFL": "",
+      "AGLNNGDPMME": 2
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_OTHER",
+    "FFMGPDNCIEI": 1620511198,
+    "CMLCFIIJCGA": 1236721729,
+    "FHPFHCOPKGB": [
+      2,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 46,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350413
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_TARGET_GEAR_NUM",
+      "FCLFJKCMAFL": "",
+      "AGLNNGDPMME": 2
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_OTHER",
+    "FFMGPDNCIEI": 617194334,
+    "CMLCFIIJCGA": 3211399089,
+    "FHPFHCOPKGB": [
+      2,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 47,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BDNAOMIHHIP": "IRODORI_CHESS_CARD_TARGET_GADGETS",
+      "BBLHGKBPHPF": [
+        70350417
+      ],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_TARGET_GEAR_NUM",
+      "FCLFJKCMAFL": "",
+      "AGLNNGDPMME": 2
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_OTHER",
+    "FFMGPDNCIEI": 288277654,
+    "CMLCFIIJCGA": 2996872985,
+    "FHPFHCOPKGB": [
+      2,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 48,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BBLHGKBPHPF": [],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_MOD_REFUND_BY_COST",
+      "FCLFJKCMAFL": "",
+      "AGLNNGDPMME": 8000
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_OTHER",
+    "FFMGPDNCIEI": 3252430342,
+    "CMLCFIIJCGA": 1932172841,
+    "FHPFHCOPKGB": [
+      80,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 49,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BBLHGKBPHPF": [],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_ABILITY_GROUP",
+      "FCLFJKCMAFL": "Ability_TowerDefence_V3_Avatar_SkillCDMinus"
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_CHARACTER",
+    "FFMGPDNCIEI": 3722629014,
+    "CMLCFIIJCGA": 2528109953,
+    "FHPFHCOPKGB": [
+      35,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 50,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BBLHGKBPHPF": [],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_ABILITY_GROUP",
+      "FCLFJKCMAFL": "Ability_TowerDefence_V3_Avatar_Strengthen"
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_CHARACTER",
+    "FFMGPDNCIEI": 189052390,
+    "CMLCFIIJCGA": 658865321,
+    "FHPFHCOPKGB": [
+      25,
+      25,
+      25
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 51,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BBLHGKBPHPF": [],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_ADD_ABILITY_GROUP",
+      "FCLFJKCMAFL": "Ability_TowerDefence_V3_Avatar_Weaken_Monster_Health_Recover"
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_CHARACTER",
+    "FFMGPDNCIEI": 1105389678,
+    "CMLCFIIJCGA": 1722530457,
+    "FHPFHCOPKGB": [
+      100,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 52,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BBLHGKBPHPF": [],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_LUA_CUSTOM",
+      "FCLFJKCMAFL": ""
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_OTHER",
+    "FFMGPDNCIEI": 3014882846,
+    "CMLCFIIJCGA": 1183356857,
+    "FHPFHCOPKGB": [
+      100,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 53,
+    "PBNINFLCHPJ": 10,
+    "NNGPDLOEKFA": {
+      "BBLHGKBPHPF": [],
+      "BAJCIOGGFLF": "IRODORI_CHESS_CARD_EFFECT_LUA_CUSTOM",
+      "FCLFJKCMAFL": ""
+    },
+    "CIBKHMLNEAE": [
+      {
+        "BBLHGKBPHPF": [],
+        "FCLFJKCMAFL": ""
+      }
+    ],
+    "HCBOLHJFIJB": "IRODORI_CARD_QUALITY_GOOD",
+    "ANJBHLJDPPG": "IRODORI_CARD_TAG_OTHER",
+    "FFMGPDNCIEI": 390124462,
+    "CMLCFIIJCGA": 1629645129,
+    "FHPFHCOPKGB": [
+      12,
+      0,
+      0
+    ],
+    "LMDGHMAJADG": [
+      {},
+      {}
+    ]
+  }
+]

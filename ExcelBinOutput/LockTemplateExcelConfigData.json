@@ -1,0 +1,40 @@
+[
+  {
+    "DDMCMHELJMP": "Default",
+    "CICMGMHNEEA": 0.01
+  },
+  {
+    "DDMCMHELJMP": "Gadget_Lv1",
+    "CICMGMHNEEA": 2,
+    "AOMKBIKKFDN": 0.3
+  },
+  {
+    "DDMCMHELJMP": "Animal_Lv2",
+    "CICMGMHNEEA": 3,
+    "AOMKBIKKFDN": 0.5
+  },
+  {
+    "DDMCMHELJMP": "Gear_Lv3",
+    "CICMGMHNEEA": 3,
+    "BBKAMLFKMDC": 0.8,
+    "AOMKBIKKFDN": 1
+  },
+  {
+    "DDMCMHELJMP": "Avatar&Monster_Lv4",
+    "CICMGMHNEEA": -1,
+    "BBKAMLFKMDC": 1,
+    "AOMKBIKKFDN": 1
+  },
+  {
+    "DDMCMHELJMP": "Boss_Lv5",
+    "CICMGMHNEEA": -1,
+    "BBKAMLFKMDC": 1.5,
+    "AOMKBIKKFDN": 1.5
+  },
+  {
+    "DDMCMHELJMP": "MaxFocusTarget_Lv6",
+    "CICMGMHNEEA": -1,
+    "BBKAMLFKMDC": 999,
+    "AOMKBIKKFDN": 999
+  }
+]

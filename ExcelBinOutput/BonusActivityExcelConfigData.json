@@ -1,0 +1,105 @@
+[
+  {
+    "NFNDICDGIJL": 1,
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "SIGN_IN_COND_PLAYER_LEVEL",
+        "KGDLJNNIHPE": [
+          10,
+          0
+        ]
+      },
+      {
+        "KGDLJNNIHPE": [
+          0,
+          0
+        ]
+      }
+    ],
+    "IDBKMMKIAJG": 50001,
+    "IAMHLADMBGH": [
+      {
+        "PKLAPAOFNKA": 1023,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "PKLAPAOFNKA": 50001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_TOWER_LEVEL",
+      "KGDLJNNIHPE": [
+        "3",
+        "3"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NFNDICDGIJL": 2,
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "SIGN_IN_COND_PLAYER_LEVEL",
+        "KGDLJNNIHPE": [
+          10,
+          0
+        ]
+      },
+      {
+        "KGDLJNNIHPE": [
+          0,
+          0
+        ]
+      }
+    ],
+    "IAMHLADMBGH": [
+      {
+        "PKLAPAOFNKA": 1014,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "PKLAPAOFNKA": 50002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_QUEST_OR",
+      "KGDLJNNIHPE": [
+        "39405",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NFNDICDGIJL": 3,
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "SIGN_IN_COND_PLAYER_LEVEL",
+        "KGDLJNNIHPE": [
+          10,
+          0
+        ]
+      },
+      {
+        "KGDLJNNIHPE": [
+          0,
+          0
+        ]
+      }
+    ],
+    "IAMHLADMBGH": [
+      {
+        "PKLAPAOFNKA": 1067,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "PKLAPAOFNKA": 50003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_TOWER_LEVEL",
+      "KGDLJNNIHPE": [
+        "4",
+        "3"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "AEFAKFIKCKL": 2001001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_ASTER",
+    "NIDONFPEGAG": [
+      1,
+      2
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 3001001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_DRAGON_SPINE",
+    "NIDONFPEGAG": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2002001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_SEA_LAMP",
+    "NIDONFPEGAG": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2003001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_FLEUR_FAIR",
+    "NIDONFPEGAG": [
+      10,
+      11
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2004001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_CHANNELLER_SLAB",
+    "NIDONFPEGAG": [
+      12
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2005001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_SUMMER_TIME",
+    "NIDONFPEGAG": [
+      13,
+      14
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 5032001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_BOUNCE_CONJURING",
+    "NIDONFPEGAG": [
+      15
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2006001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_BLITZ_RUSH",
+    "NIDONFPEGAG": [
+      16,
+      17
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 5037001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_CHESS",
+    "NIDONFPEGAG": [
+      18
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2008001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_ROGUELIKE_DUNGEON",
+    "NIDONFPEGAG": [
+      19,
+      20
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2009001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_WINTER_CAMP",
+    "NIDONFPEGAG": [
+      21,
+      22
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2010001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_LANTERN_RITE",
+    "NIDONFPEGAG": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2013001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_ROGUE_DIARY",
+    "NIDONFPEGAG": [
+      26
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2014001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_SUMMER_TIME_V2",
+    "NIDONFPEGAG": [
+      27
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 2015001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_GRAVEN_INNOCENCE",
+    "NIDONFPEGAG": [
+      28,
+      29
+    ]
+  },
+  {
+    "AEFAKFIKCKL": 5091001,
+    "OHLLGCMJJEI": "SHOP_TYPE_ACTIVITY_TREASURE_MAP",
+    "NIDONFPEGAG": [
+      6
+    ]
+  }
+]

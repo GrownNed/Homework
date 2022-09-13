@@ -1,0 +1,8726 @@
+[
+  {
+    "IDOLJDLNJEH": 1,
+    "BOJFMBJPDBN": 1,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3310,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          150
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          150
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          210
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          210
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "25:100,28:100,29:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621001,
+    "CKCENGMNKAH": 24,
+    "PIBAFECDBGH": [
+      105,
+      106,
+      107
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 2,
+    "BOJFMBJPDBN": 1,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3410,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          150
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          150
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          210
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          210
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "20:100,21:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621002,
+    "CKCENGMNKAH": 24,
+    "PIBAFECDBGH": [
+      10102,
+      10103,
+      10104,
+      10106,
+      10201,
+      10202
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 3,
+    "BOJFMBJPDBN": 1,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3510,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          150
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          150
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          210
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          210
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "25:100,28:100,29:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621003,
+    "CKCENGMNKAH": 24,
+    "PIBAFECDBGH": [
+      10104,
+      10201,
+      106,
+      107,
+      30301
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 4,
+    "BOJFMBJPDBN": 2,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3311,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          180
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "25:100,28:100,29:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621004,
+    "CKCENGMNKAH": 39,
+    "PIBAFECDBGH": [
+      105,
+      106,
+      107
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 5,
+    "BOJFMBJPDBN": 2,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3411,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234101003,
+          3030,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          234101003,
+          3030,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234101003,
+          3030,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          234101003,
+          3030,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234101003,
+          3030,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          234101003,
+          3030,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "20:100,21:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621005,
+    "CKCENGMNKAH": 39,
+    "PIBAFECDBGH": [
+      110,
+      111,
+      10202,
+      20103
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 6,
+    "BOJFMBJPDBN": 2,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3511,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          180
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "25:100,28:100,29:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621006,
+    "CKCENGMNKAH": 39,
+    "PIBAFECDBGH": [
+      10301,
+      10202,
+      20103
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 7,
+    "BOJFMBJPDBN": 3,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3312,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          180
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "25:100,28:100,29:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621007,
+    "CKCENGMNKAH": 44,
+    "PIBAFECDBGH": [
+      108,
+      112,
+      10105,
+      10109,
+      10103,
+      106,
+      109,
+      113
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 8,
+    "BOJFMBJPDBN": 3,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3412,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          180
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "20:100,21:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621008,
+    "CKCENGMNKAH": 44,
+    "PIBAFECDBGH": [
+      50103,
+      50104,
+      50105,
+      50106,
+      50302,
+      50601,
+      50701
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 9,
+    "BOJFMBJPDBN": 3,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3512,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          120
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "25:100,28:100,29:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621009,
+    "CKCENGMNKAH": 44,
+    "PIBAFECDBGH": [
+      10202,
+      40101
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 10,
+    "BOJFMBJPDBN": 4,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3313,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          120
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          180
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "25:100,28:100,29:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621010,
+    "CKCENGMNKAH": 49,
+    "PIBAFECDBGH": [
+      110,
+      111,
+      10102,
+      10109,
+      20103
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 11,
+    "BOJFMBJPDBN": 4,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3413,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234103003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          234103003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234103003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          234103003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234103003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          234103003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "20:100,21:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621011,
+    "CKCENGMNKAH": 49,
+    "PIBAFECDBGH": [
+      110,
+      10102,
+      10109,
+      10107,
+      10202,
+      20103
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 12,
+    "BOJFMBJPDBN": 4,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3513,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          1,
+          120
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,23:100,24:100",
+      "25:100,28:100,29:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621012,
+    "CKCENGMNKAH": 49,
+    "PIBAFECDBGH": [
+      10109,
+      10102,
+      10301,
+      10202,
+      20103
+    ],
+    "FHMLCBOHAAC": []
+  },
+  {
+    "IDOLJDLNJEH": 13,
+    "BOJFMBJPDBN": 5,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3341,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100",
+      "16:100,35:100,36:100,17:100",
+      "6:100,7:100,18:100"
+    ],
+    "BJBFPDFEMII": 621013,
+    "CKCENGMNKAH": 54,
+    "PIBAFECDBGH": [
+      109,
+      10110,
+      108
+    ],
+    "FHMLCBOHAAC": [
+      20101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 14,
+    "BOJFMBJPDBN": 5,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3441,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          240
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          240
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100",
+      "16:100,35:100,36:100,17:100",
+      "6:100,7:100,38:100,34:100"
+    ],
+    "BJBFPDFEMII": 621014,
+    "CKCENGMNKAH": 54,
+    "PIBAFECDBGH": [
+      50302,
+      50303,
+      50107,
+      50106,
+      50202
+    ],
+    "FHMLCBOHAAC": [
+      50701,
+      50601,
+      50303,
+      50103,
+      50102
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 15,
+    "BOJFMBJPDBN": 5,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3541,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100",
+      "16:100,35:100,36:100,17:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621015,
+    "CKCENGMNKAH": 54,
+    "PIBAFECDBGH": [
+      30301,
+      50107
+    ],
+    "FHMLCBOHAAC": [
+      30201,
+      50105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 16,
+    "BOJFMBJPDBN": 6,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3342,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          30
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          30
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          120
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621016,
+    "CKCENGMNKAH": 59,
+    "PIBAFECDBGH": [
+      60101,
+      109,
+      10110,
+      10102,
+      108
+    ],
+    "FHMLCBOHAAC": [
+      60102,
+      113,
+      10303,
+      10109,
+      10102,
+      112
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 17,
+    "BOJFMBJPDBN": 6,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3442,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          90
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          90
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          270
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          270
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621017,
+    "CKCENGMNKAH": 59,
+    "PIBAFECDBGH": [
+      20102,
+      10203,
+      10202,
+      10201,
+      10301,
+      10105,
+      10109,
+      10110,
+      10106,
+      10107,
+      10112,
+      10103
+    ],
+    "FHMLCBOHAAC": [
+      10302,
+      10303,
+      113,
+      10105,
+      10109,
+      10110,
+      112
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 18,
+    "BOJFMBJPDBN": 6,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3542,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          120
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          240
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          240
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          330
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          330
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621018,
+    "CKCENGMNKAH": 59,
+    "PIBAFECDBGH": [
+      10205,
+      10109,
+      10110,
+      10304,
+      10112
+    ],
+    "FHMLCBOHAAC": [
+      20101,
+      113
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 19,
+    "BOJFMBJPDBN": 7,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3343,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          120
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,4:100,5:100,20:100,23:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621019,
+    "CKCENGMNKAH": 64,
+    "PIBAFECDBGH": [
+      30101,
+      30102,
+      30103
+    ],
+    "FHMLCBOHAAC": [
+      30101,
+      30106,
+      30105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 20,
+    "BOJFMBJPDBN": 7,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3443,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          120
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          390
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          390
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,4:100,5:100,20:100,23:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621020,
+    "CKCENGMNKAH": 64,
+    "PIBAFECDBGH": [
+      30101,
+      30104,
+      30103
+    ],
+    "FHMLCBOHAAC": [
+      30104,
+      30106,
+      30105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 21,
+    "BOJFMBJPDBN": 7,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3543,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          120
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          330
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          330
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          450
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          450
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,4:100,5:100,20:100,23:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621021,
+    "CKCENGMNKAH": 64,
+    "PIBAFECDBGH": [
+      30102,
+      30103,
+      30105
+    ],
+    "FHMLCBOHAAC": [
+      30106,
+      30103,
+      30105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 22,
+    "BOJFMBJPDBN": 8,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3344,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          330
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          330
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,28:100,32:100,36:100,17:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621022,
+    "CKCENGMNKAH": 69,
+    "PIBAFECDBGH": [
+      20103,
+      20102
+    ],
+    "FHMLCBOHAAC": [
+      20101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 23,
+    "BOJFMBJPDBN": 8,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3444,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          360
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          360
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,28:100,32:100,35:100,36:100",
+      "6:100,7:100,17:100,38:100"
+    ],
+    "BJBFPDFEMII": 621023,
+    "CKCENGMNKAH": 69,
+    "PIBAFECDBGH": [
+      40101,
+      10109,
+      10104,
+      10103,
+      10102
+    ],
+    "FHMLCBOHAAC": [
+      40101,
+      10105,
+      10107,
+      10106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 24,
+    "BOJFMBJPDBN": 8,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3544,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          120
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,28:100,32:100,35:100,36:100,17:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621024,
+    "CKCENGMNKAH": 69,
+    "PIBAFECDBGH": [
+      60201
+    ],
+    "FHMLCBOHAAC": [
+      60202
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 25,
+    "BOJFMBJPDBN": 9,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3371,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,20:100,23:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621025,
+    "CKCENGMNKAH": 71,
+    "PIBAFECDBGH": [
+      113,
+      106,
+      107
+    ],
+    "FHMLCBOHAAC": [
+      106,
+      107,
+      113
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 26,
+    "BOJFMBJPDBN": 9,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3471,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,20:100,23:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621026,
+    "CKCENGMNKAH": 73,
+    "PIBAFECDBGH": [
+      30301,
+      50303,
+      50105,
+      50103,
+      50106,
+      50102
+    ],
+    "FHMLCBOHAAC": [
+      30101,
+      30103,
+      30104,
+      30105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 27,
+    "BOJFMBJPDBN": 9,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3571,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,20:100,23:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621027,
+    "CKCENGMNKAH": 75,
+    "PIBAFECDBGH": [
+      60301,
+      10205
+    ],
+    "FHMLCBOHAAC": [
+      40101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 28,
+    "BOJFMBJPDBN": 10,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3375,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100",
+      "16:100,25:100,28:100,29:100,32:100,36:100",
+      "31:100"
+    ],
+    "BJBFPDFEMII": 621028,
+    "CKCENGMNKAH": 79,
+    "PIBAFECDBGH": [
+      10202,
+      113,
+      10107
+    ],
+    "FHMLCBOHAAC": [
+      20101,
+      10202
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 29,
+    "BOJFMBJPDBN": 10,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3475,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100,27:100",
+      "16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621029,
+    "CKCENGMNKAH": 81,
+    "PIBAFECDBGH": [
+      10202,
+      60102,
+      10106,
+      10102
+    ],
+    "FHMLCBOHAAC": [
+      20101,
+      10202,
+      10105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 30,
+    "BOJFMBJPDBN": 10,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3575,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100,27:100",
+      "16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621030,
+    "CKCENGMNKAH": 84,
+    "PIBAFECDBGH": [
+      30105,
+      30106
+    ],
+    "FHMLCBOHAAC": [
+      20101,
+      10302,
+      10105,
+      60102
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 31,
+    "BOJFMBJPDBN": 11,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3373,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      109,
+      106,
+      107,
+      10109,
+      10103
+    ],
+    "FHMLCBOHAAC": [
+      30301,
+      20102,
+      10301,
+      10109,
+      10110
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 32,
+    "BOJFMBJPDBN": 11,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3473,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234703002,
+          2016,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          234703002,
+          2016,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234703002,
+          2016,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          234703002,
+          2016,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234703002,
+          2016,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          234703002,
+          2016,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      10202,
+      10203,
+      10106,
+      10112
+    ],
+    "FHMLCBOHAAC": [
+      10202,
+      10203,
+      106,
+      107,
+      10110,
+      10109
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 33,
+    "BOJFMBJPDBN": 11,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3573,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      30101,
+      30104,
+      30105
+    ],
+    "FHMLCBOHAAC": [
+      30103,
+      30105,
+      30104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 34,
+    "BOJFMBJPDBN": 12,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3374,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,21:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      10201,
+      109,
+      60101
+    ],
+    "FHMLCBOHAAC": [
+      20102,
+      109,
+      10109
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 35,
+    "BOJFMBJPDBN": 12,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3474,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234704003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          234704003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234704003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          234704003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234704003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          234704003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,21:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      60101,
+      10105,
+      10109
+    ],
+    "FHMLCBOHAAC": [
+      20102,
+      10201,
+      109,
+      10109,
+      10110,
+      10105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 36,
+    "BOJFMBJPDBN": 12,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3574,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,21:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      30101,
+      30103,
+      30105
+    ],
+    "FHMLCBOHAAC": [
+      30101,
+      30103,
+      30105,
+      30104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 37,
+    "BOJFMBJPDBN": 13,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3376,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,20:100,23:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621025,
+    "CKCENGMNKAH": 71,
+    "PIBAFECDBGH": [
+      10206,
+      10114,
+      109
+    ],
+    "FHMLCBOHAAC": [
+      20102,
+      10206,
+      10305,
+      10109
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 38,
+    "BOJFMBJPDBN": 13,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3476,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,20:100,23:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621026,
+    "CKCENGMNKAH": 73,
+    "PIBAFECDBGH": [
+      10206,
+      10114,
+      10113,
+      109
+    ],
+    "FHMLCBOHAAC": [
+      30101,
+      30103,
+      30105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 39,
+    "BOJFMBJPDBN": 13,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3576,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "4:100,20:100,23:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621027,
+    "CKCENGMNKAH": 75,
+    "PIBAFECDBGH": [
+      10204,
+      10109
+    ],
+    "FHMLCBOHAAC": [
+      20102,
+      10206
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 40,
+    "BOJFMBJPDBN": 14,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3377,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100",
+      "16:100,25:100,28:100,29:100,32:100,36:100",
+      "31:100"
+    ],
+    "BJBFPDFEMII": 621028,
+    "CKCENGMNKAH": 79,
+    "PIBAFECDBGH": [
+      20102,
+      10113,
+      109
+    ],
+    "FHMLCBOHAAC": [
+      30301,
+      20102,
+      10301
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 41,
+    "BOJFMBJPDBN": 14,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3477,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100,27:100",
+      "16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621029,
+    "CKCENGMNKAH": 81,
+    "PIBAFECDBGH": [
+      10206,
+      10114,
+      10113
+    ],
+    "FHMLCBOHAAC": [
+      30401,
+      50105,
+      50106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 42,
+    "BOJFMBJPDBN": 14,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3577,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,24:100,27:100",
+      "16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621030,
+    "CKCENGMNKAH": 84,
+    "PIBAFECDBGH": [
+      30401,
+      30201
+    ],
+    "FHMLCBOHAAC": [
+      10204
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 43,
+    "BOJFMBJPDBN": 15,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3379,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,21:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      20103,
+      106,
+      107,
+      111
+    ],
+    "FHMLCBOHAAC": [
+      10203,
+      10202
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 44,
+    "BOJFMBJPDBN": 15,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3479,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234709003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          234709003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234709003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          234709003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          234709003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          234709003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,21:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      10201,
+      10202,
+      10112,
+      10107,
+      10110,
+      10105
+    ],
+    "FHMLCBOHAAC": [
+      30301,
+      30201,
+      50302,
+      50601,
+      50701,
+      50103,
+      50104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 45,
+    "BOJFMBJPDBN": 15,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3579,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,21:100,24:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      30105,
+      30103,
+      30104,
+      30102
+    ],
+    "FHMLCBOHAAC": [
+      30201,
+      30301
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 46,
+    "BOJFMBJPDBN": 16,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3378,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      10203,
+      10202,
+      10112
+    ],
+    "FHMLCBOHAAC": [
+      40101,
+      201
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 47,
+    "BOJFMBJPDBN": 16,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3478,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      50302,
+      50303,
+      50107,
+      50601,
+      50701
+    ],
+    "FHMLCBOHAAC": [
+      30201
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 48,
+    "BOJFMBJPDBN": 16,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3578,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      30301,
+      10203,
+      50103,
+      50106
+    ],
+    "FHMLCBOHAAC": [
+      30201,
+      10203
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 49,
+    "BOJFMBJPDBN": 17,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3380,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      60401
+    ],
+    "FHMLCBOHAAC": [
+      60401
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 50,
+    "BOJFMBJPDBN": 17,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3480,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      30301,
+      30401
+    ],
+    "FHMLCBOHAAC": [
+      30201,
+      50302
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 51,
+    "BOJFMBJPDBN": 17,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3580,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      40101
+    ],
+    "FHMLCBOHAAC": [
+      40103
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 52,
+    "BOJFMBJPDBN": 18,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3381,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233711003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233711003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233711003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233711003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233711003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233711003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      50701,
+      50601,
+      50202
+    ],
+    "FHMLCBOHAAC": [
+      50302,
+      50303,
+      50107,
+      50103,
+      50104,
+      50105,
+      50106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 53,
+    "BOJFMBJPDBN": 18,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3481,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          120
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          120
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          240
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          240
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          360
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          360
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      30103,
+      30102,
+      30105
+    ],
+    "FHMLCBOHAAC": [
+      30103,
+      30102,
+      30104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 54,
+    "BOJFMBJPDBN": 18,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3581,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      30301,
+      30401
+    ],
+    "FHMLCBOHAAC": [
+      20201
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 55,
+    "BOJFMBJPDBN": 19,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3382,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+      "6:100,7:100,18:100,35:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      60401,
+      60102
+    ],
+    "FHMLCBOHAAC": [
+      60401,
+      60101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 56,
+    "BOJFMBJPDBN": 19,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3482,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+      "6:100,7:100,17:100,38:100,31:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      50302,
+      50303,
+      50601,
+      50701,
+      50103,
+      50104,
+      50105,
+      60601,
+      60602,
+      60603
+    ],
+    "FHMLCBOHAAC": [
+      20101,
+      20103,
+      502,
+      503,
+      504,
+      506,
+      507
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 57,
+    "BOJFMBJPDBN": 19,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3582,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,3:100,21:100,27:100",
+      "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      20301
+    ],
+    "FHMLCBOHAAC": [
+      30201,
+      30301,
+      30401
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 58,
+    "BOJFMBJPDBN": 20,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3383,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,15:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621025,
+    "CKCENGMNKAH": 71,
+    "PIBAFECDBGH": [
+      10206,
+      10114,
+      60101
+    ],
+    "FHMLCBOHAAC": [
+      20102,
+      10206,
+      10305,
+      10109,
+      10110
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 59,
+    "BOJFMBJPDBN": 20,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3483,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,15:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621026,
+    "CKCENGMNKAH": 73,
+    "PIBAFECDBGH": [
+      10206,
+      10114,
+      10113,
+      60101
+    ],
+    "FHMLCBOHAAC": [
+      30101,
+      30102,
+      30104,
+      30105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 60,
+    "BOJFMBJPDBN": 20,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3583,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,15:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621027,
+    "CKCENGMNKAH": 75,
+    "PIBAFECDBGH": [
+      10204,
+      10305,
+      10109,
+      10110
+    ],
+    "FHMLCBOHAAC": [
+      20102,
+      20103,
+      10206
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 61,
+    "BOJFMBJPDBN": 21,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3384,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,15:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621028,
+    "CKCENGMNKAH": 79,
+    "PIBAFECDBGH": [
+      20103,
+      60101,
+      10113,
+      109,
+      111
+    ],
+    "FHMLCBOHAAC": [
+      20201,
+      20102
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 62,
+    "BOJFMBJPDBN": 21,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3484,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,15:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621029,
+    "CKCENGMNKAH": 81,
+    "PIBAFECDBGH": [
+      10206,
+      10114,
+      10113,
+      10303,
+      10301
+    ],
+    "FHMLCBOHAAC": [
+      20301,
+      20102
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 63,
+    "BOJFMBJPDBN": 21,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3584,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,15:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621030,
+    "CKCENGMNKAH": 84,
+    "PIBAFECDBGH": [
+      405
+    ],
+    "FHMLCBOHAAC": [
+      10204,
+      20103
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 64,
+    "BOJFMBJPDBN": 22,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3385,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233715003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233715003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233715003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233715003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233715003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233715003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      10202,
+      10201,
+      10107,
+      10103,
+      10105,
+      10109,
+      10110
+    ],
+    "FHMLCBOHAAC": [
+      10205,
+      10112,
+      10113,
+      10106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 65,
+    "BOJFMBJPDBN": 22,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3485,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      30106,
+      30103,
+      30105
+    ],
+    "FHMLCBOHAAC": [
+      30101,
+      30102,
+      30104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 66,
+    "BOJFMBJPDBN": 22,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3585,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      40102,
+      40101
+    ],
+    "FHMLCBOHAAC": [
+      20301,
+      20201
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 67,
+    "BOJFMBJPDBN": 23,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3386,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      60401
+    ],
+    "FHMLCBOHAAC": [
+      60401
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 68,
+    "BOJFMBJPDBN": 23,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3486,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      30401,
+      50303,
+      50302,
+      50601,
+      50701,
+      50103,
+      50104,
+      50105,
+      50106
+    ],
+    "FHMLCBOHAAC": [
+      10205,
+      60301
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 69,
+    "BOJFMBJPDBN": 23,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3586,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      20301,
+      20101,
+      20103
+    ],
+    "FHMLCBOHAAC": [
+      20201,
+      20101,
+      20102
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 70,
+    "BOJFMBJPDBN": 24,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3387,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "12:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621025,
+    "CKCENGMNKAH": 71,
+    "PIBAFECDBGH": [
+      10201,
+      10303,
+      10301,
+      10110,
+      10109,
+      111
+    ],
+    "FHMLCBOHAAC": [
+      20103,
+      10306,
+      10207,
+      10202
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 71,
+    "BOJFMBJPDBN": 24,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3487,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "12:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621026,
+    "CKCENGMNKAH": 73,
+    "PIBAFECDBGH": [
+      30101,
+      30102,
+      30103,
+      30104,
+      30105
+    ],
+    "FHMLCBOHAAC": [
+      50107,
+      50302,
+      50303,
+      50601,
+      50701,
+      50103,
+      50104,
+      50105,
+      50106,
+      50202
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 72,
+    "BOJFMBJPDBN": 24,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3587,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "12:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621027,
+    "CKCENGMNKAH": 75,
+    "PIBAFECDBGH": [
+      10204,
+      10205
+    ],
+    "FHMLCBOHAAC": [
+      30201,
+      30301
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 73,
+    "BOJFMBJPDBN": 25,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3388,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621028,
+    "CKCENGMNKAH": 79,
+    "PIBAFECDBGH": [
+      20104,
+      10302,
+      10303,
+      10301,
+      10202,
+      10105,
+      10109,
+      10110
+    ],
+    "FHMLCBOHAAC": [
+      10205,
+      10105,
+      10109
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 74,
+    "BOJFMBJPDBN": 25,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3488,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621029,
+    "CKCENGMNKAH": 81,
+    "PIBAFECDBGH": [
+      30201,
+      30101,
+      30102,
+      30105
+    ],
+    "FHMLCBOHAAC": [
+      30301,
+      30106,
+      30103,
+      30104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 75,
+    "BOJFMBJPDBN": 25,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3588,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621030,
+    "CKCENGMNKAH": 84,
+    "PIBAFECDBGH": [
+      20301,
+      10303,
+      10301
+    ],
+    "FHMLCBOHAAC": [
+      20201,
+      10306
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 76,
+    "BOJFMBJPDBN": 26,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3389,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      10207,
+      10202,
+      60103,
+      106,
+      107,
+      111
+    ],
+    "FHMLCBOHAAC": [
+      10208,
+      20104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 77,
+    "BOJFMBJPDBN": 26,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3489,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      10204,
+      20102,
+      20103
+    ],
+    "FHMLCBOHAAC": [
+      20301,
+      20104,
+      20101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 78,
+    "BOJFMBJPDBN": 26,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3589,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      405
+    ],
+    "FHMLCBOHAAC": [
+      406
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 79,
+    "BOJFMBJPDBN": 27,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3390,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      51001,
+      51002,
+      50801,
+      50802,
+      50803
+    ],
+    "FHMLCBOHAAC": [
+      30501,
+      30201,
+      30301
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 80,
+    "BOJFMBJPDBN": 27,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3490,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      20103,
+      10208,
+      10207,
+      10202
+    ],
+    "FHMLCBOHAAC": [
+      50901
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 81,
+    "BOJFMBJPDBN": 27,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3590,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "10:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      40102,
+      40201,
+      40203,
+      40204
+    ],
+    "FHMLCBOHAAC": [
+      40101,
+      40202,
+      40204
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 82,
+    "BOJFMBJPDBN": 28,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3391,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      10202,
+      10116,
+      10107
+    ],
+    "FHMLCBOHAAC": [
+      20101,
+      10302,
+      10105,
+      10106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 83,
+    "BOJFMBJPDBN": 28,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3491,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      30106,
+      50302,
+      50303,
+      50102
+    ],
+    "FHMLCBOHAAC": [
+      51002,
+      50601,
+      50701,
+      50105,
+      50106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 84,
+    "BOJFMBJPDBN": 28,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3591,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      30201,
+      30401,
+      30301
+    ],
+    "FHMLCBOHAAC": [
+      60401,
+      113
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 85,
+    "BOJFMBJPDBN": 29,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3392,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "16:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      50802,
+      50803,
+      50302,
+      50107,
+      50303,
+      50103,
+      50104,
+      50105,
+      50106
+    ],
+    "FHMLCBOHAAC": [
+      10205,
+      201,
+      603,
+      602
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 86,
+    "BOJFMBJPDBN": 29,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3492,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "16:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      50901
+    ],
+    "FHMLCBOHAAC": [
+      30501,
+      30401
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 87,
+    "BOJFMBJPDBN": 29,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3592,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "16:100,25:100,26:100,28:100,29:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      40101
+    ],
+    "FHMLCBOHAAC": [
+      40211
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 88,
+    "BOJFMBJPDBN": 30,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3393,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      20104,
+      20103,
+      60103,
+      111
+    ],
+    "FHMLCBOHAAC": [
+      20101,
+      10207,
+      60102,
+      113
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 89,
+    "BOJFMBJPDBN": 30,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3493,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      30301,
+      30401,
+      30101,
+      30105
+    ],
+    "FHMLCBOHAAC": [
+      51001,
+      51002,
+      50802,
+      50803
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 90,
+    "BOJFMBJPDBN": 30,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3593,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      404
+    ],
+    "FHMLCBOHAAC": [
+      406
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 91,
+    "BOJFMBJPDBN": 31,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3394,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      30201,
+      50801,
+      50802,
+      50803
+    ],
+    "FHMLCBOHAAC": [
+      60401,
+      502,
+      507
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 92,
+    "BOJFMBJPDBN": 31,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3494,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      50901
+    ],
+    "FHMLCBOHAAC": [
+      30501,
+      30401,
+      50103,
+      50104,
+      50105,
+      50106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 93,
+    "BOJFMBJPDBN": 31,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3594,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "16:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      40101,
+      40102,
+      40201,
+      40202
+    ],
+    "FHMLCBOHAAC": [
+      40101,
+      40103,
+      40201,
+      40203
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 94,
+    "BOJFMBJPDBN": 32,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3395,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233725003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233725003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233725003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233725003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233725003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233725003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      10203,
+      10306,
+      10301,
+      10107,
+      10203,
+      10112,
+      10102,
+      10116,
+      10106,
+      10109,
+      10105
+    ],
+    "FHMLCBOHAAC": [
+      50801,
+      50802,
+      50803,
+      50302,
+      50303,
+      50701,
+      50202,
+      50103,
+      50104,
+      50105,
+      50106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 95,
+    "BOJFMBJPDBN": 32,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3495,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      10204,
+      113,
+      109,
+      111
+    ],
+    "FHMLCBOHAAC": [
+      51001,
+      51002,
+      50801,
+      50802,
+      50803
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 96,
+    "BOJFMBJPDBN": 32,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3595,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      508,
+      505,
+      502,
+      507,
+      504,
+      503,
+      601,
+      603
+    ],
+    "FHMLCBOHAAC": [
+      40201,
+      40203,
+      40204
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 97,
+    "BOJFMBJPDBN": 33,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3396,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      20502,
+      20402
+    ],
+    "FHMLCBOHAAC": [
+      20501,
+      20401
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 98,
+    "BOJFMBJPDBN": 33,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3496,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      60401
+    ],
+    "FHMLCBOHAAC": [
+      50902,
+      50903,
+      50904
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 99,
+    "BOJFMBJPDBN": 33,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3596,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      20502,
+      40201,
+      40203
+    ],
+    "FHMLCBOHAAC": [
+      20501,
+      20401,
+      40101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 100,
+    "BOJFMBJPDBN": 34,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3397,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233727003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233727003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233727003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233727003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233727003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233727003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      40201,
+      40202
+    ],
+    "FHMLCBOHAAC": [
+      20104,
+      10208,
+      10116,
+      10106,
+      10105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 101,
+    "BOJFMBJPDBN": 34,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3497,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      113,
+      106,
+      606,
+      605
+    ],
+    "FHMLCBOHAAC": [
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 102,
+    "BOJFMBJPDBN": 34,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3597,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      30501,
+      51001,
+      51002
+    ],
+    "FHMLCBOHAAC": [
+      701
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 103,
+    "BOJFMBJPDBN": 35,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3398,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      40211
+    ],
+    "FHMLCBOHAAC": [
+      20302,
+      10302,
+      20101,
+      20401
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 104,
+    "BOJFMBJPDBN": 35,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3498,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      60501
+    ],
+    "FHMLCBOHAAC": [
+      20201
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 105,
+    "BOJFMBJPDBN": 35,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3598,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "16:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      40101,
+      40103
+    ],
+    "FHMLCBOHAAC": [
+      50901
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 106,
+    "BOJFMBJPDBN": 36,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3399,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      20201,
+      20102
+    ],
+    "FHMLCBOHAAC": [
+      60401,
+      60102,
+      60103
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 107,
+    "BOJFMBJPDBN": 36,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3499,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      20103,
+      601,
+      604,
+      109,
+      111
+    ],
+    "FHMLCBOHAAC": [
+      20101,
+      10302,
+      606,
+      605,
+      106,
+      107,
+      113
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 108,
+    "BOJFMBJPDBN": 36,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3599,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      20502,
+      20402
+    ],
+    "FHMLCBOHAAC": [
+      20302,
+      20301
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 109,
+    "BOJFMBJPDBN": 37,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3400,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      20502,
+      20402
+    ],
+    "FHMLCBOHAAC": [
+      60506,
+      60509,
+      60510
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 110,
+    "BOJFMBJPDBN": 37,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3500,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      40103
+    ],
+    "FHMLCBOHAAC": [
+      20601
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 111,
+    "BOJFMBJPDBN": 37,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3600,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      40202,
+      40204
+    ],
+    "FHMLCBOHAAC": [
+      60507,
+      60508
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 112,
+    "BOJFMBJPDBN": 38,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3401,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233731003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233731003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233731003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233731003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233731003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233731003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      10202,
+      10207,
+      10301,
+      10303,
+      10102,
+      10107,
+      10106,
+      10113,
+      10105,
+      10110
+    ],
+    "FHMLCBOHAAC": [
+      50303,
+      50302,
+      50601,
+      50701,
+      50202,
+      50103,
+      50104,
+      50105,
+      50106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 113,
+    "BOJFMBJPDBN": 38,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3501,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      30106,
+      30101,
+      20101,
+      113,
+      106,
+      107
+    ],
+    "FHMLCBOHAAC": [
+      30103,
+      30102,
+      20103,
+      111,
+      106,
+      107
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 114,
+    "BOJFMBJPDBN": 38,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3601,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      30201,
+      20402
+    ],
+    "FHMLCBOHAAC": [
+      30501,
+      30301,
+      20401
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 115,
+    "BOJFMBJPDBN": 39,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3402,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      51001,
+      51002,
+      50801,
+      50802,
+      50803,
+      50103,
+      50104,
+      50105,
+      50106
+    ],
+    "FHMLCBOHAAC": [
+      40101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 116,
+    "BOJFMBJPDBN": 39,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3502,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      60101,
+      60102
+    ],
+    "FHMLCBOHAAC": [
+      20302,
+      20301,
+      20201
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 117,
+    "BOJFMBJPDBN": 39,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3602,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "16:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      20302
+    ],
+    "FHMLCBOHAAC": [
+      20201
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 118,
+    "BOJFMBJPDBN": 40,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3403,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233733003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233733003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233733003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233733003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233733003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233733003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      10205,
+      10203,
+      10112
+    ],
+    "FHMLCBOHAAC": [
+      51001,
+      50801,
+      50802,
+      50803,
+      50701,
+      50302,
+      50303,
+      50103,
+      50104,
+      50105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 119,
+    "BOJFMBJPDBN": 40,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3503,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      20102,
+      10204,
+      10206
+    ],
+    "FHMLCBOHAAC": [
+      30501,
+      30103,
+      30102,
+      30106,
+      30105
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 120,
+    "BOJFMBJPDBN": 40,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3603,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      20501,
+      20401
+    ],
+    "FHMLCBOHAAC": [
+      10208,
+      60510,
+      60511
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 121,
+    "BOJFMBJPDBN": 41,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3404,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      60401,
+      60101,
+      60103
+    ],
+    "FHMLCBOHAAC": [
+      40103,
+      40101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 122,
+    "BOJFMBJPDBN": 41,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3504,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      10204,
+      10206,
+      109
+    ],
+    "FHMLCBOHAAC": [
+      50901
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 123,
+    "BOJFMBJPDBN": 41,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3604,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,6:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      60509
+    ],
+    "FHMLCBOHAAC": [
+      40211
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 124,
+    "BOJFMBJPDBN": 42,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3405,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233735003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233735003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233735003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233735003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233735003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233735003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      10206,
+      604,
+      601,
+      109,
+      108
+    ],
+    "FHMLCBOHAAC": [
+      50302,
+      50303,
+      50601,
+      50701,
+      50103,
+      50104,
+      50105,
+      50106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 125,
+    "BOJFMBJPDBN": 42,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3505,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      60510,
+      60511,
+      604,
+      605,
+      601
+    ],
+    "FHMLCBOHAAC": [
+      30201,
+      30401,
+      30301,
+      30101,
+      30102,
+      30106
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 126,
+    "BOJFMBJPDBN": 42,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3605,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      701
+    ],
+    "FHMLCBOHAAC": [
+      20102,
+      20103,
+      20104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 127,
+    "BOJFMBJPDBN": 43,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3406,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      10204,
+      10206,
+      10305,
+      10105,
+      10109,
+      10110,
+      10114
+    ],
+    "FHMLCBOHAAC": [
+      51001,
+      51002,
+      50801,
+      50802,
+      50803
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 128,
+    "BOJFMBJPDBN": 43,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3506,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      405
+    ],
+    "FHMLCBOHAAC": [
+      40103,
+      40201,
+      40202,
+      40204
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 129,
+    "BOJFMBJPDBN": 43,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3606,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "16:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      30501,
+      30101
+    ],
+    "FHMLCBOHAAC": [
+      40104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 130,
+    "BOJFMBJPDBN": 44,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3407,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621025,
+    "CKCENGMNKAH": 71,
+    "PIBAFECDBGH": [
+      61202,
+      111,
+      60907,
+      60909,
+      60904,
+      60905,
+      60901,
+      60902,
+      110
+    ],
+    "FHMLCBOHAAC": [
+      53101,
+      52105,
+      52104,
+      52103,
+      52102,
+      52101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 131,
+    "BOJFMBJPDBN": 44,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3507,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621026,
+    "CKCENGMNKAH": 73,
+    "PIBAFECDBGH": [
+      10201,
+      10202,
+      10203,
+      10207,
+      10304,
+      10305,
+      10103,
+      10107,
+      10105,
+      10109,
+      10110,
+      10106,
+      10113,
+      10116
+    ],
+    "FHMLCBOHAAC": [
+      20103,
+      10302,
+      111,
+      113
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 132,
+    "BOJFMBJPDBN": 44,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3607,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621027,
+    "CKCENGMNKAH": 75,
+    "PIBAFECDBGH": [
+      61203,
+      61201,
+      60904,
+      60902
+    ],
+    "FHMLCBOHAAC": [
+      53102,
+      53103,
+      52104
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 133,
+    "BOJFMBJPDBN": 45,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3408,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100,38:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621028,
+    "CKCENGMNKAH": 79,
+    "PIBAFECDBGH": [
+      61202,
+      106,
+      107,
+      60905,
+      60904,
+      60902,
+      105
+    ],
+    "FHMLCBOHAAC": [
+      60506
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 134,
+    "BOJFMBJPDBN": 45,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3508,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100,38:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621029,
+    "CKCENGMNKAH": 81,
+    "PIBAFECDBGH": [
+      51001,
+      51002,
+      52102
+    ],
+    "FHMLCBOHAAC": [
+      20104,
+      10208
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 135,
+    "BOJFMBJPDBN": 45,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3608,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100,38:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621030,
+    "CKCENGMNKAH": 84,
+    "PIBAFECDBGH": [
+      53101,
+      53102,
+      53103,
+      30106,
+      30102
+    ],
+    "FHMLCBOHAAC": [
+      30501,
+      30301
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 136,
+    "BOJFMBJPDBN": 46,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3409,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233739003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233739003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233739003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233739003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233739003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233739003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      53103,
+      52101,
+      52102,
+      52103,
+      52104,
+      50701,
+      50103,
+      50104,
+      50105,
+      50106
+    ],
+    "FHMLCBOHAAC": [
+      10208,
+      10201,
+      10202,
+      10207
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 137,
+    "BOJFMBJPDBN": 46,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3509,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      505,
+      508,
+      502,
+      503,
+      504,
+      506,
+      507,
+      509
+    ],
+    "FHMLCBOHAAC": [
+      60401
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 138,
+    "BOJFMBJPDBN": 46,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3609,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      30201,
+      30106,
+      53101,
+      53103,
+      52102
+    ],
+    "FHMLCBOHAAC": [
+      60203
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 139,
+    "BOJFMBJPDBN": 47,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3100,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      40301,
+      40302
+    ],
+    "FHMLCBOHAAC": [
+      30103,
+      30106,
+      53102,
+      53101,
+      52102
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 140,
+    "BOJFMBJPDBN": 47,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3200,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      30501,
+      30301,
+      52102
+    ],
+    "FHMLCBOHAAC": [
+      60501
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 141,
+    "BOJFMBJPDBN": 47,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3300,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      61201,
+      61202,
+      61203,
+      60506,
+      60510,
+      60511
+    ],
+    "FHMLCBOHAAC": [
+      61101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 142,
+    "BOJFMBJPDBN": 48,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3101,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233741003,
+          3024,
+          20
+        ],
+        "ELEAKIFBDNH": [
+          233741003,
+          3024,
+          20
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233741003,
+          3024,
+          40
+        ],
+        "ELEAKIFBDNH": [
+          233741003,
+          3024,
+          40
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_LEFT_HP_GREATER_THAN",
+        "OECDJKGBNFE": [
+          233741003,
+          3024,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          233741003,
+          3024,
+          60
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,31:100"
+    ],
+    "BJBFPDFEMII": 621031,
+    "CKCENGMNKAH": 87,
+    "PIBAFECDBGH": [
+      61204,
+      61203,
+      61202,
+      60902,
+      60903,
+      60910,
+      60906,
+      60905,
+      60908
+    ],
+    "FHMLCBOHAAC": [
+      54101,
+      40403
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 143,
+    "BOJFMBJPDBN": 48,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3201,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          60
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          60
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621032,
+    "CKCENGMNKAH": 89,
+    "PIBAFECDBGH": [
+      30106,
+      53101,
+      52102
+    ],
+    "FHMLCBOHAAC": [
+      30501,
+      30102,
+      30105,
+      53103,
+      52102
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 144,
+    "BOJFMBJPDBN": 48,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3301,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621033,
+    "CKCENGMNKAH": 91,
+    "PIBAFECDBGH": [
+      53101,
+      52102,
+      50802,
+      50803
+    ],
+    "FHMLCBOHAAC": [
+      61101
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 145,
+    "BOJFMBJPDBN": 49,
+    "DJKCAEPNBJO": 1,
+    "DMFLCOHCHCH": 3102,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621034,
+    "CKCENGMNKAH": 94,
+    "PIBAFECDBGH": [
+      53101,
+      51001,
+      51002
+    ],
+    "FHMLCBOHAAC": [
+      54101,
+      54102,
+      40401,
+      40402,
+      40403
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 146,
+    "BOJFMBJPDBN": 49,
+    "DJKCAEPNBJO": 2,
+    "DMFLCOHCHCH": 3202,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "15:100,25:100,26:100,28:100,29:100,35:100",
+      "7:100,22:100,34:100"
+    ],
+    "BJBFPDFEMII": 621035,
+    "CKCENGMNKAH": 97,
+    "PIBAFECDBGH": [
+      40302
+    ],
+    "FHMLCBOHAAC": [
+      50901
+    ]
+  },
+  {
+    "IDOLJDLNJEH": 147,
+    "BOJFMBJPDBN": 49,
+    "DJKCAEPNBJO": 3,
+    "DMFLCOHCHCH": 3302,
+    "BGMIGHDOIBL": [
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          180
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          180
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          300
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          300
+        ]
+      },
+      {
+        "IKCLOOHNBCL": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+        "OECDJKGBNFE": [
+          1,
+          420
+        ],
+        "ELEAKIFBDNH": [
+          2,
+          420
+        ]
+      }
+    ],
+    "DGBDLEOOOHD": [
+      "1:100,2:100,4:100,5:100,20:100,23:100",
+      "16:100,25:100,26:100,28:100,29:100,35:100",
+      "19:100"
+    ],
+    "BJBFPDFEMII": 621036,
+    "CKCENGMNKAH": 99,
+    "PIBAFECDBGH": [
+      61204,
+      61203,
+      61201
+    ],
+    "FHMLCBOHAAC": [
+      40501
+    ]
+  }
+]

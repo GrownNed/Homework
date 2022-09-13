@@ -1,0 +1,416 @@
+[
+  {
+    "AMNCMAKMBFM": 1,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "",
+    "CGDOFIGEGDF": 1
+  },
+  {
+    "AMNCMAKMBFM": 1000,
+    "PLCOEPFPFBB": "MONSTER_RARITY_SMALL_ENV_ANIMAL",
+    "BFIAIDIGHEB": "",
+    "CGDOFIGEGDF": 1000
+  },
+  {
+    "AMNCMAKMBFM": 1001,
+    "PLCOEPFPFBB": "MONSTER_RARITY_SMALL_MONSTER",
+    "BFIAIDIGHEB": "",
+    "CGDOFIGEGDF": 1001
+  },
+  {
+    "AMNCMAKMBFM": 1002,
+    "PLCOEPFPFBB": "MONSTER_RARITY_ELITE_MONSTER",
+    "BFIAIDIGHEB": "",
+    "CGDOFIGEGDF": 1002
+  },
+  {
+    "AMNCMAKMBFM": 1003,
+    "PLCOEPFPFBB": "MONSTER_RARITY_BOSS_MONSTER",
+    "BFIAIDIGHEB": "",
+    "CGDOFIGEGDF": 1003
+  },
+  {
+    "AMNCMAKMBFM": 1004,
+    "PLCOEPFPFBB": "MONSTER_RARITY_BIG_BOSS_MONSTER",
+    "BFIAIDIGHEB": "",
+    "CGDOFIGEGDF": 1004
+  },
+  {
+    "AMNCMAKMBFM": 1100,
+    "BFIAIDIGHEB": "无相之雷",
+    "CGDOFIGEGDF": 1100
+  },
+  {
+    "AMNCMAKMBFM": 800002,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "钓鱼点",
+    "CGDOFIGEGDF": 800002
+  },
+  {
+    "AMNCMAKMBFM": 999998,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "采集物挂接点（远）",
+    "CGDOFIGEGDF": 999998
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "采集物挂接点",
+    "CGDOFIGEGDF": 999999
+  },
+  {
+    "AMNCMAKMBFM": 101000,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "雪山喂食玩法定制刷新ID",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 101000,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "稻妻神无冢海螺刷新",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "鹤观循环营地",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "深渊龙蜥常驻",
+    "CGDOFIGEGDF": 101000
+  },
+  {
+    "AMNCMAKMBFM": 1002,
+    "DDMCMHELJMP": "REFRESHINDEX_GADGET",
+    "BFIAIDIGHEB": "每日刷新",
+    "CGDOFIGEGDF": 1002
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  },
+  {
+    "AMNCMAKMBFM": 999999,
+    "BFIAIDIGHEB": "须弥沙漠圣金虫",
+    "CGDOFIGEGDF": 999921
+  }
+]

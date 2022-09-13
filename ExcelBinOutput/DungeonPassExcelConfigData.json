@@ -1,0 +1,8659 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220017001,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220008004,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220009003,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_TYPE_MONSTER",
+        "NNPMGFENCEK": [
+          2,
+          2,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          99902,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "IDLGECOBMKE": "LOGIC_AND",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          99902,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_IN_TIME",
+        "NNPMGFENCEK": [
+          60,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          30610,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          30713,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          30803,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220011003,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220014007,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 12,
+    "IDLGECOBMKE": "LOGIC_AND",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          30610,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_IN_TIME",
+        "NNPMGFENCEK": [
+          480,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 13,
+    "IDLGECOBMKE": "LOGIC_AND",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER_COUNT",
+        "NNPMGFENCEK": [
+          100,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_IN_TIME",
+        "NNPMGFENCEK": [
+          240,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 14,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240001004,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 15,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1010108,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 16,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220012007,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 17,
+    "IDLGECOBMKE": "LOGIC_OR",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1002,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 18,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 19,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 20,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240007003,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 21,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          46305,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 22,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          38105,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 23,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240007003,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 24,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220013005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 25,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          46510,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 26,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          39403,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 27,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          35724,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 28,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220017001,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 29,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1003,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 30,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 31,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 32,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 33,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 34,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          49006,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 35,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          48512,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 36,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 37,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          48506,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 38,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240010007,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 39,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 40,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          2010151,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 41,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          201024010,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 42,
+    "IDLGECOBMKE": "LOGIC_AND",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240014002,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_IN_TIME",
+        "NNPMGFENCEK": [
+          480,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 43,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220025005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 44,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220026005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 45,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220027005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 46,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220028005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 47,
+    "IDLGECOBMKE": "LOGIC_AND",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240013002,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_IN_TIME",
+        "NNPMGFENCEK": [
+          480,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 48,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220029005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 49,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220030005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 50,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 51,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 52,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          101,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 53,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          101,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 54,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1100403,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 55,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1020111,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 56,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 57,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 58,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 59,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 60,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 61,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 62,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 63,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220025001,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 64,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240009005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 65,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240008003,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 66,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 67,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          201032007,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 68,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          101408,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 69,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          100,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 70,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          100,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 71,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240015008,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 72,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          100,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 73,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240019001,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 74,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240020001,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 75,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 76,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1011106,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 77,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          100914,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 78,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          7180004,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 79,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1120111,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 80,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          7180206,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 81,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1101208,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 82,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          102405,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 83,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1102311,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 84,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER",
+        "NNPMGFENCEK": [
+          29030103,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 85,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER",
+        "NNPMGFENCEK": [
+          29030106,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 86,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 87,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          110104,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 88,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1110205,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 89,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          110107,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 90,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          110110,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 91,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          110113,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 92,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          110116,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 93,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          110119,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 94,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          110122,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 95,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          110126,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 96,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1800018,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 97,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1111305,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 98,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          800008,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 99,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          250030011,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242006031,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242002001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242001001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242007017,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242003010,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242005001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242004001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          800311,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 108,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242009001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 109,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242010001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 110,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242012017,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 111,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242013010,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 112,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242011001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 113,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242014031,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 114,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 115,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          242008001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 116,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 117,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 118,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 119,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 120,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 121,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 122,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 123,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 124,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 125,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 126,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 127,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 128,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 129,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 130,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 131,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 132,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 133,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 134,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 135,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 136,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 137,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 138,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 139,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 140,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 141,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 142,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 143,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 144,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 145,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 146,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 147,
+    "IDLGECOBMKE": "LOGIC_OR",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          235800008,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          235800007,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          235800012,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          235800013,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 148,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1012214,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 149,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          999,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 150,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1112306,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 151,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          244001007,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 152,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          244003005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 153,
+    "IDLGECOBMKE": "LOGIC_OR",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1904412,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1904411,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 154,
+    "IDLGECOBMKE": "LOGIC_OR",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1904519,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1904518,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 155,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          6,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 156,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 157,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          244006003,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 158,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          244007002,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 159,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          101,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 160,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 161,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER",
+        "NNPMGFENCEK": [
+          29040101,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 162,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER",
+        "NNPMGFENCEK": [
+          29040102,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 163,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER",
+        "NNPMGFENCEK": [
+          29040103,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 164,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER",
+        "NNPMGFENCEK": [
+          29040104,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 165,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 166,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 167,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          200705,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 170,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220112001,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 171,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          101,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 173,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 174,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 175,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 176,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1201807,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 177,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1201510,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 178,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245000001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 179,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245002001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 180,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245003031,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 181,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245001001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 182,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245004017,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 183,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245005001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 184,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245009001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 185,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245010031,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 186,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245008001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 187,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245011017,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 188,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245012001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 189,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          201505,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 190,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          201804,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 191,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 192,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 193,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 194,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          7281202,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 195,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          999,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 196,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          201504,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 197,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER",
+        "NNPMGFENCEK": [
+          29050104,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 198,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          202005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 199,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          250058001,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 200,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          4002021,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 201,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          4002108,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 202,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          4002206,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 203,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 204,
+    "IDLGECOBMKE": "LOGIC_OR",
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          246101003,
+          0,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          4003409,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 205,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 206,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 207,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 208,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1101318,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 209,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          101,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 210,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220120001,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 211,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 212,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 213,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1203005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 214,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 215,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          102808,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 216,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1204210,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 217,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_MONSTER",
+        "NNPMGFENCEK": [
+          29060203,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 218,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245007001,
+          999,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 219,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245013001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 220,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245014001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 221,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245015001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 222,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245016001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 223,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 224,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245017001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 225,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245018001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 226,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245019001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 227,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_END_MULTISTAGE_PLAY",
+        "NNPMGFENCEK": [
+          245020001,
+          999,
+          1
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 228,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          4005818,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 229,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 230,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1203914,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 231,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          103026,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 232,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1102615,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 233,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 234,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 235,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 236,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1300213,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 237,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          103026,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 238,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 239,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 240,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 241,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 242,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 243,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220145008,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 244,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220146003,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 245,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220147011,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 246,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          220159005,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 247,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240051011,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 248,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "NNPMGFENCEK": [
+          240052009,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 249,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 250,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 251,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2010074,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 252,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          2010075,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 253,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 254,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 255,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_CHALLENGE",
+        "NNPMGFENCEK": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 257,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          302106,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 258,
+    "BGMIGHDOIBL": [
+      {
+        "GLOBHBEMAOE": "DUNGEON_COND_FINISH_QUEST",
+        "NNPMGFENCEK": [
+          1301114,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "NNPMGFENCEK": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  }
+]

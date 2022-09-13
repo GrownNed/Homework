@@ -1,0 +1,23 @@
+[
+  {
+    "AFFFCEHPLGO": "DUNGEON_SUB_BOSS",
+    "IIECHPLHBKL": true,
+    "OPCMBAGLJEJ": 50,
+    "KPNOKJNDKHB": 55,
+    "KBKNIJIGHMK": 5
+  },
+  {
+    "AFFFCEHPLGO": "DUNGEON_SUB_TALENT",
+    "IIECHPLHBKL": true,
+    "OPCMBAGLJEJ": 45,
+    "KPNOKJNDKHB": 50,
+    "KBKNIJIGHMK": 5
+  },
+  {
+    "AFFFCEHPLGO": "DUNGEON_SUB_RELIQUARY",
+    "IIECHPLHBKL": true,
+    "OPCMBAGLJEJ": 45,
+    "KPNOKJNDKHB": 50,
+    "KBKNIJIGHMK": 5
+  }
+]

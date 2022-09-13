@@ -1,0 +1,5595 @@
+[
+  {
+    "PKLAPAOFNKA": 100201,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100202,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100203,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100204,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [
+      "Icespine",
+      "Icespine_Out"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100205,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [
+      "FrozenWindmill",
+      "FrozenWindmill_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100206,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100207,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100208,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [
+      "LiquidStrike_BS_0",
+      "LiquidStrike_BS",
+      "LiquidStrike_BS1",
+      "LiquidStrike_Move",
+      "LiquidStrike_AS",
+      "LiquidStrike_MoveStandby",
+      "LiquidStrike_AS_OnWater",
+      "LiquidStrike_FatalMove",
+      "LiquidStrike_FatalStandby",
+      "LiquidStrike_Strike"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100209,
+    "MLCPJEJAIOM": 10000002,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100301,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100302,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100303,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100304,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [
+      "VortexSmash_BS",
+      "VortexSmash_Strike",
+      "VortexSmash_Charge_01",
+      "VortexSmash_Strike_01",
+      "VortexSmash_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100305,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [
+      "DandelionWind",
+      "DandelionWind_Out"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100306,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100307,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100308,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100309,
+    "MLCPJEJAIOM": 10000003,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100501,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100502,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100503,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100504,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "UziExplode_BS",
+      "UziExplode_BS_1",
+      "UziExplode_Charge_01",
+      "UziExplode_Charge_02",
+      "UziExplode_Strike_01",
+      "UziExplode_Strike_02",
+      "UziExplode_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100505,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "WindBreathe",
+      "WindBreathe_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100506,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "Hogyoku_BS",
+      "Hogyoku_Charge",
+      "Hogyoku_Charge_2",
+      "Hogyoku_Charge_AS",
+      "Hogyoku",
+      "Hogyoku_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100507,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "RockTide",
+      "RockTide_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100508,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "Player_Electric_ElementalArt",
+      "Player_Electric_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100509,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "Player_Electric_ElementalBurst",
+      "Player_Electric_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100510,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100511,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100512,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100513,
+    "MLCPJEJAIOM": 10000005,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100601,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100602,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100603,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_Charge",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100604,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [
+      "Lisa_FlickerWave_BS",
+      "Lisa_FlickerWave",
+      "Lisa_FlickerWave_AS",
+      "Lisa_ThunderFall_Charge",
+      "Lisa_ThunderFall_Ready",
+      "Lisa_ThunderFall_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100605,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [
+      "PierceLightning",
+      "PierceLightning_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100606,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100607,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100608,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100609,
+    "MLCPJEJAIOM": 10000006,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100701,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100702,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100703,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100704,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "UziExplode_BS",
+      "UziExplode_BS_1",
+      "UziExplode_Charge_01",
+      "UziExplode_Charge_02",
+      "UziExplode_Strike_01",
+      "UziExplode_Strike_02",
+      "UziExplode_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100705,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "WindBreathe",
+      "WindBreathe_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100706,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "Hogyoku_BS",
+      "Hogyoku_Charge",
+      "Hogyoku_Charge_2",
+      "Hogyoku_Charge_AS",
+      "Hogyoku",
+      "Hogyoku_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100707,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "RockTide",
+      "RockTide_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100708,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "Player_Electric_ElementalArt",
+      "Player_Electric_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100709,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "Player_Electric_ElementalBurst",
+      "Player_Electric_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 100710,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100711,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100712,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100713,
+    "MLCPJEJAIOM": 10000007,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101401,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101402,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101403,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_Charge",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101404,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [
+      "Barbara_WetShiled_BS",
+      "Barbara_WetShiled"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101405,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [
+      "Barbara_IdolHeal_BS",
+      "Barbara_IdolHeal"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101406,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101407,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101408,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101409,
+    "MLCPJEJAIOM": 10000014,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101501,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101502,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101503,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101504,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [
+      "IceShield",
+      "IceShield_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101505,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [
+      "FrozenTrap",
+      "FrozenTrap_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101506,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101507,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101508,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101509,
+    "MLCPJEJAIOM": 10000015,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101601,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack01_BS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101602,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101603,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101604,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [
+      "FireBlade1",
+      "FireBlade1A",
+      "FireBlade2",
+      "FireBlade2A",
+      "FireBlade3",
+      "FireBlade3A"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101605,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [
+      "FireCross",
+      "FireCross_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 101606,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101607,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101608,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101609,
+    "MLCPJEJAIOM": 10000016,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102001,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [
+      "Attack01_BS",
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102002,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102003,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102004,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [
+      "Razor_ClawMark_BS",
+      "Razor_ClawMark_Charge",
+      "Razor_ClawMark_Burst",
+      "Razor_ClawMark_Burst_AS",
+      "Razor_ClawMark_Click",
+      "Razor_ClawMark_Click_AS",
+      "Razor_ClawMark_Click_Lycan",
+      "Razor_ClawMark_Click_Lycan_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102005,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [
+      "Razor_LycanMode",
+      "Razor_LycanMode_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102006,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102007,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102008,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102009,
+    "MLCPJEJAIOM": 10000020,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102101,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102102,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102103,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102104,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [
+      "Dummy_PreForRun",
+      "Dummy_PreForWalk",
+      "Dummy_Holdup",
+      "Dummy_Short",
+      "Dummy_Short_AS",
+      "Dummy_Loop",
+      "Dummy_4M",
+      "Dummy_4M_AS",
+      "Dummy_7M",
+      "Dummy_7M_AS",
+      "Dummy_10M",
+      "Dummy_10M_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102105,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [
+      "ArrowRain"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102106,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102107,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102108,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102109,
+    "MLCPJEJAIOM": 10000021,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102201,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05",
+      "Attack06"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102202,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102203,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102204,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [
+      "WindBlade_Rise_BS",
+      "WindBlade_Land",
+      "WindBlade_Rise_Charge",
+      "WindBlade_Rise_Charge_1",
+      "WindBlade",
+      "WindBlade_RiseUp",
+      "WindBlade_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102205,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [
+      "Hurricane_BS",
+      "Hurricane",
+      "Hurricane_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102206,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102207,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102208,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102209,
+    "MLCPJEJAIOM": 10000022,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102301,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102302,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102303,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102304,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [
+      "PandaFire_Stand",
+      "PandaFire_Run",
+      "PandaFire_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102305,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [
+      "FireCircle",
+      "FireCircle_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102306,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102307,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102308,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102309,
+    "MLCPJEJAIOM": 10000023,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102401,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [
+      "Attack01_BS",
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102402,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102403,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102404,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [
+      "ThunderCounter_BS",
+      "ThunderCounter_Loop1",
+      "ThunderCounter_Loop2",
+      "ThunderCounter_Loop3",
+      "ThunderCounter_Cast_Stage1",
+      "ThunderCounter_Cast_Stage2",
+      "ThunderCounter_Cast_Stage3",
+      "ThunderCounter_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102405,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [
+      "ThunderShield",
+      "ThunderShield_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102406,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102407,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102408,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102409,
+    "MLCPJEJAIOM": 10000024,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102501,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102502,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102503,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102504,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [
+      "Spoondrift",
+      "Spoondrift_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102505,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [
+      "Minazuki",
+      "Minazuki_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102506,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102507,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102508,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102509,
+    "MLCPJEJAIOM": 10000025,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102601,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05",
+      "Attack06"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102602,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102603,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_AS",
+      "ExtraAttack",
+      "ExtraAttack_BS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102604,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [
+      "DevilDash",
+      "DevilDash_AS",
+      "DevilDashAir",
+      "DevilDashAir_AS_High",
+      "DevilDashAir_AS_Low"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102605,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [
+      "Xiao_HowlingSoul",
+      "Xiao_HowlingSoul_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102606,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102607,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102608,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102609,
+    "MLCPJEJAIOM": 10000026,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102701,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102702,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102703,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_Charge",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102704,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [
+      "ServantStone_BS",
+      "ServantStone"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102705,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [
+      "GemStone_Impact",
+      "GemStone_Impact_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102706,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102707,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102708,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102709,
+    "MLCPJEJAIOM": 10000027,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102901,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102902,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102903,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_Charge",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102904,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [
+      "Klee_ElementalArt",
+      "Klee_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102905,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [
+      "Klee_ElementalBurst",
+      "Klee_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 102906,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102907,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102908,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102909,
+    "MLCPJEJAIOM": 10000029,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103001,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05",
+      "Attack06"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103002,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103003,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103004,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [
+      "PillarOrShield_BS",
+      "PillarOrShield_Charge",
+      "PrimoPillar",
+      "PrimoPillar_AS",
+      "RockShield",
+      "RockShield_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103005,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [
+      "GeoOrder",
+      "GeoOrder_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103006,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103007,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103008,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103009,
+    "MLCPJEJAIOM": 10000030,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103101,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103102,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103103,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103104,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [
+      "SummonCrow_BS",
+      "SummonCrow",
+      "SummonCrow_AS",
+      "SummonCrow_Charge",
+      "SummonCrow_Charge_Loop",
+      "SummonCrow_Charge_2",
+      "SummonCrow_Charge_AS",
+      "ControlCrow",
+      "ControlCrow_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103105,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [
+      "CrowQueen_BS",
+      "CrowQueen",
+      "CrowQueen_Move",
+      "CrowQueen_MoveStandby",
+      "CrowQueen_AS",
+      "CrowQueen_AS_OnWeater"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103106,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103107,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103108,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103109,
+    "MLCPJEJAIOM": 10000031,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103201,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103202,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103203,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103204,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [
+      "BennettElementalArt_BS",
+      "BennettElementalArt_01",
+      "BennettElementalArt_Strike01",
+      "BennettElementalArt_Strike01_As",
+      "BennettElementalArt_02",
+      "BennettElementalArt_Strike02",
+      "BennettElementalArt_Strike02_00",
+      "BennettElementalArt_Strike02_00_AS",
+      "BennettElementalArt_Strike02_01",
+      "BennettElementalArt_Strike02_01_AS",
+      "BennettElementalArt_03",
+      "BennettElementalArt_Strike03",
+      "BennettElementalArt_Strike03_01",
+      "BennettElementalArt_Strike03_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103205,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103206,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103207,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103208,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103209,
+    "MLCPJEJAIOM": 10000032,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103301,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [
+      "Tartaglia_Attack01",
+      "Tartaglia_Attack02",
+      "Tartaglia_Attack03",
+      "Tartaglia_Attack04",
+      "Tartaglia_Attack05",
+      "Tartaglia_Attack06",
+      "Gandalfr_Attack01",
+      "Gandalfr_Attack02",
+      "Gandalfr_Attack03",
+      "Gandalfr_Attack04",
+      "Gandalfr_Attack05",
+      "Gandalfr_Attack06"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103302,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103303,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop",
+      "Gandalfr_ExtraAttack",
+      "Gandalfr_ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103304,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [
+      "Gandalfr_Start",
+      "Gandalfr_Start_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103305,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [
+      "AquariaBlade_Melee",
+      "AquariaBlade_Melee_AS",
+      "AquariaBlade_Range",
+      "AquariaBlade_Range_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103306,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103307,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103308,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103309,
+    "MLCPJEJAIOM": 10000033,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103401,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103402,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103403,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103404,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [
+      "Noel_Skill_S_BS",
+      "Noel_Skill_S",
+      "Noel_Skill_S_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103405,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [
+      "Noel_Skill_E",
+      "Noel_Skill_E_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103406,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103407,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103408,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103409,
+    "MLCPJEJAIOM": 10000034,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103501,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103502,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103503,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103504,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [
+      "Qiqi_ElementalArt",
+      "Qiqi_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103505,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [
+      "Qiqi_ElementalBurst",
+      "Qiqi_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103506,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103507,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103508,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103509,
+    "MLCPJEJAIOM": 10000035,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103601,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103602,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103603,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103604,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [
+      "Chongyun_SoulBlade",
+      "Chongyun_SoulBlade_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103605,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [
+      "Chongyun_SoulUnleash",
+      "Chongyun_SoulUnleash_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103606,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103607,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103608,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103609,
+    "MLCPJEJAIOM": 10000036,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103701,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05",
+      "Attack06"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103702,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103703,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103704,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [
+      "IceBreaker_BS",
+      "IceBreaker",
+      "IceBreaker_Release_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103705,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [
+      "UnbreakableIce",
+      "UnbreakableIce_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103706,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103707,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103708,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103709,
+    "MLCPJEJAIOM": 10000037,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103801,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103802,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103803,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103804,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [
+      "FullRockAlchemist_BS",
+      "FullRockAlchemist",
+      "FullRockAlchemist_AS",
+      "FullRockAlchemist_Charge",
+      "FullRockAlchemist_Custom",
+      "FullRockAlchemist_Custom_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103805,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [
+      "AlchemicalBreakOut",
+      "AlchemicalBreakOut_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103806,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103807,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103808,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103809,
+    "MLCPJEJAIOM": 10000038,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103901,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103902,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103903,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103904,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [
+      "Flask_BS",
+      "Flask_Short",
+      "Flask_Short_AS",
+      "Flask_Charge",
+      "Flask_Long_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103905,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [
+      "DionaElementalBurst",
+      "DionaElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 103906,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103907,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103908,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103909,
+    "MLCPJEJAIOM": 10000039,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104101,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack03_Back",
+      "Attack03_Forward",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104102,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104103,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_Charge",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104104,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [
+      "Mona_Phantom_CheckIsBlink",
+      "Mona_Phantom_BS",
+      "Mona_Phantom",
+      "Mona_Phantom_AS",
+      "Mona_Phantom_Blink_BS",
+      "Mona_Phantom_Blink",
+      "Mona_Phantom_Blink_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104105,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [
+      "Mona_StarChart",
+      "Mona_StarChart_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104106,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104107,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104108,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [
+      "LiquidStrike_BS_0",
+      "LiquidStrike_BS",
+      "LiquidStrike_BS1",
+      "LiquidStrike_Move",
+      "LiquidStrike_AS",
+      "LiquidStrike_MoveStandby",
+      "LiquidStrike_AS_OnWater"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104109,
+    "MLCPJEJAIOM": 10000041,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104201,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104202,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104203,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104204,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [
+      "Electrans_BS",
+      "Electrans",
+      "Electrans_AS",
+      "Electrans_Charge_Loop",
+      "Electrans_Charge_Cast",
+      "Electrans_Charge_AS",
+      "Electrans_FlyAir",
+      "Electrans_FlyAir_AS",
+      "Electrans_Fly",
+      "Electrans_Fly_AS",
+      "Electrans_Ground",
+      "Electrans_Ground_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104205,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [
+      "ElementalBurst_BS",
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104206,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104207,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104208,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104209,
+    "MLCPJEJAIOM": 10000042,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104301,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104302,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104303,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104304,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [
+      "Sucrose_WindBlackHole",
+      "Sucrose_WindBlackHole_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104305,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [
+      "Sucrose_DemiHurricane",
+      "Sucrose_DemiHurricane_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104306,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104307,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104308,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104309,
+    "MLCPJEJAIOM": 10000043,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104401,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104402,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104403,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104404,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [
+      "Xinyan_ElementalArt",
+      "Xinyan_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104405,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [
+      "Xinyan_ElementalBurst",
+      "Xinyan_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104406,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104407,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104408,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104409,
+    "MLCPJEJAIOM": 10000044,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104501,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104502,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104503,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104504,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [
+      "Rosaria_ElementalArt_BS",
+      "Rosaria_ElementalArt_HasTarget",
+      "Rosaria_ElementalArt_NoTarget",
+      "Rosaria_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104505,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [
+      "Rosaria_ElementalBurst_01",
+      "Rosaria_ElementalBurst_02",
+      "Rosaria_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104506,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104507,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104508,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104509,
+    "MLCPJEJAIOM": 10000045,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104601,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05",
+      "Attack06"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104602,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104603,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS",
+      "CrimsonPlum_ExtraAttack",
+      "CrimsonPlum_ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104604,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [
+      "CrimsonPlum",
+      "CrimsonPlum_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104605,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [
+      "VermilionBite",
+      "VermilionBite_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104606,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104607,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104608,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104609,
+    "MLCPJEJAIOM": 10000046,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104701,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104702,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104703,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104704,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [
+      "Kazuha_ElementalArt_BS",
+      "Kazuha_ElementalArt_Landed",
+      "Kazuha_ElementalArt_Air",
+      "Kazuha_ElementalArt_Charge",
+      "Kazuha_ElementalArt_Hold",
+      "Kazuha_ElementalArt_Hold_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104705,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [
+      "Kazuha_ElementalBurst",
+      "Kazuha_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104706,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104707,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104708,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104709,
+    "MLCPJEJAIOM": 10000047,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104801,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104802,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104803,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_Charge",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104804,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [
+      "ElementalArt_BS",
+      "ElementalArt",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104805,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [
+      "ElementalBurst_BS",
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104806,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104807,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104808,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104809,
+    "MLCPJEJAIOM": 10000048,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104901,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104902,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104903,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104904,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [
+      "ElementalArt",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104905,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS_Begin",
+      "ElementalBurst_AS_Loop",
+      "ElementalBurst_AS_END"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 104906,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104907,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104908,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104909,
+    "MLCPJEJAIOM": 10000049,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105001,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105002,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105003,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105004,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [
+      "ElementalArt",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105005,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105006,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105007,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105008,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105009,
+    "MLCPJEJAIOM": 10000050,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105101,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105102,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105103,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105104,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [
+      "Eula_ElementalArt_BS",
+      "Eula_ElementalArt_Click",
+      "Eula_ElementalArt_Click_AS",
+      "Eula_ElementalArt_Burst",
+      "Eula_ElementalArt_Burst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105105,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [
+      "Eula_ElementalBurst",
+      "Eula_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105106,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105107,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105108,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105109,
+    "MLCPJEJAIOM": 10000051,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105201,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05",
+      "Katana_Attack01",
+      "Katana_Attack02",
+      "Katana_Attack03",
+      "Katana_Attack04",
+      "Katana_Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105202,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105203,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS",
+      "Katana_ExtraAttack",
+      "Katana_ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105204,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [
+      "Shougun_ElementalArt",
+      "Shougun_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105205,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [
+      "Shougun_ElementalBurst",
+      "Shougun_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105206,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105207,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105208,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105209,
+    "MLCPJEJAIOM": 10000052,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105301,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105302,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105303,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105304,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [
+      "Sayu_ElementalArt_BS",
+      "Sayu_ElementalArt_Charge",
+      "Sayu_ElementalArt_Roll",
+      "Sayu_ElementalArt_Hold_Roll",
+      "Sayu_ElementalArt_Strike",
+      "Sayu_ElementalArt_Hold_Strike",
+      "Sayu_ElementalArt_AS",
+      "Sayu_ElementalArt_Hold_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105305,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [
+      "Sayu_ElementalBurst",
+      "Sayu_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105306,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105307,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105308,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105309,
+    "MLCPJEJAIOM": 10000053,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105401,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105402,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105403,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_Charge",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105404,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [
+      "Kokomi_ElementalArt",
+      "Kokomi_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105405,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [
+      "Kokomi_ElementalBurst",
+      "Kokomi_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105406,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105407,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105408,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105409,
+    "MLCPJEJAIOM": 10000054,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105501,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105502,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105503,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105504,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [
+      "Gorou_ElementalArt_BS",
+      "Gorou_ElementalArt",
+      "Gorou_ElementalArt_AS",
+      "Gorou_ElementalArt_Charge",
+      "Gorou_ElementalArt_Custom",
+      "Gorou_ElementalArt_Custom_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105505,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [
+      "Gorou_ElementalBurst",
+      "Gorou_Elemental_AS_Before",
+      "Gorou_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105506,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105507,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105508,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105509,
+    "MLCPJEJAIOM": 10000055,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105601,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105602,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105603,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105604,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [
+      "Sara_ElementalArt_BS",
+      "Sara_ElementalArt",
+      "Sara_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105605,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [
+      "Sara_ElementalBurst",
+      "Sara_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105606,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105607,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105608,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105609,
+    "MLCPJEJAIOM": 10000056,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105701,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105702,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105703,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS",
+      "ExtraAttack_BS",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105704,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [
+      "Itto_ElementalArt_BS",
+      "Itto_ElementalArt",
+      "Itto_ElementalArt_Loop",
+      "Itto_ElementalArt_Hold",
+      "Itto_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105705,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [
+      "Itto_ElementalBurst",
+      "Itto_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105706,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105707,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105708,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105709,
+    "MLCPJEJAIOM": 10000057,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105801,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105802,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105803,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_Charge",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105804,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [
+      "ElementalArt_Retreat",
+      "ElementalArt_Retreat_AS",
+      "ElementalArt",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105805,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105806,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105807,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105808,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105809,
+    "MLCPJEJAIOM": 10000058,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105901,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105902,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105903,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105904,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [
+      "Heizo_ElementalArt_BS",
+      "Heizo_ElementalArt_Charge",
+      "Heizo_ElementalArt_Charge_Max",
+      "Heizo_ElementalArt_Cast",
+      "Heizo_ElementalArt_Cast_Max",
+      "Heizo_ElementalArt_AS",
+      "Heizo_ElementalArt_Max_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105905,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [
+      "Heizo_ElementalBurst_Leap",
+      "Heizo_ElementalBurst_Strike",
+      "Heizo_ElementalBurst_Land"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 105906,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105907,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105908,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105909,
+    "MLCPJEJAIOM": 10000059,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106001,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106002,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106003,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106004,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [
+      "Yelan_ElementalArt_BS",
+      "Yelan_ElementalArt_Hold",
+      "Yelan_ElementalArt_Strike",
+      "Yelan_ElementalArt_Stop",
+      "Yelan_ElementalArt_Strike_AS",
+      "Yelan_ElementalArt_Stop_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106005,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [
+      "Yelan_ElementalBurst",
+      "Yelan_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106006,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106007,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106008,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106009,
+    "MLCPJEJAIOM": 10000060,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106201,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106202,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106203,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106204,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [
+      "ElementalArt_BS",
+      "ElementalArt",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106205,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106206,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106207,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106208,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106209,
+    "MLCPJEJAIOM": 10000062,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106301,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106302,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106303,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106304,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [
+      "Shenhe_ElementalArt_BS",
+      "Shenhe_ElementalArt_L",
+      "Shenhe_ElementalArt_AS",
+      "Shenhe_ElementalArt_H",
+      "Shenhe_ElementalArt_H_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106305,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [
+      "Shenhe_ElementalBurst",
+      "Shenhe_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106306,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106307,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106308,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106309,
+    "MLCPJEJAIOM": 10000063,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106401,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106402,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106403,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106404,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [
+      "Yunjin_ElementalArt_BS",
+      "Yunjin_ElementalArt_Loop_1",
+      "Yunjin_ElementalArt_Loop_2",
+      "Yunjin_ElementalArt_Loop_3",
+      "Yunjin_ElementalArt_Cast",
+      "Yunjin_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106405,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [
+      "Yunjin_ElementalBurst",
+      "Yunjin_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106406,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106407,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106408,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106409,
+    "MLCPJEJAIOM": 10000064,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106501,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106502,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106503,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106504,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [
+      "Shinobu_ElementalArt",
+      "Shinobu_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106505,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106506,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106507,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106508,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106509,
+    "MLCPJEJAIOM": 10000065,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106601,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Attack05",
+      "Katana_Attack01",
+      "Katana_Attack02",
+      "Katana_Attack03"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106602,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106603,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106604,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [
+      "ElementalArt_bak",
+      "ElementalArt_AS_bak",
+      "ElementalArt_Retreat",
+      "ElementalArt_Retreat_AS",
+      "ElementalArt",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106605,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106606,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106607,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106608,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106609,
+    "MLCPJEJAIOM": 10000066,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106701,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106702,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106703,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106704,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [
+      "ElementalArt",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106705,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106706,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106707,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106708,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106709,
+    "MLCPJEJAIOM": 10000067,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106801,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [
+      "Attack01_BS",
+      "Attack01",
+      "Attack02",
+      "Attack03"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106802,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106803,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack1",
+      "ExtraAttack2",
+      "ExtraAttack3"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106804,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [
+      "Dori_ElementalArt",
+      "Dori_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106805,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [
+      "Dori_ElementalBurst",
+      "Dori_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106806,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106807,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106808,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106809,
+    "MLCPJEJAIOM": 10000068,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106901,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106902,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106903,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [
+      "FastAimLoop",
+      "AimLoop"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106904,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [
+      "ElementalArt",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106905,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 106906,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106907,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106908,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106909,
+    "MLCPJEJAIOM": 10000069,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107001,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107002,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107003,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107004,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [
+      "NilouDance1Fake",
+      "NilouDance1FakeA",
+      "NilouDance1",
+      "NilouDance1A",
+      "NilouDance2",
+      "NilouDance2A",
+      "NilouDance3",
+      "NilouDance3A",
+      "NilouDanceSpecE",
+      "NilouDanceSpecA",
+      "NilouDanceSpecEA"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107005,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [
+      "Nilou_ElementalBurst",
+      "Nilou_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107006,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107007,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107008,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107009,
+    "MLCPJEJAIOM": 10000070,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107101,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04",
+      "Katana_Attack01",
+      "Katana_Attack02",
+      "Katana_Attack03",
+      "Katana_Attack04",
+      "Katana_Attack05"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107102,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107103,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS",
+      "Cyno_ExtraAttack_BurstMode_AS",
+      "Cyno_ExtraAttack_BurstMode",
+      "Cyno_ExtraAttack_BurstMode_BS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107104,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [
+      "Cyno_ElementalArt_BS",
+      "Cyno_ElementalArt_NoTarget",
+      "Cyno_ElementalArt_HasTarget",
+      "Cyno_ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107105,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [
+      "Cyno_ElementalBurst",
+      "Cyno_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107106,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107107,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107108,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107109,
+    "MLCPJEJAIOM": 10000071,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107201,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107202,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107203,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107204,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [
+      "Candace_ElementalArt_BS",
+      "Candace_ElementalArt_L",
+      "Candace_ElementalArt_L_AS",
+      "Candace_ElementalArt_Charge_1",
+      "Candace_ElementalArt_Charge_2",
+      "Candace_ElementalArt_Charge_3",
+      "Candace_ElementalArt_H",
+      "Candace_ElementalArt_H_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107205,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [
+      "Candace_ElementalBurst",
+      "Candace_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107206,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107207,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107208,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107209,
+    "MLCPJEJAIOM": 10000072,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107301,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107302,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107303,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [
+      "ExtraAttack_BS",
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107304,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [
+      "Nahida_ElementalArt_BS",
+      "Nahida_ElementalArt_Click",
+      "Nahida_ElementalArt_Click_AS",
+      "Nahida_ElementalArt_Move",
+      "Nahida_ElementalArt_Loop",
+      "Nahida_ElementalArt_Hold_AS",
+      "Nahida_ElementalArt_Hold"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107305,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [
+      "Nahida_ElementalBurst",
+      "Nahida_ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107306,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107307,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107308,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107309,
+    "MLCPJEJAIOM": 10000073,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107401,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [
+      "Attack01",
+      "Attack02",
+      "Attack03",
+      "Attack04"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107402,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_JUMP",
+      "AVATAR_SWIM_JUMP",
+      "AVATAR_SWIM_JUMP_DROP",
+      "AVATAR_SWIM_JUMP_TO_WATER"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107403,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [
+      "ExtraAttack",
+      "ExtraAttack_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107404,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [
+      "ElementalArt",
+      "ElementalArt_LoopBS",
+      "ElementalArt_Loop",
+      "ElementalArt_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107405,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [
+      "ElementalBurst",
+      "ElementalBurst_AS"
+    ],
+    "IAKAIFCCNJE": []
+  },
+  {
+    "PKLAPAOFNKA": 107406,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_WALK",
+      "AVATAR_WALK_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107407,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_RUN",
+      "AVATAR_RUN_TO_IDLE"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107408,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [],
+    "IAKAIFCCNJE": [
+      "AVATAR_SPRINT",
+      "AVATAR_RUN_TO_SPRINT",
+      "AVATAR_SPRINT_TO_IDLE",
+      "AVATAR_SPRINT_TO_RUN"
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107409,
+    "MLCPJEJAIOM": 10000074,
+    "GGDNGOJLCFE": [
+      "StandbyShow_01",
+      "StandbyShow_02"
+    ],
+    "IAKAIFCCNJE": []
+  }
+]

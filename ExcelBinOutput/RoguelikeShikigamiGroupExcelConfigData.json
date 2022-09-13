@@ -1,0 +1,90 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_ADD_CARD_TYPE_WEIGHT",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "SR,2"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_CHANGE_GADGET_NUM",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "增益球,3"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_CHANGE_GADGET_NUM",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "破碎物,10"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_CHANGE_GADGET_NUM",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "爆炸物,5"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_ADD_RUNE_MAX_COUNT",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "1"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_SUB_CURSE_PROB",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "4"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_PROB_FREE_REFRESH_CARD",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "100,2"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_ADD_CARD_TYPE_WEIGHT_ROOM_FIRST",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "SSR,20"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_AT_MOST_TRAP_COUNT",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "5"
+    }
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_SPRING_AND_BOSS",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": ""
+    }
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_AT_LEAST_STORE_COUNT",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "3"
+    }
+  }
+]

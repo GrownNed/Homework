@@ -1,0 +1,6154 @@
+[
+  {
+    "PKLAPAOFNKA": 1001,
+    "GEGPNBDIPCO": "强击",
+    "DNBNIEJOJOO": "提升单体50%攻击力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Bash"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_PlayerWind_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1002,
+    "GEGPNBDIPCO": "铁壁",
+    "DNBNIEJOJOO": "提升单体50%防御力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_IronDefense"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1003,
+    "GEGPNBDIPCO": "不屈",
+    "DNBNIEJOJOO": "7秒内没有受到攻击，则每秒回复5%生命值",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Indomitable"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ambor",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1004,
+    "GEGPNBDIPCO": "彩虹（小）",
+    "DNBNIEJOJOO": "提升全元素20%抗性",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Rainbow_01"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1005,
+    "GEGPNBDIPCO": "遇电变弱（魔改试验）",
+    "DNBNIEJOJOO": "遭受电击后会降低防御",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementHit_BreakDefence"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1006,
+    "GEGPNBDIPCO": "血量提升20%-通用",
+    "DNBNIEJOJOO": "提升单体血量20%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1007,
+    "GEGPNBDIPCO": "血量提升50%-通用",
+    "DNBNIEJOJOO": "提升单体血量50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_03"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1008,
+    "GEGPNBDIPCO": "血量提升100%-通用",
+    "DNBNIEJOJOO": "提升单体血量100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_04"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1009,
+    "GEGPNBDIPCO": "攻击提升20%-通用",
+    "DNBNIEJOJOO": "提升单体攻击20%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkImprove_02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1010,
+    "GEGPNBDIPCO": "攻击提升50%-通用",
+    "DNBNIEJOJOO": "提升单体攻击50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkImprove_03"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1011,
+    "GEGPNBDIPCO": "攻击提升100%-通用",
+    "DNBNIEJOJOO": "提升单体攻击100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkImprove_04"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1012,
+    "GEGPNBDIPCO": "元素盾含量强化低",
+    "DNBNIEJOJOO": "提升单体元素盾含量20%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementShield_DurabilityImprove_01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1013,
+    "GEGPNBDIPCO": "元素盾含量强化中",
+    "DNBNIEJOJOO": "提升单体元素盾含量50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementShield_DurabilityImprove_02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1014,
+    "GEGPNBDIPCO": "元素盾含量强化高",
+    "DNBNIEJOJOO": "提升单体元素盾含量100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementShield_DurabilityImprove_03"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1015,
+    "GEGPNBDIPCO": "元素盾恢复强化低",
+    "DNBNIEJOJOO": "提升单体元素盾恢复速率20%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementShield_GapReduce_01"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1016,
+    "GEGPNBDIPCO": "元素盾恢复强化中",
+    "DNBNIEJOJOO": "提升单体元素盾恢复速率50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementShield_GapReduce_02"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1017,
+    "GEGPNBDIPCO": "元素盾恢复强化高",
+    "DNBNIEJOJOO": "提升单体元素盾恢复速率100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementShield_GapReduce_03"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1018,
+    "GEGPNBDIPCO": "AI出手频率提升低",
+    "DNBNIEJOJOO": "单个怪物AI出手频率变为1.5倍",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AISkillCD_Revise01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1019,
+    "GEGPNBDIPCO": "AI出手频率提升高",
+    "DNBNIEJOJOO": "单个怪物AI出手频率变为2倍",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AISkillCD_Revise02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1020,
+    "GEGPNBDIPCO": "火伤提升",
+    "DNBNIEJOJOO": "提升怪物火伤",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FireAddHurtDelta_Improve"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1021,
+    "GEGPNBDIPCO": "虚弱",
+    "DNBNIEJOJOO": "降低单体40%攻击力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Weak"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_PlayerWind_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1022,
+    "GEGPNBDIPCO": "有子单位时强化自身-父",
+    "DNBNIEJOJOO": "提升单体100%防御力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Slime_Ice_IronDefence_Father"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1023,
+    "GEGPNBDIPCO": "有子单位时强化自身-子",
+    "DNBNIEJOJOO": "辅助判断是否满足条件",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Slime_Ice_IronDefence_Child"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1024,
+    "GEGPNBDIPCO": "事件增益buff-群体怪",
+    "DNBNIEJOJOO": "提升单体100%防御力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_IronDefence_Father"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1025,
+    "GEGPNBDIPCO": "事件增益buff-单体源",
+    "DNBNIEJOJOO": "辅助判断是否满足条件",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_IronDefence_Child"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1026,
+    "GEGPNBDIPCO": "通用技能-迟滞之水",
+    "DNBNIEJOJOO": "详见通用技能设计相关文档",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WaterDebuff_CoolDownIncrement"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1027,
+    "GEGPNBDIPCO": "通用技能-嗜能之雷",
+    "DNBNIEJOJOO": "详见通用技能设计相关文档",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElecDebuff_LoseEnergy"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1028,
+    "GEGPNBDIPCO": "通用技能-阴燃之火",
+    "DNBNIEJOJOO": "详见通用技能设计相关文档",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FireDebuff_LoseHP"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1029,
+    "GEGPNBDIPCO": "通用技能-凝结之冰",
+    "DNBNIEJOJOO": "详见通用技能设计相关文档",
+    "KCLGPFAPONH": [
+      "MonsterAffix_IceDebuff_ExtraStaminaCost"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1030,
+    "GEGPNBDIPCO": "血量降低60%",
+    "DNBNIEJOJOO": "降低单体血量60%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpDecrease_01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1031,
+    "GEGPNBDIPCO": "嘲讽抵抗-lv3",
+    "DNBNIEJOJOO": "抵抗lv2及以下等级嘲讽",
+    "KCLGPFAPONH": [
+      "MonsterAffix_TauntLevel_3"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1032,
+    "GEGPNBDIPCO": "血量提升10%-通用",
+    "DNBNIEJOJOO": "最大生命提升10%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_01"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1033,
+    "GEGPNBDIPCO": "血量提升200%-通用",
+    "DNBNIEJOJOO": "最大生命提升200%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_05"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1034,
+    "GEGPNBDIPCO": "攻击提升10%-通用",
+    "DNBNIEJOJOO": "攻击力提升10%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkImprove_01"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1035,
+    "GEGPNBDIPCO": "_IS_IN_BATTLE判断入战",
+    "DNBNIEJOJOO": "判断怪物是否入战",
+    "KCLGPFAPONH": [
+      "MonsterAffix_MonsterState_IsInBattle"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1036,
+    "GEGPNBDIPCO": "对守护目标造成额外200%伤害",
+    "DNBNIEJOJOO": "对守护目标造成额外伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ExtraDamageToProtectTarget"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1037,
+    "GEGPNBDIPCO": "入战后刷新血条布局",
+    "DNBNIEJOJOO": "入战时刷新血条布局",
+    "KCLGPFAPONH": [
+      "MonsterAffix_UIBillBoard_EnterBattleRefresh"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1038,
+    "GEGPNBDIPCO": "肉鸽死亡表现替换",
+    "DNBNIEJOJOO": "肉鸽死亡表现替换",
+    "KCLGPFAPONH": [
+      "Activity_Rogue_Monster_DiePatternSwitch"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1039,
+    "GEGPNBDIPCO": "怪物提示-非billboard01-通用",
+    "DNBNIEJOJOO": "怪物提示-非billboard01-通用",
+    "KCLGPFAPONH": [
+      "MonsterAffix_HintEffect_01"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1040,
+    "GEGPNBDIPCO": "血量提升30%-通用",
+    "DNBNIEJOJOO": "提升单体血量30%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_06"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1041,
+    "GEGPNBDIPCO": "血量提升40%-通用",
+    "DNBNIEJOJOO": "提升单体血量40%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_07"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1042,
+    "GEGPNBDIPCO": "血量降低30%-攻击降低50%-通用",
+    "DNBNIEJOJOO": "血量降低30%-攻击降低50%-通用",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpDecrease_02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1043,
+    "GEGPNBDIPCO": "爬塔上下层标记",
+    "DNBNIEJOJOO": "处理残留逻辑",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Abyss_SpecialFloor_Tag"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1044,
+    "GEGPNBDIPCO": "怪物billboard标记01-金色小星星",
+    "DNBNIEJOJOO": "怪物头顶标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BillBoard_FixedMark_01"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1045,
+    "GEGPNBDIPCO": "怪物billboard标记02-金色大星星",
+    "DNBNIEJOJOO": "怪物头顶标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BillBoard_FixedMark_02"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1046,
+    "GEGPNBDIPCO": "怪物billboard标记03-红色感叹号",
+    "DNBNIEJOJOO": "怪物头顶标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BillBoard_FixedMark_03"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1047,
+    "GEGPNBDIPCO": "血量降低50%",
+    "DNBNIEJOJOO": "降低单体血量50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpDecrease_03"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1048,
+    "GEGPNBDIPCO": "血量提升25%-通用",
+    "DNBNIEJOJOO": "血量提升25%-通用",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_08"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1049,
+    "GEGPNBDIPCO": "助战怪物锁血",
+    "DNBNIEJOJOO": "助战怪物锁血",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Partner_LockHP"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1050,
+    "GEGPNBDIPCO": "血量提升300%-通用",
+    "DNBNIEJOJOO": "血量提升300%-通用",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImprove_09"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1051,
+    "GEGPNBDIPCO": "血量降低90%",
+    "DNBNIEJOJOO": "降低单体血量90%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpDecrease_04"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1101,
+    "GEGPNBDIPCO": "怪物魔化表现-魈任务线",
+    "DNBNIEJOJOO": "魔化特效表现",
+    "KCLGPFAPONH": [
+      "MonsterAffix_DemonizeEff_XiaoQuest"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1102,
+    "GEGPNBDIPCO": "岩抗降低40%-诺艾尔Coop",
+    "DNBNIEJOJOO": "岩抗降低40%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_RockVulnerable_NoelCoop"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1103,
+    "GEGPNBDIPCO": "物抗降低20%-诺艾尔Coop",
+    "DNBNIEJOJOO": "物抗降低20%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PhiscVulnerable_NoelCoop"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1104,
+    "GEGPNBDIPCO": "血量降低80%-诺艾尔Coop",
+    "DNBNIEJOJOO": "血量降低80%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpDown_NoelCoop"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1105,
+    "GEGPNBDIPCO": "攻击削弱50%-诺艾尔Coop",
+    "DNBNIEJOJOO": "攻击削弱50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkDown_NoelCoop"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1106,
+    "GEGPNBDIPCO": "霸体增强-稻妻前置任务",
+    "DNBNIEJOJOO": "霸体提升4倍",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_EndureUp_InazumaPrequest"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1107,
+    "GEGPNBDIPCO": "检测感电-心海个人线",
+    "DNBNIEJOJOO": "检测怪物受到感电伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ShockDamageCheck_KokomiQuest"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1108,
+    "GEGPNBDIPCO": "动物检测受击-托马Coop",
+    "DNBNIEJOJOO": "检测动物受击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AnimalBeHitCheck_ThomaCoop"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1201,
+    "GEGPNBDIPCO": "爬塔1~4层专用-血量提升",
+    "DNBNIEJOJOO": "提升单体血量10%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImproveForAbyssus_01"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1211,
+    "GEGPNBDIPCO": "爬塔5~8层专用-血量提升",
+    "DNBNIEJOJOO": "提升单体血量50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImproveForAbyssus_02"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1221,
+    "GEGPNBDIPCO": "爬塔9~12层专用-血量提升",
+    "DNBNIEJOJOO": "提升单体血量100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImproveForAbyssus_03"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1231,
+    "GEGPNBDIPCO": "爬塔13~16层专用-血量提升",
+    "DNBNIEJOJOO": "提升单体血量150%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImproveForAbyssus_04"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1241,
+    "GEGPNBDIPCO": "爬塔17~20层专用-血量提升",
+    "DNBNIEJOJOO": "提升单体血量200%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImproveForAbyssus_05"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1401,
+    "GEGPNBDIPCO": "事件专用-血量提升低",
+    "DNBNIEJOJOO": "提升单体血量50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImproveForEvent_01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1402,
+    "GEGPNBDIPCO": "事件专用-血量提升中",
+    "DNBNIEJOJOO": "提升单体血量100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImproveForEvent_02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1403,
+    "GEGPNBDIPCO": "事件专用-血量提升高",
+    "DNBNIEJOJOO": "提升单体血量200%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpImproveForEvent_03"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1404,
+    "GEGPNBDIPCO": "事件专用-防御提升低",
+    "DNBNIEJOJOO": "提升单体100%防御力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_DefImproveForEvent_01"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1405,
+    "GEGPNBDIPCO": "事件专用-防御提升高",
+    "DNBNIEJOJOO": "提升单体200%防御力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_DefImproveForEvent_02"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1406,
+    "GEGPNBDIPCO": "事件专用-攻击提升低",
+    "DNBNIEJOJOO": "提升单体20%攻击力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkImproveForEvent_01"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1407,
+    "GEGPNBDIPCO": "事件专用-攻击提升高",
+    "DNBNIEJOJOO": "提升单体50%攻击力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkImproveForEvent_02"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1408,
+    "GEGPNBDIPCO": "事件专用-AI出手频率提升低",
+    "DNBNIEJOJOO": "单个怪物AI出手频率提升1.5",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AISkillCDForEvent_Revise01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1409,
+    "GEGPNBDIPCO": "事件专用-AI出手频率提升高",
+    "DNBNIEJOJOO": "单个怪物AI出手频率提升2",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AISkillCDForEvent_Revise02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1410,
+    "GEGPNBDIPCO": "事件专用-血量降低60%",
+    "DNBNIEJOJOO": "降低单体血量60%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpDecreaseForEvent_01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1411,
+    "GEGPNBDIPCO": "事件专用-虚弱",
+    "DNBNIEJOJOO": "降低单体40%攻击力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkDecreaseForEvent_01"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 1901,
+    "GEGPNBDIPCO": "大世界任务目标",
+    "DNBNIEJOJOO": "任务目标对象特效",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Crystal_Wind"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 2001,
+    "GEGPNBDIPCO": "点燃免疫",
+    "DNBNIEJOJOO": "免疫点燃伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BurningResist"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Diluc_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 2002,
+    "GEGPNBDIPCO": "感电免疫",
+    "DNBNIEJOJOO": "免疫感电伤害和效果",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ShockResist"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Kate",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 2003,
+    "GEGPNBDIPCO": "寒气免疫",
+    "DNBNIEJOJOO": "免疫冰冻和寒元素的减速效果",
+    "KCLGPFAPONH": [
+      "MonsterAffix_IceAllResist"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3001,
+    "GEGPNBDIPCO": "水抗-50%",
+    "DNBNIEJOJOO": "同系伤害抵抗-水-50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Water_01"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3002,
+    "GEGPNBDIPCO": "水抗-70%",
+    "DNBNIEJOJOO": "同系伤害抵抗-水-70%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Water_02"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_02",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3003,
+    "GEGPNBDIPCO": "水抗-100%",
+    "DNBNIEJOJOO": "同系伤害抵抗-水-100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Water_03"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_03",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3004,
+    "GEGPNBDIPCO": "火抗-50%",
+    "DNBNIEJOJOO": "同系伤害抵抗-火-50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Fire_01"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3005,
+    "GEGPNBDIPCO": "火抗-70%",
+    "DNBNIEJOJOO": "同系伤害抵抗-火-70%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Fire_02"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_02",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3006,
+    "GEGPNBDIPCO": "火抗-100%",
+    "DNBNIEJOJOO": "同系伤害抵抗-火-100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Fire_03"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_03",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3007,
+    "GEGPNBDIPCO": "冰抗-50%",
+    "DNBNIEJOJOO": "同系伤害抵抗-冰-50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Ice_01"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3008,
+    "GEGPNBDIPCO": "冰抗-70%",
+    "DNBNIEJOJOO": "同系伤害抵抗-冰-70%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Ice_02"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_02",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3009,
+    "GEGPNBDIPCO": "冰抗-100%",
+    "DNBNIEJOJOO": "同系伤害抵抗-冰-100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Ice_03"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_03",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3010,
+    "GEGPNBDIPCO": "电抗-50%",
+    "DNBNIEJOJOO": "同系伤害抵抗-电-50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Electric_01"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3011,
+    "GEGPNBDIPCO": "电抗-70%",
+    "DNBNIEJOJOO": "同系伤害抵抗-电-70%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Electric_02"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_02",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3012,
+    "GEGPNBDIPCO": "电抗-100%",
+    "DNBNIEJOJOO": "同系伤害抵抗-电-100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Electric_03"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_03",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3013,
+    "GEGPNBDIPCO": "风抗-50%",
+    "DNBNIEJOJOO": "同系伤害抵抗-风-50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Wind_01"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3014,
+    "GEGPNBDIPCO": "风抗-70%",
+    "DNBNIEJOJOO": "同系伤害抵抗-风-70%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Wind_02"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_02",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3015,
+    "GEGPNBDIPCO": "风抗-100%",
+    "DNBNIEJOJOO": "同系伤害抵抗-风-100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Wind_03"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_03",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3016,
+    "GEGPNBDIPCO": "草抗-50%",
+    "DNBNIEJOJOO": "同系伤害抵抗-草-50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Grass_01"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3017,
+    "GEGPNBDIPCO": "草抗-70%",
+    "DNBNIEJOJOO": "同系伤害抵抗-草-70%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Grass_02"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_02",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3018,
+    "GEGPNBDIPCO": "草抗-100%",
+    "DNBNIEJOJOO": "同系伤害抵抗-草-100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Grass_03"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_03",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3019,
+    "GEGPNBDIPCO": "岩抗-50%",
+    "DNBNIEJOJOO": "同系伤害抵抗-岩-50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Rock_01"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3020,
+    "GEGPNBDIPCO": "岩抗-70%",
+    "DNBNIEJOJOO": "同系伤害抵抗-岩-70%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Rock_02"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_02",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 3021,
+    "GEGPNBDIPCO": "岩抗-100%",
+    "DNBNIEJOJOO": "同系伤害抵抗-岩-100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElementResist_Rock_03"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_S_Diluc_01_03",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4001,
+    "GEGPNBDIPCO": "永不入战-活动",
+    "DNBNIEJOJOO": "关闭怪物受击、嘲讽、广播入战",
+    "KCLGPFAPONH": [
+      "MonsterAffix_NeverCombat"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4002,
+    "GEGPNBDIPCO": "免疫物理伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫物理伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PhysicalMuteHurt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4003,
+    "GEGPNBDIPCO": "免疫法器伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫法器伤害-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_CatalystMuteHurt_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4004,
+    "GEGPNBDIPCO": "免疫单手剑伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫单手剑伤害-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_SwordMuteHurt_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4005,
+    "GEGPNBDIPCO": "免疫双手剑伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫双手剑伤害-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ClaymoreMuteHurt_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4006,
+    "GEGPNBDIPCO": "免疫长柄武器伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫长柄武器伤害-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PoleMuteHurt_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4007,
+    "GEGPNBDIPCO": "免疫弓伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫弓伤害-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BowMuteHurt_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4008,
+    "GEGPNBDIPCO": "免疫火元素伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫火元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FireMuteHurt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4009,
+    "GEGPNBDIPCO": "免疫水元素伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫水元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WaterMuteHurt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4010,
+    "GEGPNBDIPCO": "免疫冰元素伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫冰元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_IceMuteHurt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4011,
+    "GEGPNBDIPCO": "免疫雷元素伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫雷元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElecMuteHurt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4012,
+    "GEGPNBDIPCO": "免疫岩元素伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫岩元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_RockMuteHurt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4013,
+    "GEGPNBDIPCO": "免疫风元素伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫风元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WindMuteHurt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4014,
+    "GEGPNBDIPCO": "免疫草元素伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫草元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_GrassMuteHurt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4015,
+    "GEGPNBDIPCO": "免疫重击伤害-狩猎活动",
+    "DNBNIEJOJOO": "免疫重击伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ExtraAttackMuteHurt_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4016,
+    "GEGPNBDIPCO": "受法器伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "受法器伤害提升50%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_CatalystVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4017,
+    "GEGPNBDIPCO": "受单手剑伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "受单手剑伤害提升50%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_SwordVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4018,
+    "GEGPNBDIPCO": "受双手剑伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "受双手剑伤害提升50%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ClaymoreVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4019,
+    "GEGPNBDIPCO": "受长柄武器伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "受长柄武器伤害提升50%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PoleVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4020,
+    "GEGPNBDIPCO": "受弓伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "受弓伤害提升50%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BowVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4021,
+    "GEGPNBDIPCO": "被暴击率提升-狩猎活动",
+    "DNBNIEJOJOO": "被暴击率提升-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ExtraCritical_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4022,
+    "GEGPNBDIPCO": "受暴击伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "受暴击伤害提升-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ExtraCriticalHurt_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4023,
+    "GEGPNBDIPCO": "受重击伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "受重击伤害提升-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ExtraAttackVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4024,
+    "GEGPNBDIPCO": "受空中攻击伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "受空中攻击伤害提升-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FallingAttackVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4025,
+    "GEGPNBDIPCO": "受火元素伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "火元素抗性减50",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FireVulnerable_Low_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4026,
+    "GEGPNBDIPCO": "受水元素伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "水元素抗性减50",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WaterVulnerable_Low_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4027,
+    "GEGPNBDIPCO": "受冰元素伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "冰元素抗性减50",
+    "KCLGPFAPONH": [
+      "MonsterAffix_IceVulnerable_Low_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4028,
+    "GEGPNBDIPCO": "受雷元素伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "雷元素抗性减50",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElecVulnerable_Low_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4029,
+    "GEGPNBDIPCO": "受岩元素伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "岩元素抗性减50",
+    "KCLGPFAPONH": [
+      "MonsterAffix_RockVulnerable_Low_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4030,
+    "GEGPNBDIPCO": "受风元素伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "风元素抗性减50",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WindVulnerable_Low_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4031,
+    "GEGPNBDIPCO": "受草元素伤害提升-狩猎活动",
+    "DNBNIEJOJOO": "草元素抗性减50",
+    "KCLGPFAPONH": [
+      "MonsterAffix_GrassVulnerable_Low_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4032,
+    "GEGPNBDIPCO": "血量提升10%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高10%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_01_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4033,
+    "GEGPNBDIPCO": "血量提升50%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_04_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4034,
+    "GEGPNBDIPCO": "血量提升75%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高75%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_05_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4035,
+    "GEGPNBDIPCO": "血量提升100%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_06_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4036,
+    "GEGPNBDIPCO": "血量提升125%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高125%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_07_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4037,
+    "GEGPNBDIPCO": "血量提升200%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高200%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_08_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4038,
+    "GEGPNBDIPCO": "血量提升250%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高250%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_09_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4039,
+    "GEGPNBDIPCO": "血量提升300%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高300%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_10_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4040,
+    "GEGPNBDIPCO": "攻击提升10%-狩猎活动",
+    "DNBNIEJOJOO": "怪物攻击提高10%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_01_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4041,
+    "GEGPNBDIPCO": "攻击提升20%-狩猎活动",
+    "DNBNIEJOJOO": "怪物攻击提高20%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_02_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4042,
+    "GEGPNBDIPCO": "攻击提升30%-狩猎活动",
+    "DNBNIEJOJOO": "怪物攻击提高30%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_03_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4043,
+    "GEGPNBDIPCO": "狩猎线索标识-狩猎活动",
+    "DNBNIEJOJOO": "狩猎线索特殊特效提示",
+    "KCLGPFAPONH": [
+      "MonsterAffix_HintEffect_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4044,
+    "GEGPNBDIPCO": "受法器伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "受法器伤害提升100%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_CatalystVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4045,
+    "GEGPNBDIPCO": "受单手剑伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "受单手剑伤害提升100%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_SwordVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4046,
+    "GEGPNBDIPCO": "受双手剑伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "受双手剑伤害提升100%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ClaymoreVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4047,
+    "GEGPNBDIPCO": "受长柄武器伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "受长柄武器伤害提升100%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PoleVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4048,
+    "GEGPNBDIPCO": "受弓伤害大幅大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "受弓伤害提升100%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BowVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4049,
+    "GEGPNBDIPCO": "受火元素伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "火元素抗性减100",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FireVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4050,
+    "GEGPNBDIPCO": "受水元素伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "水元素抗性减100",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WaterVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4051,
+    "GEGPNBDIPCO": "受冰元素伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "冰元素抗性减100",
+    "KCLGPFAPONH": [
+      "MonsterAffix_IceVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4052,
+    "GEGPNBDIPCO": "受雷元素伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "雷元素抗性减100",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElecVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4053,
+    "GEGPNBDIPCO": "受岩元素伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "岩元素抗性减100",
+    "KCLGPFAPONH": [
+      "MonsterAffix_RockVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4054,
+    "GEGPNBDIPCO": "受风元素伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "风元素抗性减100",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WindVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4055,
+    "GEGPNBDIPCO": "受草元素伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "草元素抗性减100",
+    "KCLGPFAPONH": [
+      "MonsterAffix_GrassVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4056,
+    "GEGPNBDIPCO": "血量提升25%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高25%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_03_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4057,
+    "GEGPNBDIPCO": "攻击提升50%-狩猎活动",
+    "DNBNIEJOJOO": "怪物攻击提高50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_04_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4058,
+    "GEGPNBDIPCO": "攻击提升100%-狩猎活动",
+    "DNBNIEJOJOO": "怪物攻击提高100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_05_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4059,
+    "GEGPNBDIPCO": "攻击提升120%-狩猎活动",
+    "DNBNIEJOJOO": "怪物攻击提高120%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_06_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4060,
+    "GEGPNBDIPCO": "受重击伤害大幅提升-狩猎活动",
+    "DNBNIEJOJOO": "受重击伤害提升100%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ExtraAttackVulnerable_High_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4061,
+    "GEGPNBDIPCO": "血量提升20%-狩猎活动",
+    "DNBNIEJOJOO": "怪物生命提高20%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_02_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4062,
+    "GEGPNBDIPCO": "攻击提升200%-狩猎活动",
+    "DNBNIEJOJOO": "怪物攻击提高200%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_07_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4063,
+    "GEGPNBDIPCO": "攻击提升250%-狩猎活动",
+    "DNBNIEJOJOO": "怪物攻击提高250%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_08_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4064,
+    "GEGPNBDIPCO": "狩猎最终目标-狩猎活动",
+    "DNBNIEJOJOO": "最终目标提示",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FinalTarget_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4065,
+    "GEGPNBDIPCO": "血量降低25%-白垩与黑龙",
+    "DNBNIEJOJOO": "血量降低25%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_HpDecrease_01_ForDragonSpine"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4066,
+    "GEGPNBDIPCO": "草龙卷-狩猎活动",
+    "DNBNIEJOJOO": "以怪物为中心的小范围内出现3个小型草元素龙卷",
+    "KCLGPFAPONH": [
+      "MonsterAffix_DendroTornado_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4067,
+    "GEGPNBDIPCO": "草版本锐气",
+    "DNBNIEJOJOO": "全抗提升，每次受到草元素伤害后全抗降低，周期性重置初始抗性",
+    "KCLGPFAPONH": [
+      "MonsterAffix_DendroDriven_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4068,
+    "GEGPNBDIPCO": "激化落雷",
+    "DNBNIEJOJOO": "对怪物触发激化反应，引发落雷，造成雷伤，减雷草抗性",
+    "KCLGPFAPONH": [
+      "MonsterAffix_OverdoseEnhanced_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4069,
+    "GEGPNBDIPCO": "蘑菇弱点",
+    "DNBNIEJOJOO": "受到蔓生蘑菇爆炸伤害提高，被炸到的怪物草元素抗性降低",
+    "KCLGPFAPONH": [
+      "MonsterAffix_OvergrowEnhanced_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4070,
+    "GEGPNBDIPCO": "草元素易伤",
+    "DNBNIEJOJOO": "草元素抗性降低",
+    "KCLGPFAPONH": [
+      "MonsterAffix_DendroVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4101,
+    "GEGPNBDIPCO": "血量提升100%-未归的熄星",
+    "DNBNIEJOJOO": "怪物生命提高100%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_High_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4102,
+    "GEGPNBDIPCO": "血量提升50%-未归的熄星",
+    "DNBNIEJOJOO": "怪物生命提高50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_Mid_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4103,
+    "GEGPNBDIPCO": "血量提升25%-未归的熄星",
+    "DNBNIEJOJOO": "怪物生命提高25%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_Low_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4104,
+    "GEGPNBDIPCO": "攻击提升50%-未归的熄星",
+    "DNBNIEJOJOO": "怪物攻击提高50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_High_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4105,
+    "GEGPNBDIPCO": "攻击提升25%-未归的熄星",
+    "DNBNIEJOJOO": "怪物攻击提高25%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_Mid_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4106,
+    "GEGPNBDIPCO": "攻击提升15%-未归的熄星",
+    "DNBNIEJOJOO": "怪物攻击提高15%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_Low_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4107,
+    "GEGPNBDIPCO": "怪物易伤高-未归的熄星",
+    "DNBNIEJOJOO": "受到活动角色伤害提高100%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AssignedAvatarVulnerable_High_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4108,
+    "GEGPNBDIPCO": "怪物易伤中-未归的熄星",
+    "DNBNIEJOJOO": "受到活动角色伤害提高60%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AssignedAvatarVulnerable_Mid_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4109,
+    "GEGPNBDIPCO": "怪物易伤低-未归的熄星",
+    "DNBNIEJOJOO": "受到活动角色伤害提高30%-需要角色对应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AssignedAvatarVulnerable_Low_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4110,
+    "GEGPNBDIPCO": "高分目标标识-未归的熄星",
+    "DNBNIEJOJOO": "活动中高分目标的特效提示",
+    "KCLGPFAPONH": [
+      "MonsterAffix_HighScoreTarget_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4111,
+    "GEGPNBDIPCO": "血量提升400%-塔防",
+    "DNBNIEJOJOO": "血量提升400%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_01_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4112,
+    "GEGPNBDIPCO": "血量提升250%-塔防",
+    "DNBNIEJOJOO": "血量提升250%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_02_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4113,
+    "GEGPNBDIPCO": "防御提升20%-塔防",
+    "DNBNIEJOJOO": "提升单体20%防御力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_DefImprove_01_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4114,
+    "GEGPNBDIPCO": "伪装成NPC-家园活动",
+    "DNBNIEJOJOO": "缩小入战距离且隐藏血条",
+    "KCLGPFAPONH": [
+      "MonsterAffix_LowAlert_ForMimiTomo"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4115,
+    "GEGPNBDIPCO": "攻击提升200%-擂台挑战",
+    "DNBNIEJOJOO": "攻击力提升200%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_AtkUp_01_ForArenaChallenge"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4116,
+    "GEGPNBDIPCO": "血量提升150%-导能原盘",
+    "DNBNIEJOJOO": "血量提升150%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4117,
+    "GEGPNBDIPCO": "血量提升900%-家园活动",
+    "DNBNIEJOJOO": "血量提升900%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_01_ForMimiTomo"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4118,
+    "GEGPNBDIPCO": "特殊怪物标记-酣战热浪",
+    "DNBNIEJOJOO": "怪物特殊标记特效",
+    "KCLGPFAPONH": [
+      "MonsterAffix_HighThreatTarget_ForBuoyantCombat"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4119,
+    "GEGPNBDIPCO": "火元素增幅器移动版-塔防",
+    "DNBNIEJOJOO": "怪物版火元素增幅器",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AmplifierApplier_Fire"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4120,
+    "GEGPNBDIPCO": "冰元素增幅器移动版-塔防",
+    "DNBNIEJOJOO": "怪物版冰元素增幅器",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AmplifierApplier_Ice"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4121,
+    "GEGPNBDIPCO": "雷元素增幅器移动版-塔防",
+    "DNBNIEJOJOO": "怪物版雷元素增幅器",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AmplifierApplier_Electric"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4122,
+    "GEGPNBDIPCO": "怪物移速下限放开，受冰冻时间减少50%-塔防",
+    "DNBNIEJOJOO": "怪物移速下限放开，受冰冻时间减少50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_MoveSpeedLimit_ForTowerDefense"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4123,
+    "GEGPNBDIPCO": "怪物嘲讽塔-塔防",
+    "DNBNIEJOJOO": "怪物嘲讽塔",
+    "KCLGPFAPONH": [
+      "MonsterAffix_TauntTower_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4124,
+    "GEGPNBDIPCO": "怪物缴械塔-塔防",
+    "DNBNIEJOJOO": "怪物缴械塔",
+    "KCLGPFAPONH": [
+      "MonsterAffix_DisarmTower_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4125,
+    "GEGPNBDIPCO": "丘丘王非入战强化-塔防",
+    "DNBNIEJOJOO": "丘丘王非入战强化-塔防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Brute_TowerDefence_PowerUp"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4126,
+    "GEGPNBDIPCO": "受到下落攻击叠加降防-稻妻悬赏",
+    "DNBNIEJOJOO": "受到下落攻击叠加降防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FallingVulnerable_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4127,
+    "GEGPNBDIPCO": "遗迹怪瘫痪时间翻倍-稻妻悬赏",
+    "DNBNIEJOJOO": "遗迹怪瘫痪时间翻倍",
+    "KCLGPFAPONH": [
+      "MonsterAffix_DoubleWeakTime_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4128,
+    "GEGPNBDIPCO": "范围回血-塔防",
+    "DNBNIEJOJOO": "范围内怪物回血",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AreaHeal_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4129,
+    "GEGPNBDIPCO": "岩创生物破坏-塔防",
+    "DNBNIEJOJOO": "破坏范围内角色岩创生物",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BreakRock_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4130,
+    "GEGPNBDIPCO": "高危怪物-塔防",
+    "DNBNIEJOJOO": "高危怪物",
+    "KCLGPFAPONH": [
+      "MonsterAffix_HighScoreTarget_ForAster"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4131,
+    "GEGPNBDIPCO": "君王（扈从）特供版-稻妻悬赏",
+    "DNBNIEJOJOO": "通用技能-君王（扈从）降低数值难度",
+    "KCLGPFAPONH": [
+      "GeneralSkill_Sovereign_Slave_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4132,
+    "GEGPNBDIPCO": "回光返照特供版",
+    "DNBNIEJOJOO": "回光返照降低数值难度",
+    "KCLGPFAPONH": [
+      "GeneralSkill_WaterEnhance_SelfHeal_ForHunting"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4133,
+    "GEGPNBDIPCO": "史莱姆元素盾重生-塔防",
+    "DNBNIEJOJOO": "史莱姆元素盾重生-塔防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_SlimeShieldReborn_ForTowerDefense"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4134,
+    "GEGPNBDIPCO": "翻牌叠加血量-塔防",
+    "DNBNIEJOJOO": "塔防翻牌叠加血量",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AdditionalHP_ForTowerDefense"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4135,
+    "GEGPNBDIPCO": "翻牌叠加防御力-塔防",
+    "DNBNIEJOJOO": "塔防翻牌叠加防御力",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AdditionalDefence_ForTowerDefense"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4136,
+    "GEGPNBDIPCO": "血量降低50%-塔防",
+    "DNBNIEJOJOO": "血量降低50%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpDecrease_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4137,
+    "GEGPNBDIPCO": "回光返照特供版-塔防",
+    "DNBNIEJOJOO": "回光返照数值调整",
+    "KCLGPFAPONH": [
+      "GeneralSkill_WaterEnhance_SelfHeal_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4138,
+    "GEGPNBDIPCO": "跑步移动怪物标记-塔防",
+    "DNBNIEJOJOO": "跑步移动怪物标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_RunMonsterTag_ForTowerDefense"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4139,
+    "GEGPNBDIPCO": "君王（扈从）特供版-逐月节活动",
+    "DNBNIEJOJOO": "君王（扈从）特供版-逐月节活动",
+    "KCLGPFAPONH": [
+      "GeneralSkill_Sovereign_Slave_ForLunaRite"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4140,
+    "GEGPNBDIPCO": "回光返照特供版-逐月节活动",
+    "DNBNIEJOJOO": "回光返照特供版-逐月节活动",
+    "KCLGPFAPONH": [
+      "GeneralSkill_WaterEnhance_SelfHeal_ForLunaRite"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4141,
+    "GEGPNBDIPCO": "长时间未换人惩罚-换人活动",
+    "DNBNIEJOJOO": "长时间未换人惩罚",
+    "KCLGPFAPONH": [
+      "MonsterAffix_NoSwitch_Punishment_ForSumo"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4142,
+    "GEGPNBDIPCO": "血量提升60%-换人活动",
+    "DNBNIEJOJOO": "血量提升60%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_01_ForSumo"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4143,
+    "GEGPNBDIPCO": "override测试词缀-血量提升",
+    "DNBNIEJOJOO": "血量提升-详见override表",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AbilityOverrideTest_HpUp"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4144,
+    "GEGPNBDIPCO": "override测试词缀-自我治疗",
+    "DNBNIEJOJOO": "自我治疗-详见override表",
+    "KCLGPFAPONH": [
+      "GeneralSkill_AbilityOverrideTest_SelfHeal"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4145,
+    "GEGPNBDIPCO": "增幅器怪物强化-导能原盘复刻",
+    "DNBNIEJOJOO": "增幅器怪物强化",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_PowerUp_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4146,
+    "GEGPNBDIPCO": "飘浮灵标签-导能原盘复刻",
+    "DNBNIEJOJOO": "飘浮灵强化标签",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Sylph_EliteTag_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4147,
+    "GEGPNBDIPCO": "飘浮灵持续回能-导能原盘复刻",
+    "DNBNIEJOJOO": "飘浮灵持续回能",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Sylph_ChargeUp_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4148,
+    "GEGPNBDIPCO": "飘浮灵亡语回能-导能原盘复刻",
+    "DNBNIEJOJOO": "飘浮灵亡语回能",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Sylph_DeathrattleCharge_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4149,
+    "GEGPNBDIPCO": "兽境猎犬亡语激活-导能原盘复刻",
+    "DNBNIEJOJOO": "兽境猎犬亡语激活",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Hound_Activated_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4150,
+    "GEGPNBDIPCO": "兽境猎犬亡语加攻-导能原盘复刻",
+    "DNBNIEJOJOO": "兽境猎犬亡语加攻",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Hound_AttackEnhance_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4151,
+    "GEGPNBDIPCO": "兽境猎犬亡语重置突袭-导能原盘复刻",
+    "DNBNIEJOJOO": "兽境猎犬亡语重置突袭",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Hound_ResetStrike_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4152,
+    "GEGPNBDIPCO": "飘浮灵激活加攻-导能原盘复刻",
+    "DNBNIEJOJOO": "飘浮灵激活加攻",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Sylph_AttackEnhance_01_ForChannellerSlab"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4153,
+    "GEGPNBDIPCO": "兽境犬突袭高度特判-肉鸽",
+    "DNBNIEJOJOO": "兽境犬突袭高度特判",
+    "KCLGPFAPONH": [
+      "MonsterAffix_HoundStrikeHeight_ForRogue"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4154,
+    "GEGPNBDIPCO": "普通怪物血量提升-迷城战线",
+    "DNBNIEJOJOO": "血量提升",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_01_ForMistTrial"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4155,
+    "GEGPNBDIPCO": "Boss血量提升-迷城战线",
+    "DNBNIEJOJOO": "血量提升",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpUp_02_ForMistTrial"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4156,
+    "GEGPNBDIPCO": "遗迹系怪物虚弱时间调整-导能圆盘复刻",
+    "DNBNIEJOJOO": "遗迹系怪物虚弱时间调整",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WeakTimeModify_ForChannellerSlabV2"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4157,
+    "GEGPNBDIPCO": "起死回生-导能圆盘复刻",
+    "DNBNIEJOJOO": "起死回生",
+    "KCLGPFAPONH": [
+      "GeneralSkill_SelfHeal_ForChannellerSlabV2"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4158,
+    "GEGPNBDIPCO": "魔偶剑鬼深渊血量调整",
+    "DNBNIEJOJOO": "魔偶剑鬼深渊血量调整",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Ningyo_HPDown_ForAbyss"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4159,
+    "GEGPNBDIPCO": "壳之剑士任务血量下调",
+    "DNBNIEJOJOO": "壳之剑士任务血量下调",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ForlornVessel_HPDown_ForTwins2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4160,
+    "GEGPNBDIPCO": "流明石挑战怪物buff",
+    "DNBNIEJOJOO": "流明石挑战怪物buff",
+    "KCLGPFAPONH": [
+      "MonsterAffix_BlackMudBuff_ForTheChasmChallenge"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4161,
+    "GEGPNBDIPCO": "幻影心流复刻-普通强化",
+    "DNBNIEJOJOO": "提升血量",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertyUp_Normal_ForActivityArena"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4162,
+    "GEGPNBDIPCO": "幻影心流复刻-困难强化",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertyUp_Hard_ForActivityArena"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4163,
+    "GEGPNBDIPCO": "2.7肉鸽彩蛋关1",
+    "DNBNIEJOJOO": "提升血量",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AdditionalHP_BonusStage01_ForRogueV2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4164,
+    "GEGPNBDIPCO": "2.7肉鸽彩蛋关2",
+    "DNBNIEJOJOO": "降低血量",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AdditionalHP_BonusStage02_ForRogueV2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4165,
+    "GEGPNBDIPCO": "哨塔争夺 精英标记",
+    "DNBNIEJOJOO": "哨塔争夺大世界玩法，使装置不能涨进度的怪物标记",
+    "KCLGPFAPONH": [
+      "Eremite_FatuiMaranaWell_GlobalValue_Mark"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4166,
+    "GEGPNBDIPCO": "3.0时停挑战-第1层普通怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage1_NormalEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4167,
+    "GEGPNBDIPCO": "3.0时停挑战-第1层精英怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage1_EliteEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4168,
+    "GEGPNBDIPCO": "3.0时停挑战-第2层普通怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage2_NormalEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4169,
+    "GEGPNBDIPCO": "3.0时停挑战-第2层精英怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage2_EliteEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4170,
+    "GEGPNBDIPCO": "3.0时停挑战-第3层普通怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage3_NormalEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4171,
+    "GEGPNBDIPCO": "3.0时停挑战-第3层精英怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage3_EliteEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4172,
+    "GEGPNBDIPCO": "3.0时停挑战-第4层普通怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage4_NormalEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4173,
+    "GEGPNBDIPCO": "3.0时停挑战-第4层精英怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage4_EliteEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4174,
+    "GEGPNBDIPCO": "3.0时停挑战-第5层普通怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage5_NormalEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4175,
+    "GEGPNBDIPCO": "3.0时停挑战-第5层精英怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage5_EliteEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4176,
+    "GEGPNBDIPCO": "3.0时停挑战-第6层普通怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage6_NormalEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4177,
+    "GEGPNBDIPCO": "3.0时停挑战-第6层精英怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage6_EliteEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4178,
+    "GEGPNBDIPCO": "3.0时停挑战-第7层普通怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage7_NormalEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4179,
+    "GEGPNBDIPCO": "3.0时停挑战-第7层精英怪物",
+    "DNBNIEJOJOO": "提升血量和攻击",
+    "KCLGPFAPONH": [
+      "MonsterAffix_PropertiesUp_ForMuqadasPotion_Stage7_EliteEntity"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4180,
+    "GEGPNBDIPCO": "关闭怪物接受入站广播",
+    "DNBNIEJOJOO": "关闭怪物接受入站广播",
+    "KCLGPFAPONH": [
+      "Eremite_MainWorld_ResetThreatBroadcastRange"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 4181,
+    "GEGPNBDIPCO": "永劫龙兽深渊词缀",
+    "DNBNIEJOJOO": "入战起飞，空中时间增长",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Gargoyle_Fafnir_Elite_ForAbyss"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5001,
+    "GEGPNBDIPCO": "强攻",
+    "DNBNIEJOJOO": "精英化词缀-详见对应文档",
+    "KCLGPFAPONH": [
+      "MonsterEliteAffix_Attack_Enhance"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5002,
+    "GEGPNBDIPCO": "防护",
+    "DNBNIEJOJOO": "精英化词缀-详见对应文档",
+    "KCLGPFAPONH": [
+      "MonsterEliteAffix_Defence_Enhance"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5003,
+    "GEGPNBDIPCO": "灵动",
+    "DNBNIEJOJOO": "精英化词缀-详见对应文档",
+    "KCLGPFAPONH": [
+      "MonsterEliteAffix_Agility_Enhance"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5004,
+    "GEGPNBDIPCO": "支援",
+    "DNBNIEJOJOO": "精英化词缀-详见对应文档",
+    "KCLGPFAPONH": [
+      "MonsterEliteAffix_Support_Enhance"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5005,
+    "GEGPNBDIPCO": "灵动-深渊法师逻辑",
+    "DNBNIEJOJOO": "精英化词缀-详见对应文档",
+    "KCLGPFAPONH": [
+      "MonsterEliteAffix_AgilityEnhance_Abyss_Plugin"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5006,
+    "GEGPNBDIPCO": "无相挑战活动",
+    "DNBNIEJOJOO": "无相挑战标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Effigy_Elite"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5007,
+    "GEGPNBDIPCO": "急冻树雪山活动",
+    "DNBNIEJOJOO": "急冻树雪山活动",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Regisvine_Ice_Activity"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5008,
+    "GEGPNBDIPCO": "骗骗花雪山活动",
+    "DNBNIEJOJOO": "骗骗花雪山活动",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Mimik_Ice_Activity"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5009,
+    "GEGPNBDIPCO": "遗迹系怪物激活逻辑",
+    "DNBNIEJOJOO": "用于遗迹系怪物激活",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AIHitFeeling_LevelTrigger"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5010,
+    "GEGPNBDIPCO": "泉水精灵活动boss召唤物标记",
+    "DNBNIEJOJOO": "用于1.4活动标记纯水动物",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_Animal_ActivityMask"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5011,
+    "GEGPNBDIPCO": "纯水小动物属性变化",
+    "DNBNIEJOJOO": "纯水动物HP提升，攻击下降",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_Animal_PropertyFix"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5012,
+    "GEGPNBDIPCO": "遗迹守卫一次击破--酣战热浪",
+    "DNBNIEJOJOO": "遗迹守卫弱点改为一次击破",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Defender_WeaknessNerf_ForBuoyantCombat"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5013,
+    "GEGPNBDIPCO": "傀儡将军强制后撤词缀",
+    "DNBNIEJOJOO": "傀儡将军强制后撤词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_ForceDodgeAffix"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5014,
+    "GEGPNBDIPCO": "傀儡将军挑战生命词缀",
+    "DNBNIEJOJOO": "傀儡将军挑战生命词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_ChallengeAffix_Base_01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5015,
+    "GEGPNBDIPCO": "傀儡将军挑战风分身默认剑气词缀",
+    "DNBNIEJOJOO": "傀儡将军挑战风分身默认剑气词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_02_ChallengeAffix_01_Unique1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5016,
+    "GEGPNBDIPCO": "傀儡将军挑战风分身词缀1-互斥",
+    "DNBNIEJOJOO": "发射更多剑气。",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_02_ChallengeAffix_01_Unique2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5017,
+    "GEGPNBDIPCO": "傀儡将军挑战风分身词缀2-互斥",
+    "DNBNIEJOJOO": "剑气技能cd降低，发射更多剑气。",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_02_ChallengeAffix_01_Unique3"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5018,
+    "GEGPNBDIPCO": "傀儡将军挑战风分身词缀3-互斥",
+    "DNBNIEJOJOO": "剑气技能cd降低，发射更多剑气，",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_02_ChallengeAffix_01_Unique4"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5019,
+    "GEGPNBDIPCO": "纯水小动物去除脚底特效词缀",
+    "DNBNIEJOJOO": "纯水小动物去除脚底特效词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_Animal_DeleteFootEffect"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5020,
+    "GEGPNBDIPCO": "傀儡将军挑战冰分身词缀1-互斥",
+    "DNBNIEJOJOO": "突进技能cd降低",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_03_ChallengeAffix_01_Unique1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5021,
+    "GEGPNBDIPCO": "傀儡将军挑战冰分身词缀2-互斥",
+    "DNBNIEJOJOO": "突进技能cd降低，突进技能段数增加",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_03_ChallengeAffix_01_Unique2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5022,
+    "GEGPNBDIPCO": "傀儡将军挑战冰分身词缀3-互斥",
+    "DNBNIEJOJOO": "突进技能cd降低，突进技能段数增加附带冰冻光环，持续给范围内角色加冰元素",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_03_ChallengeAffix_01_Unique3"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5023,
+    "GEGPNBDIPCO": "傀儡将军剧情通知入战",
+    "DNBNIEJOJOO": "傀儡将军剧情通知入战",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_01_SpecialAlert"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5024,
+    "GEGPNBDIPCO": "纯水挑战小动物回血增强",
+    "DNBNIEJOJOO": "本身有回血的增强，没回血的新增回血",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_AnimalHealUp"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5025,
+    "GEGPNBDIPCO": "纯水挑战电梯削减",
+    "DNBNIEJOJOO": "电梯数量削减，位置随机",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_MustKillElevator"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5026,
+    "GEGPNBDIPCO": "纯水挑战技能增强1-互斥",
+    "DNBNIEJOJOO": "尾巴拍地水柱增加",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_SkillUp1"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5027,
+    "GEGPNBDIPCO": "纯水挑战技能增强2-互斥",
+    "DNBNIEJOJOO": "尾巴拍地水柱增加，追钟水球数量增加",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_SkillUp2"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5028,
+    "GEGPNBDIPCO": "纯水挑战技能增强3-互斥",
+    "DNBNIEJOJOO": "尾巴拍地水柱增加，追钟水球数量增加，冲刺段数增加",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_SkillUp3"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5029,
+    "GEGPNBDIPCO": "傀儡将军冰分分身同生共死",
+    "DNBNIEJOJOO": "风冰分身需要同时挂上",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_Ghost_DieInSameTime"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5030,
+    "GEGPNBDIPCO": "古岩龙蜥-弹反伤害降低",
+    "DNBNIEJOJOO": "角色护盾弹反对其造成的伤害降低",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_Broken_DamageDown"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5031,
+    "GEGPNBDIPCO": "古岩龙蜥-去除弹反抗性降低",
+    "DNBNIEJOJOO": "去除角色护盾弹反后的全抗性降低效果",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_Broken_WithouDefenseDown"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5032,
+    "GEGPNBDIPCO": "古岩龙蜥-喷吐对护盾伤害提高",
+    "DNBNIEJOJOO": "原岩喷吐对角色护盾造成的伤害提升",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_ElementExplode_ShieldDamageUp"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5033,
+    "GEGPNBDIPCO": "古岩龙蜥-喷吐降低角色护盾强效",
+    "DNBNIEJOJOO": "原岩喷吐命中角色后使其全队护盾强效降低，永续，可叠加",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_ElementExplode_AvatarShieldDown"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5034,
+    "GEGPNBDIPCO": "古岩龙蜥-游走附加岩元素盾",
+    "DNBNIEJOJOO": "游走钻出地面时给自身附加一个抵挡伤害的岩元素护盾",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_Glide_ElementShield"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5035,
+    "GEGPNBDIPCO": "古岩龙蜥-甩尾降低角色防御",
+    "DNBNIEJOJOO": "甩尾命中角色后时使其全队防御力降低，永续，可叠加",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_TailSweep_AvatarDefenseDown"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5036,
+    "GEGPNBDIPCO": "古岩龙蜥-鳞片多次爆发-Lv1",
+    "DNBNIEJOJOO": "鳞片存在时间增加，会发生三次鳞片爆破（Lv1）",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_ScaleGadget_ActivityCycle_Lv1"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5037,
+    "GEGPNBDIPCO": "纯水小动物选择词缀1",
+    "DNBNIEJOJOO": "松鼠 老鹰",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_AnimalSelect_Two"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5038,
+    "GEGPNBDIPCO": "纯水小动物选择词缀2",
+    "DNBNIEJOJOO": "松鼠 鸭子",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_AnimalSelect_One"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5039,
+    "GEGPNBDIPCO": "傀儡将军添加面具额外分身",
+    "DNBNIEJOJOO": "傀儡将军添加面具额外分身",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Ningyo_GhostMask_Add"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5040,
+    "GEGPNBDIPCO": "纯水更多平台造成伤害",
+    "DNBNIEJOJOO": "额外选2个平台造成伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_MorePlatFormDamage"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5041,
+    "GEGPNBDIPCO": "纯水动物死亡爆裂词缀",
+    "DNBNIEJOJOO": "纯水动物死亡爆裂词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Oceanid_02_Animal_DeathExplode"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5042,
+    "GEGPNBDIPCO": "古岩龙蜥-鳞片多次爆发-Lv2",
+    "DNBNIEJOJOO": "鳞片存在时间增加，会发生五次鳞片爆破（Lv2）",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_ScaleGadget_ActivityCycle_Lv2"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5043,
+    "GEGPNBDIPCO": "古岩龙蜥-鳞片多次爆发-Lv3",
+    "DNBNIEJOJOO": "鳞片存在时间增加，会发生无限次鳞片爆破（Lv3）",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_Primo_Rock_ScaleGadget_ActivityCycle_Lv3"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5044,
+    "GEGPNBDIPCO": "幽灵海乱鬼特殊词缀",
+    "DNBNIEJOJOO": "增强属性，GCD降低，霸体增加",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Kairagi_Ghost"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5045,
+    "GEGPNBDIPCO": "海乱鬼成就判定词缀",
+    "DNBNIEJOJOO": "非幽灵海乱鬼成就判定",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Kairagi_Watcher_82107"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5101,
+    "GEGPNBDIPCO": "怪物技能变体101",
+    "DNBNIEJOJOO": "用于任务中增减技能的怪物，将怪物技能组设为101",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AlternativeSkillSet_101"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5102,
+    "GEGPNBDIPCO": "剑鬼挑战1级词缀",
+    "DNBNIEJOJOO": "血量削弱",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Kairagi_GhostChallenge_First"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5103,
+    "GEGPNBDIPCO": "剑鬼挑战2级词缀",
+    "DNBNIEJOJOO": "平级提升",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Kairagi_GhostChallenge_Second"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5104,
+    "GEGPNBDIPCO": "剑鬼挑战3级词缀",
+    "DNBNIEJOJOO": "血量提升，霸体提高",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Kairagi_GhostChallenge_Third"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5105,
+    "GEGPNBDIPCO": "剑鬼挑战4级词缀",
+    "DNBNIEJOJOO": "攻击提升，霸体提升，自动回复，复活一次",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Kairagi_GhostChallenge_Fourth"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5106,
+    "GEGPNBDIPCO": "剑鬼挑战惊喜词缀",
+    "DNBNIEJOJOO": "攻击大幅提升，霸体大幅提升，自动回复，复活一次，gcd大幅降低",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Kairagi_GhostChallenge_Surprise"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5107,
+    "GEGPNBDIPCO": "七本刀词缀1",
+    "DNBNIEJOJOO": "七本刀第一波 浪人普通",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Samurai_SevenBlade_First"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5108,
+    "GEGPNBDIPCO": "七本刀词缀2",
+    "DNBNIEJOJOO": "七本刀第二波 浪人山贼",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Samurai_SevenBlade_Second"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5109,
+    "GEGPNBDIPCO": "七本刀词缀3",
+    "DNBNIEJOJOO": "七本刀第三波 浪人暗部",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Samurai_SevenBlade_Third"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5110,
+    "GEGPNBDIPCO": "七本刀词缀4",
+    "DNBNIEJOJOO": "七本刀第四波 雷海乱鬼",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Samurai_SevenBlade_Fourth"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5111,
+    "GEGPNBDIPCO": "七本刀词缀5",
+    "DNBNIEJOJOO": "七本刀第五波 火海乱鬼",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Samurai_SevenBlade_Fifth"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5112,
+    "GEGPNBDIPCO": "七本刀词缀6",
+    "DNBNIEJOJOO": "七本刀第六波 幕府武士",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Samurai_SevenBlade_Sixth"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5113,
+    "GEGPNBDIPCO": "七本刀词缀7",
+    "DNBNIEJOJOO": "七本刀第七波 双海乱鬼",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Samurai_Samurai_SevenBlade_SevenTh"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5114,
+    "GEGPNBDIPCO": "逐月节特殊冰冻雪猪词缀",
+    "DNBNIEJOJOO": "特殊词缀解冻后不会逃跑。只会冲撞",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Animal_Boar_Frozen_Special"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5115,
+    "GEGPNBDIPCO": "拟生机关假死",
+    "DNBNIEJOJOO": "boss战中假死逻辑",
+    "KCLGPFAPONH": [
+      "Monster_Apparatus_Enigma_FakeDie"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5116,
+    "GEGPNBDIPCO": "普通版本拟生机关",
+    "DNBNIEJOJOO": "普通版本拟生机关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Enigma_Summoned_Normal"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5117,
+    "GEGPNBDIPCO": "强化版本拟生机关",
+    "DNBNIEJOJOO": "强化版本拟生机关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Enigma_Summoned_Enhanced"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5118,
+    "GEGPNBDIPCO": "塔防丘丘格挡判断词缀",
+    "DNBNIEJOJOO": "塔防丘丘格挡判断词缀",
+    "KCLGPFAPONH": [
+      "Monster_Hili_Defend_Affix_NoCombat"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5119,
+    "GEGPNBDIPCO": "武士狗活动巡逻走路狗",
+    "DNBNIEJOJOO": "走路的狗配词缀",
+    "KCLGPFAPONH": [
+      "Animal_Inu_Shihandai_BlinkPose"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5120,
+    "GEGPNBDIPCO": "武士狗活动护盾机制",
+    "DNBNIEJOJOO": "武士狗活动护盾机制",
+    "KCLGPFAPONH": [
+      "Animal_Inu_Shihandai_ProtectType_One"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5121,
+    "GEGPNBDIPCO": "武士狗活动藤曼机制",
+    "DNBNIEJOJOO": "武士狗活动藤曼机制",
+    "KCLGPFAPONH": [
+      "Animal_Inu_Shihandai_ProtectType_Two"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5122,
+    "GEGPNBDIPCO": "武士狗活动隐身机制",
+    "DNBNIEJOJOO": "武士狗活动隐身机制",
+    "KCLGPFAPONH": [
+      "Animal_Inu_Shihandai_ProtectType_Three"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5123,
+    "GEGPNBDIPCO": "肉鸽特供起死回生",
+    "DNBNIEJOJOO": "肉鸽特供起死回生",
+    "KCLGPFAPONH": [
+      "Activity_Rogue_Monster_SelfHeal"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5124,
+    "GEGPNBDIPCO": "武士狗活动动物词缀",
+    "DNBNIEJOJOO": "表示武士狗活动中的动物",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AnimalTag_Inu_Shihandai_Event"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5125,
+    "GEGPNBDIPCO": "2.2鹤观雷音剧情reminder词缀",
+    "DNBNIEJOJOO": "2.2鹤观雷音剧情reminder词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Raijin_SpecailQuest"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5126,
+    "GEGPNBDIPCO": "奥赛尔老婆左头标记",
+    "DNBNIEJOJOO": "奥赛尔老婆左头标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Eldritch_Minor_LeftPosition"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5127,
+    "GEGPNBDIPCO": "奥赛尔老婆主头标记",
+    "DNBNIEJOJOO": "奥赛尔老婆主头标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Eldritch_Minor_MiddlePosition",
+      "Monster_Eldritch_Minor_RoundStart",
+      "Monster_Eldritch_Minor_NextHead"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5128,
+    "GEGPNBDIPCO": "奥赛尔老婆右头标记",
+    "DNBNIEJOJOO": "奥赛尔老婆右头标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Eldritch_Minor_RightPosition"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5129,
+    "GEGPNBDIPCO": "狗子活动可捕捉小动物提示特效",
+    "DNBNIEJOJOO": "狗子活动可捕捉小动物提示特效",
+    "KCLGPFAPONH": [
+      "MonsterAffix_HintEffect_CatchRangeHint01"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5130,
+    "GEGPNBDIPCO": "2.3雪山活动任务线大骗骗花削弱",
+    "DNBNIEJOJOO": "2.3雪山活动任务线大骗骗花削弱",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Mimik_Fel_ReducedShield"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5131,
+    "GEGPNBDIPCO": "武士狗活动战斗关卡动物3秒消失",
+    "DNBNIEJOJOO": "武士狗活动战斗关卡动物3秒消失",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Inu_Shihandai_Event_KillSelf"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5132,
+    "GEGPNBDIPCO": "2.4自选挑战根据地城顺序增加怪物词缀",
+    "DNBNIEJOJOO": "2.4自选挑战根据地城顺序增加怪物词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_AdditionalHPAndAttack_ForSelfPickChallenge"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5133,
+    "GEGPNBDIPCO": "2.4渊下宫水龙蜥近战词缀",
+    "DNBNIEJOJOO": "2.4渊下宫水龙蜥近战词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_DeepSea_WaterJumpAlertPos1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5134,
+    "GEGPNBDIPCO": "2.4渊下宫水龙蜥远程词缀",
+    "DNBNIEJOJOO": "2.4渊下宫水龙蜥远程词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drake_DeepSea_WaterJumpAlertPos2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5135,
+    "GEGPNBDIPCO": "2.5渊下宫怪物黑夜词缀",
+    "DNBNIEJOJOO": "2.5渊下宫怪物黑夜词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_AbyssalPalace_SpecialForce"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5136,
+    "GEGPNBDIPCO": "2.5百人一揆第二期怪物词缀-第一关",
+    "DNBNIEJOJOO": "2.5百人一揆第二期怪物词缀-第一关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov2_Stage1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5137,
+    "GEGPNBDIPCO": "2.5百人一揆第二期怪物词缀-第二关",
+    "DNBNIEJOJOO": "2.5百人一揆第二期怪物词缀-第二关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov2_Stage2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5138,
+    "GEGPNBDIPCO": "2.5百人一揆第二期怪物词缀-第三关",
+    "DNBNIEJOJOO": "2.5百人一揆第二期怪物词缀-第三关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov2_Stage3"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5139,
+    "GEGPNBDIPCO": "2.5百人一揆第二期怪物词缀-第四关",
+    "DNBNIEJOJOO": "2.5百人一揆第二期怪物词缀-第四关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov2_Stage4"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5140,
+    "GEGPNBDIPCO": "2.5百人一揆第二期怪物词缀-第五关",
+    "DNBNIEJOJOO": "2.5百人一揆第二期怪物词缀-第五关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov2_Stage5"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5141,
+    "GEGPNBDIPCO": "2.5百人一揆第二期怪物词缀-第六关",
+    "DNBNIEJOJOO": "2.5百人一揆第二期怪物词缀-第六关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov2_Stage6"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5142,
+    "GEGPNBDIPCO": "入战半血与攻击降低",
+    "DNBNIEJOJOO": "2.6 没吃饭的盗宝团",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Thoarder_Property_Weaken"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5143,
+    "GEGPNBDIPCO": "2.5渊下宫龙蜥boss难度2词缀",
+    "DNBNIEJOJOO": "2.5渊下宫龙蜥boss难度2词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Drake_DeepSea_Level2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5144,
+    "GEGPNBDIPCO": "2.5渊下宫龙蜥boss难度3词缀",
+    "DNBNIEJOJOO": "2.5渊下宫龙蜥boss难度3词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Drake_DeepSea_Level3"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5145,
+    "GEGPNBDIPCO": "2.5同生共死弱化版",
+    "DNBNIEJOJOO": "2.5同生共死弱化版",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Drake_DeepSea_DieTogether_TypeOne"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5146,
+    "GEGPNBDIPCO": "2.5同生共死高难版",
+    "DNBNIEJOJOO": "2.5同生共死高难版",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Drake_DeepSea_DieTogether_TypeTwo"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5147,
+    "GEGPNBDIPCO": "2.5同生共死深境版",
+    "DNBNIEJOJOO": "2.5同生共死深境版",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Drake_DeepSea_DieTogether_TypeThree"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5148,
+    "GEGPNBDIPCO": "2.5渊下宫boss简单难度词缀",
+    "DNBNIEJOJOO": "2.5渊下宫boss简单难度词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Drake_DeepSea_Level1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5149,
+    "GEGPNBDIPCO": "2.5剧情一次性boss属性调整词缀",
+    "DNBNIEJOJOO": "2.5剧情一次性boss属性调整词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_HPDown"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5150,
+    "GEGPNBDIPCO": "2.5 渊下宫 假同生共死 词缀",
+    "DNBNIEJOJOO": "2.5 渊下宫 假同生共死 词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_DieTogether_Fake"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5151,
+    "GEGPNBDIPCO": "奥赛尔老婆任务主头残血",
+    "DNBNIEJOJOO": "奥赛尔老婆任务主头残血",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Eldritch_Minor_MiddlePosition_LowHP"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5152,
+    "GEGPNBDIPCO": "黑貉队 烟花技能效果",
+    "DNBNIEJOJOO": "影响黑貉队是否会对2.4打捞活动的烟花有反应",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Thoarder_Elite_Tag"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5153,
+    "GEGPNBDIPCO": "怪物冰冻回血-塔防",
+    "DNBNIEJOJOO": "怪物冰冻回血-塔防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_TowerDefenseV3_FrozenRevive"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5154,
+    "GEGPNBDIPCO": "怪物毁灭光环-塔防",
+    "DNBNIEJOJOO": "怪物毁灭光环-塔防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_TowerDefenseV3_DestroyTower"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5155,
+    "GEGPNBDIPCO": "2.4海上活动飘浮灵HP下降90%",
+    "DNBNIEJOJOO": "2.4海上活动飘浮灵HP下降90%",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Property_HpDown_Sylph"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5156,
+    "GEGPNBDIPCO": "遗迹重机临时去ragdoll",
+    "DNBNIEJOJOO": "遗迹重机临时去ragdoll",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Konungmathr_None_DieSwitch"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5157,
+    "GEGPNBDIPCO": "2.5黄金王兽爬塔词缀",
+    "DNBNIEJOJOO": "CD降低",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Planelurker_CDDecrease"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5158,
+    "GEGPNBDIPCO": "3.0驮兽背包词缀-愚人众",
+    "DNBNIEJOJOO": "愚人众背包",
+    "KCLGPFAPONH": [
+      "Monster_Megamoth_Accessory_Fatuus"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5159,
+    "GEGPNBDIPCO": "3.0驮兽背包词缀-盗宝团",
+    "DNBNIEJOJOO": "盗宝团背包",
+    "KCLGPFAPONH": [
+      "Monster_Megamoth_Accessory_Thoarder"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5160,
+    "GEGPNBDIPCO": "3.0驮兽背包词缀-丘丘人1",
+    "DNBNIEJOJOO": "丘丘人1背包",
+    "KCLGPFAPONH": [
+      "Monster_Megamoth_Accessory_Hili01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5161,
+    "GEGPNBDIPCO": "3.0驮兽背包词缀-丘丘人2",
+    "DNBNIEJOJOO": "丘丘人2背包",
+    "KCLGPFAPONH": [
+      "Monster_Megamoth_Accessory_Hili02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5162,
+    "GEGPNBDIPCO": "2.6剑道挑战难度1",
+    "DNBNIEJOJOO": "2.6剑道挑战难度1",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_BladeMaster_Level1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5163,
+    "GEGPNBDIPCO": "2.6剑道挑战难度2",
+    "DNBNIEJOJOO": "2.6剑道挑战难度2",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_BladeMaster_Level2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5164,
+    "GEGPNBDIPCO": "2.6剑道挑战难度3",
+    "DNBNIEJOJOO": "2.6剑道挑战难度3",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_BladeMaster_Level3"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5165,
+    "GEGPNBDIPCO": "遗迹巨蛇WQ锁血",
+    "DNBNIEJOJOO": "遗迹巨蛇WQ锁血",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Nithhoggr_WQTrigger"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5166,
+    "GEGPNBDIPCO": "3.0驮兽词缀-成年体型",
+    "DNBNIEJOJOO": "成年体型驮兽",
+    "KCLGPFAPONH": [
+      "Monster_Megamoth_AdultSize"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5167,
+    "GEGPNBDIPCO": "3.0驮兽词缀-巨大体型",
+    "DNBNIEJOJOO": "巨大体型驮兽",
+    "KCLGPFAPONH": [
+      "Monster_Megamoth_GiantSize"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5168,
+    "GEGPNBDIPCO": "2.6机关棋谭三期怪物词缀-掉落死亡",
+    "DNBNIEJOJOO": "2.6机关棋谭三期怪物词缀-掉落死亡",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_TowerDefenseV3_DieFall"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5169,
+    "GEGPNBDIPCO": "2.5爬塔黄金王兽血量词缀1",
+    "DNBNIEJOJOO": "2.5爬塔黄金王兽血量词缀1",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Tower_SpecailHPRatio1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5170,
+    "GEGPNBDIPCO": "2.5爬塔龙蜥血量词缀2",
+    "DNBNIEJOJOO": "2.5爬塔龙蜥血量词缀2",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Tower_SpecailHPRatio2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5171,
+    "GEGPNBDIPCO": "怪物冰冻强力回血-塔防",
+    "DNBNIEJOJOO": "怪物冰冻强力回血-塔防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_TowerDefenseV3_FrozenReviveStrong"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5172,
+    "GEGPNBDIPCO": "怪物强力毁灭光环-塔防",
+    "DNBNIEJOJOO": "怪物强力毁灭光环-塔防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_TowerDefenseV3_DestroyTowerStrong"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5173,
+    "GEGPNBDIPCO": "怪物减速15%-塔防",
+    "DNBNIEJOJOO": "怪物减速15%-塔防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_TowerDefenseV3_Monster15SpeedDown"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5174,
+    "GEGPNBDIPCO": "怪物减速30%-塔防",
+    "DNBNIEJOJOO": "怪物减速30%-塔防",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_TowerDefenseV3_Monster30SpeedDown"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5175,
+    "GEGPNBDIPCO": "3.0驮兽词缀-逃跑",
+    "DNBNIEJOJOO": "战斗一定时长后逃跑",
+    "KCLGPFAPONH": [
+      "Monster_Megamoth_None_Disappear"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5176,
+    "GEGPNBDIPCO": "3.0鳄鱼词缀-逃跑",
+    "DNBNIEJOJOO": "战斗一定时长后逃跑",
+    "KCLGPFAPONH": [
+      "Monster_Gator_Disappear"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5177,
+    "GEGPNBDIPCO": "3.0驮兽词缀-威力增强版",
+    "DNBNIEJOJOO": "强化数值属性和攻击间隔",
+    "KCLGPFAPONH": [
+      "Monster_Megamoth_EnhanceVersion"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5178,
+    "GEGPNBDIPCO": "2.8 妖刀幕府初见版",
+    "DNBNIEJOJOO": "Pose标记初见版",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Crazy_Hatamoto_01"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5179,
+    "GEGPNBDIPCO": "2.8 妖刀幕府二周目版",
+    "DNBNIEJOJOO": "Pose标记二周目",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Crazy_Hatamoto_02"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5180,
+    "GEGPNBDIPCO": "3.0丛林豹词缀-逃跑",
+    "DNBNIEJOJOO": "战斗一定时长后逃跑",
+    "KCLGPFAPONH": [
+      "Monster_Panther_None_Disappear"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5181,
+    "GEGPNBDIPCO": "3.0十三机兵-不入战",
+    "DNBNIEJOJOO": "3.0十三机兵-不入战",
+    "KCLGPFAPONH": [
+      "MonsterAffix_NeverCombat_ForMachinery"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5182,
+    "GEGPNBDIPCO": "3.0十三机兵-恒常机关小怪攻击下降",
+    "DNBNIEJOJOO": "3.0十三机兵-恒常机关小怪攻击下降",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Apparatus_Enigma_AttackDown_ForMachinery"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5183,
+    "GEGPNBDIPCO": "3.0十三机兵-恒常机关小怪血量下降",
+    "DNBNIEJOJOO": "3.0十三机兵-恒常机关小怪血量下降",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Apparatus_Enigma_HPDown_ForMachinery"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5184,
+    "GEGPNBDIPCO": "3.0十三机兵-恒常机关本体攻击下降",
+    "DNBNIEJOJOO": "3.0十三机兵-恒常机关本体攻击下降",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Apparatus_Perpetual_AttackDown_ForMachinery"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5185,
+    "GEGPNBDIPCO": "3.0十三机兵-恒常机关本体血量下降",
+    "DNBNIEJOJOO": "3.0十三机兵-恒常机关本体血量下降",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Apparatus_Perpetual_HPDown_ForMachinery"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5186,
+    "GEGPNBDIPCO": "爬塔特供遗迹巨蛇",
+    "DNBNIEJOJOO": "爬塔特供遗迹巨蛇",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Nithhoggr_AbyssTag"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5188,
+    "GEGPNBDIPCO": "提纳里个人线遗迹防卫者",
+    "DNBNIEJOJOO": "提纳里个人线遗迹防卫者",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Apparatus_Enigma_BionicInsecta_KarkataTag"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5189,
+    "GEGPNBDIPCO": "3.1毒蝎逃跑词缀-逃跑",
+    "DNBNIEJOJOO": "战斗一定时长后逃跑",
+    "KCLGPFAPONH": [
+      "Monster_Scorpion_None_Disappear"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5190,
+    "GEGPNBDIPCO": "3.1活动动物标记",
+    "DNBNIEJOJOO": "3.1活动动物标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Boar_Hunt_Mark"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5191,
+    "GEGPNBDIPCO": "3.1营地挑战主人标记",
+    "DNBNIEJOJOO": "3.1营地挑战主人标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Sovereign_Master_ValueChangeble"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5192,
+    "GEGPNBDIPCO": "3.1营地挑战扈从标记",
+    "DNBNIEJOJOO": "3.1营地挑战扈从标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Sovereign_Slave_ValueChangeble"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5193,
+    "GEGPNBDIPCO": "3.1营地挑战易伤",
+    "DNBNIEJOJOO": "3.1营地挑战易伤",
+    "KCLGPFAPONH": [
+      "MonsterAffix_FallingAttack_DefenseDown"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5194,
+    "GEGPNBDIPCO": "3.1百人一揆第三期怪物词缀-第一关",
+    "DNBNIEJOJOO": "3.1百人一揆第三期怪物词缀-第一关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov3_Stage1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5195,
+    "GEGPNBDIPCO": "3.1百人一揆第三期怪物词缀-第二关",
+    "DNBNIEJOJOO": "3.1百人一揆第三期怪物词缀-第二关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov3_Stage2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5196,
+    "GEGPNBDIPCO": "3.1百人一揆第三期怪物词缀-第三关",
+    "DNBNIEJOJOO": "3.1百人一揆第三期怪物词缀-第三关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov3_Stage3"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5197,
+    "GEGPNBDIPCO": "3.1百人一揆第三期怪物词缀-第四关",
+    "DNBNIEJOJOO": "3.1百人一揆第三期怪物词缀-第四关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov3_Stage4"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5198,
+    "GEGPNBDIPCO": "3.1百人一揆第三期怪物词缀-第五关",
+    "DNBNIEJOJOO": "3.1百人一揆第三期怪物词缀-第五关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov3_Stage5"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5199,
+    "GEGPNBDIPCO": "3.1百人一揆第三期怪物词缀-第六关",
+    "DNBNIEJOJOO": "3.1百人一揆第三期怪物词缀-第六关",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Sumov3_Stage6"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5200,
+    "GEGPNBDIPCO": "森林书WQ遗迹重机",
+    "DNBNIEJOJOO": "遗迹重机复活逻辑",
+    "KCLGPFAPONH": [
+      "Monster_Konungmathr_None_WQ_Limbo",
+      "Monster_Konungmathr_None_WQ_Limbo_StateChange"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5201,
+    "GEGPNBDIPCO": "WQ深渊咏者·紫电-落石",
+    "DNBNIEJOJOO": "WQ深渊咏者·紫电-落石",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Drop_Rock"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5202,
+    "GEGPNBDIPCO": "3.1潜行玩法词缀",
+    "DNBNIEJOJOO": "3.1潜行玩法词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Sneak_ALBB_Sentry"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5203,
+    "GEGPNBDIPCO": "3.1脱战词缀",
+    "DNBNIEJOJOO": "3.1脱战词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_OutOfBattle_Ordinator"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5205,
+    "GEGPNBDIPCO": "关卡激活元能",
+    "DNBNIEJOJOO": "关卡激活元能",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Ordinator_LevelGoBattle"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5206,
+    "GEGPNBDIPCO": "3.0 动物通用血条显示控件",
+    "DNBNIEJOJOO": "3.0 动物通用血条显示控件",
+    "KCLGPFAPONH": [
+      "Monster_Animal_Common_BillboardControl"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5208,
+    "GEGPNBDIPCO": "3.0回流之柱WQ-遗迹守卫被兰那罗击倒",
+    "DNBNIEJOJOO": "3.0回流之柱WQ-遗迹守卫被兰那罗击倒",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Defender_WQ_TiggerableBreak"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5209,
+    "GEGPNBDIPCO": "3.0回流之柱WQ-小型蕈兽视野特效",
+    "DNBNIEJOJOO": "3.0回流之柱WQ-小型蕈兽视野特效",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Fungus_PatrolSightEffect"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5210,
+    "GEGPNBDIPCO": "3.0回流之柱WQ-精英草蕈兽锁血",
+    "DNBNIEJOJOO": "3.0回流之柱WQ-精英草蕈兽锁血",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Fungus_Amanita_Unu_Grass_WQ_LockHP"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5211,
+    "GEGPNBDIPCO": "3.0回流之柱WQ-精英草蕈兽扣血",
+    "DNBNIEJOJOO": "3.0回流之柱WQ-精英草蕈兽扣血",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Monster_Fungus_Amanita_Unu_Grass_WQ_LowHP"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5215,
+    "GEGPNBDIPCO": "3.1吼叫版丛林豹标记",
+    "DNBNIEJOJOO": "3.1吼叫版丛林豹标记",
+    "KCLGPFAPONH": [
+      "Monster_Panther_RoarVersion"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5216,
+    "GEGPNBDIPCO": "3.1营地挑战属性1",
+    "DNBNIEJOJOO": "3.1营地挑战属性1",
+    "KCLGPFAPONH": [
+      "MonsterAffix_CampChallenge_Boss_Property1"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5217,
+    "GEGPNBDIPCO": "3.1营地挑战属性2",
+    "DNBNIEJOJOO": "3.1营地挑战属性2",
+    "KCLGPFAPONH": [
+      "MonsterAffix_CampChallenge_Boss_Property2"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5218,
+    "GEGPNBDIPCO": "3.1营地挑战属性3",
+    "DNBNIEJOJOO": "3.1营地挑战属性3",
+    "KCLGPFAPONH": [
+      "MonsterAffix_CampChallenge_Boss_Property3"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5221,
+    "GEGPNBDIPCO": "3.1wq元能标记",
+    "DNBNIEJOJOO": "3.1wq元能标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_WQ_Monolith_Starchild"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5222,
+    "GEGPNBDIPCO": "3.1爬塔元能标记",
+    "DNBNIEJOJOO": "3.1爬塔元能标记",
+    "KCLGPFAPONH": [
+      "MonsterAffix_TowerSpecail_Monolith_Starchild"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5224,
+    "GEGPNBDIPCO": "镀金旅团 弯刀 禁用嘲讽",
+    "DNBNIEJOJOO": "拥有这个词缀的弯刀怪物(无论敌友) 都无法使用嘲讽",
+    "KCLGPFAPONH": [
+      "Affix_Eremite_Simitar_NeverTaunt"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5227,
+    "GEGPNBDIPCO": "3.0遗迹龙兽精英爬塔词缀",
+    "DNBNIEJOJOO": "爬塔清除特效子弹",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Gargoyle_ForAbyss"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 5228,
+    "GEGPNBDIPCO": "3.0雷电树爬塔词缀",
+    "DNBNIEJOJOO": "爬塔的雷点树倒地时间为18s",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Regisvine_Electric_Faint_AS"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6001,
+    "GEGPNBDIPCO": "持续耗体力debuff（试做）",
+    "DNBNIEJOJOO": "元素V2白盒词缀-详见文档",
+    "KCLGPFAPONH": [
+      "MonsterAffix_IceDebuff_ForbidStaminaRecovery"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_S_Qin_01",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6101,
+    "GEGPNBDIPCO": "通用技能-冰牢",
+    "DNBNIEJOJOO": "冰伤害通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_IceDamage_Prison"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6102,
+    "GEGPNBDIPCO": "通用技能-真空涡流",
+    "DNBNIEJOJOO": "风伤害通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_WindDamage_Vortex"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6103,
+    "GEGPNBDIPCO": "通用技能-翻涌岩潮",
+    "DNBNIEJOJOO": "岩伤害通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_RockDamage_LowWave"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6104,
+    "GEGPNBDIPCO": "通用技能-雷光矩阵",
+    "DNBNIEJOJOO": "电伤害通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_ElecDamage_Arc"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6105,
+    "GEGPNBDIPCO": "通用技能-追踪火球",
+    "DNBNIEJOJOO": "火伤害通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_FireDamage_TracingImpulse"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6106,
+    "GEGPNBDIPCO": "通用技能-水泡",
+    "DNBNIEJOJOO": "水伤害通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_WaterDamage_Bubble"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6107,
+    "GEGPNBDIPCO": "通用技能-寒冰脉冲",
+    "DNBNIEJOJOO": "圆盘新增通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_LowImpulse_Ice"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6108,
+    "GEGPNBDIPCO": "通用技能-起死回生",
+    "DNBNIEJOJOO": "圆盘新增通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_WaterEnhance_SelfHeal"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6109,
+    "GEGPNBDIPCO": "通用技能-灵魂残渣",
+    "DNBNIEJOJOO": "圆盘新增通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_RockDamage_DeathRattleCrystal"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6110,
+    "GEGPNBDIPCO": "通用技能-君王（本体）",
+    "DNBNIEJOJOO": "圆盘新增通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_Sovereign_Master"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6111,
+    "GEGPNBDIPCO": "通用技能-君王（扈从）",
+    "DNBNIEJOJOO": "圆盘新增通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_Sovereign_Slave"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6112,
+    "GEGPNBDIPCO": "通用技能-激流脉冲",
+    "DNBNIEJOJOO": "圆盘新增通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_LowImpulse_Water"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6113,
+    "GEGPNBDIPCO": "通用技能-紫电脉冲",
+    "DNBNIEJOJOO": "稻妻悬赏新增通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_LowImpulse_Electric"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6114,
+    "GEGPNBDIPCO": "通用技能-远处落雷",
+    "DNBNIEJOJOO": "稻妻悬赏新增通用技能-详见文档",
+    "KCLGPFAPONH": [
+      "GeneralSkill_ElecDamage_ThunderArea"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6115,
+    "GEGPNBDIPCO": "通用技能-周期抗性",
+    "DNBNIEJOJOO": "深境螺旋-高攻速优势",
+    "KCLGPFAPONH": [
+      "GeneralSkill_SubHurtDelta_Periodicity"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6116,
+    "GEGPNBDIPCO": "死域通用-死域护盾",
+    "DNBNIEJOJOO": "死域护盾效果，死域外用要看IP",
+    "KCLGPFAPONH": [
+      "GeneralSkill_DeathZone_Shield"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6117,
+    "GEGPNBDIPCO": "死域通用-死域重击",
+    "DNBNIEJOJOO": "死域重击效果，死域外用要看IP",
+    "KCLGPFAPONH": [
+      "GeneralSkill_DeathZone_ExtraAttack"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6118,
+    "GEGPNBDIPCO": "讨伐玩法-脉冲元素-水",
+    "DNBNIEJOJOO": "周期以自身为中心触发一次脉冲波，对处于一定高度以下的玩家造成水元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_LowImpulse_Water"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6119,
+    "GEGPNBDIPCO": "讨伐玩法-脉冲元素-雷",
+    "DNBNIEJOJOO": "周期以自身为中心触发一次脉冲波，对处于一定高度以下的玩家造成雷元素伤害",
+    "KCLGPFAPONH": [
+      "MonsterAffix_LowImpulse_Electric"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 6120,
+    "GEGPNBDIPCO": "讨伐玩法-远程光环机制",
+    "DNBNIEJOJOO": "首领脚底下有个圆环，如果玩家在环外，发落雷攻击玩家",
+    "KCLGPFAPONH": [
+      "MonsterAffix_ElecDamage_ThunderArea"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8001,
+    "GEGPNBDIPCO": "炼金炉掉球-水-小",
+    "DNBNIEJOJOO": "怪物死亡掉落70330025",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Water_Small"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8002,
+    "GEGPNBDIPCO": "炼金炉掉球-水-大",
+    "DNBNIEJOJOO": "怪物死亡掉落70330026",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Water_Big"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8003,
+    "GEGPNBDIPCO": "炼金炉掉球-火-小",
+    "DNBNIEJOJOO": "怪物死亡掉落70330027",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Fire_Small"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8004,
+    "GEGPNBDIPCO": "炼金炉掉球-火-大",
+    "DNBNIEJOJOO": "怪物死亡掉落70330028",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Fire_Big"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8005,
+    "GEGPNBDIPCO": "炼金炉掉球-冰-小",
+    "DNBNIEJOJOO": "怪物死亡掉落70330029",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Ice_Small"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8006,
+    "GEGPNBDIPCO": "炼金炉掉球-冰-大",
+    "DNBNIEJOJOO": "怪物死亡掉落70330030",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Ice_Big"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8007,
+    "GEGPNBDIPCO": "炼金炉掉球-雷-小",
+    "DNBNIEJOJOO": "怪物死亡掉落70330031",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Electric_Small"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8008,
+    "GEGPNBDIPCO": "炼金炉掉球-雷-大",
+    "DNBNIEJOJOO": "怪物死亡掉落70330032",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Electric_Big"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8009,
+    "GEGPNBDIPCO": "炼金炉掉球-风-小",
+    "DNBNIEJOJOO": "怪物死亡掉落70330033",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Wind_Small"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8010,
+    "GEGPNBDIPCO": "炼金炉掉球-风-大",
+    "DNBNIEJOJOO": "怪物死亡掉落70330034",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Wind_Big"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8011,
+    "GEGPNBDIPCO": "炼金炉掉球-岩-小",
+    "DNBNIEJOJOO": "怪物死亡掉落70330035",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Rock_Small"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8012,
+    "GEGPNBDIPCO": "炼金炉掉球-岩-大",
+    "DNBNIEJOJOO": "怪物死亡掉落70330036",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Rock_Big"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8013,
+    "GEGPNBDIPCO": "炼金炉掉球-草-小",
+    "DNBNIEJOJOO": "怪物死亡掉落70330037",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Grass_Small"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8014,
+    "GEGPNBDIPCO": "炼金炉掉球-草-大",
+    "DNBNIEJOJOO": "怪物死亡掉落70330038",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Grass_Big"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8015,
+    "GEGPNBDIPCO": "炼金炉掉球-随机-小",
+    "DNBNIEJOJOO": "怪物死亡随机掉落小球",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Random_Small"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8016,
+    "GEGPNBDIPCO": "炼金炉掉球-随机-大",
+    "DNBNIEJOJOO": "怪物死亡随机掉落大球",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Random_Big"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8017,
+    "GEGPNBDIPCO": "炼金炉掉球-水-小-3",
+    "DNBNIEJOJOO": "怪物死亡掉落70330025 3个",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Water_Small_3"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8018,
+    "GEGPNBDIPCO": "炼金炉掉球-水-大-3",
+    "DNBNIEJOJOO": "怪物死亡掉落70330026 3个",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Water_Big_3"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8019,
+    "GEGPNBDIPCO": "炼金炉掉球-火-小-3",
+    "DNBNIEJOJOO": "怪物死亡掉落70330027 3个",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Fire_Small_3"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8020,
+    "GEGPNBDIPCO": "炼金炉掉球-火-大-3",
+    "DNBNIEJOJOO": "怪物死亡掉落70330028 3个",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Fire_Big_3"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8021,
+    "GEGPNBDIPCO": "炼金炉掉球-冰-小-3",
+    "DNBNIEJOJOO": "怪物死亡掉落70330029 3个",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Ice_Small_3"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8022,
+    "GEGPNBDIPCO": "炼金炉掉球-冰-大-3",
+    "DNBNIEJOJOO": "怪物死亡掉落70330030 3个",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_Crucible_Ice_Big_3"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8023,
+    "GEGPNBDIPCO": "陨石测试",
+    "DNBNIEJOJOO": "陨石测试",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Aster_Score"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 8024,
+    "GEGPNBDIPCO": "雪山-龙血结晶",
+    "DNBNIEJOJOO": "雪山-龙血结晶70590026",
+    "KCLGPFAPONH": [
+      "MonsterInfusionAffix_DulinsBlood"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9001,
+    "GEGPNBDIPCO": "北风狼-雷泽线",
+    "DNBNIEJOJOO": "北风狼雷泽线任务标识",
+    "KCLGPFAPONH": [
+      "MonsterAffix_LupiBoreas_Razor"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9002,
+    "GEGPNBDIPCO": "召唤怪同生同死",
+    "DNBNIEJOJOO": "召唤怪跟随创建者的生命周期",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Summon_Lifetime"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9003,
+    "GEGPNBDIPCO": "盗宝鼬-等级1",
+    "DNBNIEJOJOO": "盗宝鼬-等级1标识",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Thoarder_Weasel_Level_01"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9004,
+    "GEGPNBDIPCO": "盗宝鼬-等级2",
+    "DNBNIEJOJOO": "盗宝鼬-等级2标识",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Thoarder_Weasel_Level_02"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9005,
+    "GEGPNBDIPCO": "盗宝鼬-等级3",
+    "DNBNIEJOJOO": "盗宝鼬-等级3标识",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Thoarder_Weasel_Level_03"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9006,
+    "GEGPNBDIPCO": "风魔龙-初见",
+    "DNBNIEJOJOO": "风魔龙初见标识",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Dvalin_S04_FirstSight"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9007,
+    "GEGPNBDIPCO": "剧情任务-难度调节标签",
+    "DNBNIEJOJOO": "剧情任务-难度调节标签",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Quest_Adjust"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9008,
+    "GEGPNBDIPCO": "剧情任务-脱战逻辑标签",
+    "DNBNIEJOJOO": "剧情任务-脱战逻辑标签",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Quest_ReturnToBorn"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 9009,
+    "GEGPNBDIPCO": "快速死亡-TD总控",
+    "DNBNIEJOJOO": "快速死亡-TD总控",
+    "KCLGPFAPONH": [
+      "MonsterAffix_DieOptimize_LevelPlay"
+    ],
+    "IIMFAINMDIG": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 20301,
+    "GEGPNBDIPCO": "剧情任务-深渊咏者渊火精英化",
+    "DNBNIEJOJOO": "深渊咏者的精英化配置",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Invoker_Deacon_Fire_Elite_Property",
+      "MonsterAffix_Invoker_Deacon_Fire_Elite_Summon",
+      "MonsterAffix_Invoker_Deacon_Fire_EliteSkill"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 40103,
+    "GEGPNBDIPCO": "遗迹重机挖矿活动-强化",
+    "DNBNIEJOJOO": "遗迹重机挖矿活动-强化",
+    "KCLGPFAPONH": [
+      "Monster_Konungmathr_None_BattleState",
+      "Monster_Konungmathr_None_Enhance",
+      "Monster_Konungmathr_None_Enhance_CountDown",
+      "Monster_Konungmathr_None_Enhance_Tag",
+      "Monster_Konungmathr_None_Enhance_Keep",
+      "Monster_Konungmathr_None_Limbo",
+      "Monster_Konungmathr_None_Limbo_StateChange",
+      "Monster_Konungmathr_None_RealDie",
+      "Monster_Konungmathr_None_MachineCount_Improve",
+      "Monster_Konungmathr_None_Destroy_HatreControl",
+      "Monster_Konungmathr_None_Destroy_Move",
+      "Monster_Konungmathr_None_Destroy_Find",
+      "Monster_Konungmathr_None_DestroyLaser_Find",
+      "Monster_Konungmathr_None_Destroy_Laser",
+      "Monster_Konungmathr_None_Destroy_LaserDamage"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60203,
+    "GEGPNBDIPCO": "雷电树活动",
+    "DNBNIEJOJOO": "雷电树3.0活动期间的Watcher触发动态词缀",
+    "KCLGPFAPONH": [
+      "Monster_Regisvine_Electric_Activity_WatcherHandle"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 61101,
+    "GEGPNBDIPCO": "超级蕈兽活动",
+    "DNBNIEJOJOO": "超级蕈兽3.0活动期间的Watcher触发动态词缀",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Activity_Fungus_Raptor_Watcher"
+    ],
+    "IIMFAINMDIG": true,
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "是",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60401,
+    "GEGPNBDIPCO": "岩龙蜥-水",
+    "DNBNIEJOJOO": "岩龙蜥-水",
+    "KCLGPFAPONH": [
+      "Monster_Drake_Rock_WaterMode",
+      "Monster_Drake_Rock_WaterEnhance",
+      "Monster_Drake_Rock_CrushAtkCharging_Water",
+      "Monster_Drake_Rock_WaterEnhance_NormalAtkTrigger",
+      "Monster_Drake_Rock_WaterEnhance_SlapGround01Trigger",
+      "Monster_Drake_Rock_WaterEnhance_SlapGround02Trigger",
+      "Monster_Drake_Rock_WaterEnhance_SlapGround03Trigger",
+      "Monster_Drake_Rock_WaterEnhance_JumpAtkTrigger",
+      "Monster_Drake_Rock_WaterEnhance_JumpAtkFinalTrigger",
+      "Monster_Drake_Rock_WaterEnhance_Alert"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60402,
+    "GEGPNBDIPCO": "岩龙蜥-火",
+    "DNBNIEJOJOO": "岩龙蜥-火",
+    "KCLGPFAPONH": [
+      "Monster_Drake_Rock_FireMode",
+      "Monster_Drake_Rock_FireEnhance",
+      "Monster_Drake_Rock_JumpAtk_Alert_FireEnhance",
+      "Monster_Drake_Rock_JumpAtkFinal_Alert_FireEnhance",
+      "Monster_Drake_Rock_CrushAtkCharging_Fire",
+      "Monster_Drake_Rock_FireEnhance_JumpAtkTrigger",
+      "Monster_Drake_Rock_FireEnhance_JumpAtkFinalTrigger"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60403,
+    "GEGPNBDIPCO": "岩龙蜥-冰",
+    "DNBNIEJOJOO": "岩龙蜥-冰",
+    "KCLGPFAPONH": [
+      "Monster_Drake_Rock_IceMode",
+      "Monster_Drake_Rock_IceEnhance",
+      "Monster_Drake_Rock_CrushAtkCharging_Ice",
+      "Monster_Drake_Rock_IceEnhance_NormalAtkTrigger",
+      "Monster_Drake_Rock_IceEnhance_SlapGround01Trigger",
+      "Monster_Drake_Rock_IceEnhance_SlapGround02Trigger",
+      "Monster_Drake_Rock_IceEnhance_SlapGround03Trigger",
+      "Monster_Drake_Rock_IceEnhance_JumpAtkTrigger",
+      "Monster_Drake_Rock_IceEnhance_JumpAtkFinalTrigger"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60404,
+    "GEGPNBDIPCO": "岩龙蜥-电",
+    "DNBNIEJOJOO": "岩龙蜥-电",
+    "KCLGPFAPONH": [
+      "Monster_Drake_Rock_ElecMode",
+      "Monster_Drake_Rock_ElecEnhance",
+      "Monster_Drake_Rock_CrushAtkCharging_Elec",
+      "Monster_Drake_Rock_ElecEnhance_NormalAtkTrigger",
+      "Monster_Drake_Rock_ElecEnhance_SlapGround01Trigger",
+      "Monster_Drake_Rock_ElecEnhance_SlapGround02Trigger",
+      "Monster_Drake_Rock_ElecEnhance_SlapGround03Trigger",
+      "Monster_Drake_Rock_ElecEnhance_JumpAtkTrigger",
+      "Monster_Drake_Rock_ElecEnhance_JumpAtkFinalTrigger"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60501,
+    "GEGPNBDIPCO": "古岩龙蜥-水",
+    "DNBNIEJOJOO": "古岩龙蜥-水",
+    "KCLGPFAPONH": [
+      "Drake_Primo_Rock_SkinController_Water",
+      "Drake_Primo_Rock_Breathe_Water",
+      "Drake_Primo_Rock_ElementExplodeBS_Water",
+      "Drake_Primo_Rock_ScaleShot_Water",
+      "Drake_Primo_Rock_ScaleBurst_Water",
+      "Drake_Primo_Rock_BrokenH_Water"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60502,
+    "GEGPNBDIPCO": "古岩龙蜥-火",
+    "DNBNIEJOJOO": "古岩龙蜥-火",
+    "KCLGPFAPONH": [
+      "Drake_Primo_Rock_SkinController_Fire",
+      "Drake_Primo_Rock_Breathe_Fire",
+      "Drake_Primo_Rock_ElementExplodeBS_Fire",
+      "Drake_Primo_Rock_ScaleShot_Fire",
+      "Drake_Primo_Rock_ScaleBurst_Fire",
+      "Drake_Primo_Rock_BrokenH_Fire"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60503,
+    "GEGPNBDIPCO": "古岩龙蜥-冰",
+    "DNBNIEJOJOO": "古岩龙蜥-冰",
+    "KCLGPFAPONH": [
+      "Drake_Primo_Rock_SkinController_Ice",
+      "Drake_Primo_Rock_Breathe_Ice",
+      "Drake_Primo_Rock_ElementExplodeBS_Ice",
+      "Drake_Primo_Rock_ScaleShot_Ice",
+      "Drake_Primo_Rock_ScaleBurst_Ice",
+      "Drake_Primo_Rock_BrokenH_Ice"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60504,
+    "GEGPNBDIPCO": "古岩龙蜥-电",
+    "DNBNIEJOJOO": "古岩龙蜥-电",
+    "KCLGPFAPONH": [
+      "Drake_Primo_Rock_SkinController_Electric",
+      "Drake_Primo_Rock_Breathe_Electric",
+      "Drake_Primo_Rock_ElementExplodeBS_Electric",
+      "Drake_Primo_Rock_ScaleShot_Electric",
+      "Drake_Primo_Rock_ScaleBurst_Electric",
+      "Drake_Primo_Rock_BrokenH_Electric"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60505,
+    "GEGPNBDIPCO": "古岩龙蜥-活动",
+    "DNBNIEJOJOO": "古岩龙蜥-活动",
+    "KCLGPFAPONH": [
+      "Drake_Primo_Rock_SkinController_ActivityCycle",
+      "Drake_Primo_Rock_ScaleShot_ActivityReplace",
+      "Drake_Primo_Rock_BrokenH_ActivityReplace",
+      "Drake_Primo_Rock_Breathe_Ice",
+      "Drake_Primo_Rock_ElementExplodeBS_Ice",
+      "Drake_Primo_Rock_ScaleBurst_Ice",
+      "Drake_Primo_Rock_Breathe_Fire",
+      "Drake_Primo_Rock_ElementExplodeBS_Fire",
+      "Drake_Primo_Rock_ScaleBurst_Fire",
+      "Drake_Primo_Rock_Breathe_Water",
+      "Drake_Primo_Rock_ElementExplodeBS_Water",
+      "Drake_Primo_Rock_ScaleBurst_Water",
+      "Drake_Primo_Rock_Breathe_Electric",
+      "Drake_Primo_Rock_ElementExplodeBS_Electric",
+      "Drake_Primo_Rock_ScaleBurst_Electric"
+    ],
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90401,
+    "GEGPNBDIPCO": "若陀龙王-水",
+    "DNBNIEJOJOO": "若陀龙王-水",
+    "KCLGPFAPONH": [
+      "Monster_Dahaka_ElementType_Water",
+      "Monster_Dahaka_Roar_Water",
+      "Monster_Dahaka_Switch_Water",
+      "Monster_Dahaka_ShaderLightNormal_Lower",
+      "Monster_Dahaka_ShaderLightStrong_Lower",
+      "Monster_Dahaka_ShaderLightNormal_Upper",
+      "Monster_Dahaka_ShaderLightStrong_Upper",
+      "Monster_Dahaka_ElementMark_Water"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90402,
+    "GEGPNBDIPCO": "若陀龙王-火",
+    "DNBNIEJOJOO": "若陀龙王-火",
+    "KCLGPFAPONH": [
+      "Monster_Dahaka_ElementType_Fire",
+      "Monster_Dahaka_Roar_Fire",
+      "Monster_Dahaka_Switch_Fire",
+      "Monster_Dahaka_ShaderLightNormal_Lower",
+      "Monster_Dahaka_ShaderLightStrong_Lower",
+      "Monster_Dahaka_ShaderLightNormal_Upper",
+      "Monster_Dahaka_ShaderLightStrong_Upper",
+      "Monster_Dahaka_ElementMark_Fire"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90403,
+    "GEGPNBDIPCO": "若陀龙王-冰",
+    "DNBNIEJOJOO": "若陀龙王-冰",
+    "KCLGPFAPONH": [
+      "Monster_Dahaka_ElementType_Ice",
+      "Monster_Dahaka_ElementSpring_Ice",
+      "Monster_Dahaka_ElementBurst_Ice",
+      "Monster_Dahaka_Switch_Ice",
+      "Monster_Dahaka_ShaderLightNormal_Lower",
+      "Monster_Dahaka_ShaderLightStrong_Lower",
+      "Monster_Dahaka_ShaderLightNormal_Upper",
+      "Monster_Dahaka_ShaderLightStrong_Upper",
+      "Monster_Dahaka_ElementMark_Ice",
+      "Monster_Dahaka_SwitchEffect_Back",
+      "Monster_Dahaka_SwitchEffect_Howl"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90404,
+    "GEGPNBDIPCO": "若陀龙王-电",
+    "DNBNIEJOJOO": "若陀龙王-电",
+    "KCLGPFAPONH": [
+      "Monster_Dahaka_ElementType_Electric",
+      "Monster_Dahaka_ElementSpring_Electric",
+      "Monster_Dahaka_ElementBurst_Electric",
+      "Monster_Dahaka_Switch_Electric",
+      "Monster_Dahaka_ShaderLightNormal_Lower",
+      "Monster_Dahaka_ShaderLightStrong_Lower",
+      "Monster_Dahaka_ShaderLightNormal_Upper",
+      "Monster_Dahaka_ShaderLightStrong_Upper",
+      "Monster_Dahaka_ElementMark_Electric",
+      "Monster_Dahaka_SwitchEffect_Back",
+      "Monster_Dahaka_SwitchEffect_Howl"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90405,
+    "GEGPNBDIPCO": "若陀龙王-循环",
+    "DNBNIEJOJOO": "若陀龙王-岩",
+    "KCLGPFAPONH": [
+      "Monster_Dahaka_StageControl"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90406,
+    "GEGPNBDIPCO": "若陀龙王-任务",
+    "DNBNIEJOJOO": "若陀龙王-岩",
+    "KCLGPFAPONH": [
+      "Monster_Quest_Dahaka_StageControl"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90601,
+    "GEGPNBDIPCO": "雷电将军标记-S1",
+    "DNBNIEJOJOO": "雷电将军标记-S1",
+    "KCLGPFAPONH": [
+      "Monster_Shougun_TypePole"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90602,
+    "GEGPNBDIPCO": "雷电将军标记-S2",
+    "DNBNIEJOJOO": "雷电将军标记-S2",
+    "KCLGPFAPONH": [
+      "Monster_Shougun_TypeTachi"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90603,
+    "GEGPNBDIPCO": "雷电将军标记",
+    "DNBNIEJOJOO": "雷电将军标记-2.5Weekly",
+    "KCLGPFAPONH": [
+      "Monster_Shougun_Mitakenarukami_ToStage3_WeaklyDungeon"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90604,
+    "GEGPNBDIPCO": "雷电将军标记",
+    "DNBNIEJOJOO": "雷电将军标记-2.5Quest1",
+    "KCLGPFAPONH": [
+      "Monster_Shougun_Mitakenarukami_HpControl_QuestDungeon_01"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 90605,
+    "GEGPNBDIPCO": "雷电将军标记",
+    "DNBNIEJOJOO": "雷电将军标记-2.5Quest2",
+    "KCLGPFAPONH": [
+      "Monster_Shougun_Mitakenarukami_HpControl_QuestDungeon_02"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  },
+  {
+    "PKLAPAOFNKA": 60902,
+    "GEGPNBDIPCO": "超级蕈兽召唤小蕈兽特殊词缀",
+    "DNBNIEJOJOO": "初始衰亡态，技能频率提高",
+    "KCLGPFAPONH": [
+      "MonsterAffix_Fungus_Raptor_SummonedFungus"
+    ],
+    "EFIAGKCHEIK": true,
+    "HOKHNACLGHB": "",
+    "JKEKPBACOIP": "Skill_E_Ayaka",
+    "EIAKGJPNANN": ""
+  }
+]

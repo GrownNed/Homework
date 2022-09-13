@@ -1,0 +1,178 @@
+[
+  {
+    "DFKFAGJLNBP": 10101,
+    "GEFKGDOPMKC": 101,
+    "AMBNPBEGFBC": 1,
+    "BADDNDFEFLN": 2,
+    "MJGFPBEHEEM": 2012776706,
+    "CMLCFIIJCGA": 3981421851,
+    "CKAADFDMBCI": "TeamResonance_Fire_Lv2",
+    "BGHANNHAIEP": [],
+    "KGDLJNNIHPE": [
+      0.25,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "DFKFAGJLNBP": 10201,
+    "GEFKGDOPMKC": 102,
+    "AMBNPBEGFBC": 1,
+    "DHMEBLHOOBF": 2,
+    "MJGFPBEHEEM": 2733620714,
+    "CMLCFIIJCGA": 740980787,
+    "CKAADFDMBCI": "TeamResonance_Water_Lv2",
+    "BGHANNHAIEP": [],
+    "KGDLJNNIHPE": [
+      0.25,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "DFKFAGJLNBP": 10301,
+    "GEFKGDOPMKC": 103,
+    "AMBNPBEGFBC": 1,
+    "DEHMGOMGPKF": 2,
+    "MJGFPBEHEEM": 166087994,
+    "CMLCFIIJCGA": 170982675,
+    "CKAADFDMBCI": "TeamResonance_Wind_Lv2",
+    "BGHANNHAIEP": [],
+    "KGDLJNNIHPE": [
+      -0.15,
+      0.1,
+      0.05,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "DFKFAGJLNBP": 10401,
+    "GEFKGDOPMKC": 104,
+    "AMBNPBEGFBC": 1,
+    "LPBFJPLCEKO": 2,
+    "MJGFPBEHEEM": 2331327954,
+    "CMLCFIIJCGA": 1982396323,
+    "CKAADFDMBCI": "TeamResonance_Electric_Lv2",
+    "BGHANNHAIEP": [],
+    "KGDLJNNIHPE": [
+      1,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "DFKFAGJLNBP": 10501,
+    "GEFKGDOPMKC": 105,
+    "AMBNPBEGFBC": 1,
+    "PIDIOICJEPK": 2,
+    "MJGFPBEHEEM": 1292621586,
+    "CMLCFIIJCGA": 2900013027,
+    "CKAADFDMBCI": "TeamResonance_Grass_Lv2",
+    "BGHANNHAIEP": [],
+    "KGDLJNNIHPE": [
+      50,
+      30,
+      6,
+      20,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "DFKFAGJLNBP": 10601,
+    "GEFKGDOPMKC": 106,
+    "AMBNPBEGFBC": 1,
+    "DLCGJENNNKC": 2,
+    "MJGFPBEHEEM": 1853529306,
+    "CMLCFIIJCGA": 2601161539,
+    "CKAADFDMBCI": "TeamResonance_Ice_Lv2",
+    "BGHANNHAIEP": [],
+    "KGDLJNNIHPE": [
+      0.15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "DFKFAGJLNBP": 10701,
+    "GEFKGDOPMKC": 107,
+    "AMBNPBEGFBC": 1,
+    "JKEOPADLFFD": 2,
+    "MJGFPBEHEEM": 3018382842,
+    "CMLCFIIJCGA": 1707021043,
+    "CKAADFDMBCI": "TeamResonance_Rock_Lv2",
+    "BGHANNHAIEP": [],
+    "KGDLJNNIHPE": [
+      0.15,
+      0.15,
+      15,
+      -0.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "DFKFAGJLNBP": 10801,
+    "GEFKGDOPMKC": 108,
+    "AMBNPBEGFBC": 1,
+    "JOHBICOPHDK": "TEAM_RESONANCE_COND_ALL_DIFFERENT",
+    "MJGFPBEHEEM": 2109006394,
+    "CMLCFIIJCGA": 3556079627,
+    "CKAADFDMBCI": "TeamResonance_AllDifferent",
+    "BGHANNHAIEP": [],
+    "KGDLJNNIHPE": [
+      0.15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

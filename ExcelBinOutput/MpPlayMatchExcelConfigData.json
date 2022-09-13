@@ -1,0 +1,79 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "FCHCJDEBKPF": "MP_PLAY_CRUCIBLE",
+    "JNCNGDMMLJL": 1391810210,
+    "KJFCIIOBKKL": 4078540324,
+    "MEAKEEDCIKG": true,
+    "KOEJDIFGJPP": 2,
+    "NEIJDIHEODA": 4,
+    "OEEIKMMKDMC": true,
+    "JJNKGGDIHIB": true,
+    "DHJCLIAJMEJ": "MP_PLAY_SETTLE_OLD",
+    "KBCKPOHAIAE": [],
+    "NPKFHJACMMP": 6001,
+    "NKABODGFIPD": "ART/UI/Atlas/ActivitySignImg/UI_Icon_CrucibleBg"
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "FCHCJDEBKPF": "MP_PLAY_ASTER",
+    "JNCNGDMMLJL": 3235082754,
+    "KJFCIIOBKKL": 3873872452,
+    "MEAKEEDCIKG": true,
+    "KOEJDIFGJPP": 2,
+    "NEIJDIHEODA": 4,
+    "OEEIKMMKDMC": true,
+    "DHJCLIAJMEJ": "MP_PLAY_SETTLE_OLD",
+    "KBCKPOHAIAE": [
+      1,
+      2
+    ],
+    "NPKFHJACMMP": 9002,
+    "NKABODGFIPD": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Aster"
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "FCHCJDEBKPF": "MP_PLAY_DRAGON_SPINE",
+    "JNCNGDMMLJL": 285503954,
+    "KJFCIIOBKKL": 3660674564,
+    "MEAKEEDCIKG": true,
+    "KOEJDIFGJPP": 2,
+    "NEIJDIHEODA": 4,
+    "OEEIKMMKDMC": true,
+    "DHJCLIAJMEJ": "MP_PLAY_SETTLE_OLD",
+    "KBCKPOHAIAE": [],
+    "NPKFHJACMMP": 9003,
+    "NKABODGFIPD": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Dragonspine",
+    "CJOEIPPLEMM": true
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "FCHCJDEBKPF": "MP_PLAY_WATER_SPRITE",
+    "JNCNGDMMLJL": 968835426,
+    "KJFCIIOBKKL": 326086028,
+    "MEAKEEDCIKG": true,
+    "KOEJDIFGJPP": 2,
+    "NEIJDIHEODA": 4,
+    "OEEIKMMKDMC": true,
+    "DHJCLIAJMEJ": "MP_PLAY_SETTLE_OLD",
+    "KBCKPOHAIAE": [],
+    "NKABODGFIPD": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Common",
+    "CJOEIPPLEMM": true
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "FCHCJDEBKPF": "MP_PLAY_WINTER_CAMP",
+    "JNCNGDMMLJL": 865127498,
+    "KJFCIIOBKKL": 932380964,
+    "MEAKEEDCIKG": true,
+    "KOEJDIFGJPP": 2,
+    "NEIJDIHEODA": 4,
+    "OEEIKMMKDMC": true,
+    "DHJCLIAJMEJ": "MP_PLAY_SETTLE_CARD",
+    "MFIPOMCNJMN": 10901,
+    "KBCKPOHAIAE": [],
+    "NPKFHJACMMP": 6038,
+    "NKABODGFIPD": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Common",
+    "CJOEIPPLEMM": true
+  }
+]

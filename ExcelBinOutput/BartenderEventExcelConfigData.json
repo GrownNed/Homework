@@ -1,0 +1,663 @@
+[
+  {
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Origin_Cup"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_ORIGIN_CUP_ONHAND",
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Origin_Cup_OnHand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_MIX_BAR",
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Mix_Bar"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410001,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410002,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Blacktea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410003,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Sunsettia_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410004,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Milk"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410005,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Caramel"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410006,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Lemon"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410007,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Mint"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410008,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Sparkling_Water"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS",
+    "AHOLKAOOFMD": 410009,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Ingredient_Cup_Cacao_Paste"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1001,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1002,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1003,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1004,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1005,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1006,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1007,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1008,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1009,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1010,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1011,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1012,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1013,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1014,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1015,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1016,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1017,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1018,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1019,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1020,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1021,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONHAND",
+    "AHOLKAOOFMD": 1022,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Onhand"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1001,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1002,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1003,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1004,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1005,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1006,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1007,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1008,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1009,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1010,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1011,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1012,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1013,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1014,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1015,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1016,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1017,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1018,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1019,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1020,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1021,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_ONTABLE",
+    "AHOLKAOOFMD": 1022,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1001,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1002,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1003,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1004,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1005,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1006,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1007,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1008,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1009,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1010,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1011,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1012,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1013,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1014,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1015,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1016,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1017,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1018,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1019,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1020,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1021,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_PUSH",
+    "AHOLKAOOFMD": 1022,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1001,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_BlackCoffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1002,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1003,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1004,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1005,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1006,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_BlackCoffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1007,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1008,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_PureTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1009,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1010,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1011,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1012,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1013,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1014,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_PureTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1015,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Tea_PureTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1016,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_PureJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1017,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_MilkJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1018,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_MilkJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1019,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_PureJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1020,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_PureJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1021,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Juice_PureJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_EFF",
+    "AHOLKAOOFMD": 1022,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Coffee_Strange"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1001,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_BlackCoffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1002,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1003,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1004,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1005,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1006,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_BlackCoffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1007,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_Latte"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1008,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_PureTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1009,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1010,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1011,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1012,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1013,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_MilkTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1014,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_PureTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1015,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_PureTea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1016,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_PureJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1017,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_MilkJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1018,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_MilkJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1019,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_PureJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1020,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_PureJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1021,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_PureJuice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_POUR_EFF",
+    "AHOLKAOOFMD": 1022,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finished_Cup_Flow_Strange"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410001,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410002,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410003,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Juice"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410004,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Milk"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410005,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Tea"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410006,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Lemon"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410007,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Mint"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410008,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Sparkling"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_INGREDIENTS_POUR_EFF",
+    "AHOLKAOOFMD": 410009,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Add_Coffee"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_OVER",
+    "AHOLKAOOFMD": 1,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finish_Fail"
+  },
+  {
+    "BAJCIOGGFLF": "BARTENDER_FINISH_CUP_OVER",
+    "AHOLKAOOFMD": 2,
+    "DJADHDBOEHL": "Eff_Activity_Bartender_Finish_Succeed"
+  }
+]

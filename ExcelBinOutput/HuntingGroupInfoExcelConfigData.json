@@ -1,0 +1,4008 @@
+[
+  {
+    "MCNDINGLCBD": 133003613,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133003614,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133003615,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133003618,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003619,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003620,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003621,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003622,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003623,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003624,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003625,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003680,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003681,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003682,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003683,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003684,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003685,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003686,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003626,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003627,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003628,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003630,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003631,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003670,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003671,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003672,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003673,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003674,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003675,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003676,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003677,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003678,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003679,
+    "JMGDMNLPPGA": 101,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003640,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003641,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003642,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003643,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003644,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003645,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003646,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003647,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003648,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003649,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003650,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003651,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003652,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003653,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003654,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003655,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003656,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003657,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003658,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003659,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003660,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003661,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003662,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003663,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003664,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003665,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003666,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003667,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003668,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003669,
+    "JMGDMNLPPGA": 101,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104714,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104715,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104716,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104717,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104718,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104719,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104720,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104721,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104722,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104723,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104724,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104725,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104726,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104727,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104729,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104694,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133104695,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133104696,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133104697,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133104698,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133104700,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104701,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104702,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104703,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104704,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104705,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104706,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104707,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104708,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104709,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104710,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104711,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104712,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104713,
+    "JMGDMNLPPGA": 201,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104730,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104731,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104732,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104733,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104734,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104735,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104736,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104737,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104738,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104739,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104740,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104741,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104743,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104744,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104745,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104746,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104747,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104748,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104749,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104750,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104751,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104752,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104753,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104754,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104755,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104756,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104757,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104758,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104759,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104760,
+    "JMGDMNLPPGA": 201,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001434,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_SHOAL_WATER"
+  },
+  {
+    "MCNDINGLCBD": 133001436,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133001437,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001438,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001439,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001440,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001441,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001442,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001443,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001444,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001445,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001446,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001447,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001448,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001449,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001450,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001451,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001452,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001453,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001454,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001455,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001456,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001457,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001458,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001459,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001460,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001461,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001462,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001463,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001464,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001465,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001466,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001467,
+    "JMGDMNLPPGA": 102,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133001468,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001469,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001470,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001471,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001472,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001473,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001474,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001475,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001476,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001477,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001478,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001479,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001480,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001481,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001482,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001483,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001484,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001485,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001486,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001487,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001488,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001489,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001490,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001491,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001492,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001493,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001494,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001495,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001496,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133001497,
+    "JMGDMNLPPGA": 102,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104002,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104007,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104009,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104013,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104014,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104015,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104016,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104017,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104018,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104019,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104020,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104021,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104023,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104024,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104025,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104027,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104028,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104762,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_SHOAL_WATER"
+  },
+  {
+    "MCNDINGLCBD": 133104763,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104764,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104765,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104766,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104767,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104768,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104769,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104770,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104771,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104772,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104773,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104774,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104775,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104776,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104777,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104778,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104779,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104780,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104781,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104782,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104783,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104784,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104785,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104786,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104787,
+    "JMGDMNLPPGA": 202,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133104788,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104789,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104790,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104791,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104792,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104793,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104794,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104795,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104796,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104797,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104798,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104799,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133104800,
+    "JMGDMNLPPGA": 202,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003690,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133003691,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133003692,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133003693,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003694,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003695,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003696,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003697,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003698,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003699,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003700,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003701,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003702,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003703,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003704,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003705,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003706,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003707,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003708,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003709,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003710,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003711,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003712,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003713,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003714,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003715,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003716,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003717,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003718,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003719,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003720,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003721,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003722,
+    "JMGDMNLPPGA": 103,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133003723,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003724,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003725,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003726,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003727,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003728,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003729,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003730,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003731,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003732,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003733,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003734,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003735,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003736,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003737,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003738,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003739,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003740,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003741,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003742,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003743,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003744,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003745,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003746,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003747,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003748,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003749,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003750,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003751,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003752,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133003753,
+    "JMGDMNLPPGA": 103,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004371,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133004372,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133004373,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133004374,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004375,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004376,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004377,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004378,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004379,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004380,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004381,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004382,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004383,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004384,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004385,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004386,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004387,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004388,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004389,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004390,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004391,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004392,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004393,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004394,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004395,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004396,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004397,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004398,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004399,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004400,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004401,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004402,
+    "JMGDMNLPPGA": 104,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133004403,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004404,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004405,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004406,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004407,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004408,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004409,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004410,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004411,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004412,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004413,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004414,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004415,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004416,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004417,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004418,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004419,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004420,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004421,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004422,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004423,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004424,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004425,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004426,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004427,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004428,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004429,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004430,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004431,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133004432,
+    "JMGDMNLPPGA": 104,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102019,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133102021,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133102022,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102023,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102024,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102025,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102026,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102027,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102028,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102029,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102030,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102031,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102032,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102033,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102034,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102035,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102036,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102038,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102039,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102040,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102041,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102042,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102043,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102044,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102046,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102047,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102048,
+    "JMGDMNLPPGA": 203,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133102049,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102050,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102051,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102052,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102053,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102054,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102055,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102057,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102058,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102059,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102060,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102061,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102062,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102064,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102065,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102066,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102069,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102070,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102075,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102078,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102079,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102080,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102081,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102082,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102083,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102084,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133102087,
+    "JMGDMNLPPGA": 203,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106325,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133106326,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133106327,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133106328,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106329,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106330,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106331,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106332,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106333,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106334,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106335,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106336,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106337,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106338,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106339,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106340,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106341,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_MONSTER",
+    "BFOEJGODGID": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106342,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106343,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106344,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106345,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106346,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106347,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106348,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106349,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106350,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106351,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106352,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106353,
+    "JMGDMNLPPGA": 204,
+    "BGMHHIPGCAC": "HUNTING_CLUE_GATHER",
+    "BFOEJGODGID": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "MCNDINGLCBD": 133106354,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106355,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106356,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106357,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106358,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106359,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106360,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106361,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106362,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106363,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106364,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106365,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106366,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106367,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106368,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106369,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106370,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106371,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106372,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106373,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106374,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106375,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106376,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106377,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106378,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106379,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106380,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106381,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106382,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133106383,
+    "JMGDMNLPPGA": 204,
+    "BFOEJGODGID": []
+  },
+  {
+    "MCNDINGLCBD": 133213175,
+    "JMGDMNLPPGA": 301,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133213050,
+    "JMGDMNLPPGA": 301,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133213542,
+    "JMGDMNLPPGA": 301,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133220203,
+    "JMGDMNLPPGA": 302,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133220388,
+    "JMGDMNLPPGA": 302,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133220663,
+    "JMGDMNLPPGA": 302,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133212187,
+    "JMGDMNLPPGA": 303,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133212105,
+    "JMGDMNLPPGA": 303,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133212556,
+    "JMGDMNLPPGA": 303,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133220279,
+    "JMGDMNLPPGA": 304,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133220389,
+    "JMGDMNLPPGA": 304,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133220664,
+    "JMGDMNLPPGA": 304,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133301214,
+    "JMGDMNLPPGA": 401,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133301653,
+    "JMGDMNLPPGA": 401,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133301218,
+    "JMGDMNLPPGA": 402,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133301654,
+    "JMGDMNLPPGA": 402,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133302179,
+    "JMGDMNLPPGA": 403,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133302641,
+    "JMGDMNLPPGA": 403,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133315064,
+    "JMGDMNLPPGA": 404,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133315262,
+    "JMGDMNLPPGA": 404,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133303063,
+    "JMGDMNLPPGA": 405,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133303592,
+    "JMGDMNLPPGA": 405,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133303179,
+    "JMGDMNLPPGA": 406,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133303591,
+    "JMGDMNLPPGA": 406,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133304096,
+    "JMGDMNLPPGA": 407,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133304405,
+    "JMGDMNLPPGA": 407,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133304097,
+    "JMGDMNLPPGA": 408,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  },
+  {
+    "MCNDINGLCBD": 133304406,
+    "JMGDMNLPPGA": 408,
+    "BGMHHIPGCAC": "HUNTING_CLUE_FINAL",
+    "BFOEJGODGID": [],
+    "PLDOEFDCNFI": "HUNTING_POS_GROUND"
+  }
+]

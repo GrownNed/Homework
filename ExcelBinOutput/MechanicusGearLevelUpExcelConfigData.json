@@ -1,0 +1,1903 @@
+[
+  {
+    "HMNEJGOMDPD": 1,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 1,
+    "JLAPHIOHLDD": 3308073570,
+    "ECAIPAABLPN": 290613234,
+    "CMLCFIIJCGA": 1762648856,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 250,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 6,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 2,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 75,
+    "JLAPHIOHLDD": 579258634,
+    "ECAIPAABLPN": 3596574530,
+    "CMLCFIIJCGA": 885793536,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 625,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 6,
+    "FKLPHEAHMOK": 120,
+    "KPFDEOKEHIC": 24,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 3,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 100,
+    "JLAPHIOHLDD": 1178988546,
+    "ECAIPAABLPN": 555881154,
+    "CMLCFIIJCGA": 2642951512,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 1000,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 140,
+    "KPFDEOKEHIC": 28,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 4,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 4,
+    "EPLNGINNGIF": 150,
+    "JLAPHIOHLDD": 285663338,
+    "ECAIPAABLPN": 2219085354,
+    "CMLCFIIJCGA": 3502095000,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 1375,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 160,
+    "KPFDEOKEHIC": 32,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 4
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 5,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 5,
+    "EPLNGINNGIF": 200,
+    "JLAPHIOHLDD": 644500538,
+    "ECAIPAABLPN": 3443213586,
+    "CMLCFIIJCGA": 157510224,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 1750,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 5
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 6,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 6,
+    "EPLNGINNGIF": 250,
+    "JLAPHIOHLDD": 711199202,
+    "ECAIPAABLPN": 1877562298,
+    "CMLCFIIJCGA": 3094797536,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 2125,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 6
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 7,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 7,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 2784345250,
+    "ECAIPAABLPN": 2371434602,
+    "CMLCFIIJCGA": 2706239432,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 2500,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 7
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 8,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 8,
+    "EPLNGINNGIF": 350,
+    "JLAPHIOHLDD": 619954682,
+    "ECAIPAABLPN": 3932837722,
+    "CMLCFIIJCGA": 2303287336,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 2875,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 8
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 9,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 9,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 4017299066,
+    "ECAIPAABLPN": 807621922,
+    "CMLCFIIJCGA": 1458396248,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 3250,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 9
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 10,
+    "NEDOPMHDEBK": 1,
+    "JGIFAOJBGFP": 10,
+    "EPLNGINNGIF": 450,
+    "JLAPHIOHLDD": 3497364874,
+    "ECAIPAABLPN": 817598370,
+    "CMLCFIIJCGA": 1816693040,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWater",
+    "CGIPPLAICEA": 3625,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 10
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 11,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 1,
+    "JLAPHIOHLDD": 429693978,
+    "ECAIPAABLPN": 2597623834,
+    "CMLCFIIJCGA": 3851588072,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 500,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 12,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 75,
+    "JLAPHIOHLDD": 2694456738,
+    "ECAIPAABLPN": 3371650746,
+    "CMLCFIIJCGA": 2128546832,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 1250,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 120,
+    "KPFDEOKEHIC": 24,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 13,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 100,
+    "JLAPHIOHLDD": 3069771906,
+    "ECAIPAABLPN": 3519544394,
+    "CMLCFIIJCGA": 3834025216,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 2000,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 140,
+    "KPFDEOKEHIC": 28,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 14,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 4,
+    "EPLNGINNGIF": 150,
+    "JLAPHIOHLDD": 108791906,
+    "ECAIPAABLPN": 2312996026,
+    "CMLCFIIJCGA": 135278960,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 2750,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 160,
+    "KPFDEOKEHIC": 32,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 4
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 15,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 5,
+    "EPLNGINNGIF": 200,
+    "JLAPHIOHLDD": 2373973826,
+    "ECAIPAABLPN": 37556434,
+    "CMLCFIIJCGA": 1277764208,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 3500,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 5
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 16,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 6,
+    "EPLNGINNGIF": 250,
+    "JLAPHIOHLDD": 888004362,
+    "ECAIPAABLPN": 2667660098,
+    "CMLCFIIJCGA": 549858488,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 4250,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 6
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 17,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 7,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 2238902578,
+    "ECAIPAABLPN": 3100837930,
+    "CMLCFIIJCGA": 3360102264,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 5000,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 7
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 18,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 8,
+    "EPLNGINNGIF": 350,
+    "JLAPHIOHLDD": 3733842186,
+    "ECAIPAABLPN": 1549750762,
+    "CMLCFIIJCGA": 3780775440,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 5750,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 8
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 19,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 9,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 693861538,
+    "ECAIPAABLPN": 1022867194,
+    "CMLCFIIJCGA": 3039721576,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 6500,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 9
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 20,
+    "NEDOPMHDEBK": 2,
+    "JGIFAOJBGFP": 10,
+    "EPLNGINNGIF": 450,
+    "JLAPHIOHLDD": 1319417370,
+    "ECAIPAABLPN": 3859324394,
+    "CMLCFIIJCGA": 2920234672,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerFire",
+    "CGIPPLAICEA": 7250,
+    "NEIJLMODFDI": 5,
+    "ENKLNEFLHBI": 20,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 10
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 21,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 1,
+    "JLAPHIOHLDD": 2392761626,
+    "ECAIPAABLPN": 1152000554,
+    "CMLCFIIJCGA": 1201787072,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 100,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 22,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 75,
+    "JLAPHIOHLDD": 4199792314,
+    "ECAIPAABLPN": 545289338,
+    "CMLCFIIJCGA": 1261079320,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 250,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 120,
+    "KPFDEOKEHIC": 24,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 23,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 100,
+    "JLAPHIOHLDD": 3858206274,
+    "ECAIPAABLPN": 2385793650,
+    "CMLCFIIJCGA": 3709473112,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 400,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 140,
+    "KPFDEOKEHIC": 28,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 24,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 4,
+    "EPLNGINNGIF": 150,
+    "JLAPHIOHLDD": 711381282,
+    "ECAIPAABLPN": 3505599498,
+    "CMLCFIIJCGA": 2879581936,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 550,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 160,
+    "KPFDEOKEHIC": 32,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 4
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 25,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 5,
+    "EPLNGINNGIF": 200,
+    "JLAPHIOHLDD": 1613310690,
+    "ECAIPAABLPN": 1296863242,
+    "CMLCFIIJCGA": 250357344,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 700,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 5
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 26,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 6,
+    "EPLNGINNGIF": 250,
+    "JLAPHIOHLDD": 2950543634,
+    "ECAIPAABLPN": 653532266,
+    "CMLCFIIJCGA": 91116152,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 850,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 6
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 27,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 7,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 2174962210,
+    "ECAIPAABLPN": 914470210,
+    "CMLCFIIJCGA": 3146837592,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 1000,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 7
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 28,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 8,
+    "EPLNGINNGIF": 350,
+    "JLAPHIOHLDD": 1567241226,
+    "ECAIPAABLPN": 1473337266,
+    "CMLCFIIJCGA": 4126379720,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 1150,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 8
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 29,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 9,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 2417632482,
+    "ECAIPAABLPN": 3519957418,
+    "CMLCFIIJCGA": 3751185912,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 1300,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 9
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 30,
+    "NEDOPMHDEBK": 3,
+    "JGIFAOJBGFP": 10,
+    "EPLNGINNGIF": 450,
+    "JLAPHIOHLDD": 3202857410,
+    "ECAIPAABLPN": 1381933130,
+    "CMLCFIIJCGA": 3587265536,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerIce",
+    "CGIPPLAICEA": 1450,
+    "NEIJLMODFDI": 3,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 10
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 31,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 1,
+    "EPLNGINNGIF": 50,
+    "JLAPHIOHLDD": 3708394282,
+    "ECAIPAABLPN": 2568163978,
+    "CMLCFIIJCGA": 1608311920,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 300,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 32,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 75,
+    "JLAPHIOHLDD": 1821545146,
+    "ECAIPAABLPN": 3832381058,
+    "CMLCFIIJCGA": 1384155288,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 750,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 120,
+    "KPFDEOKEHIC": 24,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 33,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 100,
+    "JLAPHIOHLDD": 3784989242,
+    "ECAIPAABLPN": 3830931250,
+    "CMLCFIIJCGA": 3770881720,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 1200,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 140,
+    "KPFDEOKEHIC": 28,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 34,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 4,
+    "EPLNGINNGIF": 150,
+    "JLAPHIOHLDD": 2797704634,
+    "ECAIPAABLPN": 2877050602,
+    "CMLCFIIJCGA": 3688909920,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 1650,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 160,
+    "KPFDEOKEHIC": 32,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 4
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 35,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 5,
+    "EPLNGINNGIF": 200,
+    "JLAPHIOHLDD": 637359922,
+    "ECAIPAABLPN": 3035822650,
+    "CMLCFIIJCGA": 741913928,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 2100,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 5
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 36,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 6,
+    "EPLNGINNGIF": 250,
+    "JLAPHIOHLDD": 3799245234,
+    "ECAIPAABLPN": 681680234,
+    "CMLCFIIJCGA": 2994382832,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 2550,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 6
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 37,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 7,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 1333893922,
+    "ECAIPAABLPN": 1891606546,
+    "CMLCFIIJCGA": 2561759712,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 3000,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 7
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 38,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 8,
+    "EPLNGINNGIF": 350,
+    "JLAPHIOHLDD": 3948956746,
+    "ECAIPAABLPN": 4180008298,
+    "CMLCFIIJCGA": 1825909144,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 3450,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 8
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 39,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 9,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 2104869930,
+    "ECAIPAABLPN": 2680401514,
+    "CMLCFIIJCGA": 2549239568,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 3900,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 9
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 40,
+    "NEDOPMHDEBK": 4,
+    "JGIFAOJBGFP": 10,
+    "EPLNGINNGIF": 450,
+    "JLAPHIOHLDD": 2773865322,
+    "ECAIPAABLPN": 3209765954,
+    "CMLCFIIJCGA": 2165589016,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerWind",
+    "CGIPPLAICEA": 4350,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 10
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 41,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 1,
+    "JLAPHIOHLDD": 3510156586,
+    "ECAIPAABLPN": 3498370178,
+    "CMLCFIIJCGA": 955050936,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 200,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 42,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 75,
+    "JLAPHIOHLDD": 1735281930,
+    "ECAIPAABLPN": 403158290,
+    "CMLCFIIJCGA": 2970170400,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 500,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 120,
+    "KPFDEOKEHIC": 24,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 43,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 100,
+    "JLAPHIOHLDD": 3860142570,
+    "ECAIPAABLPN": 2740245618,
+    "CMLCFIIJCGA": 2799445096,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 800,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 140,
+    "KPFDEOKEHIC": 28,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 44,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 4,
+    "EPLNGINNGIF": 150,
+    "JLAPHIOHLDD": 1189391010,
+    "ECAIPAABLPN": 2909145458,
+    "CMLCFIIJCGA": 435508376,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 1100,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 160,
+    "KPFDEOKEHIC": 32,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 4
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 45,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 5,
+    "EPLNGINNGIF": 200,
+    "JLAPHIOHLDD": 3784012258,
+    "ECAIPAABLPN": 4142613322,
+    "CMLCFIIJCGA": 458884544,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 1400,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 5
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 46,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 6,
+    "EPLNGINNGIF": 250,
+    "JLAPHIOHLDD": 2766181922,
+    "ECAIPAABLPN": 1132448642,
+    "CMLCFIIJCGA": 39281624,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 1700,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 6
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 47,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 7,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 3917373674,
+    "ECAIPAABLPN": 3003541002,
+    "CMLCFIIJCGA": 322597136,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 2000,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 7
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 48,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 8,
+    "EPLNGINNGIF": 350,
+    "JLAPHIOHLDD": 135947970,
+    "ECAIPAABLPN": 3019910218,
+    "CMLCFIIJCGA": 1781705448,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 2300,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 8
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 49,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 9,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 268714546,
+    "ECAIPAABLPN": 373293978,
+    "CMLCFIIJCGA": 3662269616,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 2600,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 9
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 50,
+    "NEDOPMHDEBK": 5,
+    "JGIFAOJBGFP": 10,
+    "EPLNGINNGIF": 450,
+    "JLAPHIOHLDD": 589900442,
+    "ECAIPAABLPN": 1937192898,
+    "CMLCFIIJCGA": 1965387336,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerElectric",
+    "CGIPPLAICEA": 2900,
+    "NEIJLMODFDI": 4,
+    "ENKLNEFLHBI": 15,
+    "FKLPHEAHMOK": 180,
+    "KPFDEOKEHIC": 36,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 10
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 51,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 1,
+    "EPLNGINNGIF": 50,
+    "JLAPHIOHLDD": 747246826,
+    "ECAIPAABLPN": 417968602,
+    "CMLCFIIJCGA": 697019112,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 300,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 52,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 75,
+    "JLAPHIOHLDD": 697295818,
+    "ECAIPAABLPN": 3740581922,
+    "CMLCFIIJCGA": 2583138472,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 750,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 53,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 100,
+    "JLAPHIOHLDD": 3369148370,
+    "ECAIPAABLPN": 3183669098,
+    "CMLCFIIJCGA": 2872370760,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 1200,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 54,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 4,
+    "EPLNGINNGIF": 150,
+    "JLAPHIOHLDD": 1684733914,
+    "ECAIPAABLPN": 2960040306,
+    "CMLCFIIJCGA": 778567552,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 1650,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 4
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 55,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 5,
+    "EPLNGINNGIF": 200,
+    "JLAPHIOHLDD": 3173404010,
+    "ECAIPAABLPN": 3493474746,
+    "CMLCFIIJCGA": 1185354848,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 2100,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 5
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 56,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 6,
+    "EPLNGINNGIF": 250,
+    "JLAPHIOHLDD": 327476458,
+    "ECAIPAABLPN": 3254307090,
+    "CMLCFIIJCGA": 3270794072,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 2550,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 6
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 57,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 7,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 3877993818,
+    "ECAIPAABLPN": 1452764330,
+    "CMLCFIIJCGA": 2913361256,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 3000,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 7
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 58,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 8,
+    "EPLNGINNGIF": 350,
+    "JLAPHIOHLDD": 1177237834,
+    "ECAIPAABLPN": 1481042386,
+    "CMLCFIIJCGA": 2212684792,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 3450,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 8
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 59,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 9,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 728541682,
+    "ECAIPAABLPN": 1700274978,
+    "CMLCFIIJCGA": 2323669032,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 3900,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 9
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 60,
+    "NEDOPMHDEBK": 6,
+    "JGIFAOJBGFP": 10,
+    "EPLNGINNGIF": 450,
+    "JLAPHIOHLDD": 246129730,
+    "ECAIPAABLPN": 1916999618,
+    "CMLCFIIJCGA": 3161132920,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerPhysics_01",
+    "CGIPPLAICEA": 4350,
+    "NEIJLMODFDI": 2,
+    "ENKLNEFLHBI": 30,
+    "FKLPHEAHMOK": 100,
+    "KPFDEOKEHIC": 20,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 10
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 61,
+    "NEDOPMHDEBK": 7,
+    "JGIFAOJBGFP": 1,
+    "EPLNGINNGIF": 200,
+    "JLAPHIOHLDD": 4182936570,
+    "ECAIPAABLPN": 98425850,
+    "CMLCFIIJCGA": 1809015136,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerAbsorber_01",
+    "ENKLNEFLHBI": 6,
+    "FKLPHEAHMOK": 150,
+    "KPFDEOKEHIC": 30,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 62,
+    "NEDOPMHDEBK": 7,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 3545223658,
+    "ECAIPAABLPN": 720515274,
+    "CMLCFIIJCGA": 2779459280,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerAbsorber_01",
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 150,
+    "KPFDEOKEHIC": 30,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 63,
+    "NEDOPMHDEBK": 7,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 3872183746,
+    "ECAIPAABLPN": 2624992978,
+    "CMLCFIIJCGA": 2117425368,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerAbsorber_01",
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 150,
+    "KPFDEOKEHIC": 30,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 71,
+    "NEDOPMHDEBK": 8,
+    "JGIFAOJBGFP": 1,
+    "JLAPHIOHLDD": 1950315898,
+    "ECAIPAABLPN": 2485763906,
+    "CMLCFIIJCGA": 958635400,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerAbsorber",
+    "ENKLNEFLHBI": 6,
+    "FKLPHEAHMOK": 50,
+    "KPFDEOKEHIC": 10,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": [
+      99
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 72,
+    "NEDOPMHDEBK": 8,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 864912122,
+    "ECAIPAABLPN": 2512650386,
+    "CMLCFIIJCGA": 1546694352,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerAbsorber",
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 50,
+    "KPFDEOKEHIC": 10,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": [
+      100
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 73,
+    "NEDOPMHDEBK": 8,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 3636676442,
+    "ECAIPAABLPN": 2604873938,
+    "CMLCFIIJCGA": 2758970656,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerAbsorber",
+    "ENKLNEFLHBI": 8,
+    "FKLPHEAHMOK": 50,
+    "KPFDEOKEHIC": 10,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": [
+      101
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 81,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 1,
+    "EPLNGINNGIF": 50,
+    "JLAPHIOHLDD": 3852751618,
+    "ECAIPAABLPN": 1343382074,
+    "CMLCFIIJCGA": 4094536216,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 800,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 20,
+    "KPFDEOKEHIC": 4,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 82,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 2,
+    "EPLNGINNGIF": 75,
+    "JLAPHIOHLDD": 2931992642,
+    "ECAIPAABLPN": 366794778,
+    "CMLCFIIJCGA": 1905382392,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 2000,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 20,
+    "KPFDEOKEHIC": 4,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 2
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 83,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 3,
+    "EPLNGINNGIF": 100,
+    "JLAPHIOHLDD": 1467289634,
+    "ECAIPAABLPN": 309017058,
+    "CMLCFIIJCGA": 3300564448,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 3200,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 10,
+    "KPFDEOKEHIC": 2,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 3
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 84,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 4,
+    "EPLNGINNGIF": 150,
+    "JLAPHIOHLDD": 3865308442,
+    "ECAIPAABLPN": 4082342282,
+    "CMLCFIIJCGA": 4015759384,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 4400,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 10,
+    "KPFDEOKEHIC": 2,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 4
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 85,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 5,
+    "EPLNGINNGIF": 200,
+    "JLAPHIOHLDD": 1786586338,
+    "ECAIPAABLPN": 959824314,
+    "CMLCFIIJCGA": 3815111568,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 5600,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 10,
+    "KPFDEOKEHIC": 2,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 5
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 86,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 6,
+    "EPLNGINNGIF": 250,
+    "JLAPHIOHLDD": 2429091018,
+    "ECAIPAABLPN": 393659050,
+    "CMLCFIIJCGA": 3922390552,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 6800,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 10,
+    "KPFDEOKEHIC": 2,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 6
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 87,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 7,
+    "EPLNGINNGIF": 300,
+    "JLAPHIOHLDD": 240599898,
+    "ECAIPAABLPN": 4051752274,
+    "CMLCFIIJCGA": 1195651928,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 8000,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 10,
+    "KPFDEOKEHIC": 2,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 7
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 88,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 8,
+    "EPLNGINNGIF": 350,
+    "JLAPHIOHLDD": 1518555730,
+    "ECAIPAABLPN": 2731002098,
+    "CMLCFIIJCGA": 3616310232,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 9200,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 10,
+    "KPFDEOKEHIC": 2,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 8
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 89,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 9,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 3913928274,
+    "ECAIPAABLPN": 1362184570,
+    "CMLCFIIJCGA": 2771732808,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 10400,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 10,
+    "KPFDEOKEHIC": 2,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 9
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 90,
+    "NEDOPMHDEBK": 9,
+    "JGIFAOJBGFP": 10,
+    "EPLNGINNGIF": 450,
+    "JLAPHIOHLDD": 1350570970,
+    "ECAIPAABLPN": 3180018666,
+    "CMLCFIIJCGA": 477266304,
+    "IJPJDLPPPGK": "UI_Property_Prop_TowerBoom_01",
+    "CGIPPLAICEA": 11600,
+    "ENKLNEFLHBI": 5,
+    "FKLPHEAHMOK": 10,
+    "KPFDEOKEHIC": 2,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 10
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  },
+  {
+    "HMNEJGOMDPD": 91,
+    "NEDOPMHDEBK": 10,
+    "JGIFAOJBGFP": 1,
+    "EPLNGINNGIF": 400,
+    "JLAPHIOHLDD": 1078651754,
+    "ECAIPAABLPN": 841544642,
+    "CMLCFIIJCGA": 3692505760,
+    "IJPJDLPPPGK": "UI_Property_Prop_Portal_01",
+    "FKLPHEAHMOK": 40,
+    "KPFDEOKEHIC": 8,
+    "DDAJJEGOENN": [
+      {
+        "CDOLPCHKEEF": "SGV_TDLevel",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "CDOLPCHKEEF": ""
+      }
+    ],
+    "JBCBIJDGLGF": []
+  }
+]

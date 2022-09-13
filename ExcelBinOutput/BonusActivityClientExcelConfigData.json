@@ -1,0 +1,40 @@
+[
+  {
+    "PKLAPAOFNKA": 50001,
+    "FCELHDPDKLJ": "BONUS_XIANGLING",
+    "DBICIFDDPKC": 10000023,
+    "GECBAENMBCJ": [
+      1000,
+      1001,
+      5001
+    ],
+    "IFPPAMIFELN": 20,
+    "OOIJPCMLJHJ": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter",
+    "OEHPLPNFFKA": 3225904765
+  },
+  {
+    "PKLAPAOFNKA": 50002,
+    "FCELHDPDKLJ": "BONUS_BABALA",
+    "DBICIFDDPKC": 10000014,
+    "GECBAENMBCJ": [
+      1000,
+      2002
+    ],
+    "NEGGEOBGIKG": 394,
+    "IFPPAMIFELN": 18,
+    "OOIJPCMLJHJ": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter_Barbara",
+    "OEHPLPNFFKA": 818002645
+  },
+  {
+    "PKLAPAOFNKA": 50003,
+    "FCELHDPDKLJ": "BONUS_KELAI",
+    "DBICIFDDPKC": 10000067,
+    "GECBAENMBCJ": [
+      600002,
+      600003
+    ],
+    "IFPPAMIFELN": 20,
+    "OOIJPCMLJHJ": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter_Collei",
+    "OEHPLPNFFKA": 684363645
+  }
+]

@@ -1,0 +1,964 @@
+[
+  {
+    "PKLAPAOFNKA": 1000,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_FORCE",
+    "DCGGDMIPIAG": "FISH_SKILL_HP",
+    "NNPMGFENCEK": [
+      0.3,
+      0,
+      0
+    ],
+    "INIEAHDPPAJ": 1.5,
+    "AJHFGLNAHFE": [
+      0
+    ],
+    "BMKABBDJOPN": [
+      0
+    ],
+    "HNKHPIEJGDD": [
+      0
+    ],
+    "PFPHEDFFBOI": [
+      0
+    ],
+    "EOAGMHICOFJ": 10,
+    "AMNCMAKMBFM": 60
+  },
+  {
+    "PKLAPAOFNKA": 1001,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_FORCE",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      1,
+      0
+    ],
+    "INIEAHDPPAJ": 3,
+    "AJHFGLNAHFE": [
+      0
+    ],
+    "BMKABBDJOPN": [
+      0
+    ],
+    "HNKHPIEJGDD": [
+      0
+    ],
+    "PFPHEDFFBOI": [
+      0
+    ],
+    "EOAGMHICOFJ": 3,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 1002,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_FORCE",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      1,
+      1,
+      0
+    ],
+    "INIEAHDPPAJ": 3,
+    "AJHFGLNAHFE": [
+      0
+    ],
+    "BMKABBDJOPN": [
+      0
+    ],
+    "HNKHPIEJGDD": [
+      0
+    ],
+    "PFPHEDFFBOI": [
+      0
+    ],
+    "EOAGMHICOFJ": 3,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 1003,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_FORCE",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      2.5,
+      1.5,
+      0
+    ],
+    "INIEAHDPPAJ": 1.66,
+    "AJHFGLNAHFE": [
+      0
+    ],
+    "BMKABBDJOPN": [
+      0
+    ],
+    "HNKHPIEJGDD": [
+      0
+    ],
+    "PFPHEDFFBOI": [
+      0
+    ],
+    "EOAGMHICOFJ": 2,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 1004,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_FORCE",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      2.5,
+      1.5,
+      0
+    ],
+    "INIEAHDPPAJ": 2.2,
+    "AJHFGLNAHFE": [
+      0
+    ],
+    "BMKABBDJOPN": [
+      0
+    ],
+    "HNKHPIEJGDD": [
+      0
+    ],
+    "PFPHEDFFBOI": [
+      0
+    ],
+    "EOAGMHICOFJ": 3,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 1005,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_FORCE",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      1,
+      0
+    ],
+    "INIEAHDPPAJ": 1.88,
+    "AJHFGLNAHFE": [
+      0
+    ],
+    "BMKABBDJOPN": [
+      0
+    ],
+    "HNKHPIEJGDD": [
+      0
+    ],
+    "PFPHEDFFBOI": [
+      0
+    ],
+    "EOAGMHICOFJ": 2.4,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 2000,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_HP",
+    "NNPMGFENCEK": [
+      0.3,
+      0,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      0.5
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      60,
+      65
+    ],
+    "EOAGMHICOFJ": 10,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 2001,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_HP",
+    "NNPMGFENCEK": [
+      0.3,
+      0,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      0.5
+    ],
+    "HNKHPIEJGDD": [
+      70,
+      90
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 10,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 2002,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_HP",
+    "NNPMGFENCEK": [
+      0.3,
+      0,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      0.5
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      60,
+      65
+    ],
+    "EOAGMHICOFJ": 10,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 2003,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_HP",
+    "NNPMGFENCEK": [
+      0.3,
+      0,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.25,
+      -0.25
+    ],
+    "BMKABBDJOPN": [
+      0.3,
+      0.7
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      40
+    ],
+    "PFPHEDFFBOI": [
+      50,
+      60
+    ],
+    "EOAGMHICOFJ": 10,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 2004,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_HP",
+    "NNPMGFENCEK": [
+      0.35,
+      0,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.25,
+      -0.25
+    ],
+    "BMKABBDJOPN": [
+      0.2,
+      0.6
+    ],
+    "HNKHPIEJGDD": [
+      35,
+      45
+    ],
+    "PFPHEDFFBOI": [
+      55,
+      65
+    ],
+    "EOAGMHICOFJ": 10,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 2005,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_HP",
+    "NNPMGFENCEK": [
+      0.3,
+      0,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.27,
+      -0.27
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      0.5
+    ],
+    "HNKHPIEJGDD": [
+      70,
+      90
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 10,
+    "AMNCMAKMBFM": 100
+  },
+  {
+    "PKLAPAOFNKA": 2010,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      3,
+      0
+    ],
+    "GGJKMPNMDGE": 1,
+    "AJHFGLNAHFE": [
+      0,
+      0
+    ],
+    "BMKABBDJOPN": [
+      0,
+      0.25
+    ],
+    "HNKHPIEJGDD": [
+      20,
+      40
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 60
+  },
+  {
+    "PKLAPAOFNKA": 2011,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0,
+      0.25
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2012,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      1
+    ],
+    "HNKHPIEJGDD": [
+      70,
+      90
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2013,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      1
+    ],
+    "HNKHPIEJGDD": [
+      70,
+      90
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2014,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      2,
+      2,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      0.5
+    ],
+    "HNKHPIEJGDD": [
+      70,
+      90
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2015,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      0,
+      0
+    ],
+    "BMKABBDJOPN": [
+      2,
+      3
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      30,
+      45
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2016,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      3,
+      0
+    ],
+    "GGJKMPNMDGE": 1,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      1
+    ],
+    "HNKHPIEJGDD": [
+      50,
+      60
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2017,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      2,
+      3
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      60,
+      65
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2018,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      2,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      2,
+      3
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      60,
+      65
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2019,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      3,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      0.5
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      60,
+      65
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 60
+  },
+  {
+    "PKLAPAOFNKA": 2020,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      2,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 1,
+    "AJHFGLNAHFE": [
+      0,
+      0
+    ],
+    "BMKABBDJOPN": [
+      0,
+      0.25
+    ],
+    "HNKHPIEJGDD": [
+      20,
+      40
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 60
+  },
+  {
+    "PKLAPAOFNKA": 2021,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      1,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0,
+      0.25
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2022,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      2,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      1
+    ],
+    "HNKHPIEJGDD": [
+      70,
+      90
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2023,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      1,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      1
+    ],
+    "HNKHPIEJGDD": [
+      70,
+      90
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2024,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      1,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      1
+    ],
+    "HNKHPIEJGDD": [
+      70,
+      90
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2025,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      1,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      0,
+      0
+    ],
+    "BMKABBDJOPN": [
+      2,
+      3
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      30,
+      45
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2026,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      2,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 1,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      1
+    ],
+    "HNKHPIEJGDD": [
+      50,
+      60
+    ],
+    "PFPHEDFFBOI": [
+      35,
+      40
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2027,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      1,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      2,
+      3
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      60,
+      65
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2028,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      1.5,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      2,
+      3
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      60,
+      65
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2029,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      2,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 3,
+    "AJHFGLNAHFE": [
+      -0.2,
+      -0.2
+    ],
+    "BMKABBDJOPN": [
+      0.5,
+      0.5
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      60,
+      65
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 60
+  },
+  {
+    "PKLAPAOFNKA": 2030,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      3,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      0,
+      0
+    ],
+    "BMKABBDJOPN": [
+      2,
+      3
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      30,
+      45
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  },
+  {
+    "PKLAPAOFNKA": 2031,
+    "LNFKIHLPJHN": "FISH_SKILL_CATEGORY_BONUS",
+    "DCGGDMIPIAG": "FISH_SKILL_TIME",
+    "NNPMGFENCEK": [
+      1,
+      1,
+      0
+    ],
+    "GGJKMPNMDGE": 2,
+    "AJHFGLNAHFE": [
+      0,
+      0
+    ],
+    "BMKABBDJOPN": [
+      2,
+      3
+    ],
+    "HNKHPIEJGDD": [
+      30,
+      50
+    ],
+    "PFPHEDFFBOI": [
+      30,
+      45
+    ],
+    "EOAGMHICOFJ": 5,
+    "AMNCMAKMBFM": 20
+  }
+]

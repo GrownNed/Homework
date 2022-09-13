@@ -1,0 +1,690 @@
+[
+  {
+    "GOLNLPMACDH": 1,
+    "JNGHGPAJCGH": 2654357900,
+    "CJGOMEMKELM": 2195739106,
+    "PKLAPAOFNKA": 2010101,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ELEMENT_BALL",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 99,
+    "JNGHGPAJCGH": 3769740116,
+    "CJGOMEMKELM": 1982232602,
+    "PKLAPAOFNKA": 2010102,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_MAX_BALL",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 99,
+    "JNGHGPAJCGH": 773193068,
+    "CJGOMEMKELM": 2859821330,
+    "PKLAPAOFNKA": 2010103,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_MAX_SCORE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 9,
+    "JNGHGPAJCGH": 3688133772,
+    "CJGOMEMKELM": 1519366290,
+    "PKLAPAOFNKA": 2010104,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_GROUP_MONSTER",
+      "KGDLJNNIHPE": [
+        "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 20,
+    "JNGHGPAJCGH": 845623444,
+    "CJGOMEMKELM": 1898568234,
+    "PKLAPAOFNKA": 2010105,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_GROUP_MONSTER",
+      "KGDLJNNIHPE": [
+        "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 40,
+    "JNGHGPAJCGH": 722178940,
+    "CJGOMEMKELM": 2299384682,
+    "PKLAPAOFNKA": 2010106,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_GROUP_MONSTER",
+      "KGDLJNNIHPE": [
+        "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 15
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 8,
+    "JNGHGPAJCGH": 1625957476,
+    "CJGOMEMKELM": 3751225258,
+    "PKLAPAOFNKA": 2010107,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "0",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 19,
+    "JNGHGPAJCGH": 2090237156,
+    "CJGOMEMKELM": 2025571994,
+    "PKLAPAOFNKA": 2010108,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "0",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 15
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 30,
+    "JNGHGPAJCGH": 3117588,
+    "CJGOMEMKELM": 1899363362,
+    "PKLAPAOFNKA": 2010109,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "0",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 20
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 10,
+    "JNGHGPAJCGH": 1891962004,
+    "CJGOMEMKELM": 3148143994,
+    "PKLAPAOFNKA": 2010110,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10000
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 50,
+    "JNGHGPAJCGH": 1764768676,
+    "CJGOMEMKELM": 593452714,
+    "PKLAPAOFNKA": 2010111,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 20000
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 100,
+    "JNGHGPAJCGH": 1395777212,
+    "CJGOMEMKELM": 4084880994,
+    "PKLAPAOFNKA": 2010112,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 30000
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 31,
+    "JNGHGPAJCGH": 4095657524,
+    "CJGOMEMKELM": 3670554322,
+    "PKLAPAOFNKA": 2010113,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 31,
+    "JNGHGPAJCGH": 221984292,
+    "CJGOMEMKELM": 3361192866,
+    "PKLAPAOFNKA": 2010114,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 31,
+    "JNGHGPAJCGH": 114528260,
+    "CJGOMEMKELM": 3264693634,
+    "PKLAPAOFNKA": 2010115,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 31,
+    "JNGHGPAJCGH": 4205024628,
+    "CJGOMEMKELM": 3094510050,
+    "PKLAPAOFNKA": 2010116,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "4",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 31,
+    "JNGHGPAJCGH": 1002266324,
+    "CJGOMEMKELM": 2091559258,
+    "PKLAPAOFNKA": 2010117,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 31,
+    "JNGHGPAJCGH": 2702170444,
+    "CJGOMEMKELM": 4072626642,
+    "PKLAPAOFNKA": 2010118,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "7",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 1,
+    "AMNCMAKMBFM": 31,
+    "JNGHGPAJCGH": 2430136620,
+    "CJGOMEMKELM": 923190698,
+    "PKLAPAOFNKA": 2010119,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+      "KGDLJNNIHPE": [
+        "8",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 3516964116,
+    "CJGOMEMKELM": 3460196562,
+    "PKLAPAOFNKA": 3010101,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_GROUP_MONSTER",
+      "KGDLJNNIHPE": [
+        "133002418",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 3674651572,
+    "CJGOMEMKELM": 2131537874,
+    "PKLAPAOFNKA": 3010102,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_GROUP_MONSTER",
+      "KGDLJNNIHPE": [
+        "133002418",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 1359590740,
+    "CJGOMEMKELM": 1713981458,
+    "PKLAPAOFNKA": 3010103,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_GROUP_MONSTER",
+      "KGDLJNNIHPE": [
+        "133002418",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 2895236060,
+    "CJGOMEMKELM": 2543188794,
+    "PKLAPAOFNKA": 3010104,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_ICESHIELD_KILL_COUNT",
+        "1",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 374794020,
+    "CJGOMEMKELM": 4271030970,
+    "PKLAPAOFNKA": 3010105,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_ICESHIELD_KILL_COUNT",
+        "2",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 2937262180,
+    "CJGOMEMKELM": 1280373154,
+    "PKLAPAOFNKA": 3010106,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_ICESHIELD_KILL_COUNT",
+        "3",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 3982447332,
+    "CJGOMEMKELM": 2787777378,
+    "PKLAPAOFNKA": 3010107,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_SPECIALICE_KILL_COUNT",
+        "1",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 3290335052,
+    "CJGOMEMKELM": 1639355378,
+    "PKLAPAOFNKA": 3010108,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_SPECIALICE_KILL_COUNT",
+        "2",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 4042852868,
+    "CJGOMEMKELM": 1582449522,
+    "PKLAPAOFNKA": 3010109,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_SPECIALICE_KILL_COUNT",
+        "3",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 724364972,
+    "CJGOMEMKELM": 1269146210,
+    "PKLAPAOFNKA": 3010110,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_OREDULINSBLOOD_PICK_COUNT",
+        "5",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 2572443300,
+    "CJGOMEMKELM": 642812298,
+    "PKLAPAOFNKA": 3010111,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_OREDULINSBLOOD_PICK_COUNT",
+        "10",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 1906535188,
+    "CJGOMEMKELM": 1274703458,
+    "PKLAPAOFNKA": 3010112,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_OREDULINSBLOOD_PICK_COUNT",
+        "15",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 2767320436,
+    "CJGOMEMKELM": 2286998394,
+    "PKLAPAOFNKA": 3010113,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_GROUP_SPECIFIC_MONSTER",
+      "KGDLJNNIHPE": [
+        "133002418",
+        "418001",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 4016340956,
+    "CJGOMEMKELM": 2908718194,
+    "PKLAPAOFNKA": 3010114,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_ICESHIELD_KILL_COUNT",
+        "0",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 2183439764,
+    "CJGOMEMKELM": 3398444402,
+    "PKLAPAOFNKA": 3010115,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "AVATAR_SPECIALICE_KILL_COUNT",
+        "0",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 3,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 955120972,
+    "CJGOMEMKELM": 96419506,
+    "PKLAPAOFNKA": 3010116,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COMBAT_CONFIG_COMMON",
+      "KGDLJNNIHPE": [
+        "Watcher_SnowMountain_3010116",
+        "Watcher_SnowMountain_MPPlay",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 4,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 1682418356,
+    "CJGOMEMKELM": 2855381586,
+    "PKLAPAOFNKA": 2040401,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "ACT_OCEANID_Use_Lift",
+        "1",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 4,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 2694017516,
+    "CJGOMEMKELM": 2518001978,
+    "PKLAPAOFNKA": 2040402,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "ACT_OCEANID_Use_Lift",
+        "0",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 4,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 137338380,
+    "CJGOMEMKELM": 3789865170,
+    "PKLAPAOFNKA": 2040403,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "ACT_OCEANID_Endure_Boss_EX_Skill",
+        "1",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 4,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 1852056468,
+    "CJGOMEMKELM": 4182049682,
+    "PKLAPAOFNKA": 2040404,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "ACT_OCEANID_Summon_In_Advance",
+        "1",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 4,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 108125332,
+    "CJGOMEMKELM": 2698668274,
+    "PKLAPAOFNKA": 2040405,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "ACT_OCEANID_FallingAttack_Crab",
+        "1",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 4,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 870088220,
+    "CJGOMEMKELM": 3927958082,
+    "PKLAPAOFNKA": 2040406,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_GROUP_SPECIFIC_MONSTER",
+      "KGDLJNNIHPE": [
+        "133102112",
+        "112011",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 4,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 3026277532,
+    "CJGOMEMKELM": 3175766426,
+    "PKLAPAOFNKA": 2040407,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "ACT_OCEANID_Endure_Boss_EX_Skill",
+        "2",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "GOLNLPMACDH": 4,
+    "LABNCKHEMFE": true,
+    "JNGHGPAJCGH": 4136851564,
+    "CJGOMEMKELM": 2282322490,
+    "PKLAPAOFNKA": 2040408,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+      "KGDLJNNIHPE": [
+        "ACT_OCEANID_Endure_Boss_EX_Skill",
+        "3",
+        "4"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  }
+]

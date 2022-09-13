@@ -1,0 +1,552 @@
+[
+  {
+    "HMNEJGOMDPD": 1,
+    "NNMELCOPDIB": "Area_Ljxs_Tree_Common_Birchtree01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_BIRCH"
+  },
+  {
+    "HMNEJGOMDPD": 2,
+    "NNMELCOPDIB": "Area_Ljxs_Tree_Common_Pt_01_NoSnow_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 3,
+    "NNMELCOPDIB": "Tree_Area_Ljxs_Tree_Common_Pt_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 4,
+    "NNMELCOPDIB": "Tree_Area_Ljxs_Tree_Common_Pt_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 5,
+    "NNMELCOPDIB": "Tree_Area_Ljxs_Tree_Common_Pt_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 6,
+    "NNMELCOPDIB": "Tree_Area_Ljxs_Tree_Common_Pt_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 7,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_Common_Gg_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 8,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_Common_Gg_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 9,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_Common_Gg_06_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 10,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_Common_Pt_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 11,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_Common_Pt_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 12,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_Common_Pt_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 13,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_Common_Pt_05_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 14,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_QC_Bamboo_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_BAMBOO"
+  },
+  {
+    "HMNEJGOMDPD": 15,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_QC_Bamboo_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_BAMBOO"
+  },
+  {
+    "HMNEJGOMDPD": 16,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_QC_Bamboo_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_BAMBOO"
+  },
+  {
+    "HMNEJGOMDPD": 17,
+    "NNMELCOPDIB": "Tree_Area_Ly_Tree_QC_Bamboo_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_BAMBOO"
+  },
+  {
+    "HMNEJGOMDPD": 18,
+    "NNMELCOPDIB": "Tree_Stages_AppleTree01_Vo",
+    "ADBEHDAICNE": "TREE_TYPE_MAPLE"
+  },
+  {
+    "HMNEJGOMDPD": 19,
+    "NNMELCOPDIB": "Tree_Stages_Birchtree01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_BIRCH"
+  },
+  {
+    "HMNEJGOMDPD": 20,
+    "NNMELCOPDIB": "Tree_Stages_CyPinetree01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 21,
+    "NNMELCOPDIB": "Tree_Stages_CyPinetree02_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 22,
+    "NNMELCOPDIB": "Tree_Stages_CyPinetree03_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 23,
+    "NNMELCOPDIB": "Tree_Stages_CyTree01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CYPRESS"
+  },
+  {
+    "HMNEJGOMDPD": 24,
+    "NNMELCOPDIB": "Tree_Stages_CyTree02_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CYPRESS"
+  },
+  {
+    "HMNEJGOMDPD": 25,
+    "NNMELCOPDIB": "Tree_Stages_CyTree03_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CYPRESS"
+  },
+  {
+    "HMNEJGOMDPD": 26,
+    "NNMELCOPDIB": "Tree_Stages_CyTree04_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CYPRESS"
+  },
+  {
+    "HMNEJGOMDPD": 27,
+    "NNMELCOPDIB": "Tree_Stages_CyTree05_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CYPRESS"
+  },
+  {
+    "HMNEJGOMDPD": 28,
+    "NNMELCOPDIB": "Tree_Stages_FirTree01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_FIRTREE"
+  },
+  {
+    "HMNEJGOMDPD": 29,
+    "NNMELCOPDIB": "Tree_Stages_FirTree02_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_FIRTREE"
+  },
+  {
+    "HMNEJGOMDPD": 30,
+    "NNMELCOPDIB": "Tree_Stages_FirTree03_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_FIRTREE"
+  },
+  {
+    "HMNEJGOMDPD": 31,
+    "NNMELCOPDIB": "Tree_Stages_Fleur_CyPineTree_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 32,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Fs_01_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_ACER"
+  },
+  {
+    "HMNEJGOMDPD": 33,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Fs_02_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_ACER"
+  },
+  {
+    "HMNEJGOMDPD": 34,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Liushan_02_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CRYPTOMERIA"
+  },
+  {
+    "HMNEJGOMDPD": 35,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Liushan_03_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CRYPTOMERIA"
+  },
+  {
+    "HMNEJGOMDPD": 36,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Liushan_05_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CRYPTOMERIA"
+  },
+  {
+    "HMNEJGOMDPD": 37,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Ls_01_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_OTOGI"
+  },
+  {
+    "HMNEJGOMDPD": 38,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Ls_03_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_OTOGI"
+  },
+  {
+    "HMNEJGOMDPD": 39,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Ls_04_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_OTOGI"
+  },
+  {
+    "HMNEJGOMDPD": 40,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Ls_05_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_OTOGI"
+  },
+  {
+    "HMNEJGOMDPD": 41,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Ls_06_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_OTOGI"
+  },
+  {
+    "HMNEJGOMDPD": 42,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Pt_01_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 43,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Pt_02_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 44,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Pt_03_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 45,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Pt_05_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 46,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Sak_01_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CERASUS"
+  },
+  {
+    "HMNEJGOMDPD": 47,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Sak_06_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CERASUS"
+  },
+  {
+    "HMNEJGOMDPD": 48,
+    "NNMELCOPDIB": "Tree_Area_Dq_HZD_Ty_02_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CYPRESS"
+  },
+  {
+    "HMNEJGOMDPD": 49,
+    "NNMELCOPDIB": "Tree_Area_Dq_Common_Sak_07_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_CERASUS"
+  },
+  {
+    "HMNEJGOMDPD": 50,
+    "NNMELCOPDIB": "Tree_Area_Dq_Tree_Common_Pt_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_PINE"
+  },
+  {
+    "HMNEJGOMDPD": 51,
+    "NNMELCOPDIB": "Tree_Area_Dq_Tree_HG_Ty_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_CRYPTOMERIA"
+  },
+  {
+    "HMNEJGOMDPD": 52,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_E_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 53,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_E_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 54,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 55,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 56,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_05_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 57,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_06_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 58,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_07_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 59,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_08_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 60,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_09_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 61,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_13_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 62,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_14_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 63,
+    "NNMELCOPDIB": "Tree_Area_Cyjy_Tree_UP_Hys_15_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_POPULUS_EUPHRATICA"
+  },
+  {
+    "HMNEJGOMDPD": 64,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_ARC_PingShu_08_Bark_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_FICUS"
+  },
+  {
+    "HMNEJGOMDPD": 65,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_ARC_PingShu_09_Bark_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_FICUS"
+  },
+  {
+    "HMNEJGOMDPD": 66,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Cys_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MELIA"
+  },
+  {
+    "HMNEJGOMDPD": 67,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Cys_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MELIA"
+  },
+  {
+    "HMNEJGOMDPD": 68,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Hds_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 69,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Hyds_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 70,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Palm_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MELIA"
+  },
+  {
+    "HMNEJGOMDPD": 71,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Palm_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MELIA"
+  },
+  {
+    "HMNEJGOMDPD": 72,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Palm_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MELIA"
+  },
+  {
+    "HMNEJGOMDPD": 73,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Qgs_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 74,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Sxs_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 75,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Sxs_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 76,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Tieshu_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 77,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Tieshu_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 78,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Tys_07_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_FICUS"
+  },
+  {
+    "HMNEJGOMDPD": 79,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Tys_08_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_FICUS"
+  },
+  {
+    "HMNEJGOMDPD": 80,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Zhs_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 81,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Zhs_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 82,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Blb_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 83,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Blb_04_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 84,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Blb_05_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 85,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Blb_06_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 86,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Bls_02_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 87,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Bls_03_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 88,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Cjs_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 89,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Ds_02_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_TAMARIX"
+  },
+  {
+    "HMNEJGOMDPD": 93,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Mbs_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 94,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Xrzs_01_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 95,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Xrzs_02_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 96,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Xrzs_04_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_SYLVESTRIS"
+  },
+  {
+    "HMNEJGOMDPD": 97,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Yzs_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_TAMARIX"
+  },
+  {
+    "HMNEJGOMDPD": 98,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Yzs_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_TAMARIX"
+  },
+  {
+    "HMNEJGOMDPD": 99,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Yzs_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_TAMARIX"
+  },
+  {
+    "HMNEJGOMDPD": 100,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Yzs_05_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_TAMARIX"
+  },
+  {
+    "HMNEJGOMDPD": 101,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_HYZS_Hyds_02_Fin",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 102,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_ARC_PingShu_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_FICUS"
+  },
+  {
+    "HMNEJGOMDPD": 103,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_ARC_PingShu_04_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_FICUS"
+  },
+  {
+    "HMNEJGOMDPD": 104,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Hds_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 105,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Hds_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 106,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Hds_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 107,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Hds_05_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 108,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Palm_02_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MELIA"
+  },
+  {
+    "HMNEJGOMDPD": 109,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Sxs_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 110,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Sxs_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 111,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_Common_Tieshu_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_MARATTIA"
+  },
+  {
+    "HMNEJGOMDPD": 112,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Ds_01_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_TAMARIX"
+  },
+  {
+    "HMNEJGOMDPD": 114,
+    "NNMELCOPDIB": "Tree_Area_Xm_Tree_CWSM_Yzs_03_Lod0",
+    "ADBEHDAICNE": "TREE_TYPE_TAMARIX"
+  }
+]

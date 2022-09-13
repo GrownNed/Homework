@@ -1,0 +1,44 @@
+[
+  {
+    "FMIHBNEHIIK": 10
+  },
+  {
+    "DDMCMHELJMP": "Ability_TauntLevel_2",
+    "FMIHBNEHIIK": 30
+  },
+  {
+    "DDMCMHELJMP": "Ability_TauntLevel_3",
+    "FMIHBNEHIIK": 50
+  },
+  {
+    "DDMCMHELJMP": "Ability_TauntLevel_4",
+    "FMIHBNEHIIK": 70
+  },
+  {
+    "DDMCMHELJMP": "Ability_TauntLevel_5",
+    "FMIHBNEHIIK": 90
+  },
+  {
+    "DDMCMHELJMP": "Monster_TauntLevel_1"
+  },
+  {
+    "DDMCMHELJMP": "Monster_TauntLevel_2",
+    "FMIHBNEHIIK": 20
+  },
+  {
+    "DDMCMHELJMP": "Monster_TauntLevel_3",
+    "FMIHBNEHIIK": 40
+  },
+  {
+    "DDMCMHELJMP": "Monster_TauntLevel_4",
+    "FMIHBNEHIIK": 60
+  },
+  {
+    "DDMCMHELJMP": "Monster_TauntLevel_5",
+    "FMIHBNEHIIK": 80
+  },
+  {
+    "DDMCMHELJMP": "Monster_TauntLevel_6",
+    "FMIHBNEHIIK": 100
+  }
+]

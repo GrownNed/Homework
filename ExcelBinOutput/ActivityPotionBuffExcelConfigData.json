@@ -1,0 +1,478 @@
+[
+  {
+    "DMICCJIAGAK": 1,
+    "GPDAEIMDCBF": "Activity_Potion_SwirlIncreaseTeamAtk",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 3743687447,
+    "CMLCFIIJCGA": 3681690235,
+    "FHPFHCOPKGB": [
+      "20",
+      "8",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Add"
+  },
+  {
+    "DMICCJIAGAK": 2,
+    "GPDAEIMDCBF": "Activity_Potion_DamageUp_SubHurtDown",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 753384535,
+    "CMLCFIIJCGA": 815798515,
+    "FHPFHCOPKGB": [
+      "30",
+      "15",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Add"
+  },
+  {
+    "DMICCJIAGAK": 3,
+    "GPDAEIMDCBF": "Activity_Potion_ElementalBurstDamageUp",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 2939251487,
+    "CMLCFIIJCGA": 1848611195,
+    "FHPFHCOPKGB": [
+      "20",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 4,
+    "GPDAEIMDCBF": "Activity_Potion_ElemMasteryDeltaUp",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 3278948215,
+    "CMLCFIIJCGA": 1530906011,
+    "FHPFHCOPKGB": [
+      "120",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 5,
+    "GPDAEIMDCBF": "Activity_Potion_Explode_Superconductor_Shock_IncreaseDmg",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 1249058055,
+    "CMLCFIIJCGA": 715665259,
+    "FHPFHCOPKGB": [
+      "7.5",
+      "8",
+      "3",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 6,
+    "GPDAEIMDCBF": "Activity_Potion_Purple_After_Steam_Melt",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 1750184031,
+    "CMLCFIIJCGA": 1433810139,
+    "FHPFHCOPKGB": [
+      "5",
+      "5",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 7,
+    "GPDAEIMDCBF": "Activity_Potion_AttackFrozenEnemy_IncreaseDamage",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 127479055,
+    "CMLCFIIJCGA": 2336323275,
+    "FHPFHCOPKGB": [
+      "25",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 8,
+    "GPDAEIMDCBF": "Activity_Potion_AllElementalDmgUp_AfterNormalAttack",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 83284591,
+    "CMLCFIIJCGA": 591613563,
+    "FHPFHCOPKGB": [
+      "5",
+      "10",
+      "4",
+      "1",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 9,
+    "GPDAEIMDCBF": "Activity_Potion_SkillCDMinusRatioUp_AfterSkill",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 3294437271,
+    "CMLCFIIJCGA": 2595571363,
+    "FHPFHCOPKGB": [
+      "50",
+      "8",
+      "16",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 10,
+    "GPDAEIMDCBF": "Activity_Potion_ExtraAttackAtkUpAfterUseUltimateSkill",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 3642839967,
+    "CMLCFIIJCGA": 209664355,
+    "FHPFHCOPKGB": [
+      "25",
+      "15",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Nomal"
+  },
+  {
+    "DMICCJIAGAK": 11,
+    "GPDAEIMDCBF": "Activity_Potion_ThumDamageUp",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 1811513007,
+    "CMLCFIIJCGA": 4135230939,
+    "FHPFHCOPKGB": [
+      "20",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Nomal"
+  },
+  {
+    "DMICCJIAGAK": 12,
+    "GPDAEIMDCBF": "Activity_Potion_NormalAttackUp",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 700634055,
+    "CMLCFIIJCGA": 1064879155,
+    "FHPFHCOPKGB": [
+      "20",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Nomal"
+  },
+  {
+    "DMICCJIAGAK": 13,
+    "GPDAEIMDCBF": "Activity_Potion_ElemnentalArt_GenerateBall",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 2119867743,
+    "CMLCFIIJCGA": 3675583531,
+    "FHPFHCOPKGB": [
+      "6",
+      "3",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Energy"
+  },
+  {
+    "DMICCJIAGAK": 14,
+    "GPDAEIMDCBF": "Activity_Potion_ThumpCostReduce",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 532308295,
+    "CMLCFIIJCGA": 4129770091,
+    "FHPFHCOPKGB": [
+      "50",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Other_SPReduceConsume"
+  },
+  {
+    "DMICCJIAGAK": 15,
+    "GPDAEIMDCBF": "Activity_Potion_DashStaminaReduce",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 3866420151,
+    "CMLCFIIJCGA": 3669595451,
+    "FHPFHCOPKGB": [
+      "50",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Other_SPReduceConsume"
+  },
+  {
+    "DMICCJIAGAK": 16,
+    "GPDAEIMDCBF": "Activity_Potion_DefenceUp_Team",
+    "KCGENIAAGAN": 4,
+    "JBDAFDHMKPA": 2782209711,
+    "CMLCFIIJCGA": 2231429995,
+    "FHPFHCOPKGB": [
+      "50",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 3509970618,
+    "MIKOFNEFALC": 89,
+    "KFGLFEAKNNM": "UI_Buff_Item_Def_Add"
+  },
+  {
+    "DMICCJIAGAK": 17,
+    "GPDAEIMDCBF": "Activity_Potion_HealAttackUp",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 129842831,
+    "CMLCFIIJCGA": 812159483,
+    "FHPFHCOPKGB": [
+      "20",
+      "12",
+      "3",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Add"
+  },
+  {
+    "DMICCJIAGAK": 18,
+    "GPDAEIMDCBF": "Activity_Potion_HightHP_IncreaseDamage",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 2503785447,
+    "CMLCFIIJCGA": 3174246531,
+    "FHPFHCOPKGB": [
+      "80",
+      "50",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Add"
+  },
+  {
+    "DMICCJIAGAK": 19,
+    "GPDAEIMDCBF": "Activity_Potion_ATKSpeedUp_AfterDash",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 842840311,
+    "CMLCFIIJCGA": 2937246195,
+    "FHPFHCOPKGB": [
+      "50",
+      "8",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Nomal"
+  },
+  {
+    "DMICCJIAGAK": 20,
+    "GPDAEIMDCBF": "Activity_Potion_ContinuousNormalAtk_HealEffectUp",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 2413744351,
+    "CMLCFIIJCGA": 1289630755,
+    "FHPFHCOPKGB": [
+      "100",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Recovery_HpAdd"
+  },
+  {
+    "DMICCJIAGAK": 21,
+    "GPDAEIMDCBF": "Activity_Potion_AtkUp_OnAvatarIn",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 4201151567,
+    "CMLCFIIJCGA": 1418422763,
+    "FHPFHCOPKGB": [
+      "10",
+      "10",
+      "4",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Add"
+  },
+  {
+    "DMICCJIAGAK": 22,
+    "GPDAEIMDCBF": "Activity_Potion_UltimateSkill_UltimateSkillDamageUp",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 276572567,
+    "CMLCFIIJCGA": 2882572443,
+    "FHPFHCOPKGB": [
+      "15",
+      "8",
+      "3",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 23,
+    "GPDAEIMDCBF": "Activity_Potion_HitTheTarget_GenerateBall_AfterUltimateSkill",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 3608574655,
+    "CMLCFIIJCGA": 3727870755,
+    "FHPFHCOPKGB": [
+      "12",
+      "10",
+      "2",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Energy"
+  },
+  {
+    "DMICCJIAGAK": 24,
+    "GPDAEIMDCBF": "Activity_Potion_LowEnergy_ChargeEfficiencyUp",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 3105790447,
+    "CMLCFIIJCGA": 4070765675,
+    "FHPFHCOPKGB": [
+      "75",
+      "100",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Energy"
+  },
+  {
+    "DMICCJIAGAK": 25,
+    "GPDAEIMDCBF": "Activity_Potion_ElementalDamageUp_AfterSkill",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 2685644407,
+    "CMLCFIIJCGA": 438399787,
+    "FHPFHCOPKGB": [
+      "40",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_ElementHurt_All"
+  },
+  {
+    "DMICCJIAGAK": 26,
+    "GPDAEIMDCBF": "Activity_Potion_AtkSpeedUp_MoveSpeedUp_OnKillEnemies",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 2097810231,
+    "CMLCFIIJCGA": 3613331147,
+    "FHPFHCOPKGB": [
+      "30",
+      "30",
+      "12",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Nomal"
+  },
+  {
+    "DMICCJIAGAK": 27,
+    "GPDAEIMDCBF": "Activity_Potion_AddAtkUpLevelOnStage_SubAtkLevelOffStage",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 944408055,
+    "CMLCFIIJCGA": 3911062771,
+    "FHPFHCOPKGB": [
+      "2",
+      "7.5",
+      "6",
+      "4",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Atk_Nomal"
+  },
+  {
+    "DMICCJIAGAK": 28,
+    "GPDAEIMDCBF": "Activity_Potion_RecoverEnergy_HitDamage",
+    "KCGENIAAGAN": 5,
+    "JBDAFDHMKPA": 2056073071,
+    "CMLCFIIJCGA": 2841192995,
+    "FHPFHCOPKGB": [
+      "6",
+      "2",
+      "",
+      "",
+      ""
+    ],
+    "GIHANMHEOGO": 451446521,
+    "MIKOFNEFALC": 195,
+    "KFGLFEAKNNM": "UI_Buff_Item_Energy"
+  }
+]

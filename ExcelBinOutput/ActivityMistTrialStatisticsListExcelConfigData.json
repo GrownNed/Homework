@@ -1,0 +1,242 @@
+[
+  {
+    "PJNEDDPBJCF": 1,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
+    "NNPMGFENCEK": [
+      "1,2,3,101,201,301,401",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 2,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_ATTACK_BY_GEAR_COUNT",
+    "NNPMGFENCEK": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 3,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_BY_ATTACK_TAG",
+    "NNPMGFENCEK": [
+      "FallingAttack",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 4,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
+    "NNPMGFENCEK": [
+      "1,2,3,101,201,301,401",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 5,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_RECOVER_HP_COUNT",
+    "NNPMGFENCEK": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 6,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_BY_ATTACK_TAG",
+    "NNPMGFENCEK": [
+      "Elemental_Burst",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 7,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
+    "NNPMGFENCEK": [
+      "1,2,3,101,201,301,401",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 8,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_KILL_SHIELD_COUNT",
+    "NNPMGFENCEK": [
+      "50004002,50004012,50004022,50004023,50004054,50004055",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 9,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_BY_ATTACK_TAG",
+    "NNPMGFENCEK": [
+      "ExtraAttack,NormalAttack_01,NormalAttack_02,NormalAttack_03,NormalAttack_04,NormalAttack_05,NormalAttack_06",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 10,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
+    "NNPMGFENCEK": [
+      "1,2,3,101,201,301,401",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 11,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_BE_HURT_COUNT",
+    "NNPMGFENCEK": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 12,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
+    "NNPMGFENCEK": [
+      "1,2,3,101,201,301,401",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 13,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_BE_HURT_COUNT",
+    "NNPMGFENCEK": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 14,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_BY_SHIELD",
+    "NNPMGFENCEK": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 15,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_FINISH_CHALLENGE_COUNT",
+    "NNPMGFENCEK": [
+      "1,2,3,101,201,301,401",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 16,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_DISABLE_GEAR_COUNT",
+    "NNPMGFENCEK": [
+      "70350215,70350216,70350217,70350218,70900012,70900013",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 17,
+    "AEFAKFIKCKL": 5022001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_TYPE_NUM",
+    "NNPMGFENCEK": [
+      "1,2,3,7,8,12,16,17,18,19,20,27,28,29,30",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 18,
+    "AEFAKFIKCKL": 5054001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
+    "NNPMGFENCEK": [
+      "8",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 19,
+    "AEFAKFIKCKL": 5054001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
+    "NNPMGFENCEK": [
+      "12",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 20,
+    "AEFAKFIKCKL": 5054001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
+    "NNPMGFENCEK": [
+      "2,7",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 21,
+    "AEFAKFIKCKL": 5054001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
+    "NNPMGFENCEK": [
+      "1,16,17,18,19,20,27,28,29,30",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 22,
+    "AEFAKFIKCKL": 5054001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_ELEMENT_BURST_COUNT",
+    "NNPMGFENCEK": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 23,
+    "AEFAKFIKCKL": 5054001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_ELEMENT_REACTION_COUNT",
+    "NNPMGFENCEK": [
+      "17,18,19,20",
+      "",
+      ""
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 24,
+    "AEFAKFIKCKL": 5054001,
+    "HOLLHNFJDLP": "MIST_TRIAL_STAT_TYPE_KILL_MONSTER_COUNT",
+    "NNPMGFENCEK": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

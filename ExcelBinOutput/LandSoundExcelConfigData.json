@@ -1,0 +1,46 @@
+[
+  {
+    "BFIAIDIGHEB": "默认",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_common"
+  },
+  {
+    "PKLAPAOFNKA": 1,
+    "BFIAIDIGHEB": "武器",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_weapon"
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "BFIAIDIGHEB": "圣遗物",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_relic"
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "BFIAIDIGHEB": "金属",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_metal"
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "BFIAIDIGHEB": "纸类",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_paper"
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "BFIAIDIGHEB": "肉类",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_meat"
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "BFIAIDIGHEB": "食品",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_food"
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "BFIAIDIGHEB": "忽略",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_ignore"
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "BFIAIDIGHEB": "木头",
+    "OHPAEFAFJDL": "Play_sfx_pickups_object_dropLand_wood"
+  }
+]

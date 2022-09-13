@@ -1,0 +1,44 @@
+[
+  {
+    "FCHCJDEBKPF": "MP_PLAY_CRUCIBLE",
+    "NNPMGFENCEK": [
+      900,
+      0,
+      0
+    ],
+    "OKHMEMNHNPD": true
+  },
+  {
+    "FCHCJDEBKPF": "MP_PLAY_ASTER",
+    "NNPMGFENCEK": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "FCHCJDEBKPF": "MP_PLAY_DRAGON_SPINE",
+    "NNPMGFENCEK": [
+      600,
+      0,
+      0
+    ],
+    "OKHMEMNHNPD": true
+  },
+  {
+    "FCHCJDEBKPF": "MP_PLAY_WATER_SPRITE",
+    "NNPMGFENCEK": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "FCHCJDEBKPF": "MP_PLAY_WINTER_CAMP",
+    "NNPMGFENCEK": [
+      0,
+      0,
+      0
+    ]
+  }
+]

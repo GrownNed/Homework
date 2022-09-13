@@ -1,0 +1,188 @@
+[
+  {
+    "PKLAPAOFNKA": 1001,
+    "KFJJNAFIGIN": "Combine_Lyg",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!Hdj&&!Zyj)"
+  },
+  {
+    "PKLAPAOFNKA": 1002,
+    "KFJJNAFIGIN": "Combine_Mdc",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!Fhj&&!Vintage_Md)"
+  },
+  {
+    "PKLAPAOFNKA": 1003,
+    "KFJJNAFIGIN": "Aby_LightOFF",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(AbyssalNight&& !AbyssalEvent)"
+  },
+  {
+    "PKLAPAOFNKA": 1004,
+    "KFJJNAFIGIN": "Aby_LightON",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(!AbyssalNight && !AbyssalEventNight)"
+  },
+  {
+    "PKLAPAOFNKA": 1005,
+    "KFJJNAFIGIN": "AbyIsle_Const",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(AbyssalIsle || AbyssalEvent)"
+  },
+  {
+    "PKLAPAOFNKA": 1006,
+    "KFJJNAFIGIN": "AbyIsle_LightON",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(AbyssalIsle&& !AbyssalNight)"
+  },
+  {
+    "PKLAPAOFNKA": 1007,
+    "KFJJNAFIGIN": "AbyIsle_LightOFF",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(AbyssalIsle && AbyssalNight)"
+  },
+  {
+    "PKLAPAOFNKA": 1009,
+    "KFJJNAFIGIN": "AbyIsle_NotEvent",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(!AbyssalEvent&&AbyssalIsle)"
+  },
+  {
+    "PKLAPAOFNKA": 1010,
+    "KFJJNAFIGIN": "AbyIsle_NotEventLightOFF",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(!AbyssalEvent && AbyssalNight&&AbyssalIsle)"
+  },
+  {
+    "PKLAPAOFNKA": 1011,
+    "KFJJNAFIGIN": "Combine_RBQyg",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!RBQyg_01j&&!RBQyg_02&&!RBQyg_03&&!RBQyg_04)"
+  },
+  {
+    "PKLAPAOFNKA": 1012,
+    "KFJJNAFIGIN": "Combine_QldFight",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!QLFightPlatform)"
+  },
+  {
+    "PKLAPAOFNKA": 1027,
+    "KFJJNAFIGIN": "Combine_Irodori",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!Irodori)"
+  },
+  {
+    "PKLAPAOFNKA": 1028,
+    "KFJJNAFIGIN": "Aby_NotEvent",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(!AbyssalEvent)"
+  },
+  {
+    "PKLAPAOFNKA": 1029,
+    "KFJJNAFIGIN": "Aby_NotEventLightOFF",
+    "KLEAGKGDLJC": 5,
+    "NECJFGPMKHG": "(!AbyssalEvent && AbyssalNight)"
+  },
+  {
+    "PKLAPAOFNKA": 1036,
+    "KFJJNAFIGIN": "DreamIsland_-1_-1_BaseTerrain",
+    "KLEAGKGDLJC": 9,
+    "NECJFGPMKHG": "(!DI_BD01 && !DI_BDMM && !DI_BDII && !DI_BDIM && !DI_BDMI && !DI_BDYY && !DI_BDMY&& !DI_BDYM&& !DI_BDIY&& !DI_BDYI)"
+  },
+  {
+    "PKLAPAOFNKA": 1037,
+    "KFJJNAFIGIN": "DreamIsland_0_-1_BaseTerrain",
+    "KLEAGKGDLJC": 9,
+    "NECJFGPMKHG": "(!DI_SS01 && !DI_SS02 && !DI_SS03 && !DI_SS04)"
+  },
+  {
+    "PKLAPAOFNKA": 1038,
+    "KFJJNAFIGIN": "DreamIsland_0_0_BaseTerrain",
+    "KLEAGKGDLJC": 9,
+    "NECJFGPMKHG": "(!DI_PP01 && !DI_PP02 && !DI_PP03)"
+  },
+  {
+    "PKLAPAOFNKA": 1039,
+    "KFJJNAFIGIN": "DreamIsland_-1_0_BaseTerrain",
+    "KLEAGKGDLJC": 9,
+    "NECJFGPMKHG": "(!DI_WW01 && !DI_WW02)"
+  },
+  {
+    "PKLAPAOFNKA": 1040,
+    "KFJJNAFIGIN": "DreamIsland_-1_-1_BaseGrass",
+    "KLEAGKGDLJC": 9,
+    "NECJFGPMKHG": "(!DI_BD01 && !DI_WW01 && !DI_WW02&& !DI_BDMM && !DI_BDII && !DI_BDIM && !DI_BDMI && !DI_BDYY && !DI_BDMY&& !DI_BDYM&& !DI_BDIY&& !DI_BDYI)"
+  },
+  {
+    "PKLAPAOFNKA": 1041,
+    "KFJJNAFIGIN": "DreamIsland_0_-1_BaseGrass",
+    "KLEAGKGDLJC": 9,
+    "NECJFGPMKHG": "(!DI_SS01 && !DI_SS02 && !DI_SS03 && !DI_SS04 )"
+  },
+  {
+    "PKLAPAOFNKA": 1042,
+    "KFJJNAFIGIN": "DreamIsland_0_0_BaseGrass",
+    "KLEAGKGDLJC": 9,
+    "NECJFGPMKHG": "(!DI_PP01 && !DI_PP02 && !DI_PP03)"
+  },
+  {
+    "PKLAPAOFNKA": 1043,
+    "KFJJNAFIGIN": "DreamIsland_-1_0_BaseGrass",
+    "KLEAGKGDLJC": 9,
+    "NECJFGPMKHG": "(!DI_WW01 && !DI_WW02)"
+  },
+  {
+    "PKLAPAOFNKA": 1068,
+    "KFJJNAFIGIN": "Combine_SHOPYamashiroKenta",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!SHOPYamashiroKenta)"
+  },
+  {
+    "PKLAPAOFNKA": 1107,
+    "KFJJNAFIGIN": "Vintage_BaseGrass",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!Vintage)"
+  },
+  {
+    "PKLAPAOFNKA": 1108,
+    "KFJJNAFIGIN": "Final_BaseGrass",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "!Final_before"
+  },
+  {
+    "PKLAPAOFNKA": 1124,
+    "KFJJNAFIGIN": "Oasis_BaseGrass",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "!Oasis_after&&!Vana_first"
+  },
+  {
+    "PKLAPAOFNKA": 1117,
+    "KFJJNAFIGIN": "Combine_HuaShen03",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!HuaShen01&&!HuaShen02&&!HuaShen03)"
+  },
+  {
+    "PKLAPAOFNKA": 1126,
+    "KFJJNAFIGIN": "Vintage_BaseTerrain",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!Vintage)"
+  },
+  {
+    "PKLAPAOFNKA": 1142,
+    "KFJJNAFIGIN": "Combine_Vintage",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!Vintage)"
+  },
+  {
+    "PKLAPAOFNKA": 1149,
+    "KFJJNAFIGIN": "CupGrow_0_2_BaseGrass",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!CupGrow_before)"
+  },
+  {
+    "PKLAPAOFNKA": 1145,
+    "KFJJNAFIGIN": "Combine_TitanO_after",
+    "KLEAGKGDLJC": 3,
+    "NECJFGPMKHG": "(!TitanO_after)"
+  }
+]

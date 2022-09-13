@@ -1,0 +1,124 @@
+[
+  {
+    "GDMEEBBJHNA": 1,
+    "HLOAELINJKE": 2,
+    "CPDLLKMLCHN": true,
+    "DDMCMHELJMP": "TARGET_TYPE_GATHER",
+    "KNPPHJKFDMJ": [
+      101,
+      102,
+      103
+    ],
+    "PFKKPFOLGJN": [
+      3,
+      3,
+      6
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": [
+      101,
+      102,
+      103
+    ],
+    "CIIALMHJCHH": 5080001,
+    "JGLJGEDNAJA": 1508001,
+    "DOPFPLFNJEG": 7269401
+  },
+  {
+    "GDMEEBBJHNA": 2,
+    "HLOAELINJKE": 3,
+    "CPDLLKMLCHN": true,
+    "DDMCMHELJMP": "TARGET_TYPE_ELEM",
+    "KNPPHJKFDMJ": [
+      201,
+      202,
+      203
+    ],
+    "PFKKPFOLGJN": [
+      15,
+      15,
+      15
+    ],
+    "JBEICIDFOEP": [
+      133001079,
+      133105077,
+      133213557
+    ],
+    "LPDIHPENLFG": [
+      201,
+      202,
+      203
+    ],
+    "CIIALMHJCHH": 5080002,
+    "JGLJGEDNAJA": 1508002,
+    "DOPFPLFNJEG": 7269501
+  },
+  {
+    "GDMEEBBJHNA": 3,
+    "HLOAELINJKE": 4,
+    "CPDLLKMLCHN": true,
+    "DDMCMHELJMP": "TARGET_TYPE_MONSTER",
+    "KNPPHJKFDMJ": [
+      301,
+      302,
+      303
+    ],
+    "PFKKPFOLGJN": [
+      3,
+      4,
+      4
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": [
+      301,
+      302,
+      303
+    ],
+    "CIIALMHJCHH": 5080003,
+    "PCMJIABGLGO": true,
+    "JGLJGEDNAJA": 1508003,
+    "DOPFPLFNJEG": 7269601
+  },
+  {
+    "GDMEEBBJHNA": 4,
+    "HLOAELINJKE": 5,
+    "DDMCMHELJMP": "TARGET_TYPE_GATHER",
+    "KNPPHJKFDMJ": [
+      110
+    ],
+    "PFKKPFOLGJN": [
+      5
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": [],
+    "CIIALMHJCHH": 5080004,
+    "DOPFPLFNJEG": 7269701
+  },
+  {
+    "GDMEEBBJHNA": 5,
+    "HLOAELINJKE": 6,
+    "DDMCMHELJMP": "TARGET_TYPE_ELEM",
+    "KNPPHJKFDMJ": [
+      210
+    ],
+    "PFKKPFOLGJN": [
+      15
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": []
+  },
+  {
+    "GDMEEBBJHNA": 6,
+    "HLOAELINJKE": 4,
+    "DDMCMHELJMP": "TARGET_TYPE_MONSTER",
+    "KNPPHJKFDMJ": [
+      310
+    ],
+    "PFKKPFOLGJN": [
+      4
+    ],
+    "JBEICIDFOEP": [],
+    "LPDIHPENLFG": [],
+    "PCMJIABGLGO": true
+  }
+]

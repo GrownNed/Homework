@@ -1,0 +1,190 @@
+[
+  {
+    "AEFAKFIKCKL": 5003001,
+    "BNJNLKAOMGD": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "AAIOGFHNMKB": [
+      470001,
+      470002,
+      470003,
+      470004,
+      470005,
+      470006
+    ],
+    "NAPCKKMFEGB": [
+      470007
+    ],
+    "LDNACHLEJCD": [
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      1
+    ],
+    "JCLHKOCKDAI": {
+      "FOMDKOAICKJ": "0.14,0.14,0.14,0.14,0.14,0.14,1",
+      "PKLAPAOFNKA": 470007
+    }
+  },
+  {
+    "AEFAKFIKCKL": 5012001,
+    "BNJNLKAOMGD": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "AAIOGFHNMKB": [
+      3005001,
+      3005002,
+      3005003,
+      3005004,
+      3005005,
+      3005006,
+      3005007
+    ],
+    "NAPCKKMFEGB": [],
+    "LDNACHLEJCD": [
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      1
+    ],
+    "JCLHKOCKDAI": {
+      "DGILPJKNABO": "SPECIAL_DROP",
+      "JELJCLPOMOG": "METHOD_DAY_ACCUMULATION",
+      "FOMDKOAICKJ": "5",
+      "PKLAPAOFNKA": 200010001,
+      "HIOBKHAGFDH": 30400
+    }
+  },
+  {
+    "AEFAKFIKCKL": 5012002,
+    "BNJNLKAOMGD": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "AAIOGFHNMKB": [
+      3005001,
+      3005002,
+      3005003,
+      3005004,
+      3005005,
+      3005006,
+      3005007
+    ],
+    "NAPCKKMFEGB": [],
+    "LDNACHLEJCD": [
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      1
+    ],
+    "JCLHKOCKDAI": {
+      "DGILPJKNABO": "SPECIAL_DROP",
+      "JELJCLPOMOG": "METHOD_DAY_ACCUMULATION",
+      "FOMDKOAICKJ": "5",
+      "PKLAPAOFNKA": 200010001,
+      "HIOBKHAGFDH": 30400
+    }
+  },
+  {
+    "AEFAKFIKCKL": 5012003,
+    "BNJNLKAOMGD": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "AAIOGFHNMKB": [
+      3005001,
+      3005002,
+      3005003,
+      3005004,
+      3005005,
+      3005006,
+      3005007
+    ],
+    "NAPCKKMFEGB": [],
+    "LDNACHLEJCD": [
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      1
+    ],
+    "JCLHKOCKDAI": {
+      "DGILPJKNABO": "SPECIAL_DROP",
+      "JELJCLPOMOG": "METHOD_DAY_ACCUMULATION",
+      "FOMDKOAICKJ": "5",
+      "PKLAPAOFNKA": 200010001,
+      "HIOBKHAGFDH": 30400
+    }
+  },
+  {
+    "AEFAKFIKCKL": 5012004,
+    "BNJNLKAOMGD": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "AAIOGFHNMKB": [
+      3005001,
+      3005002,
+      3005003,
+      3005004,
+      3005005,
+      3005006,
+      3005007
+    ],
+    "NAPCKKMFEGB": [],
+    "LDNACHLEJCD": [
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      1
+    ],
+    "JCLHKOCKDAI": {
+      "DGILPJKNABO": "SPECIAL_DROP",
+      "JELJCLPOMOG": "METHOD_DAY_ACCUMULATION",
+      "FOMDKOAICKJ": "5",
+      "PKLAPAOFNKA": 200010001,
+      "HIOBKHAGFDH": 30400
+    }
+  }
+]

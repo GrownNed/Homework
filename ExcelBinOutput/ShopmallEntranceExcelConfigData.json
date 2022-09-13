@@ -1,0 +1,53 @@
+[
+  {
+    "HMNEJGOMDPD": 1,
+    "MJGFPBEHEEM": 1933918037,
+    "LDNFLJJCIEG": [
+      6,
+      4,
+      5
+    ],
+    "OHLLGCMJJEI": "SHOP_TYPE_RECOMMEND",
+    "LKIPAHNOPDL": "UI_MallTabIcon_Recommend",
+    "OAHDIBHHKON": "ENTRANCE_TAB",
+    "NCCAOGONGDO": 5
+  },
+  {
+    "HMNEJGOMDPD": 2,
+    "MJGFPBEHEEM": 3963348389,
+    "LDNFLJJCIEG": [],
+    "OHLLGCMJJEI": "SHOP_TYPE_MCOIN",
+    "LKIPAHNOPDL": "UI_MallTabIcon_Gemstone",
+    "OAHDIBHHKON": "ENTRANCE_RECHARGE",
+    "NCCAOGONGDO": 1
+  },
+  {
+    "HMNEJGOMDPD": 3,
+    "MJGFPBEHEEM": 3019893717,
+    "LDNFLJJCIEG": [],
+    "OHLLGCMJJEI": "SHOP_TYPE_PACKAGE",
+    "LKIPAHNOPDL": "UI_MallTabIcon_GiftPackage",
+    "NCCAOGONGDO": 3
+  },
+  {
+    "HMNEJGOMDPD": 4,
+    "MJGFPBEHEEM": 2486793549,
+    "LDNFLJJCIEG": [
+      2,
+      3,
+      1
+    ],
+    "OHLLGCMJJEI": "SHOP_TYPE_PAIMON",
+    "LKIPAHNOPDL": "UI_MallTabIcon_Commodity",
+    "OAHDIBHHKON": "ENTRANCE_TAB",
+    "NCCAOGONGDO": 2
+  },
+  {
+    "HMNEJGOMDPD": 5,
+    "MJGFPBEHEEM": 529128453,
+    "LDNFLJJCIEG": [],
+    "OHLLGCMJJEI": "SHOP_TYPE_COSTUME",
+    "LKIPAHNOPDL": "UI_MallTabIcon_Clothes",
+    "NCCAOGONGDO": 4
+  }
+]

@@ -1,0 +1,7026 @@
+[
+  {
+    "PKLAPAOFNKA": 1001,
+    "MJGFPBEHEEM": 3755037976,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_1002",
+    "CMLCFIIJCGA": 108104714,
+    "PAGEIKPKJBK": [
+      3777358629,
+      2048687225,
+      3505947766,
+      4105485103
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108011,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108012,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108013,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1003,
+    "MJGFPBEHEEM": 3908313952,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_2001",
+    "CMLCFIIJCGA": 678354210,
+    "PAGEIKPKJBK": [
+      3277042901,
+      1302395425,
+      1442391822,
+      649770735
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108004,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108005,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108006,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.52,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1004,
+    "MJGFPBEHEEM": 1915770008,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_3001",
+    "CMLCFIIJCGA": 1753605034,
+    "PAGEIKPKJBK": [
+      3136799197,
+      2503351705,
+      1881966790,
+      2293374967
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108007,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108008,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108009,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.77,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1005,
+    "MJGFPBEHEEM": 942628784,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_3002",
+    "CMLCFIIJCGA": 2323462586,
+    "PAGEIKPKJBK": [
+      1294574693,
+      2101749145,
+      3326645430,
+      1477603575
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108019,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108020,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108021,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100014,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.8,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1006,
+    "MJGFPBEHEEM": 4128572800,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108096",
+    "CMLCFIIJCGA": 813304538,
+    "PAGEIKPKJBK": [
+      3513118981,
+      889415737,
+      948922518,
+      2903483887
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108095,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108096,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108097,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100077,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1007,
+    "MJGFPBEHEEM": 3984520800,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108226",
+    "CMLCFIIJCGA": 2433132450,
+    "PAGEIKPKJBK": [
+      4150012253,
+      746137129,
+      333150278,
+      1984795567
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108225,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108226,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108227,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1101,
+    "MJGFPBEHEEM": 2376368912,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108093",
+    "CMLCFIIJCGA": 3619433970,
+    "PAGEIKPKJBK": [
+      2058344077,
+      1146820897,
+      1825028958,
+      2904151447
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108092,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108093,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108094,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.48,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1102,
+    "MJGFPBEHEEM": 2711069136,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108099",
+    "CMLCFIIJCGA": 1804774450,
+    "PAGEIKPKJBK": [
+      3258403333,
+      582609369,
+      2333385446,
+      1658276735
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108098,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108099,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108100,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.7,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1103,
+    "MJGFPBEHEEM": 3566956816,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108108",
+    "CMLCFIIJCGA": 3705270682,
+    "PAGEIKPKJBK": [
+      2509227869,
+      788132489,
+      159992982,
+      356219199
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108107,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108108,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108109,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100077,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1104,
+    "MJGFPBEHEEM": 3293738704,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108198",
+    "CMLCFIIJCGA": 507012042,
+    "PAGEIKPKJBK": [
+      485947661,
+      381885497,
+      3916599606,
+      2345314031
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108197,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108198,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108199,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100032,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1201,
+    "MJGFPBEHEEM": 2991931736,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108265",
+    "CMLCFIIJCGA": 356288722,
+    "PAGEIKPKJBK": [
+      2212223885,
+      3406112969,
+      3790933830,
+      2494505863
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108264,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108265,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108266,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.77,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1202,
+    "MJGFPBEHEEM": 369760944,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108268",
+    "CMLCFIIJCGA": 729665722,
+    "PAGEIKPKJBK": [
+      899191133,
+      4191916721,
+      2883416942,
+      1614602391
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108267,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108268,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108269,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100075,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1203,
+    "MJGFPBEHEEM": 1457238064,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108277",
+    "CMLCFIIJCGA": 3113982794,
+    "PAGEIKPKJBK": [
+      3463217237,
+      3521153505,
+      1838035326,
+      3998517207
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108276,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108277,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108278,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100088,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.48,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1204,
+    "MJGFPBEHEEM": 4150510216,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108322",
+    "CMLCFIIJCGA": 3178091658,
+    "PAGEIKPKJBK": [
+      1900690317,
+      115962689,
+      1282893934,
+      3873846687
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108321,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108322,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108323,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.48,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1205,
+    "MJGFPBEHEEM": 3546498944,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108325",
+    "CMLCFIIJCGA": 382566970,
+    "PAGEIKPKJBK": [
+      3439806469,
+      3757536257,
+      2594005438,
+      2280414095
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108324,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108325,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108326,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.48,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1206,
+    "MJGFPBEHEEM": 1604868080,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108352",
+    "CMLCFIIJCGA": 1291877626,
+    "PAGEIKPKJBK": [
+      428751565,
+      1526661833,
+      1867408782,
+      4060499175
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108351,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108352,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108353,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.77,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1301,
+    "MJGFPBEHEEM": 1101682256,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108413",
+    "CMLCFIIJCGA": 1984266282,
+    "PAGEIKPKJBK": [
+      1932750045,
+      3089414481,
+      386462958,
+      1249388335
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108412,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108413,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108414,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100096,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.48,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 1302,
+    "MJGFPBEHEEM": 1937733632,
+    "DJDFHHPBCIL": 1,
+    "LKIPAHNOPDL": "UI_ItemIcon_108422",
+    "CMLCFIIJCGA": 1645492386,
+    "PAGEIKPKJBK": [
+      2958131005,
+      2896051169,
+      2468918934,
+      3928962879
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 5,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108421,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108422,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108423,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 101219,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.77,0.4",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2001,
+    "MJGFPBEHEEM": 3826793904,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_1003",
+    "CMLCFIIJCGA": 3286985874,
+    "PAGEIKPKJBK": [
+      1866629885,
+      3240536537,
+      645304078,
+      2569000423
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108015,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108016,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108017,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100079,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.65,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2002,
+    "MJGFPBEHEEM": 3983445808,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_1004",
+    "CMLCFIIJCGA": 372082930,
+    "PAGEIKPKJBK": [
+      3869493309,
+      2222960097,
+      410047742,
+      3623051615
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108031,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108032,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108033,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100012,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.65,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2003,
+    "MJGFPBEHEEM": 3320078776,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_2002",
+    "CMLCFIIJCGA": 2499450170,
+    "PAGEIKPKJBK": [
+      1263907109,
+      225125121,
+      2490169782,
+      3379200775
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108034,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108035,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108036,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110003,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100076,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.55,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2004,
+    "MJGFPBEHEEM": 3161603856,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_2003",
+    "CMLCFIIJCGA": 545665914,
+    "PAGEIKPKJBK": [
+      3378792541,
+      3640978977,
+      4227247238,
+      832572839
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108037,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108038,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108039,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110002,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.55,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2005,
+    "MJGFPBEHEEM": 3810630240,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_4001",
+    "CMLCFIIJCGA": 2561720146,
+    "PAGEIKPKJBK": [
+      3262173373,
+      589495969,
+      928548390,
+      4194435815
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108022,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108023,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108024,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100051,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2006,
+    "MJGFPBEHEEM": 1947768664,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_4002",
+    "CMLCFIIJCGA": 2562114610,
+    "PAGEIKPKJBK": [
+      1563345757,
+      911446009,
+      4126578494,
+      287554135
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108025,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108026,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108027,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100014,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100077,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2007,
+    "MJGFPBEHEEM": 3016112712,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_4003",
+    "CMLCFIIJCGA": 3201586994,
+    "PAGEIKPKJBK": [
+      124385373,
+      821093969,
+      3030098046,
+      1782059983
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108028,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108029,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108030,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2008,
+    "MJGFPBEHEEM": 2512996856,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_1001",
+    "CMLCFIIJCGA": 2159575650,
+    "PAGEIKPKJBK": [
+      946192957,
+      860986273,
+      201671206,
+      649963679
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "NGBHLNJPAFA": true,
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108001,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108002,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108003,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100079,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100076,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2009,
+    "MJGFPBEHEEM": 1279455264,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108205",
+    "CMLCFIIJCGA": 659578210,
+    "PAGEIKPKJBK": [
+      2530572461,
+      1353327385,
+      115574614,
+      305658183
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108204,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108205,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108206,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100094,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100013,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100079,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2010,
+    "MJGFPBEHEEM": 1470723400,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108242",
+    "CMLCFIIJCGA": 4113894738,
+    "PAGEIKPKJBK": [
+      2803371853,
+      1766609793,
+      1831623078,
+      849664967
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108241,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108242,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108243,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 6
+      },
+      {
+        "PKLAPAOFNKA": 110002,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100077,
+        "JMDKDAGIIEG": 3
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2101,
+    "MJGFPBEHEEM": 3117860336,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_100428",
+    "CMLCFIIJCGA": 3195974058,
+    "PAGEIKPKJBK": [
+      2442180133,
+      1895677609,
+      4042411166,
+      2308413287
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108080,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108081,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108082,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100089,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.38,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2102,
+    "MJGFPBEHEEM": 1816326712,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108084",
+    "CMLCFIIJCGA": 2155366442,
+    "PAGEIKPKJBK": [
+      1532744645,
+      2557687065,
+      2783043006,
+      4051069295
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108083,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108084,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108085,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100077,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.7,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2103,
+    "MJGFPBEHEEM": 1288948872,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108087",
+    "CMLCFIIJCGA": 3011047370,
+    "PAGEIKPKJBK": [
+      888137701,
+      1324885153,
+      799299758,
+      1798166071
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108086,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108087,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108088,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100088,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100026,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2104,
+    "MJGFPBEHEEM": 1818174392,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108090",
+    "CMLCFIIJCGA": 606617554,
+    "PAGEIKPKJBK": [
+      270762493,
+      547486929,
+      4177761646,
+      2623684327
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108089,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108090,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108091,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100063,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2105,
+    "MJGFPBEHEEM": 1887732288,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108105",
+    "CMLCFIIJCGA": 636394546,
+    "PAGEIKPKJBK": [
+      2911866869,
+      3229264921,
+      1873608438,
+      3115329879
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108104,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108105,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108106,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100013,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2106,
+    "MJGFPBEHEEM": 2944873232,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108120",
+    "CMLCFIIJCGA": 1073633434,
+    "PAGEIKPKJBK": [
+      2779673637,
+      3160951313,
+      3287083686,
+      1340084207
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108119,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108120,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108121,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100026,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2107,
+    "MJGFPBEHEEM": 3787944112,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108126",
+    "CMLCFIIJCGA": 3614201898,
+    "PAGEIKPKJBK": [
+      4032119581,
+      1648957001,
+      2354157734,
+      1467662159
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108125,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108126,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108127,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 5
+      },
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2108,
+    "MJGFPBEHEEM": 781693360,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108142",
+    "CMLCFIIJCGA": 3868669818,
+    "PAGEIKPKJBK": [
+      1371618597,
+      3634075521,
+      2655164814,
+      4069957271
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108141,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108142,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108143,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2109,
+    "MJGFPBEHEEM": 1659175328,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108189",
+    "CMLCFIIJCGA": 511154386,
+    "PAGEIKPKJBK": [
+      1155856493,
+      1465478905,
+      4186117302,
+      1710645263
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108188,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108189,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108190,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100063,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2110,
+    "MJGFPBEHEEM": 67165728,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108192",
+    "CMLCFIIJCGA": 554557178,
+    "PAGEIKPKJBK": [
+      3829825381,
+      1280026249,
+      1966673254,
+      153946855
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108191,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108192,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108193,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100034,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100063,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2111,
+    "MJGFPBEHEEM": 1148732520,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108229",
+    "CMLCFIIJCGA": 2128013802,
+    "PAGEIKPKJBK": [
+      899139133,
+      3815483745,
+      1262744854,
+      248444631
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108228,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108229,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108230,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2112,
+    "MJGFPBEHEEM": 879430664,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108177",
+    "CMLCFIIJCGA": 3302782810,
+    "PAGEIKPKJBK": [
+      2646041221,
+      2055897289,
+      1749046782,
+      1195030519
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108176,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108177,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108178,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100074,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100088,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2113,
+    "MJGFPBEHEEM": 3745655912,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108186",
+    "CMLCFIIJCGA": 3577556266,
+    "PAGEIKPKJBK": [
+      3218321253,
+      2766501121,
+      2582296486,
+      3044011231
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108185,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108186,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108187,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2201,
+    "MJGFPBEHEEM": 3673180648,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108250",
+    "CMLCFIIJCGA": 3308347186,
+    "PAGEIKPKJBK": [
+      1137807013,
+      1555975217,
+      2670786606,
+      2469219647
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108249,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108250,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108251,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 3
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.38,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2202,
+    "MJGFPBEHEEM": 2529901008,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108256",
+    "CMLCFIIJCGA": 1604745970,
+    "PAGEIKPKJBK": [
+      762335661,
+      643734465,
+      3627818430,
+      1605357711
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108255,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108256,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108257,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2203,
+    "MJGFPBEHEEM": 76530280,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108292",
+    "CMLCFIIJCGA": 3046546314,
+    "PAGEIKPKJBK": [
+      41115205,
+      1198709417,
+      710098342,
+      979016295
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108291,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108292,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108293,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2204,
+    "MJGFPBEHEEM": 3256165648,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108295",
+    "CMLCFIIJCGA": 2081982794,
+    "PAGEIKPKJBK": [
+      423611773,
+      952176193,
+      2887754502,
+      3019294391
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108294,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108295,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108296,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100073,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100074,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2205,
+    "MJGFPBEHEEM": 2857902128,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108337",
+    "CMLCFIIJCGA": 2658254898,
+    "PAGEIKPKJBK": [
+      3109915029,
+      3727235529,
+      2752196622,
+      436098943
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108336,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108337,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108338,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100095,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2206,
+    "MJGFPBEHEEM": 1937557144,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108346",
+    "CMLCFIIJCGA": 2856757818,
+    "PAGEIKPKJBK": [
+      3815339733,
+      246428153,
+      3112083886,
+      2810072319
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108345,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108346,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108347,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100091,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.38,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2207,
+    "MJGFPBEHEEM": 1476579960,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108343",
+    "CMLCFIIJCGA": 2916873930,
+    "PAGEIKPKJBK": [
+      2376021021,
+      2968472617,
+      3027535798,
+      2696598111
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108342,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108343,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108344,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100014,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100075,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2208,
+    "MJGFPBEHEEM": 1440169824,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108349",
+    "CMLCFIIJCGA": 1329149946,
+    "PAGEIKPKJBK": [
+      1666077613,
+      3362483897,
+      2142037934,
+      4022694079
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108348,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108349,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108350,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100051,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2209,
+    "MJGFPBEHEEM": 424416256,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108375",
+    "CMLCFIIJCGA": 281693154,
+    "PAGEIKPKJBK": [
+      3787355413,
+      2664397937,
+      538607326,
+      1133107823
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108374,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108375,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108376,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100075,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2210,
+    "MJGFPBEHEEM": 2354956064,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108378",
+    "CMLCFIIJCGA": 2585560178,
+    "PAGEIKPKJBK": [
+      1171091645,
+      1022665937,
+      3725570822,
+      4034856383
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108377,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108378,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108379,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2211,
+    "MJGFPBEHEEM": 614473464,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108382",
+    "CMLCFIIJCGA": 1975547058,
+    "PAGEIKPKJBK": [
+      2950348125,
+      724889417,
+      550063198,
+      448421255
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108381,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108382,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108383,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2301,
+    "MJGFPBEHEEM": 2699885576,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108395",
+    "CMLCFIIJCGA": 3424003242,
+    "PAGEIKPKJBK": [
+      416342869,
+      3321487177,
+      2469608678,
+      1312730599
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108394,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108395,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108396,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110014,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2302,
+    "MJGFPBEHEEM": 2523195728,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108398",
+    "CMLCFIIJCGA": 1715925842,
+    "PAGEIKPKJBK": [
+      3699743909,
+      689240009,
+      1663505398,
+      1511999999
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108397,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108398,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108399,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 101218,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101219,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.38,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2303,
+    "MJGFPBEHEEM": 3208834128,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108401",
+    "CMLCFIIJCGA": 2893781074,
+    "PAGEIKPKJBK": [
+      3822392133,
+      2880082529,
+      513185510,
+      992791759
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108400,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108401,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108402,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110009,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110014,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2304,
+    "MJGFPBEHEEM": 1785068096,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108404",
+    "CMLCFIIJCGA": 1992448458,
+    "PAGEIKPKJBK": [
+      3322923645,
+      422013665,
+      2945128214,
+      189966791
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108403,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108404,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108405,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 101213,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 101212,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2305,
+    "MJGFPBEHEEM": 704704144,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108410",
+    "CMLCFIIJCGA": 628410298,
+    "PAGEIKPKJBK": [
+      3610482493,
+      785965425,
+      1643881110,
+      3569624719
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108409,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108410,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108411,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100096,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110014,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2306,
+    "MJGFPBEHEEM": 2570176080,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108425",
+    "CMLCFIIJCGA": 1456904450,
+    "PAGEIKPKJBK": [
+      2848108589,
+      3510308521,
+      2159671566,
+      273144047
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108424,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108425,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108426,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100076,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110014,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2307,
+    "MJGFPBEHEEM": 2299388224,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108434",
+    "CMLCFIIJCGA": 2954190794,
+    "PAGEIKPKJBK": [
+      1171823813,
+      3381097481,
+      2830146702,
+      320100567
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108433,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108434,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108435,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2308,
+    "MJGFPBEHEEM": 4111374096,
+    "DJDFHHPBCIL": 2,
+    "LKIPAHNOPDL": "UI_ItemIcon_108461",
+    "CMLCFIIJCGA": 3207860082,
+    "PAGEIKPKJBK": [
+      3598612005,
+      1730215593,
+      1693016870,
+      3093732015
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 10,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108460,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108461,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108462,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100096,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100079,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.72,0.35",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3001,
+    "MJGFPBEHEEM": 3687633104,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_1006",
+    "CMLCFIIJCGA": 1702888666,
+    "PAGEIKPKJBK": [
+      1552544101,
+      1033451297,
+      1121489702,
+      3748080407
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108049,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108050,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108051,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100073,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100056,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.7,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3002,
+    "MJGFPBEHEEM": 3151949784,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_1007",
+    "CMLCFIIJCGA": 2162101098,
+    "PAGEIKPKJBK": [
+      1514059253,
+      318976169,
+      420536438,
+      2580900999
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108052,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108053,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108054,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100063,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100020,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.7,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3003,
+    "MJGFPBEHEEM": 3277541528,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_2004",
+    "CMLCFIIJCGA": 544289474,
+    "PAGEIKPKJBK": [
+      1463867749,
+      1504435417,
+      3290333542,
+      252978087
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108059,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108060,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108061,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110010,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110011,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3004,
+    "MJGFPBEHEEM": 622254280,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_2005",
+    "CMLCFIIJCGA": 1065475194,
+    "PAGEIKPKJBK": [
+      4060175661,
+      1736820289,
+      611679926,
+      3729396639
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108062,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108063,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108064,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100013,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3005,
+    "MJGFPBEHEEM": 1443071056,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_2006",
+    "CMLCFIIJCGA": 1389363882,
+    "PAGEIKPKJBK": [
+      3399127477,
+      3943194177,
+      2679163726,
+      3643340223
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108065,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108066,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108067,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100074,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110002,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3006,
+    "MJGFPBEHEEM": 3890736800,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_1005",
+    "CMLCFIIJCGA": 1069464722,
+    "PAGEIKPKJBK": [
+      2446409573,
+      1517734985,
+      1452744662,
+      2928832279
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108041,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108042,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108043,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110009,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.7,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3007,
+    "MJGFPBEHEEM": 3199568744,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_3003",
+    "CMLCFIIJCGA": 2943330466,
+    "PAGEIKPKJBK": [
+      3318986957,
+      3394780297,
+      2965183518,
+      3924966695
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108045,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108046,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108047,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100020,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110008,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3008,
+    "MJGFPBEHEEM": 3553084808,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_3004",
+    "CMLCFIIJCGA": 4017772082,
+    "PAGEIKPKJBK": [
+      32767365,
+      1503963577,
+      941588230,
+      3273117639
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108055,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108056,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108057,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100055,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110009,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3009,
+    "MJGFPBEHEEM": 234476240,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108111",
+    "CMLCFIIJCGA": 2930284858,
+    "PAGEIKPKJBK": [
+      2653589805,
+      3415453281,
+      3531494606,
+      2604185487
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108110,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108111,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108112,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100013,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100076,
+        "JMDKDAGIIEG": 4
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3010,
+    "MJGFPBEHEEM": 2200331960,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108168",
+    "CMLCFIIJCGA": 456914666,
+    "PAGEIKPKJBK": [
+      3077671893,
+      3445588665,
+      3835535470,
+      3113136159
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108167,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108168,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108169,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3011,
+    "MJGFPBEHEEM": 3633491368,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108171",
+    "CMLCFIIJCGA": 1152856994,
+    "PAGEIKPKJBK": [
+      3728046949,
+      801284713,
+      581348638,
+      3638611359
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108170,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108171,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108172,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100077,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3012,
+    "MJGFPBEHEEM": 2268068896,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108208",
+    "CMLCFIIJCGA": 579184034,
+    "PAGEIKPKJBK": [
+      286130573,
+      2825020505,
+      3025097246,
+      1233495087
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108207,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108208,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108209,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100075,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100055,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3013,
+    "MJGFPBEHEEM": 1297228784,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108223",
+    "CMLCFIIJCGA": 4171728490,
+    "PAGEIKPKJBK": [
+      600503853,
+      1683378585,
+      969685374,
+      916630223
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108222,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108223,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108224,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100051,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3014,
+    "MJGFPBEHEEM": 1554725832,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108239",
+    "CMLCFIIJCGA": 2973067482,
+    "PAGEIKPKJBK": [
+      1403224005,
+      93099329,
+      998342566,
+      3182336103
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108238,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108239,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108240,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3101,
+    "MJGFPBEHEEM": 1621938840,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108072",
+    "CMLCFIIJCGA": 2177781010,
+    "PAGEIKPKJBK": [
+      1052716653,
+      2635651417,
+      3231120302,
+      3382302111
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108071,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108072,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108073,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100075,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3102,
+    "MJGFPBEHEEM": 3663660088,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108075",
+    "CMLCFIIJCGA": 3714601098,
+    "PAGEIKPKJBK": [
+      1283045989,
+      845601753,
+      505905398,
+      655832807
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108074,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108075,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108076,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100075,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100034,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.4,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3103,
+    "MJGFPBEHEEM": 1897768416,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108078",
+    "CMLCFIIJCGA": 3807900666,
+    "PAGEIKPKJBK": [
+      2727592749,
+      3332512649,
+      1110183910,
+      3014194679
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108077,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108078,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108079,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100079,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3104,
+    "MJGFPBEHEEM": 4195020824,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108129",
+    "CMLCFIIJCGA": 3126908538,
+    "PAGEIKPKJBK": [
+      483615877,
+      1053834041,
+      1121304958,
+      124861055
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108128,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108129,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108130,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100026,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3105,
+    "MJGFPBEHEEM": 412783744,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108132",
+    "CMLCFIIJCGA": 391319386,
+    "PAGEIKPKJBK": [
+      4223430021,
+      4004853873,
+      59029758,
+      274390111
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108131,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108132,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108133,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100088,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3106,
+    "MJGFPBEHEEM": 2714249528,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108153",
+    "CMLCFIIJCGA": 2927696842,
+    "PAGEIKPKJBK": [
+      2994467197,
+      4252604305,
+      3046297830,
+      123980135
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108152,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108153,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108154,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100091,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3107,
+    "MJGFPBEHEEM": 397935120,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108156",
+    "CMLCFIIJCGA": 4170375026,
+    "PAGEIKPKJBK": [
+      1003024813,
+      385221993,
+      947188270,
+      2355094543
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108155,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108156,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108157,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100091,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3108,
+    "MJGFPBEHEEM": 1619565648,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108162",
+    "CMLCFIIJCGA": 3900444082,
+    "PAGEIKPKJBK": [
+      1490221877,
+      2378595209,
+      4277021510,
+      1268923767
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108161,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108162,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108163,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100089,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3109,
+    "MJGFPBEHEEM": 3148532368,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108202",
+    "CMLCFIIJCGA": 2661890354,
+    "PAGEIKPKJBK": [
+      1627425717,
+      54847825,
+      977129118,
+      2252128255
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108201,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108202,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108203,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100026,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100013,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100051,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3110,
+    "MJGFPBEHEEM": 3071649696,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108211",
+    "CMLCFIIJCGA": 2721887674,
+    "PAGEIKPKJBK": [
+      4108344973,
+      3028621393,
+      3016494870,
+      994326087
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108210,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108211,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108212,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100032,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3111,
+    "MJGFPBEHEEM": 375455576,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108180",
+    "CMLCFIIJCGA": 2113318834,
+    "PAGEIKPKJBK": [
+      1120093437,
+      3959287193,
+      4036961438,
+      175794175
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108179,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108180,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108181,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3112,
+    "MJGFPBEHEEM": 304995192,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108232",
+    "CMLCFIIJCGA": 4127331514,
+    "PAGEIKPKJBK": [
+      2052037309,
+      788370905,
+      2537444614,
+      2132745119
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108231,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108232,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108233,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3113,
+    "MJGFPBEHEEM": 1069920952,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108183",
+    "CMLCFIIJCGA": 24535746,
+    "PAGEIKPKJBK": [
+      2981964653,
+      2075637777,
+      1505515846,
+      1807094439
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108182,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108183,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108184,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100063,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100077,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3114,
+    "MJGFPBEHEEM": 645220616,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108195",
+    "CMLCFIIJCGA": 175297898,
+    "PAGEIKPKJBK": [
+      2529445173,
+      3161647361,
+      3818206750,
+      3326836519
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108194,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108195,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108196,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 3
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3201,
+    "MJGFPBEHEEM": 2065265232,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108253",
+    "CMLCFIIJCGA": 2262998930,
+    "PAGEIKPKJBK": [
+      459994149,
+      2643869545,
+      324646238,
+      663933463
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108252,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108253,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108254,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101202,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3202,
+    "MJGFPBEHEEM": 3451987120,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108262",
+    "CMLCFIIJCGA": 3046082082,
+    "PAGEIKPKJBK": [
+      2743496685,
+      3160061369,
+      2331763070,
+      688576335
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108261,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108262,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108263,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100091,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3203,
+    "MJGFPBEHEEM": 3557426200,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108274",
+    "CMLCFIIJCGA": 2328105866,
+    "PAGEIKPKJBK": [
+      153615421,
+      1953895137,
+      4054619990,
+      1123227039
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108273,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108274,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108275,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3204,
+    "MJGFPBEHEEM": 630357328,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108280",
+    "CMLCFIIJCGA": 3535607202,
+    "PAGEIKPKJBK": [
+      2369475829,
+      38416801,
+      878261214,
+      2498664055
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108279,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108280,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108281,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 101211,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3205,
+    "MJGFPBEHEEM": 2162489440,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108283",
+    "CMLCFIIJCGA": 2709165258,
+    "PAGEIKPKJBK": [
+      3634873757,
+      2262460593,
+      1529421710,
+      2742416943
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108282,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108283,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108284,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101202,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3206,
+    "MJGFPBEHEEM": 1822832680,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108286",
+    "CMLCFIIJCGA": 3530027138,
+    "PAGEIKPKJBK": [
+      82392677,
+      3547703209,
+      2726150830,
+      3365539567
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108285,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108286,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108287,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101211,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3207,
+    "MJGFPBEHEEM": 934048736,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108289",
+    "CMLCFIIJCGA": 3986898826,
+    "PAGEIKPKJBK": [
+      1812637221,
+      3421915777,
+      3431057358,
+      383100551
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108288,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108289,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108290,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110011,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100088,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 101211,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3208,
+    "MJGFPBEHEEM": 2339158416,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108298",
+    "CMLCFIIJCGA": 3922049890,
+    "PAGEIKPKJBK": [
+      657028461,
+      2258757209,
+      1413781086,
+      2760032175
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108297,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108298,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108299,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 101211,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101202,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3209,
+    "MJGFPBEHEEM": 3245508936,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108307",
+    "CMLCFIIJCGA": 2991361394,
+    "PAGEIKPKJBK": [
+      3475663941,
+      2751005297,
+      1733814182,
+      1271506255
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108306,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108307,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108308,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3210,
+    "MJGFPBEHEEM": 2346932720,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108310",
+    "CMLCFIIJCGA": 1176822754,
+    "PAGEIKPKJBK": [
+      390495901,
+      2714519289,
+      3116397422,
+      977939439
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108309,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108310,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108311,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100013,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100076,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3211,
+    "MJGFPBEHEEM": 2895538864,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108313",
+    "CMLCFIIJCGA": 3454689970,
+    "PAGEIKPKJBK": [
+      1838756437,
+      1461404737,
+      1306031046,
+      1661516775
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108312,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108313,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108314,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100088,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100091,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3212,
+    "MJGFPBEHEEM": 87727672,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108319",
+    "CMLCFIIJCGA": 296787690,
+    "PAGEIKPKJBK": [
+      2195418277,
+      2528168377,
+      3559707574,
+      805069663
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108318,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108319,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108320,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3213,
+    "MJGFPBEHEEM": 35361224,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108328",
+    "CMLCFIIJCGA": 3780751002,
+    "PAGEIKPKJBK": [
+      3046885973,
+      1235454129,
+      3258328494,
+      2082386087
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108327,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108328,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108329,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100079,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3214,
+    "MJGFPBEHEEM": 1090624432,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108331",
+    "CMLCFIIJCGA": 973580130,
+    "PAGEIKPKJBK": [
+      1058967517,
+      1823141081,
+      1982800862,
+      767814071
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108330,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108331,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108332,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100002,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3215,
+    "MJGFPBEHEEM": 867375536,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108334",
+    "CMLCFIIJCGA": 3425587850,
+    "PAGEIKPKJBK": [
+      3096220245,
+      946495257,
+      2126278374,
+      4208303239
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108333,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108334,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108335,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110010,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101211,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3216,
+    "MJGFPBEHEEM": 1772898120,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108356",
+    "CMLCFIIJCGA": 2696156418,
+    "PAGEIKPKJBK": [
+      2359736229,
+      161975945,
+      2580894278,
+      3152710423
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108355,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108356,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108357,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100095,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100075,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3217,
+    "MJGFPBEHEEM": 4223121800,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108359",
+    "CMLCFIIJCGA": 2407836226,
+    "PAGEIKPKJBK": [
+      1697337853,
+      3148072345,
+      1336468222,
+      2399632967
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108358,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108359,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108360,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100014,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100013,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101211,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3218,
+    "MJGFPBEHEEM": 2560374264,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108362",
+    "CMLCFIIJCGA": 1764378882,
+    "PAGEIKPKJBK": [
+      87362925,
+      581495273,
+      488436678,
+      496208175
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_FRY",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108361,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108362,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108363,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 101202,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3219,
+    "MJGFPBEHEEM": 1745572368,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108370",
+    "CMLCFIIJCGA": 2344101610,
+    "PAGEIKPKJBK": [
+      3573054605,
+      3258169817,
+      827963102,
+      1101595783
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108369,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108370,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108371,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3220,
+    "MJGFPBEHEEM": 2387974608,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108385",
+    "CMLCFIIJCGA": 348749530,
+    "PAGEIKPKJBK": [
+      2123755917,
+      835901513,
+      1543759846,
+      1919600479
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108384,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108385,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108386,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 101211,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100056,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100016,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3301,
+    "MJGFPBEHEEM": 3640787496,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108392",
+    "CMLCFIIJCGA": 4194205426,
+    "PAGEIKPKJBK": [
+      2329777693,
+      2188421617,
+      1231621086,
+      729818391
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108391,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108392,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108393,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100079,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110014,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3302,
+    "MJGFPBEHEEM": 714581728,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108407",
+    "CMLCFIIJCGA": 449746114,
+    "PAGEIKPKJBK": [
+      611577669,
+      1662421057,
+      4224538406,
+      3290340703
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108406,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108407,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108408,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100079,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3303,
+    "MJGFPBEHEEM": 2535291960,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108419",
+    "CMLCFIIJCGA": 58565826,
+    "PAGEIKPKJBK": [
+      3261007205,
+      925352801,
+      3506877606,
+      858358583
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108418,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108419,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108420,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101214,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3304,
+    "MJGFPBEHEEM": 1090250032,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108431",
+    "CMLCFIIJCGA": 3619304106,
+    "PAGEIKPKJBK": [
+      3853917165,
+      1532098497,
+      140311966,
+      3705375479
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108430,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108431,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108432,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100080,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 101213,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110009,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3305,
+    "MJGFPBEHEEM": 3722265064,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108443",
+    "CMLCFIIJCGA": 3978968122,
+    "PAGEIKPKJBK": [
+      3174195621,
+      2777596257,
+      2845601838,
+      883597559
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108442,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108443,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108444,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100002,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100051,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 2
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3306,
+    "MJGFPBEHEEM": 3983682080,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108446",
+    "CMLCFIIJCGA": 105971922,
+    "PAGEIKPKJBK": [
+      1291915149,
+      98940177,
+      3805345046,
+      1714597327
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108445,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108446,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108447,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110009,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110002,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3307,
+    "MJGFPBEHEEM": 2566334048,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108452",
+    "CMLCFIIJCGA": 1962380866,
+    "PAGEIKPKJBK": [
+      3215883197,
+      171788025,
+      3858146910,
+      3305719855
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108451,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108452,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108453,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 101221,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3308,
+    "MJGFPBEHEEM": 3411799560,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108455",
+    "CMLCFIIJCGA": 685728634,
+    "PAGEIKPKJBK": [
+      2585979621,
+      3882558569,
+      2945958542,
+      683320767
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108454,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108455,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108456,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 101221,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100089,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101219,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3309,
+    "MJGFPBEHEEM": 552629048,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108458",
+    "CMLCFIIJCGA": 4283290522,
+    "PAGEIKPKJBK": [
+      319293957,
+      2307492009,
+      874683622,
+      858983135
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_FUNCTION",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108457,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108458,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108459,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 101214,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101219,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100078,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.45,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3310,
+    "MJGFPBEHEEM": 967776936,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108449",
+    "CMLCFIIJCGA": 129268298,
+    "PAGEIKPKJBK": [
+      3059214917,
+      1527128905,
+      4118218862,
+      1946046167
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_HEAL",
+    "JHFKJPGNBAC": "COOK_METHOD_BAKE",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108448,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108449,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108450,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 101221,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110008,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.5,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3311,
+    "MJGFPBEHEEM": 3177983032,
+    "DJDFHHPBCIL": 3,
+    "LKIPAHNOPDL": "UI_ItemIcon_108464",
+    "CMLCFIIJCGA": 2119080146,
+    "PAGEIKPKJBK": [
+      4000098141,
+      1736019401,
+      4054188142,
+      3298890255
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 15,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108463,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108464,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108465,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100021,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100002,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 1
+      },
+      {},
+      {}
+    ],
+    "LDPNNAPCGEI": "0.85,0.27",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4001,
+    "MJGFPBEHEEM": 3644462440,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108165",
+    "CMLCFIIJCGA": 984486938,
+    "PAGEIKPKJBK": [
+      320439053,
+      1592717289,
+      3135047014,
+      1074438823
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108164,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108165,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108166,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.3,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4002,
+    "MJGFPBEHEEM": 901779496,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108236",
+    "CMLCFIIJCGA": 1726123034,
+    "PAGEIKPKJBK": [
+      2260266853,
+      1757973657,
+      238646534,
+      3855860903
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108235,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108236,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108237,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100077,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.3,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4101,
+    "MJGFPBEHEEM": 2559312488,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_Recipe_4004",
+    "CMLCFIIJCGA": 748213378,
+    "PAGEIKPKJBK": [
+      3459256397,
+      2177654697,
+      1690604046,
+      1100584719
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108068,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108069,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108070,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100026,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.3,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4102,
+    "MJGFPBEHEEM": 1431862960,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108102",
+    "CMLCFIIJCGA": 1035762138,
+    "PAGEIKPKJBK": [
+      1131151445,
+      2285168409,
+      2457403390,
+      1969311959
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108101,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108102,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108103,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 5
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 5
+      },
+      {
+        "PKLAPAOFNKA": 100073,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100075,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.6,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4103,
+    "MJGFPBEHEEM": 1004248456,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108159",
+    "CMLCFIIJCGA": 2435695474,
+    "PAGEIKPKJBK": [
+      749724725,
+      2491028385,
+      514840838,
+      99276991
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108158,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108159,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108160,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110006,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100031,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 100063,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.6,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4104,
+    "MJGFPBEHEEM": 815475280,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108247",
+    "CMLCFIIJCGA": 2795884554,
+    "PAGEIKPKJBK": [
+      1858012597,
+      2872674073,
+      3149093838,
+      2705630791
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108246,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108247,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108248,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100062,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100015,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.6,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4201,
+    "MJGFPBEHEEM": 527181328,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108259",
+    "CMLCFIIJCGA": 3160386178,
+    "PAGEIKPKJBK": [
+      2272843365,
+      2687747121,
+      3376845318,
+      3644492727
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108258,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108259,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108260,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100073,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100014,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.3,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4202,
+    "MJGFPBEHEEM": 2730849408,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108271",
+    "CMLCFIIJCGA": 2519119018,
+    "PAGEIKPKJBK": [
+      3328830789,
+      1717918497,
+      1424029942,
+      1734752815
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108270,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108271,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108272,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110004,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100073,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 101210,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100063,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.6,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4203,
+    "MJGFPBEHEEM": 543089200,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108316",
+    "CMLCFIIJCGA": 32533354,
+    "PAGEIKPKJBK": [
+      2371570325,
+      2402667489,
+      4294406334,
+      1641740447
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108315,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108316,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108317,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100018,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100027,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.6,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4204,
+    "MJGFPBEHEEM": 1267705424,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108367",
+    "CMLCFIIJCGA": 318708770,
+    "PAGEIKPKJBK": [
+      2588252293,
+      2137871265,
+      2650360582,
+      478209511
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108366,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108367,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108368,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100084,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100013,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100076,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 100034,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.3,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4301,
+    "MJGFPBEHEEM": 3688423736,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108416",
+    "CMLCFIIJCGA": 2915314322,
+    "PAGEIKPKJBK": [
+      2043081509,
+      212532617,
+      3651709542,
+      1172238943
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_DEFENSE",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108415,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108416,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108417,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100092,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110014,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101214,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.3,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4302,
+    "MJGFPBEHEEM": 3968074976,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108428",
+    "CMLCFIIJCGA": 2167145986,
+    "PAGEIKPKJBK": [
+      1202024853,
+      3828344713,
+      3779633934,
+      245000567
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108427,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108428,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108429,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100064,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 101213,
+        "JMDKDAGIIEG": 2
+      },
+      {
+        "PKLAPAOFNKA": 101214,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 110014,
+        "JMDKDAGIIEG": 1
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.6,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4303,
+    "MJGFPBEHEEM": 3104469016,
+    "DJDFHHPBCIL": 4,
+    "LKIPAHNOPDL": "UI_ItemIcon_108440",
+    "CMLCFIIJCGA": 1293130338,
+    "PAGEIKPKJBK": [
+      2205352845,
+      717964321,
+      886770542,
+      181691223
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_STEAM",
+    "BAGBCIACGHM": 20,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108439,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108440,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108441,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 100061,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 110001,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100011,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 110009,
+        "JMDKDAGIIEG": 2
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.6,0.22",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5101,
+    "MJGFPBEHEEM": 2535717720,
+    "DJDFHHPBCIL": 5,
+    "LKIPAHNOPDL": "UI_ItemIcon_108123",
+    "CMLCFIIJCGA": 3785660866,
+    "PAGEIKPKJBK": [
+      1022833117,
+      3090219849,
+      3779451422,
+      4255144839
+    ],
+    "CGNIJDGJIHA": "COOK_FOOD_ATTACK",
+    "JHFKJPGNBAC": "COOK_METHOD_BOIL",
+    "BAGBCIACGHM": 25,
+    "FKFJEPNBMOI": [
+      {
+        "PKLAPAOFNKA": 108122,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108123,
+        "JMDKDAGIIEG": 1
+      },
+      {
+        "PKLAPAOFNKA": 108124,
+        "JMDKDAGIIEG": 1
+      }
+    ],
+    "KHPPKMMFNHN": [
+      {
+        "PKLAPAOFNKA": 110005,
+        "JMDKDAGIIEG": 4
+      },
+      {
+        "PKLAPAOFNKA": 100073,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100093,
+        "JMDKDAGIIEG": 3
+      },
+      {
+        "PKLAPAOFNKA": 100063,
+        "JMDKDAGIIEG": 3
+      },
+      {}
+    ],
+    "LDPNNAPCGEI": "0.63,0.17",
+    "CEJBPCKIOOB": [
+      0,
+      0,
+      100
+    ]
+  }
+]

@@ -1,0 +1,3493 @@
+[
+  {
+    "NEGGEOBGIKG": 6000001,
+    "KHMHGBFOLAN": 10001,
+    "JCCPJMHPDPB": 450101,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_God_Statue",
+    "MIDFBCINLMH": 1184812606,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_AREA",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000002,
+    "KHMHGBFOLAN": 10001,
+    "JCCPJMHPDPB": 450102,
+    "LKIPAHNOPDL": "UI_MarkTransPoint",
+    "CLFOFBHHFKC": "UI_HandbookPic_Teleport",
+    "MIDFBCINLMH": 3701389390,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_TRANS_POINT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000003,
+    "KHMHGBFOLAN": 10001,
+    "JCCPJMHPDPB": 450103,
+    "LKIPAHNOPDL": "UI_MarkQuest_Box",
+    "CLFOFBHHFKC": "UI_HandbookPic_Treasure",
+    "MIDFBCINLMH": 3471438926,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+      "KGDLJNNIHPE": [
+        "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70211150;70211151",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 15
+  },
+  {
+    "NEGGEOBGIKG": 6000004,
+    "KHMHGBFOLAN": 10001,
+    "JCCPJMHPDPB": 450104,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_Statue_Serving",
+    "MIDFBCINLMH": 3260623126,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CITY_LEVEL_UP",
+      "KGDLJNNIHPE": [
+        "1",
+        "2",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000005,
+    "KHMHGBFOLAN": 10002,
+    "JCCPJMHPDPB": 450201,
+    "LKIPAHNOPDL": "UI_MarkTransPoint",
+    "CLFOFBHHFKC": "UI_HandbookPic_Teleport",
+    "MIDFBCINLMH": 2172723334,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_TRANS_POINT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 6
+  },
+  {
+    "NEGGEOBGIKG": 6000006,
+    "KHMHGBFOLAN": 10002,
+    "JCCPJMHPDPB": 450202,
+    "LKIPAHNOPDL": "UI_MarkQuest_Box",
+    "CLFOFBHHFKC": "UI_HandbookPic_Treasure",
+    "MIDFBCINLMH": 3798580590,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+      "KGDLJNNIHPE": [
+        "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70211150;70211151",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 30
+  },
+  {
+    "NEGGEOBGIKG": 6000007,
+    "KHMHGBFOLAN": 10002,
+    "JCCPJMHPDPB": 450203,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_Statue_Serving",
+    "MIDFBCINLMH": 2498945566,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CITY_LEVEL_UP",
+      "KGDLJNNIHPE": [
+        "1",
+        "4",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000008,
+    "KHMHGBFOLAN": 10002,
+    "JCCPJMHPDPB": 450204,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Witcher",
+    "MIDFBCINLMH": 4125664014,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_LOCATION",
+      "NNPMGFENCEK": [
+        "AM0001SYFS"
+      ],
+      "ENKMNBPFGOD": 3,
+      "OEILOMGBCLK": "QUEST_GUIDE_STYLE_POINT",
+      "FAELIFCDANN": "QUEST_GUIDE_LAYER_SCENE"
+    },
+    "PKLAPAOFNKA": 60008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "22010201",
+        "可联机",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000009,
+    "KHMHGBFOLAN": 10002,
+    "JCCPJMHPDPB": 450205,
+    "LKIPAHNOPDL": "UI_MarkPoint_Restaurant",
+    "CLFOFBHHFKC": "UI_HandbookPic_Cooking",
+    "MIDFBCINLMH": 2607195454,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "NEGGEOBGIKG": 6000010,
+    "KHMHGBFOLAN": 10002,
+    "JCCPJMHPDPB": 450206,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Levelup",
+    "MIDFBCINLMH": 3451195086,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_UPGRADE",
+      "KGDLJNNIHPE": [
+        "10",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000011,
+    "KHMHGBFOLAN": 10002,
+    "JCCPJMHPDPB": 450207,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipment_Breakthrough",
+    "MIDFBCINLMH": 3896599366,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAR_RELIQUARY",
+      "KGDLJNNIHPE": [
+        "4",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000012,
+    "KHMHGBFOLAN": 10003,
+    "JCCPJMHPDPB": 450301,
+    "LKIPAHNOPDL": "UI_MarkTransPoint",
+    "CLFOFBHHFKC": "UI_HandbookPic_Teleport",
+    "MIDFBCINLMH": 2652761742,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60012,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_TRANS_POINT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "NEGGEOBGIKG": 6000013,
+    "KHMHGBFOLAN": 10003,
+    "JCCPJMHPDPB": 450302,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_God_Statue",
+    "MIDFBCINLMH": 1732054398,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60013,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_AREA",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000014,
+    "KHMHGBFOLAN": 10003,
+    "JCCPJMHPDPB": 450303,
+    "LKIPAHNOPDL": "UI_MarkQuest_Box",
+    "CLFOFBHHFKC": "UI_HandbookPic_Treasure",
+    "MIDFBCINLMH": 1889264598,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60014,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+      "KGDLJNNIHPE": [
+        "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70211150;70211151",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 45
+  },
+  {
+    "NEGGEOBGIKG": 6000015,
+    "KHMHGBFOLAN": 10003,
+    "JCCPJMHPDPB": 450304,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Guardian",
+    "MIDFBCINLMH": 1509148646,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_LOCATION",
+      "NNPMGFENCEK": [
+        "AM0001YJSW"
+      ],
+      "ENKMNBPFGOD": 3,
+      "OEILOMGBCLK": "QUEST_GUIDE_STYLE_POINT",
+      "FAELIFCDANN": "QUEST_GUIDE_LAYER_SCENE"
+    },
+    "PKLAPAOFNKA": 60015,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "24010101",
+        "可联机",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000016,
+    "KHMHGBFOLAN": 10003,
+    "JCCPJMHPDPB": 450305,
+    "LKIPAHNOPDL": "UI_MarkPoint_Blacksmith",
+    "CLFOFBHHFKC": "UI_HandbookPic_Forge",
+    "MIDFBCINLMH": 327502254,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60016,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_FORGE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000017,
+    "KHMHGBFOLAN": 10003,
+    "JCCPJMHPDPB": 450306,
+    "LKIPAHNOPDL": "UI_MarkPoint_Restaurant",
+    "CLFOFBHHFKC": "UI_HandbookPic_Ingredient",
+    "MIDFBCINLMH": 4064062734,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60017,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COMPOUND",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000018,
+    "KHMHGBFOLAN": 10003,
+    "JCCPJMHPDPB": 450307,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Levelup",
+    "MIDFBCINLMH": 2107887638,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60018,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_UPGRADE",
+      "KGDLJNNIHPE": [
+        "20",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000019,
+    "KHMHGBFOLAN": 10003,
+    "JCCPJMHPDPB": 450308,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipement_Levelup",
+    "MIDFBCINLMH": 2377643182,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60019,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "5",
+        "1",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000020,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450401,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_God_Statue",
+    "MIDFBCINLMH": 53084726,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60020,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_AREA",
+      "KGDLJNNIHPE": [
+        "4",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000021,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450402,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_Statue_Serving",
+    "MIDFBCINLMH": 3062014174,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60021,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CITY_LEVEL_UP",
+      "KGDLJNNIHPE": [
+        "1",
+        "6",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000022,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450403,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipement_Levelup",
+    "MIDFBCINLMH": 3741363318,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60022,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "5",
+        "1",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 6
+  },
+  {
+    "NEGGEOBGIKG": 6000023,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450404,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Boss_Reward",
+    "MIDFBCINLMH": 1256774582,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60023,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OPEN_BLOSSOM_CHEST",
+      "KGDLJNNIHPE": [
+        "1;3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000024,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450405,
+    "LKIPAHNOPDL": "UI_MarkPoint_Explore",
+    "CLFOFBHHFKC": "UI_HandbookPic_Explore",
+    "MIDFBCINLMH": 625790206,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60024,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000025,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450406,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Level_Breakthrough",
+    "MIDFBCINLMH": 1905726390,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60025,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000026,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450407,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Levelup",
+    "MIDFBCINLMH": 315792486,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60026,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_UPGRADE",
+      "KGDLJNNIHPE": [
+        "20",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000027,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450408,
+    "LKIPAHNOPDL": "UI_MarkPoint_Combine",
+    "CLFOFBHHFKC": "UI_HandbookPic_Compose",
+    "MIDFBCINLMH": 2424694294,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60027,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COMBINE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000028,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450409,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Warlock",
+    "MIDFBCINLMH": 3817961246,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_LOCATION",
+      "NNPMGFENCEK": [
+        "AM0001LYSS"
+      ],
+      "ENKMNBPFGOD": 3,
+      "OEILOMGBCLK": "QUEST_GUIDE_STYLE_POINT",
+      "FAELIFCDANN": "QUEST_GUIDE_LAYER_SCENE"
+    },
+    "PKLAPAOFNKA": 60028,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "23030101",
+        "可联机",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000029,
+    "KHMHGBFOLAN": 10004,
+    "JCCPJMHPDPB": 450410,
+    "LKIPAHNOPDL": "UI_MarkTower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Shrine",
+    "MIDFBCINLMH": 113673934,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60029,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_GATE_TEMPLE",
+      "KGDLJNNIHPE": [
+        "70360041;70360068;70900383;70360363",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000030,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450501,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_God_Statue",
+    "MIDFBCINLMH": 885499878,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60030,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_AREA",
+      "KGDLJNNIHPE": [
+        "7",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000031,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450502,
+    "LKIPAHNOPDL": "UI_MarkTower_Tower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Tower",
+    "MIDFBCINLMH": 3446032590,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60031,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_TOWER_LEVEL",
+      "KGDLJNNIHPE": [
+        "1",
+        "3",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000032,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450503,
+    "LKIPAHNOPDL": "UI_MarkPoint_Restaurant",
+    "CLFOFBHHFKC": "UI_HandbookPic_Cuisine",
+    "MIDFBCINLMH": 1405753398,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60032,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_RECIPE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "NEGGEOBGIKG": 6000033,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450504,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Boss_Reward",
+    "MIDFBCINLMH": 371835422,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60033,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OPEN_BLOSSOM_CHEST",
+      "KGDLJNNIHPE": [
+        "1;3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "NEGGEOBGIKG": 6000034,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450505,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Dungeon",
+    "MIDFBCINLMH": 2293013238,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60034,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "4300;4301;4302;4303;4310;4311;4312;4313;4320;4321;4322;4323;4330;4331;4332;4333;5210;5211;5212;5213;5214;5215;5216;5217;5218;5219;5220;5221;5222;5223;5224;5225;4340;4341;4342;4343;4350;4351;4352;4353;4360;4361;4362;4363;4370;4371;4372;4373;4374;4375;4376;4377;4378;4379;4380;4381",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000035,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450506,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Levelup",
+    "MIDFBCINLMH": 171291326,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60035,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_UPGRADE",
+      "KGDLJNNIHPE": [
+        "40",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000036,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450507,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Levelup",
+    "MIDFBCINLMH": 3890308358,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60036,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_UPGRADE",
+      "KGDLJNNIHPE": [
+        "40",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000037,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450508,
+    "LKIPAHNOPDL": "UI_MarkQuest_Box",
+    "CLFOFBHHFKC": "UI_HandbookPic_Treasure",
+    "MIDFBCINLMH": 2570520478,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60037,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+      "KGDLJNNIHPE": [
+        "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70211150;70211151",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 100
+  },
+  {
+    "NEGGEOBGIKG": 6000038,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450509,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipement_Levelup",
+    "MIDFBCINLMH": 4065171542,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60038,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 12
+  },
+  {
+    "NEGGEOBGIKG": 6000039,
+    "KHMHGBFOLAN": 10005,
+    "JCCPJMHPDPB": 450510,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Hunter",
+    "MIDFBCINLMH": 2545337310,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_LOCATION",
+      "NNPMGFENCEK": [
+        "AM0001YJLZ"
+      ],
+      "ENKMNBPFGOD": 3,
+      "OEILOMGBCLK": "QUEST_GUIDE_STYLE_POINT",
+      "FAELIFCDANN": "QUEST_GUIDE_LAYER_SCENE"
+    },
+    "PKLAPAOFNKA": 60039,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "24010201",
+        "可联机",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000040,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450601,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Dungeon",
+    "MIDFBCINLMH": 3650439430,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60040,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "5000;5001;5002;5003;5004;5005;5006;5007;5008;5009;5010;5011;5012;5013;5014;5015;5016;5017;5100;5101;5102;5103;5104;5105;5106;5107;5108;5109;5110;5111;5112;5113;5114;5115;5120;5121;5122;5123;5200;5201;5202;5203;5204;5205;5206;5207;5125;5126;5127;5128;5050;5051;5052;5053",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000041,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450602,
+    "LKIPAHNOPDL": "UI_MarkTower_Tower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Tower",
+    "MIDFBCINLMH": 3367438358,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60041,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_TOWER_LEVEL",
+      "KGDLJNNIHPE": [
+        "2",
+        "3",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000042,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450603,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Monster_Thunder",
+    "MIDFBCINLMH": 4022242806,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_LOCATION",
+      "NNPMGFENCEK": [
+        "AM0001WXZL"
+      ],
+      "ENKMNBPFGOD": 3,
+      "OEILOMGBCLK": "QUEST_GUIDE_STYLE_POINT",
+      "FAELIFCDANN": "QUEST_GUIDE_LAYER_SCENE"
+    },
+    "PKLAPAOFNKA": 60042,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "20040101",
+        "需单人",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000043,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450604,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Monster_Wind",
+    "MIDFBCINLMH": 2328058054,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_LOCATION",
+      "NNPMGFENCEK": [
+        "AM0001WXZF"
+      ],
+      "ENKMNBPFGOD": 3,
+      "OEILOMGBCLK": "QUEST_GUIDE_STYLE_POINT",
+      "FAELIFCDANN": "QUEST_GUIDE_LAYER_SCENE"
+    },
+    "PKLAPAOFNKA": 60043,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "20040201",
+        "需单人",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000044,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450605,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Monster_Rock",
+    "MIDFBCINLMH": 2494479878,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_LOCATION",
+      "NNPMGFENCEK": [
+        "AM0001WXZY"
+      ],
+      "ENKMNBPFGOD": 3,
+      "OEILOMGBCLK": "QUEST_GUIDE_STYLE_POINT",
+      "FAELIFCDANN": "QUEST_GUIDE_LAYER_SCENE"
+    },
+    "PKLAPAOFNKA": 60044,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "20040301",
+        "需单人",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000045,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450606,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Breakthrough",
+    "MIDFBCINLMH": 191304046,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60045,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_PROMOTE",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000046,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450607,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipment_Breakthrough",
+    "MIDFBCINLMH": 98555686,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60046,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_SET_NUM",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000047,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450608,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Breakthrough",
+    "MIDFBCINLMH": 3546539558,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60047,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_PROMOTE",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000048,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450609,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Level_Breakthrough",
+    "MIDFBCINLMH": 137032670,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60048,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000049,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450610,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipement_Levelup",
+    "MIDFBCINLMH": 1405668030,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60049,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "9",
+        "1",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 8
+  },
+  {
+    "NEGGEOBGIKG": 6000050,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450611,
+    "LKIPAHNOPDL": "UI_MarkPoint_Souvenir",
+    "CLFOFBHHFKC": "UI_HandbookPic_Souvenir",
+    "MIDFBCINLMH": 1168226630,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60050,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_BUY_SHOP_GOODS",
+      "KGDLJNNIHPE": [
+        "1002;1009;1057;1075",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000051,
+    "KHMHGBFOLAN": 10006,
+    "JCCPJMHPDPB": 450612,
+    "LKIPAHNOPDL": "UI_MarkTower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Shrine",
+    "MIDFBCINLMH": 3963065670,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60051,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_GATE_TEMPLE",
+      "KGDLJNNIHPE": [
+        "70360041;70360068;70900383;70360363",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "NEGGEOBGIKG": 6000052,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450701,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Dungeon",
+    "MIDFBCINLMH": 3300261454,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60052,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "4200;4201;4202;4203;4210;4211;4212;4213;4220;4221;4222;4223;4230;4231;4232;4233;5250;5251;5252;5253;5254;5255;5256;5257;5258;5259;5260;5261;5262;5263;5264;5265;4400;4401;4402;4403;4410;4411;4412;4413;4420;4421;4422;4423;4430;4431;4432;4433;4440;4441;4442;4443;4450;4451;4452;4453",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000053,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450702,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Talent",
+    "MIDFBCINLMH": 4081356670,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60053,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UPGRADE_TALENT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000054,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450703,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_Statue_Serving",
+    "MIDFBCINLMH": 4148558270,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60054,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CITY_LEVEL_UP",
+      "KGDLJNNIHPE": [
+        "1",
+        "9",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000055,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450704,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Boss_Reward",
+    "MIDFBCINLMH": 3721599358,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60055,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WORLD_BOSS_REWARD",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "NEGGEOBGIKG": 6000056,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450705,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_WolfKing",
+    "MIDFBCINLMH": 3706527622,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_LOCATION",
+      "NNPMGFENCEK": [
+        "AM0001BFL"
+      ],
+      "ENKMNBPFGOD": 3,
+      "OEILOMGBCLK": "QUEST_GUIDE_STYLE_POINT",
+      "FAELIFCDANN": "QUEST_GUIDE_LAYER_SCENE"
+    },
+    "PKLAPAOFNKA": 60056,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "29020102",
+        "需单人",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000057,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450706,
+    "LKIPAHNOPDL": "UI_MarkTower_Tower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Tower",
+    "MIDFBCINLMH": 2461919766,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60057,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_TOWER_LEVEL",
+      "KGDLJNNIHPE": [
+        "4",
+        "3",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000058,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450707,
+    "LKIPAHNOPDL": "UI_MarkPoint_Blacksmith",
+    "CLFOFBHHFKC": "UI_HandbookPic_Forge",
+    "MIDFBCINLMH": 2718306038,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60058,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FORGE_WEAPON",
+      "KGDLJNNIHPE": [
+        "4",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "NEGGEOBGIKG": 6000059,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450708,
+    "LKIPAHNOPDL": "UI_MarkQuest_Box",
+    "CLFOFBHHFKC": "UI_HandbookPic_Treasure",
+    "MIDFBCINLMH": 3344287198,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60059,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
+      "KGDLJNNIHPE": [
+        "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70211150;70211151",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 300
+  },
+  {
+    "NEGGEOBGIKG": 6000060,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450709,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Breakthrough",
+    "MIDFBCINLMH": 3981091342,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60060,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_PROMOTE",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000061,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450710,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Level_Breakthrough",
+    "MIDFBCINLMH": 736830862,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60061,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000062,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450711,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipement_Levelup",
+    "MIDFBCINLMH": 4121711758,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60062,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "13",
+        "1",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 8
+  },
+  {
+    "NEGGEOBGIKG": 6000063,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450712,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Levelup",
+    "MIDFBCINLMH": 228412470,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60063,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_UPGRADE",
+      "KGDLJNNIHPE": [
+        "60",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000064,
+    "KHMHGBFOLAN": 10007,
+    "JCCPJMHPDPB": 450713,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Levelup",
+    "MIDFBCINLMH": 56258486,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60064,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_UPGRADE",
+      "KGDLJNNIHPE": [
+        "70",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000065,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450801,
+    "LKIPAHNOPDL": "UI_MarkGoddess5",
+    "CLFOFBHHFKC": "UI_HandbookPic_Statue_Serving",
+    "MIDFBCINLMH": 3314938166,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60065,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CITY_LEVEL_UP",
+      "KGDLJNNIHPE": [
+        "2",
+        "9",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000066,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450802,
+    "LKIPAHNOPDL": "UI_MarkCustom_TagMonster",
+    "CLFOFBHHFKC": "UI_HandbookPic_Boss_Reward",
+    "MIDFBCINLMH": 3979927838,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60066,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WORLD_BOSS_REWARD",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 20
+  },
+  {
+    "NEGGEOBGIKG": 6000067,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450803,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Dungeon",
+    "MIDFBCINLMH": 4034076382,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60067,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "2021",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000068,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450804,
+    "LKIPAHNOPDL": "UI_MarkTower_Tower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Tower",
+    "MIDFBCINLMH": 3274885046,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60068,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_TOWER_LEVEL",
+      "KGDLJNNIHPE": [
+        "5",
+        "3",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000069,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450805,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Levelup",
+    "MIDFBCINLMH": 3042852878,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60069,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_UPGRADE",
+      "KGDLJNNIHPE": [
+        "70",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000070,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450806,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipment_Breakthrough",
+    "MIDFBCINLMH": 1726000702,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60070,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_SET_NUM",
+      "KGDLJNNIHPE": [
+        "4",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "NEGGEOBGIKG": 6000071,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450807,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipement_Levelup",
+    "MIDFBCINLMH": 2735363310,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60071,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "17",
+        "4",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 8
+  },
+  {
+    "NEGGEOBGIKG": 6000072,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450808,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Levelup",
+    "MIDFBCINLMH": 986613902,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60072,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_UPGRADE",
+      "KGDLJNNIHPE": [
+        "70",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000073,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450809,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Breakthrough",
+    "MIDFBCINLMH": 3732718054,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60073,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_PROMOTE",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000074,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450810,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Level_Breakthrough",
+    "MIDFBCINLMH": 2311665990,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60074,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000075,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450811,
+    "LKIPAHNOPDL": "UI_MarkTower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Shrine",
+    "MIDFBCINLMH": 1124257190,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60075,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_GATE_TEMPLE",
+      "KGDLJNNIHPE": [
+        "70360041;70360068;70900383;70360363",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 15
+  },
+  {
+    "NEGGEOBGIKG": 6000076,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450812,
+    "LKIPAHNOPDL": "UI_MarkPoint_Wind",
+    "CLFOFBHHFKC": "UI_HandbookPic_Wind_Sign",
+    "MIDFBCINLMH": 274611670,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60076,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "305",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 300
+  },
+  {
+    "NEGGEOBGIKG": 6000077,
+    "KHMHGBFOLAN": 10008,
+    "JCCPJMHPDPB": 450813,
+    "LKIPAHNOPDL": "UI_MarkPoint_Rock",
+    "CLFOFBHHFKC": "UI_HandbookPic_Rock_Sign",
+    "MIDFBCINLMH": 1194018598,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60077,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "307",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 300
+  },
+  {
+    "NEGGEOBGIKG": 6000078,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450901,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Dungeon",
+    "MIDFBCINLMH": 2284577750,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60078,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "2022",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000079,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450902,
+    "LKIPAHNOPDL": "UI_MarkTower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Shrine",
+    "MIDFBCINLMH": 809261782,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60079,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_GATE_TEMPLE",
+      "KGDLJNNIHPE": [
+        "70360041;70360068;70900383;70360363",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 18
+  },
+  {
+    "NEGGEOBGIKG": 6000080,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450903,
+    "LKIPAHNOPDL": "UI_MarkTower_Tower",
+    "CLFOFBHHFKC": "UI_HandbookPic_Tower",
+    "MIDFBCINLMH": 1106890782,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60080,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_TOWER_LEVEL",
+      "KGDLJNNIHPE": [
+        "6",
+        "3",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000081,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450904,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Level_Breakthrough",
+    "MIDFBCINLMH": 1556198782,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60081,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000082,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450905,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Levelup",
+    "MIDFBCINLMH": 4111548534,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60082,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_UPGRADE",
+      "KGDLJNNIHPE": [
+        "80",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000083,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450906,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipment_Breakthrough",
+    "MIDFBCINLMH": 1452530222,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60083,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_SET_NUM",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "NEGGEOBGIKG": 6000084,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450907,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Equipement_Levelup",
+    "MIDFBCINLMH": 4221402286,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60084,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "21",
+        "5",
+        "1"
+      ]
+    },
+    "EMBDCJLKAAE": 8
+  },
+  {
+    "NEGGEOBGIKG": 6000085,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450908,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Breakthrough",
+    "MIDFBCINLMH": 239841718,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60085,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_PROMOTE",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "NEGGEOBGIKG": 6000086,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450909,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Weapon_Levelup",
+    "MIDFBCINLMH": 2116885982,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60086,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_WEAPON_UPGRADE",
+      "KGDLJNNIHPE": [
+        "80",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "NEGGEOBGIKG": 6000087,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450910,
+    "LKIPAHNOPDL": "UI_MarkPoint_Wind",
+    "CLFOFBHHFKC": "UI_HandbookPic_Wind_Sign",
+    "MIDFBCINLMH": 1688461054,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60087,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "305",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 500
+  },
+  {
+    "NEGGEOBGIKG": 6000088,
+    "KHMHGBFOLAN": 10009,
+    "JCCPJMHPDPB": 450911,
+    "LKIPAHNOPDL": "UI_MarkPoint_Rock",
+    "CLFOFBHHFKC": "UI_HandbookPic_Rock_Sign",
+    "MIDFBCINLMH": 1515484078,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 60088,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "307",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 500
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100101,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 1215935474,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61100,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ARRANGEMENT_FURNITURE_COUNT",
+      "KGDLJNNIHPE": [
+        "0",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100102,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2412514314,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61101,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "101301;101302;101303;101304;101305;101306;101307;101308;101309;101310;101311;101312;101313;101314;101315;101316;101317",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 30
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100103,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 41454282,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61102,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_WOOD_TYPE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100104,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2223196338,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61103,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_ENTER_ROOM",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100105,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2784684962,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61110,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COMBINE_ITEM",
+      "KGDLJNNIHPE": [
+        "8",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100106,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 4247688650,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61120,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COMBINE_ITEM",
+      "KGDLJNNIHPE": [
+        "7",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100107,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 329713834,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61130,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_FURNITURE_COUNT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100108,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2844473170,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61140,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FURNITURE_MAKE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100109,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2601000650,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61150,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ARRANGEMENT_FURNITURE_COUNT",
+      "KGDLJNNIHPE": [
+        "0",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100109,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2339658922,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61160,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_COIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 100
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100110,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 3577278538,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61161,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_LEVEL",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20001,
+    "JCCPJMHPDPB": 4100111,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 340684010,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61162,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_COMFORT_LEVEL",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100201,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2395321138,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61201,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "101301;101302;101303;101304;101305;101306;101307;101308;101309;101310;101311;101312;101313;101314;101315;101316;101317",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 100
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100202,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 3602996706,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61202,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_WOOD_TYPE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100203,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 915307082,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61210,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_FURNITURE_COUNT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 20
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100204,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 1598441042,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61220,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FURNITURE_MAKE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 20
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100205,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2038811474,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61230,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ARRANGEMENT_FURNITURE_COUNT",
+      "KGDLJNNIHPE": [
+        "10002",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100206,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2529718906,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61240,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FURNITURE_SUITE_TYPE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100207,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 3568936058,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61250,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_COIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 500
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100208,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 1928170010,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61260,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_COMFORT_LEVEL",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20002,
+    "JCCPJMHPDPB": 4100209,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 3760301066,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61270,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_LEVEL",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20003,
+    "JCCPJMHPDPB": 4100301,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 1878547162,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61300,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_FURNITURE_COUNT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "KHMHGBFOLAN": 20003,
+    "JCCPJMHPDPB": 4100302,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2825238034,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61310,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FURNITURE_MAKE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 80
+  },
+  {
+    "KHMHGBFOLAN": 20003,
+    "JCCPJMHPDPB": 4100303,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 1812196626,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61320,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ARRANGEMENT_FURNITURE_COUNT",
+      "KGDLJNNIHPE": [
+        "10003;10004",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 20
+  },
+  {
+    "KHMHGBFOLAN": 20003,
+    "JCCPJMHPDPB": 4100304,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2571796786,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61330,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FURNITURE_SUITE_TYPE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "KHMHGBFOLAN": 20003,
+    "JCCPJMHPDPB": 4100305,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 3932067586,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61340,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_COIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5000
+  },
+  {
+    "KHMHGBFOLAN": 20003,
+    "JCCPJMHPDPB": 4100306,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2339479090,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61350,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_LIMITED_SHOP_BUY",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20003,
+    "JCCPJMHPDPB": 4100307,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 1162341138,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61360,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_COMFORT_LEVEL",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20003,
+    "JCCPJMHPDPB": 4100308,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 1945210122,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61370,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_LEVEL",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20004,
+    "JCCPJMHPDPB": 4100401,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 475446010,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61400,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_UNLOCK_FURNITURE_COUNT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 80
+  },
+  {
+    "KHMHGBFOLAN": 20004,
+    "JCCPJMHPDPB": 4100402,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 1966163210,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61410,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FURNITURE_MAKE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 160
+  },
+  {
+    "KHMHGBFOLAN": 20004,
+    "JCCPJMHPDPB": 4100403,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 622702042,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61420,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FURNITURE_SUITE_TYPE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "KHMHGBFOLAN": 20004,
+    "JCCPJMHPDPB": 4100404,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2926044538,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61430,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_COIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 20000
+  },
+  {
+    "KHMHGBFOLAN": 20004,
+    "JCCPJMHPDPB": 4100405,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 539556010,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61440,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_LIMITED_SHOP_BUY",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "KHMHGBFOLAN": 20004,
+    "JCCPJMHPDPB": 4100406,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 726214426,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61450,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_COMFORT_LEVEL",
+      "KGDLJNNIHPE": [
+        "7",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 20004,
+    "JCCPJMHPDPB": 4100407,
+    "LKIPAHNOPDL": "",
+    "CLFOFBHHFKC": "",
+    "MIDFBCINLMH": 2368364250,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 61460,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_LEVEL",
+      "KGDLJNNIHPE": [
+        "7",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30001,
+    "JCCPJMHPDPB": 451001,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Fire",
+    "MIDFBCINLMH": 3456691104,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62000,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "1",
+        "1",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30001,
+    "JCCPJMHPDPB": 451002,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Ice",
+    "MIDFBCINLMH": 2053862880,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "1",
+        "5",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30001,
+    "JCCPJMHPDPB": 451003,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Electric",
+    "MIDFBCINLMH": 1778221928,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "1",
+        "4",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30001,
+    "JCCPJMHPDPB": 451004,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Water",
+    "MIDFBCINLMH": 687992984,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "1",
+        "2",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30001,
+    "JCCPJMHPDPB": 451005,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Lise",
+    "MIDFBCINLMH": 3215928344,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_DUNGEON_ENTRY",
+      "NNPMGFENCEK": [
+        "22"
+      ]
+    },
+    "PKLAPAOFNKA": 62004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_TAKE_DUNGEON_FIRST_PASS_REWARD",
+      "KGDLJNNIHPE": [
+        "4022,4023",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30001,
+    "JCCPJMHPDPB": 451006,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Lise",
+    "MIDFBCINLMH": 2856227520,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_DUNGEON_ENTRY",
+      "NNPMGFENCEK": [
+        "22"
+      ]
+    },
+    "PKLAPAOFNKA": 62026,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_TAKE_DUNGEON_FIRST_PASS_REWARD",
+      "KGDLJNNIHPE": [
+        "4024,4026",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30001,
+    "JCCPJMHPDPB": 451007,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Lise",
+    "MIDFBCINLMH": 1648378136,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_DUNGEON_ENTRY",
+      "NNPMGFENCEK": [
+        "22"
+      ]
+    },
+    "PKLAPAOFNKA": 62027,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_TAKE_DUNGEON_FIRST_PASS_REWARD",
+      "KGDLJNNIHPE": [
+        "4025,4027",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30002,
+    "JCCPJMHPDPB": 451101,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Fire",
+    "MIDFBCINLMH": 4162164856,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "2",
+        "1",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30002,
+    "JCCPJMHPDPB": 451102,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Ice",
+    "MIDFBCINLMH": 1714994512,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "2",
+        "5",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30002,
+    "JCCPJMHPDPB": 451103,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Electric",
+    "MIDFBCINLMH": 435677752,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "2",
+        "4",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30002,
+    "JCCPJMHPDPB": 451104,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Water",
+    "MIDFBCINLMH": 984984400,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "2",
+        "2",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30002,
+    "JCCPJMHPDPB": 451105,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Rock",
+    "MIDFBCINLMH": 370539224,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "2",
+        "8",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30002,
+    "JCCPJMHPDPB": 451106,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Wind",
+    "MIDFBCINLMH": 4085754688,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "2",
+        "7",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30002,
+    "JCCPJMHPDPB": 451107,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Grass",
+    "MIDFBCINLMH": 263466088,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "2",
+        "3",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30002,
+    "JCCPJMHPDPB": 451108,
+    "LKIPAHNOPDL": "UI_MarkTower_Weekly",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Lise",
+    "MIDFBCINLMH": 2710158208,
+    "OALKOBMFFPC": {
+      "DDMCMHELJMP": "QUEST_GUIDE_DUNGEON_ENTRY",
+      "NNPMGFENCEK": [
+        "22"
+      ]
+    },
+    "PKLAPAOFNKA": 62028,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_TAKE_DUNGEON_FIRST_PASS_REWARD",
+      "KGDLJNNIHPE": [
+        "4028,4029",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30003,
+    "JCCPJMHPDPB": 451201,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Fire",
+    "MIDFBCINLMH": 269194832,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62012,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "3",
+        "1",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30003,
+    "JCCPJMHPDPB": 451202,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Ice",
+    "MIDFBCINLMH": 16791440,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62013,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "3",
+        "5",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30003,
+    "JCCPJMHPDPB": 451203,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Electric",
+    "MIDFBCINLMH": 2414936736,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62014,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "3",
+        "4",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30003,
+    "JCCPJMHPDPB": 451204,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Water",
+    "MIDFBCINLMH": 3979287432,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62015,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "3",
+        "2",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30003,
+    "JCCPJMHPDPB": 451205,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Rock",
+    "MIDFBCINLMH": 1794627528,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62016,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "3",
+        "8",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30003,
+    "JCCPJMHPDPB": 451206,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Wind",
+    "MIDFBCINLMH": 1630907816,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62017,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "3",
+        "7",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30003,
+    "JCCPJMHPDPB": 451207,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Grass",
+    "MIDFBCINLMH": 2117298392,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62018,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "3",
+        "3",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30004,
+    "JCCPJMHPDPB": 451301,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Fire",
+    "MIDFBCINLMH": 399566496,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62019,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "4",
+        "1",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30004,
+    "JCCPJMHPDPB": 451302,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Ice",
+    "MIDFBCINLMH": 2586109216,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62020,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "4",
+        "5",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30004,
+    "JCCPJMHPDPB": 451303,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Electric",
+    "MIDFBCINLMH": 263847568,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62021,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "4",
+        "4",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30004,
+    "JCCPJMHPDPB": 451304,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Water",
+    "MIDFBCINLMH": 3268331064,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62022,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "4",
+        "2",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30004,
+    "JCCPJMHPDPB": 451305,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Rock",
+    "MIDFBCINLMH": 2853240000,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62023,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "4",
+        "8",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30004,
+    "JCCPJMHPDPB": 451306,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Wind",
+    "MIDFBCINLMH": 771103296,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62024,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "4",
+        "7",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "KHMHGBFOLAN": 30004,
+    "JCCPJMHPDPB": 451307,
+    "LKIPAHNOPDL": "UI_Mark_Common",
+    "CLFOFBHHFKC": "UI_HandbookPic_Education_Grass",
+    "MIDFBCINLMH": 297300552,
+    "OALKOBMFFPC": {
+      "NNPMGFENCEK": [
+        ""
+      ]
+    },
+    "PKLAPAOFNKA": 62025,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_PROMOTE_EXCLUDING_PLAYER",
+      "KGDLJNNIHPE": [
+        "4",
+        "3",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "CNKMLBHGEEC": "QTEStep_Template_ClickChangeBar_202007"
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "CNKMLBHGEEC": "QTEStep_Template_ClickChangeBar_202008"
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "CNKMLBHGEEC": "QTEStep_TestCs_Button_Click"
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "CNKMLBHGEEC": "QTEStep_TestCs_Button_MultiClick"
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "CNKMLBHGEEC": "QTEStep_TestCs_Button_Direction"
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "CNKMLBHGEEC": "QTEStep_Template_Button_Click",
+    "FPPKFBFGKHL": 7
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "CNKMLBHGEEC": "QTEStep_Template_Button_Direction",
+    "FPPKFBFGKHL": 8
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "CNKMLBHGEEC": "QTEStep_Template_Button_MultiClick"
+  }
+]

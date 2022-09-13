@@ -1,0 +1,422 @@
+[
+  {
+    "DDKLPLBFPLN": "Actor_MaxHPRatio",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 9,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 9
+  },
+  {
+    "DDKLPLBFPLN": "Actor_DefenceRatio",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 5,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 5
+  },
+  {
+    "DDKLPLBFPLN": "Actor_AttackRatio",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 9,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 9
+  },
+  {
+    "DDKLPLBFPLN": "Actor_CriticalDelta",
+    "KCFBJNDILEE": -3,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -3,
+    "IBLIELBPDGN": 3,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_CriticalExtraDelta",
+    "KCFBJNDILEE": -3,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -3,
+    "IBLIELBPDGN": 3,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_AntiCriticalDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 1,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 1,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_AntiCriticalExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 1,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 1,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_CriticalHurtDelta",
+    "KCFBJNDILEE": -0.5,
+    "KACEDFHFENK": 5,
+    "MKFMJDLOEDO": -3,
+    "IBLIELBPDGN": 5,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_CriticalHurtExtraDelta",
+    "KCFBJNDILEE": -0.5,
+    "KACEDFHFENK": 5,
+    "MKFMJDLOEDO": -3,
+    "IBLIELBPDGN": 5,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_ChargeEfficiencyDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -3,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_ChargeEfficiencyExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -3,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_AddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_SubHurtDelta",
+    "KCFBJNDILEE": -1.5,
+    "KACEDFHFENK": 0.95,
+    "MKFMJDLOEDO": -1.5,
+    "IBLIELBPDGN": 0.95,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_HealAddDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_HealedAddDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_FireAddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_FireAddHurtExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_ElecAddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_ElecAddHurtExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_WaterAddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_WaterAddHurtExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_GrassAddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_GrassAddHurtExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_WindAddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_WindAddHurtExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_IceAddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_IceAddHurtExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_RockAddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_RockAddHurtExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_PhysicalAddHurtDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_PhysicalAddHurtExtraDelta",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -0.9,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_FireSubHurtDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 100,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 100
+  },
+  {
+    "DDKLPLBFPLN": "Actor_FireSubHurtExtraDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_ElecSubHurtDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 100,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 100
+  },
+  {
+    "DDKLPLBFPLN": "Actor_ElecSubHurtExtraDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_WaterSubHurtDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 100,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 100
+  },
+  {
+    "DDKLPLBFPLN": "Actor_WaterSubHurtExtraDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_GrassSubHurtDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 100,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 100
+  },
+  {
+    "DDKLPLBFPLN": "Actor_GrassSubHurtExtraDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_WindSubHurtDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 100,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 100
+  },
+  {
+    "DDKLPLBFPLN": "Actor_WindSubHurtExtraDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_IceSubHurtDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 100,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 100
+  },
+  {
+    "DDKLPLBFPLN": "Actor_IceSubHurtExtraDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_RockSubHurtDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 100,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 100
+  },
+  {
+    "DDKLPLBFPLN": "Actor_RockSubHurtExtraDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_PhysicalSubHurtDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 100,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 100
+  },
+  {
+    "DDKLPLBFPLN": "Actor_PhysicalSubHurtExtraDelta",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_AddGravityScale",
+    "KCFBJNDILEE": -2,
+    "KACEDFHFENK": 99,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 99
+  },
+  {
+    "DDKLPLBFPLN": "Actor_SkillCDMinusRatio",
+    "KCFBJNDILEE": -5,
+    "KACEDFHFENK": 0.8,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 0.67
+  },
+  {
+    "DDKLPLBFPLN": "Actor_SkillCDMinusExtraRatio",
+    "KCFBJNDILEE": -5,
+    "KACEDFHFENK": 0.8,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 0.67
+  },
+  {
+    "DDKLPLBFPLN": "Actor_ShieldCostMinusRatio",
+    "KCFBJNDILEE": -5,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Actor_ShieldCostMinusExtraRatio",
+    "KCFBJNDILEE": -5,
+    "KACEDFHFENK": 3,
+    "MKFMJDLOEDO": -2,
+    "IBLIELBPDGN": 3
+  },
+  {
+    "DDKLPLBFPLN": "Entity_ChargeSpeedRatioDelta",
+    "KCFBJNDILEE": -0.8,
+    "KACEDFHFENK": 10
+  },
+  {
+    "DDKLPLBFPLN": "Entity_MassRatio",
+    "KACEDFHFENK": 10000
+  },
+  {
+    "DDKLPLBFPLN": "Entity_WeightRatio",
+    "KACEDFHFENK": 10000
+  },
+  {
+    "DDKLPLBFPLN": "Animator_MoveSpeedRatio",
+    "KCFBJNDILEE": -0.4,
+    "KACEDFHFENK": 0.4
+  },
+  {
+    "DDKLPLBFPLN": "Animator_AttackSpeedRatio",
+    "KCFBJNDILEE": -0.4,
+    "KACEDFHFENK": 0.6
+  },
+  {
+    "DDKLPLBFPLN": "Animator_OverallSpeedRatio",
+    "KCFBJNDILEE": -0.4,
+    "KACEDFHFENK": 0.4
+  },
+  {
+    "DDKLPLBFPLN": "Animator_OverallSpeedRatioMultiplied",
+    "KCFBJNDILEE": -1,
+    "KACEDFHFENK": 1.4
+  },
+  {
+    "DDKLPLBFPLN": "Actor_EndureDelta",
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_HitHeadDmgRatio",
+    "KCFBJNDILEE": -0.9,
+    "KACEDFHFENK": 3,
+    "CNNFHAJKBFC": true
+  },
+  {
+    "DDKLPLBFPLN": "Actor_BulletMoveSpeedRatio",
+    "KCFBJNDILEE": -1,
+    "KACEDFHFENK": 10
+  }
+]

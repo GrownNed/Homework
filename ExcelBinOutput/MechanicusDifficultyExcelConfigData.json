@@ -1,0 +1,87 @@
+[
+  {
+    "AMBNPBEGFBC": 1,
+    "CMLCFIIJCGA": 1239439055,
+    "GBPDAAEIDKE": [
+      7001
+    ],
+    "MPNAOCCJCNG": 100,
+    "KEOKKJCLHMI": 14
+  },
+  {
+    "AMBNPBEGFBC": 2,
+    "CMLCFIIJCGA": 3143474151,
+    "GBPDAAEIDKE": [
+      7002
+    ],
+    "MPNAOCCJCNG": 120,
+    "KEOKKJCLHMI": 14
+  },
+  {
+    "AMBNPBEGFBC": 3,
+    "CMLCFIIJCGA": 914443223,
+    "GBPDAAEIDKE": [
+      7003,
+      7009
+    ],
+    "MPNAOCCJCNG": 140,
+    "KEOKKJCLHMI": 14
+  },
+  {
+    "AMBNPBEGFBC": 4,
+    "CMLCFIIJCGA": 2034576287,
+    "GBPDAAEIDKE": [
+      7004,
+      7010
+    ],
+    "MPNAOCCJCNG": 160,
+    "KEOKKJCLHMI": 14
+  },
+  {
+    "AMBNPBEGFBC": 5,
+    "CMLCFIIJCGA": 1992242847,
+    "GBPDAAEIDKE": [
+      7005,
+      7011
+    ],
+    "MPNAOCCJCNG": 180,
+    "KEOKKJCLHMI": 14
+  },
+  {
+    "AMBNPBEGFBC": 6,
+    "CMLCFIIJCGA": 1852953767,
+    "GBPDAAEIDKE": [
+      7006,
+      7012
+    ],
+    "MPNAOCCJCNG": 200,
+    "KEOKKJCLHMI": 14
+  },
+  {
+    "AMBNPBEGFBC": 7,
+    "CMLCFIIJCGA": 3861438063,
+    "GBPDAAEIDKE": [
+      7007,
+      7013
+    ],
+    "MPNAOCCJCNG": 250,
+    "KEOKKJCLHMI": 14
+  },
+  {
+    "AMBNPBEGFBC": 8,
+    "CMLCFIIJCGA": 1452768231,
+    "GBPDAAEIDKE": [
+      7008
+    ],
+    "MPNAOCCJCNG": 300,
+    "KEOKKJCLHMI": 14
+  },
+  {
+    "AMBNPBEGFBC": 9999,
+    "CMLCFIIJCGA": 568261511,
+    "GBPDAAEIDKE": [
+      7000
+    ],
+    "KEOKKJCLHMI": 14
+  }
+]

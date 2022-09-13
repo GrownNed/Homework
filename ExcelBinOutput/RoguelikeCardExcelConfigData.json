@@ -1,0 +1,3692 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "PIEKGECNIBG": 1,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_ADD_TALENT",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "4,1"
+    },
+    "FFMGPDNCIEI": 2365080907,
+    "CMLCFIIJCGA": 1066656009,
+    "JBLCGBFOOLF": 4005981219,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "PIEKGECNIBG": 2,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DYNAMIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_ATTACKBYLEVELENTITY",
+      "GFPCNPAKAFH": "0"
+    },
+    "FFMGPDNCIEI": 2704592043,
+    "CMLCFIIJCGA": 4113358841,
+    "JBLCGBFOOLF": 2493086683,
+    "MNMHEOMDHOF": [
+      1.2,
+      20,
+      1
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      true
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "PIEKGECNIBG": 3,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DYNAMIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_CHARGEBYLEVELENTITY",
+      "GFPCNPAKAFH": "0"
+    },
+    "FFMGPDNCIEI": 2789072075,
+    "CMLCFIIJCGA": 3458407409,
+    "JBLCGBFOOLF": 1136751683,
+    "MNMHEOMDHOF": [
+      2,
+      10,
+      1
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      true
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "PIEKGECNIBG": 4,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DYNAMIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_MUTEHURTBYLEVELENTITY",
+      "GFPCNPAKAFH": "0"
+    },
+    "FFMGPDNCIEI": 2238712811,
+    "CMLCFIIJCGA": 799054729,
+    "JBLCGBFOOLF": 28868579,
+    "MNMHEOMDHOF": [
+      1,
+      10,
+      1
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      true
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "PIEKGECNIBG": 5,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DYNAMIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_DEFENCEBYLEVELENTITY",
+      "GFPCNPAKAFH": "0"
+    },
+    "FFMGPDNCIEI": 136527131,
+    "CMLCFIIJCGA": 3485538473,
+    "JBLCGBFOOLF": 864249891,
+    "MNMHEOMDHOF": [
+      2,
+      10,
+      1
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      true
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "PIEKGECNIBG": 6,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_BOMBDAMAGE",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3082628499,
+    "CMLCFIIJCGA": 1506905393,
+    "JBLCGBFOOLF": 1911789379,
+    "MNMHEOMDHOF": [
+      2000,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "PIEKGECNIBG": 7,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_BOMBREJECT",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1310629147,
+    "CMLCFIIJCGA": 148201985,
+    "JBLCGBFOOLF": 3541349195,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "PIEKGECNIBG": 8,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_EQUIPMENT",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Defence_ChargeTime",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2580763803,
+    "CMLCFIIJCGA": 3304753617,
+    "JBLCGBFOOLF": 402471091,
+    "MNMHEOMDHOF": [
+      50,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "PIEKGECNIBG": 9,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_EQUIPMENT",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Defence_BattleTime",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1555611099,
+    "CMLCFIIJCGA": 3408859257,
+    "JBLCGBFOOLF": 1437953627,
+    "MNMHEOMDHOF": [
+      5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "PIEKGECNIBG": 10,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_EQUIPMENT",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Defence_Damage",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 931698907,
+    "CMLCFIIJCGA": 4224515265,
+    "JBLCGBFOOLF": 108511675,
+    "MNMHEOMDHOF": [
+      150,
+      150,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "PIEKGECNIBG": 11,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_EQUIPMENT",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_BAN_GUARD",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": ""
+    },
+    "FFMGPDNCIEI": 3310137915,
+    "CMLCFIIJCGA": 1578725777,
+    "JBLCGBFOOLF": 3624029499,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 12,
+    "PIEKGECNIBG": 12,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DYNAMIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_REVIVEROOMBUFF",
+      "GFPCNPAKAFH": "1",
+      "DJLMHFODHDL": -1
+    },
+    "FFMGPDNCIEI": 2916806243,
+    "CMLCFIIJCGA": 1406536449,
+    "JBLCGBFOOLF": 3892549899,
+    "MNMHEOMDHOF": [
+      12,
+      2,
+      1
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      true
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 13,
+    "PIEKGECNIBG": 13,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DYNAMIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_BATTLEROOMBUFF",
+      "GFPCNPAKAFH": "1",
+      "DJLMHFODHDL": -1
+    },
+    "FFMGPDNCIEI": 2738322499,
+    "CMLCFIIJCGA": 1167248081,
+    "JBLCGBFOOLF": 255437907,
+    "MNMHEOMDHOF": [
+      4,
+      6,
+      1
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      true
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 14,
+    "PIEKGECNIBG": 14,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_CLEAR_MIST",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": ""
+    },
+    "HKHMNJCCKPB": true,
+    "FFMGPDNCIEI": 2063369115,
+    "CMLCFIIJCGA": 2402922777,
+    "JBLCGBFOOLF": 318441075,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 15,
+    "PIEKGECNIBG": 15,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DYNAMIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_TRAPBLOCK",
+      "GFPCNPAKAFH": "2"
+    },
+    "FFMGPDNCIEI": 4227560939,
+    "CMLCFIIJCGA": 3914299753,
+    "JBLCGBFOOLF": 1483780811,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 16,
+    "PIEKGECNIBG": 16,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_CLEAR_LEVEL_TRAP",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": ""
+    },
+    "HKHMNJCCKPB": true,
+    "FFMGPDNCIEI": 1149699459,
+    "CMLCFIIJCGA": 3015751305,
+    "JBLCGBFOOLF": 2188084299,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 17,
+    "PIEKGECNIBG": 17,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_ADD_RESOURCE",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "50"
+    },
+    "FFMGPDNCIEI": 1252258883,
+    "CMLCFIIJCGA": 1957425305,
+    "JBLCGBFOOLF": 1251498291,
+    "MNMHEOMDHOF": [
+      50,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 18,
+    "PIEKGECNIBG": 18,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_RANDOM_CLEAR_A_CURSE",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "1"
+    },
+    "HKHMNJCCKPB": true,
+    "FFMGPDNCIEI": 1781819203,
+    "CMLCFIIJCGA": 219136361,
+    "JBLCGBFOOLF": 3849954179,
+    "MNMHEOMDHOF": [
+      1,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 19,
+    "PIEKGECNIBG": 19,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_LEVEL",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_CLEAR_ALL_CURSE",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": ""
+    },
+    "HKHMNJCCKPB": true,
+    "FFMGPDNCIEI": 2723940243,
+    "CMLCFIIJCGA": 393795585,
+    "JBLCGBFOOLF": 3213490315,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 20,
+    "PIEKGECNIBG": 20,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_USE_RUNE_PROB_NOT_SUB",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "30"
+    },
+    "FFMGPDNCIEI": 1036180891,
+    "CMLCFIIJCGA": 2452690681,
+    "JBLCGBFOOLF": 348048475,
+    "MNMHEOMDHOF": [
+      33,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 21,
+    "PIEKGECNIBG": 21,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_ADD_RUNE_USE_COUNT",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": "1"
+    },
+    "HKHMNJCCKPB": true,
+    "FFMGPDNCIEI": 3184739963,
+    "CMLCFIIJCGA": 2135739865,
+    "JBLCGBFOOLF": 2707188507,
+    "MNMHEOMDHOF": [
+      1,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 22,
+    "PIEKGECNIBG": 22,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_FILL_RUNE_USE_COUNT",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": ""
+    },
+    "HKHMNJCCKPB": true,
+    "FFMGPDNCIEI": 3778070619,
+    "CMLCFIIJCGA": 908737897,
+    "JBLCGBFOOLF": 3049096499,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 23,
+    "PIEKGECNIBG": 23,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      101,
+      102,
+      103
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_AddLifeTime_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2603597131,
+    "CMLCFIIJCGA": 2803566185,
+    "JBLCGBFOOLF": 2170914563,
+    "MNMHEOMDHOF": [
+      6,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 24,
+    "PIEKGECNIBG": 24,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      101,
+      102,
+      103
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_AddLifeTime_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2884576963,
+    "CMLCFIIJCGA": 4069850009,
+    "JBLCGBFOOLF": 2765468427,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 25,
+    "PIEKGECNIBG": 25,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      101,
+      102,
+      103
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_Impulse_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 741864771,
+    "CMLCFIIJCGA": 2967070433,
+    "JBLCGBFOOLF": 3997664051,
+    "MNMHEOMDHOF": [
+      5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 26,
+    "PIEKGECNIBG": 26,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      101
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_FireDamage_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2035511803,
+    "CMLCFIIJCGA": 1376969009,
+    "JBLCGBFOOLF": 2882843523,
+    "MNMHEOMDHOF": [
+      5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 27,
+    "PIEKGECNIBG": 27,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      101
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_DamageUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2484168499,
+    "CMLCFIIJCGA": 2330415393,
+    "JBLCGBFOOLF": 259232619,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 28,
+    "PIEKGECNIBG": 28,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      101
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_DamageUp_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2080105427,
+    "CMLCFIIJCGA": 2087287825,
+    "JBLCGBFOOLF": 797596035,
+    "MNMHEOMDHOF": [
+      5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 29,
+    "PIEKGECNIBG": 29,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      101
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_FireElementUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1576595379,
+    "CMLCFIIJCGA": 2755663313,
+    "JBLCGBFOOLF": 1373708867,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 30,
+    "PIEKGECNIBG": 30,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      102
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_ElectricDamage_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 873695355,
+    "CMLCFIIJCGA": 4283641697,
+    "JBLCGBFOOLF": 3759864067,
+    "MNMHEOMDHOF": [
+      5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 31,
+    "PIEKGECNIBG": 31,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      102
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_EnergyUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2747433619,
+    "CMLCFIIJCGA": 148692433,
+    "JBLCGBFOOLF": 1368481123,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 32,
+    "PIEKGECNIBG": 32,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      102
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_EnergyUp_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2082626795,
+    "CMLCFIIJCGA": 2245785841,
+    "JBLCGBFOOLF": 1920373163,
+    "MNMHEOMDHOF": [
+      0.5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 33,
+    "PIEKGECNIBG": 33,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      102
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_EnergyRevive_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2908580355,
+    "CMLCFIIJCGA": 2236004449,
+    "JBLCGBFOOLF": 3912467067,
+    "MNMHEOMDHOF": [
+      0.5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 34,
+    "PIEKGECNIBG": 34,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      103
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_ImpulseFallDamage_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 931079595,
+    "CMLCFIIJCGA": 501596065,
+    "JBLCGBFOOLF": 1284949923,
+    "MNMHEOMDHOF": [
+      20,
+      50,
+      2
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 35,
+    "PIEKGECNIBG": 35,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      103
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_AttackSpeedUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3361949379,
+    "CMLCFIIJCGA": 1647487553,
+    "JBLCGBFOOLF": 1671067795,
+    "MNMHEOMDHOF": [
+      5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 36,
+    "PIEKGECNIBG": 36,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      103
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_MoveSpeedUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 46653435,
+    "CMLCFIIJCGA": 103465361,
+    "JBLCGBFOOLF": 4264979579,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 37,
+    "PIEKGECNIBG": 37,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      103
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Rune_FallDamage_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3890797283,
+    "CMLCFIIJCGA": 1267705441,
+    "JBLCGBFOOLF": 3357571627,
+    "MNMHEOMDHOF": [
+      8,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 38,
+    "PIEKGECNIBG": 38,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      104
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_LowHP_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1139336307,
+    "CMLCFIIJCGA": 4227209393,
+    "JBLCGBFOOLF": 2475907411,
+    "MNMHEOMDHOF": [
+      80,
+      133,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 39,
+    "PIEKGECNIBG": 39,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      104
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_AddBubble_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 187251979,
+    "CMLCFIIJCGA": 4116137737,
+    "JBLCGBFOOLF": 2102194699,
+    "MNMHEOMDHOF": [
+      3,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 40,
+    "PIEKGECNIBG": 40,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      104
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_WaterDmageUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1513890587,
+    "CMLCFIIJCGA": 3179320705,
+    "JBLCGBFOOLF": 1878529531,
+    "MNMHEOMDHOF": [
+      50,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 41,
+    "PIEKGECNIBG": 41,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      104
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_WaterDmageUp_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1929769267,
+    "CMLCFIIJCGA": 3846211401,
+    "JBLCGBFOOLF": 2186073251,
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 42,
+    "PIEKGECNIBG": 42,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      105
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_ResistanceDwon_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2442442331,
+    "CMLCFIIJCGA": 1878431969,
+    "JBLCGBFOOLF": 2836246883,
+    "MNMHEOMDHOF": [
+      40,
+      10,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 43,
+    "PIEKGECNIBG": 43,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      105
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_IceDmageUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2484377899,
+    "CMLCFIIJCGA": 4122014673,
+    "JBLCGBFOOLF": 923119747,
+    "MNMHEOMDHOF": [
+      95,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 44,
+    "PIEKGECNIBG": 44,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      105
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_HPUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 134146499,
+    "CMLCFIIJCGA": 559959249,
+    "JBLCGBFOOLF": 3555005011,
+    "MNMHEOMDHOF": [
+      100,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 45,
+    "PIEKGECNIBG": 45,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      105
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_HPUp_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3756158083,
+    "CMLCFIIJCGA": 109252449,
+    "JBLCGBFOOLF": 1550977283,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 46,
+    "PIEKGECNIBG": 46,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      106
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_PullUp_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3927654235,
+    "CMLCFIIJCGA": 2352218361,
+    "JBLCGBFOOLF": 4186914371,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 47,
+    "PIEKGECNIBG": 47,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      106
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_WindDmageUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 426354651,
+    "CMLCFIIJCGA": 2413046865,
+    "JBLCGBFOOLF": 3000222171,
+    "MNMHEOMDHOF": [
+      37,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 48,
+    "PIEKGECNIBG": 48,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      106
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_WindDmageUp_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 379990019,
+    "CMLCFIIJCGA": 2901208489,
+    "JBLCGBFOOLF": 3276865275,
+    "MNMHEOMDHOF": [
+      7.5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 49,
+    "PIEKGECNIBG": 49,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      106
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Creature_HitDownUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1333905371,
+    "CMLCFIIJCGA": 2531063033,
+    "JBLCGBFOOLF": 2136638563,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 50,
+    "PIEKGECNIBG": 50,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      107
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Water_Up_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1370838875,
+    "CMLCFIIJCGA": 1376543137,
+    "JBLCGBFOOLF": 2421477611,
+    "MNMHEOMDHOF": [
+      10,
+      5,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 51,
+    "PIEKGECNIBG": 51,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      107
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Water_HealUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 815098027,
+    "CMLCFIIJCGA": 3491907313,
+    "JBLCGBFOOLF": 2629783019,
+    "MNMHEOMDHOF": [
+      80,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 52,
+    "PIEKGECNIBG": 52,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      107
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Water_HealUp_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 975496499,
+    "CMLCFIIJCGA": 469706393,
+    "JBLCGBFOOLF": 895285075,
+    "MNMHEOMDHOF": [
+      15,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 53,
+    "PIEKGECNIBG": 53,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      107
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Water_DurationUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 970230363,
+    "CMLCFIIJCGA": 433843345,
+    "JBLCGBFOOLF": 100105691,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 54,
+    "PIEKGECNIBG": 54,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      109
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Elec_ExtraDamage_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 4146801507,
+    "CMLCFIIJCGA": 2991650153,
+    "JBLCGBFOOLF": 3310427835,
+    "MNMHEOMDHOF": [
+      1,
+      1,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 55,
+    "PIEKGECNIBG": 55,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      109
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Elec_ElemBall_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 121643451,
+    "CMLCFIIJCGA": 376806913,
+    "JBLCGBFOOLF": 4183326723,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 56,
+    "PIEKGECNIBG": 56,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      109
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Elec_ElemBall_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1311126267,
+    "CMLCFIIJCGA": 3508187881,
+    "JBLCGBFOOLF": 1917481915,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 57,
+    "PIEKGECNIBG": 57,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      109
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Elec_DamageUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1477093211,
+    "CMLCFIIJCGA": 736839601,
+    "JBLCGBFOOLF": 2001483283,
+    "MNMHEOMDHOF": [
+      45,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 58,
+    "PIEKGECNIBG": 58,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [
+      108
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Rock_Up_SSR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3062075275,
+    "CMLCFIIJCGA": 980695377,
+    "JBLCGBFOOLF": 1999931379,
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 59,
+    "PIEKGECNIBG": 59,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      108
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Rock_SubHurt_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1370945747,
+    "CMLCFIIJCGA": 960594841,
+    "JBLCGBFOOLF": 4081529251,
+    "MNMHEOMDHOF": [
+      15,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 60,
+    "PIEKGECNIBG": 60,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [
+      108
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Rock_DurationUp_R",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1675878651,
+    "CMLCFIIJCGA": 647680521,
+    "JBLCGBFOOLF": 2966041699,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 61,
+    "PIEKGECNIBG": 61,
+    "JAOLFFLPFEJ": "ROGUELIKE_CARD_LABEL_RUNE",
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      108
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_Spell_Rock_DurationUp_SR",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2025117899,
+    "CMLCFIIJCGA": 3398185769,
+    "JBLCGBFOOLF": 378175931,
+    "MNMHEOMDHOF": [
+      4,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 62,
+    "PIEKGECNIBG": 62,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_HighHp_NormalExtraFalling_DamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 334663763,
+    "CMLCFIIJCGA": 2388807881,
+    "JBLCGBFOOLF": 2290245747,
+    "MNMHEOMDHOF": [
+      70,
+      10,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 63,
+    "PIEKGECNIBG": 63,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_HighHp_ElementalArt_DamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2884653291,
+    "CMLCFIIJCGA": 1292184497,
+    "JBLCGBFOOLF": 1523168835,
+    "MNMHEOMDHOF": [
+      70,
+      10,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 64,
+    "PIEKGECNIBG": 64,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_HighHp_ElementalBurst_DamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3691854067,
+    "CMLCFIIJCGA": 1288960361,
+    "JBLCGBFOOLF": 2142409315,
+    "MNMHEOMDHOF": [
+      70,
+      10,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 65,
+    "PIEKGECNIBG": 65,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_DamageUp_SubHurtDown",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1517893483,
+    "CMLCFIIJCGA": 2967266937,
+    "JBLCGBFOOLF": 3794069931,
+    "MNMHEOMDHOF": [
+      15,
+      10,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 66,
+    "PIEKGECNIBG": 66,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DYNAMIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_AreaNoEnemyAtkSpeedUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1118067435,
+    "CMLCFIIJCGA": 3322607897,
+    "JBLCGBFOOLF": 4092980427,
+    "MNMHEOMDHOF": [
+      20,
+      3,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 67,
+    "PIEKGECNIBG": 67,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_AreaLesserEnemyAtkSpeedUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2311973667,
+    "CMLCFIIJCGA": 3696689289,
+    "JBLCGBFOOLF": 2790047051,
+    "MNMHEOMDHOF": [
+      15,
+      5,
+      3
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 68,
+    "PIEKGECNIBG": 68,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_LowHp_NormalExtraFalling_DamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1422997211,
+    "CMLCFIIJCGA": 3964414113,
+    "JBLCGBFOOLF": 2238258739,
+    "MNMHEOMDHOF": [
+      50,
+      10,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 69,
+    "PIEKGECNIBG": 69,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_LowHp_ElementalArt_DamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1550348187,
+    "CMLCFIIJCGA": 707729785,
+    "JBLCGBFOOLF": 1802548843,
+    "MNMHEOMDHOF": [
+      50,
+      10,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 70,
+    "PIEKGECNIBG": 70,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_LowHp_ElementalBurst_DamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2634850051,
+    "CMLCFIIJCGA": 348411913,
+    "JBLCGBFOOLF": 2268782739,
+    "MNMHEOMDHOF": [
+      50,
+      10,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 71,
+    "PIEKGECNIBG": 77,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_HighStaminaAreaAttack",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3337044579,
+    "CMLCFIIJCGA": 1379426057,
+    "JBLCGBFOOLF": 2332977155,
+    "MNMHEOMDHOF": [
+      70,
+      5,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 72,
+    "PIEKGECNIBG": 78,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElemnentalArt_GenerateBall",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 164283283,
+    "CMLCFIIJCGA": 3941097657,
+    "JBLCGBFOOLF": 3848257947,
+    "MNMHEOMDHOF": [
+      1,
+      4,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 73,
+    "PIEKGECNIBG": 79,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Ice",
+      "Electric"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_DownPhysicalSubHurt",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 4047127235,
+    "CMLCFIIJCGA": 2224807793,
+    "JBLCGBFOOLF": 3706747803,
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 74,
+    "PIEKGECNIBG": 82,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Electric"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ElementAddHurt_Elec",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2135248531,
+    "CMLCFIIJCGA": 3888167953,
+    "JBLCGBFOOLF": 3512971571,
+    "MNMHEOMDHOF": [
+      30,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 75,
+    "PIEKGECNIBG": 83,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Electric"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_ElementAddHurt_Elec",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3636905163,
+    "CMLCFIIJCGA": 4091919513,
+    "JBLCGBFOOLF": 3304388523,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 76,
+    "PIEKGECNIBG": 84,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Electric"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementAddHurt_Elec",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 185368507,
+    "CMLCFIIJCGA": 98228865,
+    "JBLCGBFOOLF": 3345776395,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 77,
+    "PIEKGECNIBG": 85,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Fire"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ElementAddHurt_Fire",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1854913707,
+    "CMLCFIIJCGA": 3593033745,
+    "JBLCGBFOOLF": 378127555,
+    "MNMHEOMDHOF": [
+      30,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 78,
+    "PIEKGECNIBG": 86,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Fire"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_ElementAddHurt_Fire",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 4285247259,
+    "CMLCFIIJCGA": 1263316065,
+    "JBLCGBFOOLF": 3971620339,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 79,
+    "PIEKGECNIBG": 87,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Fire"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementAddHurt_Fire",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2812468763,
+    "CMLCFIIJCGA": 3704946073,
+    "JBLCGBFOOLF": 1823328891,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 80,
+    "PIEKGECNIBG": 88,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Ice"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ElementAddHurt_Ice",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 449577419,
+    "CMLCFIIJCGA": 494301961,
+    "JBLCGBFOOLF": 2221809403,
+    "MNMHEOMDHOF": [
+      30,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 81,
+    "PIEKGECNIBG": 89,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Ice"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_ElementAddHurt_Ice",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2047330995,
+    "CMLCFIIJCGA": 2039157961,
+    "JBLCGBFOOLF": 4032766883,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 82,
+    "PIEKGECNIBG": 90,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Ice"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementAddHurt_Ice",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 4073823963,
+    "CMLCFIIJCGA": 1620440753,
+    "JBLCGBFOOLF": 3432163723,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 83,
+    "PIEKGECNIBG": 91,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Water"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ElementAddHurt_Water",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3212954787,
+    "CMLCFIIJCGA": 810435649,
+    "JBLCGBFOOLF": 3264293051,
+    "MNMHEOMDHOF": [
+      30,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 84,
+    "PIEKGECNIBG": 92,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Water"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_ElementAddHurt_Water",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 4047732875,
+    "CMLCFIIJCGA": 519389441,
+    "JBLCGBFOOLF": 1701534891,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 85,
+    "PIEKGECNIBG": 93,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Water"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementAddHurt_Water",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 674356611,
+    "CMLCFIIJCGA": 2995914553,
+    "JBLCGBFOOLF": 3307568627,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 86,
+    "PIEKGECNIBG": 94,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Wind"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ElementAddHurt_Wind",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 144278107,
+    "CMLCFIIJCGA": 105040185,
+    "JBLCGBFOOLF": 402422123,
+    "MNMHEOMDHOF": [
+      30,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 87,
+    "PIEKGECNIBG": 95,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Wind"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_ElementAddHurt_Wind",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2824041939,
+    "CMLCFIIJCGA": 1820715137,
+    "JBLCGBFOOLF": 3383595611,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 88,
+    "PIEKGECNIBG": 96,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Wind"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementAddHurt_Wind",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3172845267,
+    "CMLCFIIJCGA": 2620095809,
+    "JBLCGBFOOLF": 148025155,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 89,
+    "PIEKGECNIBG": 97,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Rock"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ElementAddHurt_Rock",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1823771739,
+    "CMLCFIIJCGA": 4059832249,
+    "JBLCGBFOOLF": 3330998371,
+    "MNMHEOMDHOF": [
+      30,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 90,
+    "PIEKGECNIBG": 98,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Rock"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_ElementAddHurt_Rock",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3553610227,
+    "CMLCFIIJCGA": 2468156673,
+    "JBLCGBFOOLF": 1082794027,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 91,
+    "PIEKGECNIBG": 99,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Rock"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementAddHurt_Rock",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 973458267,
+    "CMLCFIIJCGA": 2065289017,
+    "JBLCGBFOOLF": 2620063947,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 92,
+    "PIEKGECNIBG": 100,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_PhysicalAddHurt",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 4000907763,
+    "CMLCFIIJCGA": 3493160689,
+    "JBLCGBFOOLF": 3405617139,
+    "MNMHEOMDHOF": [
+      30,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 93,
+    "PIEKGECNIBG": 101,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_PhysicalAddHurt",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3596312395,
+    "CMLCFIIJCGA": 1713817177,
+    "JBLCGBFOOLF": 355492611,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 94,
+    "PIEKGECNIBG": 102,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementAddHurt_Physical",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 4074814027,
+    "CMLCFIIJCGA": 985352185,
+    "JBLCGBFOOLF": 1049685747,
+    "MNMHEOMDHOF": [
+      2,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 95,
+    "PIEKGECNIBG": 104,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_NormalAttackDamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1126773179,
+    "CMLCFIIJCGA": 2388488113,
+    "JBLCGBFOOLF": 3145210019,
+    "MNMHEOMDHOF": [
+      8,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 96,
+    "PIEKGECNIBG": 106,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ExtraAttackDamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2409897883,
+    "CMLCFIIJCGA": 3521845945,
+    "JBLCGBFOOLF": 2205633027,
+    "MNMHEOMDHOF": [
+      8,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 97,
+    "PIEKGECNIBG": 110,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [
+      103
+    ],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_FallingAttackDamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3377342331,
+    "CMLCFIIJCGA": 1068552393,
+    "JBLCGBFOOLF": 3711646931,
+    "MNMHEOMDHOF": [
+      12,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 98,
+    "PIEKGECNIBG": 108,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_Elemental_ArtDamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1644779603,
+    "CMLCFIIJCGA": 2823838529,
+    "JBLCGBFOOLF": 937560483,
+    "MNMHEOMDHOF": [
+      8,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 99,
+    "PIEKGECNIBG": 111,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_DefenceRatio",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2396321355,
+    "CMLCFIIJCGA": 2610673457,
+    "JBLCGBFOOLF": 492060323,
+    "MNMHEOMDHOF": [
+      15,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 100,
+    "PIEKGECNIBG": 112,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Water",
+      "Electric"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementReaction_Shock",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1359206675,
+    "CMLCFIIJCGA": 1986081297,
+    "JBLCGBFOOLF": 2366494659,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101,
+    "PIEKGECNIBG": 113,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Ice",
+      "Electric"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementReaction_Superconductor",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2932231723,
+    "CMLCFIIJCGA": 3343470649,
+    "JBLCGBFOOLF": 3428667499,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102,
+    "PIEKGECNIBG": 114,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Fire",
+      "Electric"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementReaction_Explode",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3783851507,
+    "CMLCFIIJCGA": 1384551361,
+    "JBLCGBFOOLF": 451560155,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103,
+    "PIEKGECNIBG": 115,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Water",
+      "Fire"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementReaction_Stream",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 337008275,
+    "CMLCFIIJCGA": 229636273,
+    "JBLCGBFOOLF": 2513316843,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 104,
+    "PIEKGECNIBG": 116,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_R",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Ice",
+      "Fire"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_R_ElementReaction_Melt",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 1254638267,
+    "CMLCFIIJCGA": 3113737185,
+    "JBLCGBFOOLF": 1460938363,
+    "MNMHEOMDHOF": [
+      10,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 105,
+    "PIEKGECNIBG": 103,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_NormalAttackDamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2524801811,
+    "CMLCFIIJCGA": 3351240681,
+    "JBLCGBFOOLF": 2635592027,
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 106,
+    "PIEKGECNIBG": 105,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ExtraAttackDamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2255146475,
+    "CMLCFIIJCGA": 1987595937,
+    "JBLCGBFOOLF": 1584669363,
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 107,
+    "PIEKGECNIBG": 107,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_Elemental_ArtDamageUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 635127739,
+    "CMLCFIIJCGA": 547294497,
+    "JBLCGBFOOLF": 2963966715,
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 108,
+    "PIEKGECNIBG": 109,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_AtkSpeedUp",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 803079171,
+    "CMLCFIIJCGA": 1773762537,
+    "JBLCGBFOOLF": 364220267,
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 109,
+    "PIEKGECNIBG": 71,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_SprintAreaAttack",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3614425731,
+    "CMLCFIIJCGA": 3248553457,
+    "JBLCGBFOOLF": 2363116891,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 110,
+    "PIEKGECNIBG": 72,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ShieldOnBeingHitDoDamage",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2474733267,
+    "CMLCFIIJCGA": 1596471737,
+    "JBLCGBFOOLF": 1797868963,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 111,
+    "PIEKGECNIBG": 73,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_OnGainEnergyByBall",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2158897403,
+    "CMLCFIIJCGA": 3280614721,
+    "JBLCGBFOOLF": 600140435,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 112,
+    "PIEKGECNIBG": 74,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SSR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_HitCritical",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 428928483,
+    "CMLCFIIJCGA": 2748234641,
+    "JBLCGBFOOLF": 597720379,
+    "MNMHEOMDHOF": [
+      5,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 113,
+    "PIEKGECNIBG": 80,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_DashStaminaReduction",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 2138371643,
+    "CMLCFIIJCGA": 1780845665,
+    "JBLCGBFOOLF": 1484067699,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 114,
+    "PIEKGECNIBG": 81,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ExtraAttack",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 3090768003,
+    "CMLCFIIJCGA": 2443488049,
+    "JBLCGBFOOLF": 4018886403,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 115,
+    "PIEKGECNIBG": 75,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [
+      "Rock"
+    ],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SR_PickupTriggerAOE",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 681307859,
+    "CMLCFIIJCGA": 719111161,
+    "JBLCGBFOOLF": 2469510515,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 116,
+    "PIEKGECNIBG": 76,
+    "DDMCMHELJMP": "ROGUELIKE_CARD_TPYE_SR",
+    "FALACHEECPE": [],
+    "JDELHOAAIJH": [],
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUE_SSR_ExtraAreaAttack",
+      "GFPCNPAKAFH": "1"
+    },
+    "FFMGPDNCIEI": 95959835,
+    "CMLCFIIJCGA": 3143476385,
+    "JBLCGBFOOLF": 1996338259,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ],
+    "CEPPLGFOAHB": [
+      0,
+      0,
+      0
+    ]
+  }
+]

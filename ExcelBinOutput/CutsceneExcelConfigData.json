@@ -1,0 +1,726 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "MOFGOJEKBAK": "TEST/TEST_Chest_CutSence"
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "MOFGOJEKBAK": "TEST/TEST_GoddessLvUp_CutSence"
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_GoddessUpgrade_01"
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DungeonGate_01"
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DungeonGate_02"
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_GoddessActive"
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_GoddessUpgradeDefault"
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DragonNestSealGate"
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_MDAQ501_SwordBreak01"
+  },
+  {
+    "PKLAPAOFNKA": 200201,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_MDAQ071_DvalinCombat2"
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen01"
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen02"
+  },
+  {
+    "PKLAPAOFNKA": 12,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen03"
+  },
+  {
+    "PKLAPAOFNKA": 13,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_RecyclableDungeon_GetReward"
+  },
+  {
+    "PKLAPAOFNKA": 14,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_GoddessUpgradeDefault_SFX"
+  },
+  {
+    "PKLAPAOFNKA": 15,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Goddess_Chord_Wind"
+  },
+  {
+    "PKLAPAOFNKA": 16,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Goddess_Chord_Rock"
+  },
+  {
+    "PKLAPAOFNKA": 17,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_AncientBloodTreeUpgradeDefault"
+  },
+  {
+    "PKLAPAOFNKA": 18,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_AncientBloodTreeLvUp1"
+  },
+  {
+    "PKLAPAOFNKA": 19,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_AncientBloodTree_1To2"
+  },
+  {
+    "PKLAPAOFNKA": 20,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_AncientBloodTreeLvUp2"
+  },
+  {
+    "PKLAPAOFNKA": 21,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_AncientBloodTree_2To3"
+  },
+  {
+    "PKLAPAOFNKA": 22,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DungeonGate_03"
+  },
+  {
+    "PKLAPAOFNKA": 23,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DungeonGate_04"
+  },
+  {
+    "PKLAPAOFNKA": 24,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Goddess_Chord_Thunder"
+  },
+  {
+    "PKLAPAOFNKA": 25,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_OffeRinGoRaioNoKaMi_First"
+  },
+  {
+    "PKLAPAOFNKA": 26,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72100_SealOfSakuraUnlock_01"
+  },
+  {
+    "PKLAPAOFNKA": 27,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72100_SealOfSakuraUnlock_02"
+  },
+  {
+    "PKLAPAOFNKA": 28,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72100_SealOfSakuraUnlock_03"
+  },
+  {
+    "PKLAPAOFNKA": 29,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72100_SealOfSakuraUnlock_04"
+  },
+  {
+    "PKLAPAOFNKA": 30,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72100_SealOfSakuraUnlock_05"
+  },
+  {
+    "PKLAPAOFNKA": 31,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_UnlockWell"
+  },
+  {
+    "PKLAPAOFNKA": 32,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DungeonGate_05"
+  },
+  {
+    "PKLAPAOFNKA": 33,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_UnlockWoodFance_01"
+  },
+  {
+    "PKLAPAOFNKA": 34,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_UnlockWoodFance_02"
+  },
+  {
+    "PKLAPAOFNKA": 35,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_UnlockWoodFance_03"
+  },
+  {
+    "PKLAPAOFNKA": 36,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_DaSheChallangeIsland_01"
+  },
+  {
+    "PKLAPAOFNKA": 37,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_DaSheChallangeIsland_02"
+  },
+  {
+    "PKLAPAOFNKA": 38,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_DaSheChallangeIsland_03"
+  },
+  {
+    "PKLAPAOFNKA": 39,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_DaSheChallangeIsland_04"
+  },
+  {
+    "PKLAPAOFNKA": 40,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_LingMiaoChallangeIsland_01"
+  },
+  {
+    "PKLAPAOFNKA": 41,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_LingMiaoChallangeIsland_02"
+  },
+  {
+    "PKLAPAOFNKA": 42,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_LingMiaoChallangeIsland_03"
+  },
+  {
+    "PKLAPAOFNKA": 44,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_XiaJianChallangeIsland_01"
+  },
+  {
+    "PKLAPAOFNKA": 45,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_XiaJianChallangeIsland_02"
+  },
+  {
+    "PKLAPAOFNKA": 46,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_XiaJianChallangeIsland_03"
+  },
+  {
+    "PKLAPAOFNKA": 47,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_ActiveTower_XiaJianChallangeIsland_04"
+  },
+  {
+    "PKLAPAOFNKA": 48,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_MazeRotating"
+  },
+  {
+    "PKLAPAOFNKA": 49,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_LingMiaoObserver"
+  },
+  {
+    "PKLAPAOFNKA": 50,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72239_DQ_AbyssalPalace_ElixirFlowerActive"
+  },
+  {
+    "PKLAPAOFNKA": 51,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_UnlockAltar"
+  },
+  {
+    "PKLAPAOFNKA": 52,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72191_DQ_AbyssalPalace_ActiveKeyPattern"
+  },
+  {
+    "PKLAPAOFNKA": 53,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_LinMiaoPuzzle_01"
+  },
+  {
+    "PKLAPAOFNKA": 54,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_LinMiaoPuzzle_02"
+  },
+  {
+    "PKLAPAOFNKA": 55,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_LinMiaoPuzzle_03"
+  },
+  {
+    "PKLAPAOFNKA": 56,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_XiaJianLibPuzzle_01"
+  },
+  {
+    "PKLAPAOFNKA": 57,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_XiaJianLibPuzzle_02"
+  },
+  {
+    "PKLAPAOFNKA": 58,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_AbyssalPalace_MazzUnlock"
+  },
+  {
+    "PKLAPAOFNKA": 59,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_DarkTowerCombine"
+  },
+  {
+    "PKLAPAOFNKA": 60,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_DarkTowerCombine_2"
+  },
+  {
+    "PKLAPAOFNKA": 61,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_DarkTowerCombine_3"
+  },
+  {
+    "PKLAPAOFNKA": 62,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_LQ_Rogue_LaserFiring"
+  },
+  {
+    "PKLAPAOFNKA": 63,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_LQ_Rogue_RuneDisplay"
+  },
+  {
+    "PKLAPAOFNKA": 64,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_YelanDungeon_OrganStart_01"
+  },
+  {
+    "PKLAPAOFNKA": 65,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_YelanDungeon_OrganStart_02"
+  },
+  {
+    "PKLAPAOFNKA": 66,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_ZM_Waterdown_01"
+  },
+  {
+    "PKLAPAOFNKA": 67,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ_DownSurge_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 68,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ_DownSurge02_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 69,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ_RemoveSeal_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 70,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ_RemoveSeal02_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 71,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ7306333_VarunaMovingWaterPlane_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 72,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ7306620_SynthesisPanacea_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 73,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ7306640_ThegiantCupGrowup_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 74,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ7306641_RelieveDeadland.prefab_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 75,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_01"
+  },
+  {
+    "PKLAPAOFNKA": 76,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_02"
+  },
+  {
+    "PKLAPAOFNKA": 77,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_03"
+  },
+  {
+    "PKLAPAOFNKA": 78,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_04"
+  },
+  {
+    "PKLAPAOFNKA": 79,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_05"
+  },
+  {
+    "PKLAPAOFNKA": 80,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_06"
+  },
+  {
+    "PKLAPAOFNKA": 81,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_07"
+  },
+  {
+    "PKLAPAOFNKA": 82,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_08"
+  },
+  {
+    "PKLAPAOFNKA": 83,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_09"
+  },
+  {
+    "PKLAPAOFNKA": 84,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_10"
+  },
+  {
+    "PKLAPAOFNKA": 85,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_11"
+  },
+  {
+    "PKLAPAOFNKA": 86,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_GardenActiveFinished_12"
+  },
+  {
+    "PKLAPAOFNKA": 87,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Xm_TreeFirst_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 88,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Xm_TreeUpgrade_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 89,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_WitherForest_WQ7303713_Creation_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 90,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ7303705_Battle_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 91,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_WitherForest_WQ7303707_Die_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 92,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_WitherForest_WQ7303709_Tree_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 93,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Goddess_Chord_Grass"
+  },
+  {
+    "PKLAPAOFNKA": 94,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Sumeru_DreamForest_WQ7306625_RelieveDeadland.prefab_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 95,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ_CWUpgrade"
+  },
+  {
+    "PKLAPAOFNKA": 96,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_Portal"
+  },
+  {
+    "PKLAPAOFNKA": 97,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_CWLUp"
+  },
+  {
+    "PKLAPAOFNKA": 98,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_CWLReset"
+  },
+  {
+    "PKLAPAOFNKA": 99,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_VineDoorOpen"
+  },
+  {
+    "PKLAPAOFNKA": 100,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_VineDoorOpen02"
+  },
+  {
+    "PKLAPAOFNKA": 101,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_VineDoorOpen03"
+  },
+  {
+    "PKLAPAOFNKA": 102,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CWL_Activate_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 103,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WaterRoom"
+  },
+  {
+    "PKLAPAOFNKA": 104,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_HLSJFirst"
+  },
+  {
+    "PKLAPAOFNKA": 105,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_SKFSunlocked"
+  },
+  {
+    "PKLAPAOFNKA": 106,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_SKFSunlocked02"
+  },
+  {
+    "PKLAPAOFNKA": 107,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_XMSM_WQ_SKFSunlocked03"
+  },
+  {
+    "PKLAPAOFNKA": 9999,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Common_BlackScreen_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 2101401,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_LYIQ21014_LiYueShow"
+  },
+  {
+    "PKLAPAOFNKA": 133104440,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_TripleCampSeals"
+  },
+  {
+    "PKLAPAOFNKA": 133104488,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_CalcifPoolDungeonUnlock"
+  },
+  {
+    "PKLAPAOFNKA": 133104585,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_TripleCampSeals_Unlocked"
+  },
+  {
+    "PKLAPAOFNKA": 133103334,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_StoneNiddlesRiseField"
+  },
+  {
+    "PKLAPAOFNKA": 300801601,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ70141_CelestiaClusterBigFocus"
+  },
+  {
+    "PKLAPAOFNKA": 310301001,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_01"
+  },
+  {
+    "PKLAPAOFNKA": 310301002,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_02"
+  },
+  {
+    "PKLAPAOFNKA": 310301003,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_03"
+  },
+  {
+    "PKLAPAOFNKA": 310301004,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_04"
+  },
+  {
+    "PKLAPAOFNKA": 310301005,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_05"
+  },
+  {
+    "PKLAPAOFNKA": 310301501,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_JueYunJianTempleUnlock"
+  },
+  {
+    "PKLAPAOFNKA": 310301502,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_JueYunJianTempleUnlock_Bottom"
+  },
+  {
+    "PKLAPAOFNKA": 310624801,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_DunYuLingPuzzle"
+  },
+  {
+    "PKLAPAOFNKA": 310405301,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_LYIQ21004_TheLostTreasure"
+  },
+  {
+    "PKLAPAOFNKA": 310405302,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_LYIQ21004_TheLostTreasure_Contact"
+  },
+  {
+    "PKLAPAOFNKA": 310462101,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_01"
+  },
+  {
+    "PKLAPAOFNKA": 310462102,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_02"
+  },
+  {
+    "PKLAPAOFNKA": 310462103,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_03"
+  },
+  {
+    "PKLAPAOFNKA": 310462104,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_04"
+  },
+  {
+    "PKLAPAOFNKA": 310462105,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_05"
+  },
+  {
+    "PKLAPAOFNKA": 310462106,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_06"
+  },
+  {
+    "PKLAPAOFNKA": 310462107,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_07"
+  },
+  {
+    "PKLAPAOFNKA": 310462108,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_08"
+  },
+  {
+    "PKLAPAOFNKA": 310462109,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillars_09"
+  },
+  {
+    "PKLAPAOFNKA": 310462110,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_NinePillarsGate"
+  },
+  {
+    "PKLAPAOFNKA": 310631301,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_QinXuPuPuzzle"
+  },
+  {
+    "PKLAPAOFNKA": 310270701,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Scenery_LiYue_01"
+  },
+  {
+    "PKLAPAOFNKA": 220101001,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_LYAQ301_GongZiBoss_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 220101002,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_LYAQ301_GongZiBoss_Empty_Fade_In"
+  },
+  {
+    "PKLAPAOFNKA": 220101003,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_LYAQ301_GongZiBoss_Loop_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 300805201,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LJXS_Prison_01"
+  },
+  {
+    "PKLAPAOFNKA": 3008523,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_WallPaintChamber"
+  },
+  {
+    "PKLAPAOFNKA": 341301601,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_ExpendArea_TestLevelCutscene"
+  },
+  {
+    "PKLAPAOFNKA": 111001,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LYLQ11113_HiddenDoor"
+  },
+  {
+    "PKLAPAOFNKA": 531001,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_FluerFair_DungeonGate"
+  },
+  {
+    "PKLAPAOFNKA": 531002,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Activity_DungeonGate"
+  },
+  {
+    "PKLAPAOFNKA": 144001002,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_AlicegramophoneCoverDestroyed"
+  },
+  {
+    "PKLAPAOFNKA": 144001011,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_PopoIslandPuzzle"
+  },
+  {
+    "PKLAPAOFNKA": 321319801,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_TatariSeal"
+  },
+  {
+    "PKLAPAOFNKA": 321319901,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_TatariCore"
+  },
+  {
+    "PKLAPAOFNKA": 500501301,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DiurnalCycle_01"
+  },
+  {
+    "PKLAPAOFNKA": 500501302,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DiurnalCycle_02"
+  },
+  {
+    "PKLAPAOFNKA": 500501303,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72177_UnlockTokoSeal"
+  },
+  {
+    "PKLAPAOFNKA": 500501304,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_WQ72177_GetOathOfTokoyo"
+  },
+  {
+    "PKLAPAOFNKA": 321214201,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_RayAmpFinish_01"
+  },
+  {
+    "PKLAPAOFNKA": 321213501,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_RayAmpFinish_02"
+  },
+  {
+    "PKLAPAOFNKA": 321214601,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_RayAmpFinish_03"
+  },
+  {
+    "PKLAPAOFNKA": 321205201,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_RayAmpFinish_04"
+  },
+  {
+    "PKLAPAOFNKA": 321007401,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_HZD_SurfaceDown"
+  },
+  {
+    "PKLAPAOFNKA": 201901,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_201901_NvShiZhuan_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 201902,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_201901_NvShiZhuan_Loop_Convert"
+  },
+  {
+    "PKLAPAOFNKA": 321007402,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_HZD_SurfaceDown_02"
+  },
+  {
+    "PKLAPAOFNKA": 322203801,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_StormCenterWaterDown_01"
+  },
+  {
+    "PKLAPAOFNKA": 322203802,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_StormCenterWaterDown_02"
+  },
+  {
+    "PKLAPAOFNKA": 322203803,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_StormCenterWaterDown_03"
+  },
+  {
+    "PKLAPAOFNKA": 321010001,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_HZD_WataVesselOverflow"
+  },
+  {
+    "PKLAPAOFNKA": 321010002,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_HZD_OpenDoor"
+  },
+  {
+    "PKLAPAOFNKA": 322310001,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CutScene_HGD_WQ_WaterDown_Cave"
+  },
+  {
+    "PKLAPAOFNKA": 322310002,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CutScene_HGD_WQ_WaterDown_Cave2"
+  },
+  {
+    "PKLAPAOFNKA": 322310003,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CutScene_HGD_WQ_WaterDown_Ruin"
+  },
+  {
+    "PKLAPAOFNKA": 322310004,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CutScene_HGD_WQ_Mural"
+  },
+  {
+    "PKLAPAOFNKA": 321000401,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_HZD_WataAltarActive_01"
+  },
+  {
+    "PKLAPAOFNKA": 321029201,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_DQ_HZD_WataAltarActive_02"
+  },
+  {
+    "PKLAPAOFNKA": 722760501,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_YXGWQ72276_Puzzle"
+  },
+  {
+    "PKLAPAOFNKA": 310603001,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_LY_TheChasmUnlockDungeon"
+  },
+  {
+    "PKLAPAOFNKA": 790271301,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_DI_WQ7902713_ShipSpiritCreate"
+  },
+  {
+    "PKLAPAOFNKA": 201330101,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CutScene_DI_ThronBridgeCreate01"
+  },
+  {
+    "PKLAPAOFNKA": 201330102,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CutScene_DI_ThronBridgeCreate02"
+  },
+  {
+    "PKLAPAOFNKA": 201330103,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CutScene_DI_ThronBridgeCreate03"
+  },
+  {
+    "PKLAPAOFNKA": 199003100,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_DI_GalaxyBridgeCreate01"
+  },
+  {
+    "PKLAPAOFNKA": 201330104,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_CutScene_DI_MusicCreate"
+  },
+  {
+    "PKLAPAOFNKA": 330125001,
+    "MOFGOJEKBAK": "Scene_CutScene/Cs_Scene_Sumeru_DeathAreaTimeline"
+  }
+]

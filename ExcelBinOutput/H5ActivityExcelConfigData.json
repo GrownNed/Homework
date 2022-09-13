@@ -1,0 +1,430 @@
+[
+  {
+    "JDIDKNFMFCE": 1001,
+    "MJGFPBEHEEM": 4074841920,
+    "NGGBALBENBG": 2640667663,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1002,
+    "MJGFPBEHEEM": 1064911432,
+    "NGGBALBENBG": 3380426471,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "MJGFPBEHEEM": 2650931608,
+    "NGGBALBENBG": 897004511,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "21"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1004,
+    "MJGFPBEHEEM": 3453164056,
+    "NGGBALBENBG": 56858103,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "MJGFPBEHEEM": 4278259776,
+    "NGGBALBENBG": 1757838799,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1007,
+    "MJGFPBEHEEM": 2433090584,
+    "NGGBALBENBG": 345132591,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1008,
+    "MJGFPBEHEEM": 2233625192,
+    "NGGBALBENBG": 2931387007,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "MJGFPBEHEEM": 4012299728,
+    "NGGBALBENBG": 1696722479,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1010,
+    "MJGFPBEHEEM": 4081192232,
+    "NGGBALBENBG": 728681935,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1011,
+    "MJGFPBEHEEM": 2622070432,
+    "NGGBALBENBG": 251431887,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1012,
+    "MJGFPBEHEEM": 342730888,
+    "NGGBALBENBG": 850346575,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1013,
+    "MJGFPBEHEEM": 3713422800,
+    "NGGBALBENBG": 318866367,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1014,
+    "MJGFPBEHEEM": 3187578688,
+    "NGGBALBENBG": 775339871,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1015,
+    "MJGFPBEHEEM": 416359024,
+    "NGGBALBENBG": 4243340311,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "MJGFPBEHEEM": 2294296088,
+    "NGGBALBENBG": 2040796207,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "20"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1017,
+    "MJGFPBEHEEM": 2705544688,
+    "NGGBALBENBG": 3215793399,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1018,
+    "MJGFPBEHEEM": 1067394232,
+    "NGGBALBENBG": 2010131791,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "20"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1019,
+    "MJGFPBEHEEM": 3496083656,
+    "NGGBALBENBG": 1225231159,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1020,
+    "MJGFPBEHEEM": 488966376,
+    "NGGBALBENBG": 655271,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1021,
+    "MJGFPBEHEEM": 4064270816,
+    "NGGBALBENBG": 3052052095,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1022,
+    "MJGFPBEHEEM": 1640263696,
+    "NGGBALBENBG": 4123936287,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1023,
+    "MJGFPBEHEEM": 1669431136,
+    "NGGBALBENBG": 3981348287,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1024,
+    "MJGFPBEHEEM": 494068480,
+    "NGGBALBENBG": 1117462479,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1025,
+    "MJGFPBEHEEM": 2714348208,
+    "NGGBALBENBG": 1003877255,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1026,
+    "MJGFPBEHEEM": 220527536,
+    "NGGBALBENBG": 102333607,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1027,
+    "MJGFPBEHEEM": 3487534320,
+    "NGGBALBENBG": 2680408559,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "MJGFPBEHEEM": 876604632,
+    "NGGBALBENBG": 1610047535,
+    "ADJJFBECBGE": [
+      {
+        "OBIKBOIOCPL": ""
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "MJGFPBEHEEM": 2530108592,
+    "NGGBALBENBG": 595264639,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "32"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1030,
+    "MJGFPBEHEEM": 4027900344,
+    "NGGBALBENBG": 2355502367,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "32"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  },
+  {
+    "JDIDKNFMFCE": 1031,
+    "MJGFPBEHEEM": 816430440,
+    "NGGBALBENBG": 2893229503,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+        "OBIKBOIOCPL": "10"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ]
+  }
+]

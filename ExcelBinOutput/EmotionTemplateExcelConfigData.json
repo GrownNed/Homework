@@ -1,0 +1,436 @@
+[
+  {
+    "HMNEJGOMDPD": 10100,
+    "NMGPMBFOEIE": 10100,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Standby",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 10101,
+    "NMGPMBFOEIE": 10101,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Smile01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 10201,
+    "NMGPMBFOEIE": 10201,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Happy",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Happy01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 10301,
+    "NMGPMBFOEIE": 10301,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Sad",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Sad01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 10401,
+    "NMGPMBFOEIE": 10401,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Love",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Flipped01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 10501,
+    "NMGPMBFOEIE": 10501,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Angry",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Angry01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 10601,
+    "NMGPMBFOEIE": 10601,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Thinking",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Think01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 10701,
+    "NMGPMBFOEIE": 10701,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Surprise",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Surprised01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 10801,
+    "NMGPMBFOEIE": 10801,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_Avatar_Coop_Shy01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1101,
+    "NMGPMBFOEIE": 1171,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1102,
+    "NMGPMBFOEIE": 1172,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1103,
+    "NMGPMBFOEIE": 1173,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1201,
+    "NMGPMBFOEIE": 1230,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1301,
+    "NMGPMBFOEIE": 1290,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Exciting",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1401,
+    "NMGPMBFOEIE": 1160,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Awkward",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkB03",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1501,
+    "NMGPMBFOEIE": 1130,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_love",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Sad01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1601,
+    "NMGPMBFOEIE": 1120,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Angry",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Angry02_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1701,
+    "NMGPMBFOEIE": 1190,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Query",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Doubt01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1801,
+    "NMGPMBFOEIE": 1060,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Surprise",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Angry01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 1901,
+    "NMGPMBFOEIE": 1090,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA03",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2101,
+    "NMGPMBFOEIE": 1172,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2102,
+    "NMGPMBFOEIE": 1171,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Sad01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2103,
+    "NMGPMBFOEIE": 4140,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2201,
+    "NMGPMBFOEIE": 1090,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2301,
+    "NMGPMBFOEIE": 1290,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Happy",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2401,
+    "NMGPMBFOEIE": 1240,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Sad",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Sad02_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2501,
+    "NMGPMBFOEIE": 1130,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_love",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Sad01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2601,
+    "NMGPMBFOEIE": 1120,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Angry",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Angry02_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2701,
+    "NMGPMBFOEIE": 1190,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Thinking",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Doubt01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2801,
+    "NMGPMBFOEIE": 1060,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Surprise",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Angry01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 2901,
+    "NMGPMBFOEIE": 1090,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_love",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA03",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3101,
+    "NMGPMBFOEIE": 1171,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3102,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3103,
+    "NMGPMBFOEIE": 1171,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Sad01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3201,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3301,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Happy",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3401,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Sad",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Sad02_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3501,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Love",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3601,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Angry",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Angry02_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3701,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Thinking",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Doubt01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3801,
+    "NMGPMBFOEIE": 1070,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Surprise",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Angry01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 3901,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Love",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA03",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4101,
+    "NMGPMBFOEIE": 1171,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4102,
+    "NMGPMBFOEIE": 1050,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4201,
+    "NMGPMBFOEIE": 1060,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4301,
+    "NMGPMBFOEIE": 5010,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Happy",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4401,
+    "NMGPMBFOEIE": 5030,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Sad",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkB03",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4501,
+    "NMGPMBFOEIE": 1060,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Exciting",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4601,
+    "NMGPMBFOEIE": 1060,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Angry",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4701,
+    "NMGPMBFOEIE": 1090,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Thinking",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Doubt01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4801,
+    "NMGPMBFOEIE": 1060,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Surprise",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 4901,
+    "NMGPMBFOEIE": 1050,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Love",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA03",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5101,
+    "NMGPMBFOEIE": 1171,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5103,
+    "NMGPMBFOEIE": 1120,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Normal01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5201,
+    "NMGPMBFOEIE": 1120,
+    "DPNLMCNIAMD": "",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5301,
+    "NMGPMBFOEIE": 1290,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Happy",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA01",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5401,
+    "NMGPMBFOEIE": 4040,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Awkward",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkB03",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5501,
+    "NMGPMBFOEIE": 4030,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Exciting",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Sad01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5601,
+    "NMGPMBFOEIE": 1120,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Angry",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Angry02_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5701,
+    "NMGPMBFOEIE": 1120,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Query",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Doubt01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5801,
+    "NMGPMBFOEIE": 1120,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Surprise",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_Angry01_B",
+    "OCEENCIANBL": 0.5
+  },
+  {
+    "HMNEJGOMDPD": 5901,
+    "NMGPMBFOEIE": 1120,
+    "DPNLMCNIAMD": "EmojiBubble_Emoji_Love",
+    "MKIDMIMNDCL": "Cs_Emo_NPC_WinkA03",
+    "OCEENCIANBL": 0.5
+  }
+]

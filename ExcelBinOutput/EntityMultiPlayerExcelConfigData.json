@@ -1,0 +1,250 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "ODDFDEHFLCK": [
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_HP_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.5,
+          1,
+          1.5
+        ]
+      },
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_ATTACK_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.1,
+          0.25,
+          0.4
+        ]
+      }
+    ],
+    "MIEPIJPEDBA": [
+      2,
+      3,
+      4
+    ],
+    "AOADMHIJECL": [
+      1.5,
+      1.7,
+      2
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "ODDFDEHFLCK": [
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_HP_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.5,
+          1,
+          1.5
+        ]
+      },
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_ATTACK_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.1,
+          0.25,
+          0.4
+        ]
+      }
+    ],
+    "MIEPIJPEDBA": [
+      2,
+      3,
+      4
+    ],
+    "AOADMHIJECL": [
+      1.5,
+      1.7,
+      2
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "ODDFDEHFLCK": [
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_HP_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.5,
+          1,
+          1.5
+        ]
+      },
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_ATTACK_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.1,
+          0.25,
+          0.4
+        ]
+      }
+    ],
+    "MIEPIJPEDBA": [
+      2,
+      3,
+      4
+    ],
+    "AOADMHIJECL": [
+      1.5,
+      1.7,
+      2
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "ODDFDEHFLCK": [
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_HP_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.5,
+          1,
+          1.5
+        ]
+      },
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_ATTACK_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.1,
+          0.25,
+          0.4
+        ]
+      }
+    ],
+    "MIEPIJPEDBA": [
+      2,
+      3,
+      4
+    ],
+    "AOADMHIJECL": [
+      1.5,
+      1.7,
+      2
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "ODDFDEHFLCK": [
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_HP_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.5,
+          1,
+          1.5
+        ]
+      },
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_ATTACK_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.1,
+          0.25,
+          0.4
+        ]
+      }
+    ],
+    "MIEPIJPEDBA": [
+      2,
+      3,
+      4
+    ],
+    "AOADMHIJECL": [
+      1.5,
+      1.7,
+      2
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 101,
+    "ODDFDEHFLCK": [
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_HP_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.52,
+          1.03,
+          1.54
+        ]
+      },
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_ATTACK_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.1,
+          0.25,
+          0.4
+        ]
+      }
+    ],
+    "MIEPIJPEDBA": [
+      2,
+      3,
+      4
+    ],
+    "AOADMHIJECL": [
+      1.5,
+      1.7,
+      2
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 102,
+    "ODDFDEHFLCK": [
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_HP_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_ATTACK_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "MIEPIJPEDBA": [
+      1,
+      1,
+      1
+    ],
+    "AOADMHIJECL": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 103,
+    "ODDFDEHFLCK": [
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_HP_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0.25,
+          0.5,
+          0.75
+        ]
+      },
+      {
+        "CINAIIGHPDJ": "FIGHT_PROP_ATTACK_MP_PERCENT",
+        "FIAHKFHABFP": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "MIEPIJPEDBA": [
+      2,
+      3,
+      4
+    ],
+    "AOADMHIJECL": [
+      1.5,
+      1.7,
+      2
+    ]
+  }
+]

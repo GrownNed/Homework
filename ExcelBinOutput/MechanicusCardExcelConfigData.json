@@ -1,0 +1,897 @@
+[
+  {
+    "HMNEJGOMDPD": 1,
+    "PBNINFLCHPJ": 160,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 1,
+    "CMLCFIIJCGA": 1993009826,
+    "MNMHEOMDHOF": [
+      "75",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 4
+  },
+  {
+    "HMNEJGOMDPD": 2,
+    "PBNINFLCHPJ": 160,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 2,
+    "CMLCFIIJCGA": 1773567746,
+    "MNMHEOMDHOF": [
+      "75",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 3,
+    "PBNINFLCHPJ": 160,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 3,
+    "CMLCFIIJCGA": 3511714498,
+    "MNMHEOMDHOF": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 4,
+    "PBNINFLCHPJ": 160,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 4,
+    "CMLCFIIJCGA": 3418387898,
+    "MNMHEOMDHOF": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 5,
+    "PBNINFLCHPJ": 160,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 5,
+    "CMLCFIIJCGA": 1499464098,
+    "MNMHEOMDHOF": [
+      "75",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 6,
+    "PBNINFLCHPJ": 160,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 6,
+    "CMLCFIIJCGA": 1985548610,
+    "MNMHEOMDHOF": [
+      "50",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 6
+  },
+  {
+    "HMNEJGOMDPD": 7,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 7,
+    "CMLCFIIJCGA": 1022811002,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 4
+  },
+  {
+    "HMNEJGOMDPD": 8,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 8,
+    "CMLCFIIJCGA": 659660002,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 9,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 9,
+    "CMLCFIIJCGA": 1259738050,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 10,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 10,
+    "CMLCFIIJCGA": 3786131538,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 11,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 11,
+    "CMLCFIIJCGA": 2545748522,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 12,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 12,
+    "CMLCFIIJCGA": 2346978842,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 6
+  },
+  {
+    "HMNEJGOMDPD": 13,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 13,
+    "CMLCFIIJCGA": 970852426,
+    "MNMHEOMDHOF": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 14,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 14,
+    "CMLCFIIJCGA": 553873378,
+    "MNMHEOMDHOF": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 15,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 15,
+    "CMLCFIIJCGA": 1800720898,
+    "MNMHEOMDHOF": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 17,
+    "PBNINFLCHPJ": 80,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 17,
+    "CMLCFIIJCGA": 2721355946,
+    "MNMHEOMDHOF": [
+      "100",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 4
+  },
+  {
+    "HMNEJGOMDPD": 18,
+    "PBNINFLCHPJ": 80,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 18,
+    "CMLCFIIJCGA": 1706979410,
+    "MNMHEOMDHOF": [
+      "100",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 19,
+    "PBNINFLCHPJ": 80,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 19,
+    "CMLCFIIJCGA": 3076971810,
+    "MNMHEOMDHOF": [
+      "100",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 20,
+    "PBNINFLCHPJ": 80,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 20,
+    "CMLCFIIJCGA": 1884326458,
+    "MNMHEOMDHOF": [
+      "100",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 21,
+    "PBNINFLCHPJ": 80,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 21,
+    "CMLCFIIJCGA": 1218046154,
+    "MNMHEOMDHOF": [
+      "100",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 22,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 22,
+    "CMLCFIIJCGA": 374536714,
+    "MNMHEOMDHOF": [
+      "20",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 4
+  },
+  {
+    "HMNEJGOMDPD": 23,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 23,
+    "CMLCFIIJCGA": 1356015826,
+    "MNMHEOMDHOF": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 24,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 24,
+    "CMLCFIIJCGA": 2641762050,
+    "MNMHEOMDHOF": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 25,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 25,
+    "CMLCFIIJCGA": 3542362034,
+    "MNMHEOMDHOF": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 26,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 26,
+    "CMLCFIIJCGA": 466229162,
+    "MNMHEOMDHOF": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 27,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 27,
+    "CMLCFIIJCGA": 1250317346,
+    "MNMHEOMDHOF": [
+      "20",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 6
+  },
+  {
+    "HMNEJGOMDPD": 28,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 28,
+    "CMLCFIIJCGA": 2101323858,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 7
+  },
+  {
+    "HMNEJGOMDPD": 29,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 29,
+    "CMLCFIIJCGA": 3614071570,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 8
+  },
+  {
+    "HMNEJGOMDPD": 30,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 30,
+    "CMLCFIIJCGA": 2148851746,
+    "MNMHEOMDHOF": [
+      "60",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 9
+  },
+  {
+    "HMNEJGOMDPD": 31,
+    "PBNINFLCHPJ": 40,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 31,
+    "CMLCFIIJCGA": 3378474098,
+    "MNMHEOMDHOF": [
+      "20",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 10
+  },
+  {
+    "HMNEJGOMDPD": 32,
+    "PBNINFLCHPJ": 75,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 32,
+    "CMLCFIIJCGA": 2668721922,
+    "MNMHEOMDHOF": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 33,
+    "PBNINFLCHPJ": 75,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 33,
+    "CMLCFIIJCGA": 1851199410,
+    "MNMHEOMDHOF": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 34,
+    "PBNINFLCHPJ": 75,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 34,
+    "CMLCFIIJCGA": 2096829242,
+    "MNMHEOMDHOF": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 35,
+    "PBNINFLCHPJ": 300,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 35,
+    "CMLCFIIJCGA": 4109518506,
+    "MNMHEOMDHOF": [
+      "80",
+      "3",
+      "400"
+    ],
+    "CFHFOMGCOLI": 4
+  },
+  {
+    "HMNEJGOMDPD": 36,
+    "PBNINFLCHPJ": 300,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 36,
+    "CMLCFIIJCGA": 2844980186,
+    "MNMHEOMDHOF": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 37,
+    "PBNINFLCHPJ": 300,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 37,
+    "CMLCFIIJCGA": 1690364018,
+    "MNMHEOMDHOF": [
+      "50",
+      "30",
+      "5"
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 38,
+    "PBNINFLCHPJ": 300,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 38,
+    "CMLCFIIJCGA": 2118470002,
+    "MNMHEOMDHOF": [
+      "2",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 39,
+    "PBNINFLCHPJ": 300,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 39,
+    "CMLCFIIJCGA": 3953266738,
+    "MNMHEOMDHOF": [
+      "1",
+      "150",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 40,
+    "PBNINFLCHPJ": 300,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 40,
+    "CMLCFIIJCGA": 1062144562,
+    "MNMHEOMDHOF": [
+      "300",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 6
+  },
+  {
+    "HMNEJGOMDPD": 41,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 41,
+    "CMLCFIIJCGA": 1190276362,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 7
+  },
+  {
+    "HMNEJGOMDPD": 42,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 42,
+    "CMLCFIIJCGA": 347479218,
+    "MNMHEOMDHOF": [
+      "150",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 8
+  },
+  {
+    "HMNEJGOMDPD": 43,
+    "PBNINFLCHPJ": 250,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 43,
+    "CMLCFIIJCGA": 2856408610,
+    "MNMHEOMDHOF": [
+      "",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 9
+  },
+  {
+    "HMNEJGOMDPD": 44,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 44,
+    "CMLCFIIJCGA": 2596643354,
+    "MNMHEOMDHOF": [
+      "250",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 45,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 45,
+    "CMLCFIIJCGA": 1664177098,
+    "MNMHEOMDHOF": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 46,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 46,
+    "CMLCFIIJCGA": 2678181738,
+    "MNMHEOMDHOF": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 47,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_BUFF",
+    "EKOGMAAAJKB": 47,
+    "CMLCFIIJCGA": 6222034,
+    "MNMHEOMDHOF": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 48,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 48,
+    "CMLCFIIJCGA": 4223764770,
+    "MNMHEOMDHOF": [
+      "150",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 4
+  },
+  {
+    "HMNEJGOMDPD": 49,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 49,
+    "CMLCFIIJCGA": 2022175250,
+    "MNMHEOMDHOF": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 50,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 50,
+    "CMLCFIIJCGA": 1152271970,
+    "MNMHEOMDHOF": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 51,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 51,
+    "CMLCFIIJCGA": 3320026466,
+    "MNMHEOMDHOF": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 52,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 52,
+    "CMLCFIIJCGA": 2081707474,
+    "MNMHEOMDHOF": [
+      "150",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 53,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 53,
+    "CMLCFIIJCGA": 3388259138,
+    "MNMHEOMDHOF": [
+      "150",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 6
+  },
+  {
+    "HMNEJGOMDPD": 54,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 54,
+    "CMLCFIIJCGA": 572859634,
+    "MNMHEOMDHOF": [
+      "25",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 4
+  },
+  {
+    "HMNEJGOMDPD": 55,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 55,
+    "CMLCFIIJCGA": 3040475698,
+    "MNMHEOMDHOF": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 56,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 56,
+    "CMLCFIIJCGA": 2452089538,
+    "MNMHEOMDHOF": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 57,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 57,
+    "CMLCFIIJCGA": 1289693418,
+    "MNMHEOMDHOF": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 58,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 58,
+    "CMLCFIIJCGA": 2662930346,
+    "MNMHEOMDHOF": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 59,
+    "PBNINFLCHPJ": 120,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 59,
+    "CMLCFIIJCGA": 3843123450,
+    "MNMHEOMDHOF": [
+      "25",
+      "",
+      ""
+    ],
+    "CFHFOMGCOLI": 6
+  },
+  {
+    "HMNEJGOMDPD": 60,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 60,
+    "CMLCFIIJCGA": 3127579946,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 61,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 61,
+    "CMLCFIIJCGA": 1712127850,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 62,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 62,
+    "CMLCFIIJCGA": 2183261170,
+    "MNMHEOMDHOF": [
+      "10",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 64,
+    "PBNINFLCHPJ": 200,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CURSE",
+    "EKOGMAAAJKB": 64,
+    "CMLCFIIJCGA": 1091132730,
+    "MNMHEOMDHOF": [
+      "60",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 65,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 65,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 23770098,
+    "MNMHEOMDHOF": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 66,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 66,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 1070093658,
+    "MNMHEOMDHOF": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 67,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 67,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 868104938,
+    "MNMHEOMDHOF": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 68,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 68,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 1061995618,
+    "MNMHEOMDHOF": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 69,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 69,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 852292090,
+    "MNMHEOMDHOF": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 70,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 70,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 3013168634,
+    "MNMHEOMDHOF": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 71,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 71,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 374181434,
+    "MNMHEOMDHOF": [
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 72,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 72,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 2974202874,
+    "MNMHEOMDHOF": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 73,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 73,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 2820255778,
+    "MNMHEOMDHOF": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 74,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 74,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 3443458002,
+    "MNMHEOMDHOF": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "HMNEJGOMDPD": 75,
+    "DJNAEKGEEBK": "MECHANICUS_CARD_CHALLENGE",
+    "EKOGMAAAJKB": 75,
+    "HCHBJJCNAAI": 1,
+    "CMLCFIIJCGA": 2629689018,
+    "MNMHEOMDHOF": [
+      "30",
+      "",
+      ""
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "AFFJPDMMOOG": "ElementBurning"
+  },
+  {
+    "AFFJPDMMOOG": "ElementWet"
+  },
+  {
+    "AFFJPDMMOOG": "ElementGrassGrowing"
+  },
+  {
+    "AFFJPDMMOOG": "ElementFrozen",
+    "FECKIAPKELO": "BUFF_CONTROL",
+    "BLAJBBEDFAJ": 1
+  },
+  {
+    "AFFJPDMMOOG": "Paralyze",
+    "FECKIAPKELO": "BUFF_CONTROL",
+    "BLAJBBEDFAJ": 2
+  },
+  {
+    "AFFJPDMMOOG": "LockHP"
+  },
+  {
+    "AFFJPDMMOOG": "ElementShock"
+  }
+]

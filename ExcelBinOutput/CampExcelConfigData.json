@@ -1,0 +1,164 @@
+[
+  {
+    "PKLAPAOFNKA": 1001,
+    "BFGJJJDMNFI": 3,
+    "LHLAICFGEKC": [
+      4001,
+      5001,
+      5002,
+      5003,
+      9001,
+      9002,
+      5005,
+      5007,
+      4002
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2001,
+    "BFGJJJDMNFI": 3,
+    "LHLAICFGEKC": []
+  },
+  {
+    "PKLAPAOFNKA": 3001,
+    "BFGJJJDMNFI": 4,
+    "LHLAICFGEKC": [
+      4001,
+      5003,
+      9001,
+      9002,
+      5005
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4001,
+    "BFGJJJDMNFI": 5,
+    "LHLAICFGEKC": [
+      1001,
+      3001,
+      9001,
+      9002,
+      5003,
+      5004,
+      5005
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4002,
+    "BFGJJJDMNFI": 5,
+    "LHLAICFGEKC": [
+      4001
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5001,
+    "BFGJJJDMNFI": 5,
+    "LHLAICFGEKC": [
+      1001,
+      3001,
+      4001,
+      5002,
+      9001,
+      9002,
+      5003
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5002,
+    "BFGJJJDMNFI": 5,
+    "LHLAICFGEKC": [
+      1001,
+      3001,
+      4001,
+      5001,
+      9001,
+      9002,
+      5003
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5003,
+    "BFGJJJDMNFI": 5,
+    "LHLAICFGEKC": [
+      1001,
+      3001,
+      4001,
+      5002,
+      5001,
+      9001,
+      9002
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5004,
+    "BFGJJJDMNFI": 5,
+    "LHLAICFGEKC": [
+      4001,
+      5002,
+      9001,
+      9002,
+      5002,
+      5003
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5005,
+    "BFGJJJDMNFI": 5,
+    "LHLAICFGEKC": [
+      1001,
+      3001,
+      5002,
+      9001,
+      9002,
+      5003
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5006,
+    "BFGJJJDMNFI": 3,
+    "LHLAICFGEKC": []
+  },
+  {
+    "PKLAPAOFNKA": 5007,
+    "BFGJJJDMNFI": 5,
+    "LHLAICFGEKC": [
+      5002,
+      9001,
+      9002,
+      5003
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9001,
+    "LHLAICFGEKC": [
+      1001,
+      3001,
+      4001,
+      5001,
+      5002,
+      5003
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9002,
+    "LHLAICFGEKC": [
+      1001,
+      3001,
+      4001,
+      5001,
+      5002,
+      5003
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9999,
+    "LHLAICFGEKC": [
+      1001,
+      3001,
+      4001,
+      5001,
+      5002,
+      5003
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_DOOR",
+    "LHBAOFDMMFN": 70310125,
+    "OFPABOGHPIG": [
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_DOOR_OPEN",
+        "NBNICLENPGL": 201
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_DOOR_CLOSE"
+      },
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_NORMAL_OPERATOR",
+    "LHBAOFDMMFN": 70310118,
+    "OFPABOGHPIG": [
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_DEFAULT"
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_IN_CHALLENGE",
+        "NBNICLENPGL": 201
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_FINISH_CHALLENGE",
+        "NBNICLENPGL": 203
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_AFTER_USE",
+        "NBNICLENPGL": 204
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_ELITE_OPERATOR",
+    "LHBAOFDMMFN": 70310119,
+    "OFPABOGHPIG": [
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_DEFAULT"
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_IN_CHALLENGE",
+        "NBNICLENPGL": 201
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_FINISH_CHALLENGE",
+        "NBNICLENPGL": 203
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_AFTER_USE",
+        "NBNICLENPGL": 204
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_SPRING_OPERATOR_REVEAL",
+    "LHBAOFDMMFN": 70310120,
+    "OFPABOGHPIG": [
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_DEFAULT"
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_FINISH_CHALLENGE",
+        "NBNICLENPGL": 203
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_AFTER_USE",
+        "NBNICLENPGL": 204
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_FORBID",
+        "NBNICLENPGL": 202
+      }
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_SPRING_OPERATOR_SWITCH",
+    "LHBAOFDMMFN": 70310124,
+    "OFPABOGHPIG": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_SPRING_STORE",
+    "LHBAOFDMMFN": 70310121,
+    "OFPABOGHPIG": [
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_DEFAULT"
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_FINISH_CHALLENGE",
+        "NBNICLENPGL": 203
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_AFTER_USE",
+        "NBNICLENPGL": 204
+      },
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_BLAST",
+    "LHBAOFDMMFN": 70310100,
+    "OFPABOGHPIG": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_TRAP",
+    "LHBAOFDMMFN": 70310101,
+    "OFPABOGHPIG": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_BREAKAGES",
+    "LHBAOFDMMFN": 70310099,
+    "OFPABOGHPIG": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "MKFOLLJINPJ": "ROGUE_GADGET_TYPE_GUARD",
+    "LHBAOFDMMFN": 70310123,
+    "OFPABOGHPIG": [
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_DEFAULT"
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_IN_CHALLENGE",
+        "NBNICLENPGL": 201
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_FINISH_CHALLENGE"
+      },
+      {
+        "BHBCEHKMHJO": "ROGUE_GADGET_STATE_OPERATOR_FORBID",
+        "NBNICLENPGL": 204
+      }
+    ]
+  }
+]

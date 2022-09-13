@@ -1,0 +1,397 @@
+[
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 1,
+    "AMBNPBEGFBC": 1,
+    "HPJKINJGPKI": {},
+    "HHNKKEKIJIB": [
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 1,
+    "AMBNPBEGFBC": 2,
+    "HPJKINJGPKI": {
+      "JPPABADKLBH": 107001,
+      "MGNLCFCFAJE": 3
+    },
+    "HHNKKEKIJIB": [
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+        "LODHOCOFAEI": [
+          5
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 1,
+    "AMBNPBEGFBC": 3,
+    "HPJKINJGPKI": {
+      "JPPABADKLBH": 107001,
+      "MGNLCFCFAJE": 10
+    },
+    "HHNKKEKIJIB": [
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+        "LODHOCOFAEI": [
+          5
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 2,
+    "AMBNPBEGFBC": 1,
+    "HPJKINJGPKI": {},
+    "HHNKKEKIJIB": [
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 2,
+    "AMBNPBEGFBC": 2,
+    "HPJKINJGPKI": {
+      "JPPABADKLBH": 107001,
+      "MGNLCFCFAJE": 1
+    },
+    "HHNKKEKIJIB": [
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+        "LODHOCOFAEI": [
+          5
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_UNLOCK_FORCE",
+        "LODHOCOFAEI": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_ACTIVATE_ITEM",
+        "LODHOCOFAEI": [
+          70220012
+        ],
+        "NBAPFJIOJBE": [
+          70220011
+        ]
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 2,
+    "AMBNPBEGFBC": 3,
+    "HPJKINJGPKI": {
+      "JPPABADKLBH": 107001,
+      "MGNLCFCFAJE": 10
+    },
+    "HHNKKEKIJIB": [
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+        "LODHOCOFAEI": [
+          5
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 3,
+    "AMBNPBEGFBC": 1,
+    "HPJKINJGPKI": {},
+    "HHNKKEKIJIB": [
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 3,
+    "AMBNPBEGFBC": 2,
+    "HPJKINJGPKI": {
+      "JPPABADKLBH": 107001,
+      "MGNLCFCFAJE": 3
+    },
+    "HHNKKEKIJIB": [
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+        "LODHOCOFAEI": [
+          5
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 3,
+    "AMBNPBEGFBC": 3,
+    "HPJKINJGPKI": {
+      "JPPABADKLBH": 107001,
+      "MGNLCFCFAJE": 10
+    },
+    "HHNKKEKIJIB": [
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+        "LODHOCOFAEI": [
+          5
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 4,
+    "AMBNPBEGFBC": 1,
+    "HPJKINJGPKI": {},
+    "HHNKKEKIJIB": [
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 4,
+    "AMBNPBEGFBC": 2,
+    "HPJKINJGPKI": {
+      "JPPABADKLBH": 107001,
+      "MGNLCFCFAJE": 3
+    },
+    "HHNKKEKIJIB": [
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+        "LODHOCOFAEI": [
+          5
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  },
+  {
+    "IKPBCDAEPEC": 3,
+    "CPEHGHDOEJK": 4,
+    "AMBNPBEGFBC": 3,
+    "HPJKINJGPKI": {
+      "JPPABADKLBH": 107001,
+      "MGNLCFCFAJE": 10
+    },
+    "HHNKKEKIJIB": [
+      {
+        "DDMCMHELJMP": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+        "LODHOCOFAEI": [
+          5
+        ],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      },
+      {
+        "LODHOCOFAEI": [],
+        "NBAPFJIOJBE": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "MIGNMCDFOJI": 70290396,
+    "EGINMJAFHCP": [
+      0.0375
+    ],
+    "IJJJLHGLNKE": [
+      6
+    ],
+    "KGPGGJDFENG": 101847,
+    "BPGCLMJOLGL": "",
+    "ANCLLCMHEGA": "Eff_Property_Prop_GearPillar_01_Put",
+    "IPKALPKLINE": "Eff_Property_Prop_GearPillar_01_Cover"
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "MIGNMCDFOJI": 70290397,
+    "EGINMJAFHCP": [
+      0.075
+    ],
+    "IJJJLHGLNKE": [
+      12
+    ],
+    "KGPGGJDFENG": 101848,
+    "BPGCLMJOLGL": "Eff_Property_Prop_Gear_02_Illegal",
+    "ANCLLCMHEGA": "Eff_Property_Prop_GearPillar_02_Put",
+    "IPKALPKLINE": "Eff_Property_Prop_GearPillar_02_Cover"
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "MIGNMCDFOJI": 70290398,
+    "EGINMJAFHCP": [
+      0.1
+    ],
+    "IJJJLHGLNKE": [
+      16
+    ],
+    "KGPGGJDFENG": 101849,
+    "BPGCLMJOLGL": "",
+    "ANCLLCMHEGA": "",
+    "IPKALPKLINE": ""
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "MIGNMCDFOJI": 70290399,
+    "EGINMJAFHCP": [
+      0.15
+    ],
+    "IJJJLHGLNKE": [
+      24
+    ],
+    "KGPGGJDFENG": 101850,
+    "BPGCLMJOLGL": "Eff_Property_Prop_Gear_03_Illegal",
+    "ANCLLCMHEGA": "Eff_Property_Prop_GearPillar_03_Put",
+    "IPKALPKLINE": "Eff_Property_Prop_GearPillar_03_Cover"
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "MIGNMCDFOJI": 70290400,
+    "EGINMJAFHCP": [
+      0.075,
+      0.0375
+    ],
+    "IJJJLHGLNKE": [
+      12,
+      6
+    ],
+    "KGPGGJDFENG": 101851,
+    "BPGCLMJOLGL": "Eff_Property_Prop_Gear_04_Illegal",
+    "ANCLLCMHEGA": "Eff_Property_Prop_GearPillar_02_Put",
+    "IPKALPKLINE": "Eff_Property_Prop_GearPillar_02_Cover"
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "MIGNMCDFOJI": 70290401,
+    "EGINMJAFHCP": [
+      0.15,
+      0.075
+    ],
+    "IJJJLHGLNKE": [
+      24,
+      12
+    ],
+    "KGPGGJDFENG": 101852,
+    "BPGCLMJOLGL": "Eff_Property_Prop_Gear_05_Illegal",
+    "ANCLLCMHEGA": "Eff_Property_Prop_GearPillar_03_Put",
+    "IPKALPKLINE": "Eff_Property_Prop_GearPillar_03_Cover"
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "MIGNMCDFOJI": 70290427,
+    "EGINMJAFHCP": [
+      0.1
+    ],
+    "IJJJLHGLNKE": [
+      16
+    ],
+    "KGPGGJDFENG": 101853,
+    "BPGCLMJOLGL": "",
+    "ANCLLCMHEGA": "",
+    "IPKALPKLINE": ""
+  }
+]

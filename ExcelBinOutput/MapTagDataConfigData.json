@@ -1,0 +1,134 @@
+[
+  {
+    "PKLAPAOFNKA": 2,
+    "DDMCMHELJMP": "HomeWorld",
+    "MJGFPBEHEEM": 3071628724,
+    "GIKOHDHDKBG": 2904399338,
+    "MECOCMNPADF": 10,
+    "LKIPAHNOPDL": "UI_MarkSwitch_Homeworld",
+    "HIJEJJOEJJL": true,
+    "JGPPLKLIKDK": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "DDMCMHELJMP": "Islands",
+    "MJGFPBEHEEM": 2157852924,
+    "GIKOHDHDKBG": 4231616786,
+    "MECOCMNPADF": 20,
+    "LKIPAHNOPDL": "UI_MarkSwitch_GoldenAppleIsles",
+    "HIJEJJOEJJL": true,
+    "JGPPLKLIKDK": [
+      4
+    ],
+    "IODLIBKCLPK": -335.314,
+    "HLALHJHGEAB": -655.726
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "MJGFPBEHEEM": 706446876,
+    "GIKOHDHDKBG": 49482922,
+    "MECOCMNPADF": 100,
+    "LKIPAHNOPDL": "UI_MarkSwitch_Bigworld",
+    "NMKGHDOKAFI": true,
+    "IMAGEJNNKDP": 1,
+    "LEJFLCPGKFE": 10,
+    "JGPPLKLIKDK": [
+      3
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "MJGFPBEHEEM": 1982412604,
+    "GIKOHDHDKBG": 1428887970,
+    "MECOCMNPADF": 100,
+    "LKIPAHNOPDL": "UI_MarkSwitch_Bigworld",
+    "HIJEJJOEJJL": true,
+    "IMAGEJNNKDP": 2,
+    "LEJFLCPGKFE": 128,
+    "JGPPLKLIKDK": [
+      3
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "MJGFPBEHEEM": 869248244,
+    "GIKOHDHDKBG": 853904250,
+    "MECOCMNPADF": 100,
+    "LKIPAHNOPDL": "UI_MarkSwitch_Bigworld",
+    "HIJEJJOEJJL": true,
+    "IMAGEJNNKDP": 3,
+    "LEJFLCPGKFE": 242,
+    "JGPPLKLIKDK": [
+      3
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "DDMCMHELJMP": "Abyssalisle",
+    "MJGFPBEHEEM": 1862653596,
+    "GIKOHDHDKBG": 1002315562,
+    "MECOCMNPADF": 70,
+    "LKIPAHNOPDL": "UI_MarkSwitch_Bigworld",
+    "HIJEJJOEJJL": true,
+    "LEJFLCPGKFE": 31,
+    "JGPPLKLIKDK": [
+      5
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "DDMCMHELJMP": "MichiaeMatsuri",
+    "MJGFPBEHEEM": 2887066388,
+    "GIKOHDHDKBG": 2106142714,
+    "MECOCMNPADF": 20,
+    "LKIPAHNOPDL": "UI_MarkSwitch_Bigworld",
+    "HIJEJJOEJJL": true,
+    "LEJFLCPGKFE": 2,
+    "JGPPLKLIKDK": [
+      7
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "DDMCMHELJMP": "TheChasm",
+    "MJGFPBEHEEM": 297471884,
+    "GIKOHDHDKBG": 3468523274,
+    "MECOCMNPADF": 70,
+    "LKIPAHNOPDL": "UI_MarkSwitch_Bigworld",
+    "HIJEJJOEJJL": true,
+    "LEJFLCPGKFE": 1,
+    "JGPPLKLIKDK": [
+      6
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "DDMCMHELJMP": "DreamIsland",
+    "MJGFPBEHEEM": 3682200372,
+    "GIKOHDHDKBG": 1255928274,
+    "MECOCMNPADF": 5,
+    "LKIPAHNOPDL": "UI_MarkSwitch_GoldenAppleIsles",
+    "HIJEJJOEJJL": true,
+    "LEJFLCPGKFE": 33,
+    "JGPPLKLIKDK": [
+      9
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "MJGFPBEHEEM": 1074864084,
+    "GIKOHDHDKBG": 2308207546,
+    "MECOCMNPADF": 100,
+    "LKIPAHNOPDL": "UI_MarkSwitch_Bigworld",
+    "HIJEJJOEJJL": true,
+    "IMAGEJNNKDP": 4,
+    "LEJFLCPGKFE": 482,
+    "JGPPLKLIKDK": [
+      3
+    ]
+  }
+]

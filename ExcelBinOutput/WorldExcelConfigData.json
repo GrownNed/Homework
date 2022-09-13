@@ -1,0 +1,45 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "DDMCMHELJMP": "WORLD_PLAYER",
+    "OPIGCMFKOAN": 3,
+    "EJEEFEEOFHG": [
+      1004,
+      1008,
+      1009,
+      1018,
+      1033,
+      1034,
+      1035,
+      1057,
+      1060,
+      1061,
+      1063,
+      1064,
+      1066,
+      1072,
+      1073,
+      1074,
+      1075,
+      1077,
+      1078
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "DDMCMHELJMP": "WORLD_HOME",
+    "OPIGCMFKOAN": 2001,
+    "EJEEFEEOFHG": [
+      2201,
+      2202
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "DDMCMHELJMP": "WORLD_PLAYER",
+    "OPIGCMFKOAN": 6,
+    "EJEEFEEOFHG": [
+      20130
+    ]
+  }
+]

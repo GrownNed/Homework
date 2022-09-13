@@ -1,0 +1,506 @@
+[
+  {
+    "PKLAPAOFNKA": 103201,
+    "BCABLKDNDNE": 10000032,
+    "MBCKEABOGHB": 1306344213,
+    "IFCLHFGIMEI": 2655869513,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 1,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Bennett",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          39604,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      2261088052,
+      2862393248
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-03-16 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Bennett_1",
+    "PNKCNJLKGIB": 0.5,
+    "NKBIEAMAHGG": 1.1
+  },
+  {
+    "PKLAPAOFNKA": 103601,
+    "BCABLKDNDNE": 10000036,
+    "MBCKEABOGHB": 1994568565,
+    "IFCLHFGIMEI": 2500083993,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 2,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Chongyun",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          39604,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      766331444,
+      3459491680
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-03-16 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Chongyun_1",
+    "PNKCNJLKGIB": 0.65,
+    "NKBIEAMAHGG": 1.1
+  },
+  {
+    "PKLAPAOFNKA": 101401,
+    "BCABLKDNDNE": 10000014,
+    "MBCKEABOGHB": 998952813,
+    "IFCLHFGIMEI": 1074985761,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 3,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Barbara",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          39604,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      4289141892,
+      3426828408
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-03-16 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Babara_1",
+    "PNKCNJLKGIB": 0.9,
+    "NKBIEAMAHGG": 1
+  },
+  {
+    "PKLAPAOFNKA": 103401,
+    "BCABLKDNDNE": 10000034,
+    "MBCKEABOGHB": 2612155685,
+    "IFCLHFGIMEI": 4080209625,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 4,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Noel",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          39604,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      1965981580,
+      2276340952
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-03-16 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Noelle_1",
+    "PNKCNJLKGIB": 0.5,
+    "NKBIEAMAHGG": 1
+  },
+  {
+    "PKLAPAOFNKA": 103402,
+    "BCABLKDNDNE": 10000034,
+    "MBCKEABOGHB": 3335822805,
+    "IFCLHFGIMEI": 399650729,
+    "OOLPJKCMAOM": 2,
+    "NCHHIABAGFB": 4,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Noel",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          102510,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_CHAPTER_END_ALL_FINISH",
+        "ILJMNPCMBCL": [
+          103401,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      4181817588,
+      3951971448
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-04-27 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Noelle_2",
+    "PNKCNJLKGIB": 0.6,
+    "NKBIEAMAHGG": 1
+  },
+  {
+    "PKLAPAOFNKA": 103901,
+    "BCABLKDNDNE": 10000039,
+    "MBCKEABOGHB": 3424806709,
+    "IFCLHFGIMEI": 1595769097,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 5,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Diona",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          39604,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      1195037532,
+      2364894544
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-04-27 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Diona_1",
+    "PNKCNJLKGIB": 0.9,
+    "NKBIEAMAHGG": 1
+  },
+  {
+    "PKLAPAOFNKA": 105001,
+    "BCABLKDNDNE": 10000050,
+    "MBCKEABOGHB": 1090012589,
+    "IFCLHFGIMEI": 983770329,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 6,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Tohma",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          202102,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      2900617772,
+      1426152768
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-10-12 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Thoma_1",
+    "PNKCNJLKGIB": 0.62,
+    "NKBIEAMAHGG": 1.12
+  },
+  {
+    "PKLAPAOFNKA": 105301,
+    "BCABLKDNDNE": 10000053,
+    "MBCKEABOGHB": 3571644637,
+    "IFCLHFGIMEI": 3172519417,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 7,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Sayu",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          202102,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      3806755644,
+      337730712
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-10-12 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Sayu_1",
+    "PNKCNJLKGIB": 0.75,
+    "NKBIEAMAHGG": 1
+  },
+  {
+    "PKLAPAOFNKA": 102401,
+    "BCABLKDNDNE": 10000024,
+    "MBCKEABOGHB": 2734176949,
+    "IFCLHFGIMEI": 2691817641,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 8,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Beidou",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          202102,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      308627444,
+      2471377352
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-11-23 00:00:00",
+    "GEKLHAOBONK": 6,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Beidou_1",
+    "PNKCNJLKGIB": 0.8,
+    "NKBIEAMAHGG": 1.1
+  },
+  {
+    "PKLAPAOFNKA": 105501,
+    "BCABLKDNDNE": 10000055,
+    "MBCKEABOGHB": 1401686877,
+    "IFCLHFGIMEI": 641509265,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 9,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Gorou",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          1202405,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      2143128908,
+      3116346016
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2021-11-23 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Gorou_1",
+    "PNKCNJLKGIB": 0.7,
+    "NKBIEAMAHGG": 1.1
+  },
+  {
+    "PKLAPAOFNKA": 106401,
+    "BCABLKDNDNE": 10000064,
+    "MBCKEABOGHB": 4069212645,
+    "IFCLHFGIMEI": 3643063425,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 10,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Yunjin",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          1101505,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      1803634108,
+      3056378016
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2022-01-04 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Yunjin_1",
+    "PNKCNJLKGIB": 0.75,
+    "NKBIEAMAHGG": 1
+  },
+  {
+    "PKLAPAOFNKA": 102701,
+    "BCABLKDNDNE": 10000027,
+    "MBCKEABOGHB": 3106181573,
+    "IFCLHFGIMEI": 128483801,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 11,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Ningguang",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          1101505,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_PLAYER_LEVEL",
+        "ILJMNPCMBCL": [
+          26,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      2691074308,
+      2756857384
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2022-01-04 00:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Ningguang_1",
+    "PNKCNJLKGIB": 0.7,
+    "NKBIEAMAHGG": 1
+  },
+  {
+    "PKLAPAOFNKA": 106501,
+    "BCABLKDNDNE": 10000065,
+    "MBCKEABOGHB": 3141818957,
+    "IFCLHFGIMEI": 3793912521,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 12,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Shinobu",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          1202618,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          103106,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      2478410980,
+      2324014712
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2022-06-21 18:00:00",
+    "GEKLHAOBONK": 5,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Shinobu_1",
+    "PNKCNJLKGIB": 0.8,
+    "NKBIEAMAHGG": 1
+  },
+  {
+    "PKLAPAOFNKA": 105901,
+    "BCABLKDNDNE": 10000059,
+    "MBCKEABOGHB": 3981352573,
+    "IFCLHFGIMEI": 1998818425,
+    "OOLPJKCMAOM": 1,
+    "NCHHIABAGFB": 13,
+    "DFFGBOPMHMG": "UI_ChapterIcon_Heizo",
+    "BLOFPFLFKID": [
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          1204209,
+          0
+        ]
+      },
+      {
+        "GLOBHBEMAOE": "COOP_COND_FINISH_QUEST",
+        "ILJMNPCMBCL": [
+          1202618,
+          0
+        ]
+      }
+    ],
+    "OFBDAIOOLIN": [
+      2484749444,
+      2891263024
+    ],
+    "HMKPODCAMBF": 107,
+    "OLNNNHBGAAB": 2,
+    "DBAILCMNFPI": "2022-01-04 00:00:00",
+    "GEKLHAOBONK": 6,
+    "OPLBEDEGHGJ": "ART/UI/Menus/Widget/CoopPage/CoopChapter_Heizo_1",
+    "PNKCNJLKGIB": 1,
+    "NKBIEAMAHGG": 1
+  }
+]

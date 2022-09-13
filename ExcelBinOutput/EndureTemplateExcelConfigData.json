@@ -1,0 +1,111 @@
+[
+  {
+    "DDMCMHELJMP": "Default",
+    "IBGFCAGPLHD": 100,
+    "OOBNMPODJGI": 10,
+    "MAEDEIPBADL": 2,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Avatar_Sword",
+    "IBGFCAGPLHD": 100,
+    "OOBNMPODJGI": 5,
+    "MAEDEIPBADL": 2,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Avatar_Pole",
+    "IBGFCAGPLHD": 100,
+    "OOBNMPODJGI": 5,
+    "MAEDEIPBADL": 2,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Avatar_Claymore",
+    "IBGFCAGPLHD": 100,
+    "OOBNMPODJGI": 5,
+    "MAEDEIPBADL": 2,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Avatar_Bow",
+    "IBGFCAGPLHD": 50,
+    "OOBNMPODJGI": 3,
+    "MAEDEIPBADL": 3,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Avatar_Catalyst",
+    "IBGFCAGPLHD": 50,
+    "OOBNMPODJGI": 3,
+    "MAEDEIPBADL": 3,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Monster_Minion",
+    "IBGFCAGPLHD": 60,
+    "OOBNMPODJGI": 5,
+    "MAEDEIPBADL": 5,
+    "CCHGACKEDGK": 1.2
+  },
+  {
+    "DDMCMHELJMP": "Monster_Grunt_Humanoid",
+    "IBGFCAGPLHD": 100,
+    "OOBNMPODJGI": 5,
+    "MAEDEIPBADL": 3,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Monster_Grunt_Other",
+    "IBGFCAGPLHD": 120,
+    "OOBNMPODJGI": 5,
+    "MAEDEIPBADL": 3,
+    "CCHGACKEDGK": 0.8
+  },
+  {
+    "DDMCMHELJMP": "Monster_Demiboss_Humanoid",
+    "IBGFCAGPLHD": 210,
+    "OOBNMPODJGI": 20,
+    "MAEDEIPBADL": 2,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Monster_Demiboss_Other",
+    "IBGFCAGPLHD": 280,
+    "OOBNMPODJGI": 20,
+    "MAEDEIPBADL": 2,
+    "CCHGACKEDGK": 0.7
+  },
+  {
+    "DDMCMHELJMP": "Monster_Boss_Humanoid",
+    "IBGFCAGPLHD": 2000,
+    "OOBNMPODJGI": 100,
+    "CCHGACKEDGK": 0.5
+  },
+  {
+    "DDMCMHELJMP": "Monster_Boss_Other",
+    "IBGFCAGPLHD": 2000,
+    "OOBNMPODJGI": 100,
+    "CCHGACKEDGK": 0.5
+  },
+  {
+    "DDMCMHELJMP": "Monster_Slime",
+    "IBGFCAGPLHD": 30,
+    "OOBNMPODJGI": 2,
+    "MAEDEIPBADL": 5,
+    "CCHGACKEDGK": 1.5
+  },
+  {
+    "DDMCMHELJMP": "Monster_Tartaglia",
+    "IBGFCAGPLHD": 500,
+    "MAEDEIPBADL": 99999,
+    "CCHGACKEDGK": 1
+  },
+  {
+    "DDMCMHELJMP": "Monster_Shougun",
+    "IBGFCAGPLHD": 390,
+    "OOBNMPODJGI": 13,
+    "MAEDEIPBADL": 99999,
+    "CCHGACKEDGK": 1
+  }
+]

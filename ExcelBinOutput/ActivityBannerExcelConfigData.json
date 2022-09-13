@@ -1,0 +1,119 @@
+[
+  {
+    "JLPMNKAFNDJ": 5042,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15174,
+    "CKPJFAFKDFK": "ConfigEffigyWater",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_EffigyWater",
+    "CMLCFIIJCGA": 1331077578
+  },
+  {
+    "JLPMNKAFNDJ": 5043,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15175,
+    "CKPJFAFKDFK": "ConfigRaijin",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Raijin",
+    "CMLCFIIJCGA": 2110025370
+  },
+  {
+    "JLPMNKAFNDJ": 5060,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15176,
+    "CKPJFAFKDFK": "ConfigHoundPlanelurker",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Hound",
+    "CMLCFIIJCGA": 1365582098
+  },
+  {
+    "JLPMNKAFNDJ": 5061,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15177,
+    "CKPJFAFKDFK": "ConfigDeepsea",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Drake_Deepsea",
+    "HHOJIAAHDMK": true,
+    "CMLCFIIJCGA": 458552746
+  },
+  {
+    "JLPMNKAFNDJ": 5063,
+    "CKPJFAFKDFK": "ConfigShenhe",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Shenhe",
+    "CMLCFIIJCGA": 1118890858
+  },
+  {
+    "JLPMNKAFNDJ": 5064,
+    "CKPJFAFKDFK": "ConfigMichiae",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Michiae",
+    "CMLCFIIJCGA": 1849278290
+  },
+  {
+    "JLPMNKAFNDJ": 5071,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15178,
+    "CKPJFAFKDFK": "ConfigNithhoggr",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Nithhoggr",
+    "HHOJIAAHDMK": true,
+    "CMLCFIIJCGA": 3851306674
+  },
+  {
+    "JLPMNKAFNDJ": 5075,
+    "CKPJFAFKDFK": "ConfigTheChasm",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_TheChasm",
+    "HHOJIAAHDMK": true,
+    "CMLCFIIJCGA": 524978850
+  },
+  {
+    "JLPMNKAFNDJ": 5077,
+    "CKPJFAFKDFK": "ConfigAQTheChasm",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_AQ_TheChasm",
+    "CMLCFIIJCGA": 547111794
+  },
+  {
+    "JLPMNKAFNDJ": 5086,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15179,
+    "CKPJFAFKDFK": "ConfigMushroom",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Mushroom",
+    "CMLCFIIJCGA": 3077608586
+  },
+  {
+    "JLPMNKAFNDJ": 5089,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15180,
+    "CKPJFAFKDFK": "ConfigRegisvineElectric",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Regisvine_Electric",
+    "CMLCFIIJCGA": 2273100842
+  },
+  {
+    "JLPMNKAFNDJ": 5093,
+    "CKPJFAFKDFK": "ConfigTheSumeru",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Sumeru",
+    "CMLCFIIJCGA": 2378720362
+  },
+  {
+    "JLPMNKAFNDJ": 5102,
+    "CKPJFAFKDFK": "ConfigCWSM",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_CWSM",
+    "CMLCFIIJCGA": 3063061826
+  },
+  {
+    "JLPMNKAFNDJ": 5103,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15181,
+    "CKPJFAFKDFK": "ConfigGargoyle",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Monster_Gargoyle_Fafnir",
+    "CMLCFIIJCGA": 1099259786
+  },
+  {
+    "JLPMNKAFNDJ": 5104,
+    "INPFCDCCLON": "ACTIVITY_BANNER_MONSTER",
+    "JFHLJHGIMDL": 15182,
+    "CKPJFAFKDFK": "ConfigMonolith",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_Monster_Monolith_Starchild",
+    "CMLCFIIJCGA": 3194544562
+  },
+  {
+    "JLPMNKAFNDJ": 5105,
+    "CKPJFAFKDFK": "ConfigAQTheSumeru1",
+    "FNMIDECJNHD": "ART/UI/Menus/Widget/Activity/Activity_AQ_Sumeru1",
+    "CMLCFIIJCGA": 277995986
+  }
+]

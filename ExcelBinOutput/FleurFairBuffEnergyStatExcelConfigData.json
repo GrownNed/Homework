@@ -1,0 +1,198 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "NHAIIGCDLGK": 6001,
+    "KJDBNMNJHLI": "collect_energy_6001",
+    "AMNCMAKMBFM": 99,
+    "JBDAFDHMKPA": 3855663028
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "NHAIIGCDLGK": 6001,
+    "KJDBNMNJHLI": "complete_timelimit_challenge_6001",
+    "AMNCMAKMBFM": 98,
+    "JBDAFDHMKPA": 24784508
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "NHAIIGCDLGK": 6001,
+    "KJDBNMNJHLI": "hit_counts_falldown_6001",
+    "AMNCMAKMBFM": 97,
+    "JBDAFDHMKPA": 645173060
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "NHAIIGCDLGK": 6001,
+    "KJDBNMNJHLI": "defeated_timelimit_challenge_6001",
+    "AMNCMAKMBFM": 96,
+    "JBDAFDHMKPA": 231219780
+  },
+  {
+    "PKLAPAOFNKA": 5,
+    "NHAIIGCDLGK": 6002,
+    "KJDBNMNJHLI": "complete_timelimit_challenge_6002",
+    "AMNCMAKMBFM": 99,
+    "JBDAFDHMKPA": 2392747396
+  },
+  {
+    "PKLAPAOFNKA": 6,
+    "NHAIIGCDLGK": 6002,
+    "KJDBNMNJHLI": "defeated_timelimit_challenge_6002",
+    "AMNCMAKMBFM": 96,
+    "JBDAFDHMKPA": 604276148
+  },
+  {
+    "PKLAPAOFNKA": 7,
+    "NHAIIGCDLGK": 6002,
+    "KJDBNMNJHLI": "hit_counts_falldown_6002",
+    "AMNCMAKMBFM": 97,
+    "JBDAFDHMKPA": 492596220
+  },
+  {
+    "PKLAPAOFNKA": 8,
+    "NHAIIGCDLGK": 6002,
+    "KJDBNMNJHLI": "collect_energy_6002",
+    "AMNCMAKMBFM": 98,
+    "JBDAFDHMKPA": 2777902284
+  },
+  {
+    "PKLAPAOFNKA": 9,
+    "NHAIIGCDLGK": 6003,
+    "KJDBNMNJHLI": "collect_energy_6003",
+    "AMNCMAKMBFM": 99,
+    "JBDAFDHMKPA": 3301170108
+  },
+  {
+    "PKLAPAOFNKA": 10,
+    "NHAIIGCDLGK": 6003,
+    "KJDBNMNJHLI": "complete_timelimit_challenge_6003",
+    "AMNCMAKMBFM": 98,
+    "JBDAFDHMKPA": 1809653460
+  },
+  {
+    "PKLAPAOFNKA": 11,
+    "NHAIIGCDLGK": 6003,
+    "KJDBNMNJHLI": "defeated_timelimit_challenge_6003",
+    "AMNCMAKMBFM": 97,
+    "JBDAFDHMKPA": 2901855868
+  },
+  {
+    "PKLAPAOFNKA": 12,
+    "NHAIIGCDLGK": 6004,
+    "KJDBNMNJHLI": "complete_timelimit_challenge_6004",
+    "AMNCMAKMBFM": 99,
+    "JBDAFDHMKPA": 4233791980
+  },
+  {
+    "PKLAPAOFNKA": 13,
+    "NHAIIGCDLGK": 6004,
+    "KJDBNMNJHLI": "defeated_timelimit_challenge_6004",
+    "AMNCMAKMBFM": 98,
+    "JBDAFDHMKPA": 1912005180
+  },
+  {
+    "PKLAPAOFNKA": 14,
+    "NHAIIGCDLGK": 6005,
+    "KJDBNMNJHLI": "collect_energy_6005",
+    "AMNCMAKMBFM": 99,
+    "JBDAFDHMKPA": 3202904556
+  },
+  {
+    "PKLAPAOFNKA": 15,
+    "NHAIIGCDLGK": 6005,
+    "KJDBNMNJHLI": "hit_counts_lessthan_5_6005",
+    "AMNCMAKMBFM": 98,
+    "JBDAFDHMKPA": 4116450500
+  },
+  {
+    "PKLAPAOFNKA": 16,
+    "NHAIIGCDLGK": 6006,
+    "KJDBNMNJHLI": "collect_energy_6006",
+    "AMNCMAKMBFM": 99,
+    "JBDAFDHMKPA": 2589405380
+  },
+  {
+    "PKLAPAOFNKA": 17,
+    "NHAIIGCDLGK": 6006,
+    "KJDBNMNJHLI": "complete_timelimit_challenge_6006",
+    "AMNCMAKMBFM": 98,
+    "JBDAFDHMKPA": 3254546804
+  },
+  {
+    "PKLAPAOFNKA": 18,
+    "NHAIIGCDLGK": 6006,
+    "KJDBNMNJHLI": "perfect_complete_timelimit_challenge_6006",
+    "AMNCMAKMBFM": 97,
+    "JBDAFDHMKPA": 10380268
+  },
+  {
+    "PKLAPAOFNKA": 27,
+    "NHAIIGCDLGK": 6006,
+    "KJDBNMNJHLI": "defeated_timelimit_challenge_6006",
+    "AMNCMAKMBFM": 96,
+    "JBDAFDHMKPA": 2194212972
+  },
+  {
+    "PKLAPAOFNKA": 19,
+    "NHAIIGCDLGK": 6007,
+    "KJDBNMNJHLI": "collect_energy_6007",
+    "AMNCMAKMBFM": 99,
+    "JBDAFDHMKPA": 4099145244
+  },
+  {
+    "PKLAPAOFNKA": 20,
+    "NHAIIGCDLGK": 6007,
+    "KJDBNMNJHLI": "complete_timelimit_challenge_6007",
+    "AMNCMAKMBFM": 98,
+    "JBDAFDHMKPA": 4294562228
+  },
+  {
+    "PKLAPAOFNKA": 21,
+    "NHAIIGCDLGK": 6007,
+    "KJDBNMNJHLI": "perfect_complete_timelimit_challenge_6007",
+    "AMNCMAKMBFM": 97,
+    "JBDAFDHMKPA": 2205664100
+  },
+  {
+    "PKLAPAOFNKA": 28,
+    "NHAIIGCDLGK": 6007,
+    "KJDBNMNJHLI": "defeated_timelimit_challenge_6007",
+    "AMNCMAKMBFM": 96,
+    "JBDAFDHMKPA": 2106876700
+  },
+  {
+    "PKLAPAOFNKA": 22,
+    "NHAIIGCDLGK": 6008,
+    "KJDBNMNJHLI": "collect_energy_6008",
+    "AMNCMAKMBFM": 99,
+    "JBDAFDHMKPA": 2406599020
+  },
+  {
+    "PKLAPAOFNKA": 23,
+    "NHAIIGCDLGK": 6008,
+    "KJDBNMNJHLI": "complete_timelimit_challenge_6008",
+    "AMNCMAKMBFM": 98,
+    "JBDAFDHMKPA": 1466809212
+  },
+  {
+    "PKLAPAOFNKA": 24,
+    "NHAIIGCDLGK": 6008,
+    "KJDBNMNJHLI": "perfect_complete_timelimit_challenge_6008",
+    "AMNCMAKMBFM": 97,
+    "JBDAFDHMKPA": 2378166596
+  },
+  {
+    "PKLAPAOFNKA": 25,
+    "NHAIIGCDLGK": 6008,
+    "KJDBNMNJHLI": "defeated_timelimit_challenge_6008",
+    "AMNCMAKMBFM": 96,
+    "JBDAFDHMKPA": 2704336132
+  },
+  {
+    "PKLAPAOFNKA": 26,
+    "NHAIIGCDLGK": 6008,
+    "KJDBNMNJHLI": "fall_down_count_6008",
+    "AMNCMAKMBFM": 95,
+    "JBDAFDHMKPA": 3939010164
+  }
+]

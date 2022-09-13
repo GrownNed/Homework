@@ -1,0 +1,2502 @@
+[
+  {
+    "AMBNPBEGFBC": 1,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 2,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.083
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.083
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.083
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.083
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 3,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.165
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.165
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.166
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.166
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 4,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.248
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.248
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.25
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.25
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 5,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.33
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.33
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.333
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.333
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 6,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.413
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.413
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.417
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.417
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 7,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.495
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.495
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.5
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.5
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 8,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.578
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.578
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.584
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.584
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 9,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.661
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.661
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.668
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.668
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 10,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.743
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.743
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.751
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.751
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 11,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.826
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.826
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.835
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.835
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 12,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.908
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.908
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.919
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.919
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 13,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.991
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 1.991
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.003
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.003
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 14,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.073
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.073
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.088
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.088
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 15,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.156
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.156
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.172
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.172
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 16,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.239
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.239
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.256
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.256
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 17,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.321
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.321
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.341
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.341
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 18,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.404
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.404
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.425
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.425
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 19,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.486
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.486
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.51
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.51
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 20,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.569
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.569
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.594
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.594
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 21,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.651
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.651
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.679
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.679
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 22,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.734
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.734
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.764
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.764
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 23,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.817
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.817
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.849
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.849
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 24,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.899
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.899
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.934
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.934
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 25,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.982
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 2.982
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.019
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.019
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 26,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.064
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.064
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.105
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.105
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 27,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.147
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.147
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.19
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.19
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 28,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.229
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.229
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.275
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.275
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 29,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.312
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.312
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.361
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.361
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 30,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.394
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.394
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.446
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.446
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 31,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.477
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.477
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.532
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.532
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 32,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.56
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.56
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.618
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.618
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 33,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.642
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.642
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.704
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.704
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 34,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.725
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.725
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.789
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.789
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 35,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.807
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.807
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.875
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.875
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 36,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.89
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.89
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.962
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.962
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 37,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.972
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 3.972
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.048
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.048
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 38,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.055
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.055
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.134
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.134
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 39,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.138
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.138
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.22
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.22
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 40,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.22
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.22
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.307
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.307
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 41,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.303
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.303
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.393
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.393
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 42,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.385
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.385
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.48
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.48
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 43,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.468
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.468
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.567
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.567
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 44,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.55
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.55
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.653
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.653
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 45,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.633
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.633
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.74
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.74
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 46,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.716
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.716
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.827
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.827
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 47,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.798
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.798
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.914
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.914
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 48,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.881
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.881
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.001
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.001
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 49,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.963
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 4.963
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.089
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.089
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 50,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.046
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.046
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.176
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.176
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 51,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.128
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.128
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.263
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.263
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 52,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.211
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.211
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.351
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.351
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 53,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.294
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.294
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.438
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.438
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 54,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.376
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.376
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.526
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.526
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 55,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.459
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.459
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.614
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.614
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 56,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.541
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.541
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.702
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.702
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 57,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.624
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.624
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.79
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.79
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 58,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.706
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.706
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.878
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.878
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 59,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.789
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.789
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.966
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.966
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 60,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.872
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.872
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.054
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.054
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 61,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.954
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 5.954
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.142
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.142
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 62,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.037
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.037
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.23
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.23
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 63,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.119
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.119
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.319
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.319
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 64,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.202
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.202
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.407
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.407
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 65,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.284
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.284
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.496
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.496
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 66,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.367
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.367
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.585
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.585
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 67,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.45
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.45
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.673
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.673
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 68,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.532
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.532
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.762
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.762
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 69,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.615
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.615
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.851
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.851
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 70,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.697
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.697
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.94
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.94
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 71,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.78
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.78
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.029
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.029
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 72,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.862
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.862
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.119
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.119
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 73,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.945
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 6.945
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.208
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.208
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 74,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.028
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.028
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.297
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.297
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 75,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.11
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.11
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.387
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.387
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 76,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.193
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.193
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.476
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.476
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 77,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.275
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.275
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.566
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.566
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 78,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.358
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.358
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.656
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.656
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 79,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.44
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.44
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.746
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.746
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 80,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.523
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.523
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.836
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.836
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 81,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.606
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.606
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.926
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.926
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 82,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.688
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.688
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.016
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.016
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 83,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.771
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.771
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.106
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.106
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 84,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.853
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.853
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.196
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.196
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 85,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.936
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 7.936
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.286
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.286
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 86,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.018
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.018
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.377
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.377
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 87,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.101
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.101
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.467
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.467
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 88,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.183
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.183
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.558
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.558
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 89,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.266
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.266
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.649
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.649
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 90,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.349
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.349
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.739
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.739
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 91,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.431
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.431
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.83
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.83
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 92,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.514
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.514
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.921
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.921
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 93,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.596
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.596
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.012
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.012
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 94,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.679
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.679
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.103
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.103
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 95,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.761
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.761
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.195
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.195
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 96,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.844
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.844
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.286
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.286
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 97,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.927
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 8.927
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.377
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.377
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 98,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.009
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.009
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.469
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.469
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 99,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.092
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.092
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.56
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.56
+      }
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 100,
+    "NLJAPDCLPMP": [
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.174
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S4",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.174
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_HP_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.652
+      },
+      {
+        "DDMCMHELJMP": "GROW_CURVE_ATTACK_S5",
+        "BOBNIEAHKKI": "ARITH_MULTI",
+        "OGJNGAMPALK": 9.652
+      }
+    ]
+  }
+]

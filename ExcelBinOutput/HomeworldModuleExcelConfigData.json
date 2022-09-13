@@ -1,0 +1,113 @@
+[
+  {
+    "PJNEDDPBJCF": 4,
+    "EJAPABPJFBA": 772321565,
+    "DMOJJOOKGGL": 2004,
+    "KCLIJFJDNHC": 2203,
+    "HBOBJPEDNNH": [
+      2201,
+      2202,
+      2203
+    ],
+    "OMHDGMBOOKI": 2023252765,
+    "EFEELGALPEH": 1069777739,
+    "KEGEADMGCKH": [
+      "Map_Homeworld_Exterior_Ukiyo_001",
+      "Map_Homeworld_Exterior_Ukiyo_002",
+      "Map_Homeworld_Exterior_Ukiyo_003",
+      "Map_Homeworld_Exterior_Ukiyo_004"
+    ],
+    "ACKHAHABCAM": [
+      "245.73,186,560.9",
+      "326.29,205.513,359.74",
+      "542.8,192.043,508.7",
+      "718.7,203.45,702.6"
+    ],
+    "MHIAIBBOKIN": "UI_HomeworldModule_4",
+    "MFGGAHOHLMC": "UI_HomeworldModule_4_Pic"
+  },
+  {
+    "PJNEDDPBJCF": 1,
+    "JLAGJFHIHDG": true,
+    "EJAPABPJFBA": 1478493845,
+    "DMOJJOOKGGL": 2001,
+    "KCLIJFJDNHC": 2201,
+    "HBOBJPEDNNH": [
+      2201,
+      2202,
+      2203
+    ],
+    "OMHDGMBOOKI": 1843410581,
+    "EFEELGALPEH": 182060131,
+    "KEGEADMGCKH": [
+      "Map_Homeworld_Exterior_Above_001",
+      "Map_Homeworld_Exterior_Above_002",
+      "Map_Homeworld_Exterior_Above_003",
+      "Map_Homeworld_Exterior_Above_004"
+    ],
+    "ACKHAHABCAM": [
+      "825.7461,0,123.5733",
+      "761.4891,0,364.6011",
+      "525.3538,0,589.5408",
+      "218.1062,0,825.1384"
+    ],
+    "MHIAIBBOKIN": "UI_HomeworldModule_2",
+    "MFGGAHOHLMC": "UI_HomeworldModule_2_Pic"
+  },
+  {
+    "PJNEDDPBJCF": 2,
+    "JLAGJFHIHDG": true,
+    "EJAPABPJFBA": 2390342453,
+    "DMOJJOOKGGL": 2002,
+    "KCLIJFJDNHC": 2201,
+    "HBOBJPEDNNH": [
+      2201,
+      2202,
+      2203
+    ],
+    "OMHDGMBOOKI": 2743796149,
+    "EFEELGALPEH": 4014705795,
+    "KEGEADMGCKH": [
+      "Map_Homeworld_Exterior_Karst_001",
+      "Map_Homeworld_Exterior_Karst_002",
+      "Map_Homeworld_Exterior_Karst_003",
+      "Map_Homeworld_Exterior_Karst_004"
+    ],
+    "ACKHAHABCAM": [
+      "337.2328,0,770.5031",
+      "349.0688,0,586.0258",
+      "563.4695,0,589.3153",
+      "522.3098,0,475.8359"
+    ],
+    "MHIAIBBOKIN": "UI_HomeworldModule_1",
+    "MFGGAHOHLMC": "UI_HomeworldModule_1_Pic"
+  },
+  {
+    "PJNEDDPBJCF": 3,
+    "JLAGJFHIHDG": true,
+    "EJAPABPJFBA": 658184325,
+    "DMOJJOOKGGL": 2003,
+    "KCLIJFJDNHC": 2201,
+    "HBOBJPEDNNH": [
+      2201,
+      2202,
+      2203
+    ],
+    "OMHDGMBOOKI": 2044643413,
+    "EFEELGALPEH": 1200772483,
+    "KEGEADMGCKH": [
+      "Map_Homeworld_Exterior_Uncharted_001",
+      "Map_Homeworld_Exterior_Uncharted_002",
+      "Map_Homeworld_Exterior_Uncharted_003",
+      "Map_Homeworld_Exterior_Uncharted_004"
+    ],
+    "ACKHAHABCAM": [
+      "497.3904,0,616.4855",
+      "314.7899,0,521.4933",
+      "801.0367,0,635.1414",
+      "742.6815,0,361.0927"
+    ],
+    "MHIAIBBOKIN": "UI_HomeworldModule_3",
+    "MFGGAHOHLMC": "UI_HomeworldModule_3_Pic"
+  }
+]

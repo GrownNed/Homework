@@ -1,0 +1,4422 @@
+[
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5001001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5001002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OPEN_BLOSSOM_CHEST",
+      "KGDLJNNIHPE": [
+        "1;3",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 20
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5001004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100021;100022;100023;100024;100025;100055;100057;100056",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5001005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100027;100028;100029;100030;100031;100033;100034;100058",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 200
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 500
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 900
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "202",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 200000
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CITY_REPUTATION_FINISH_REQUEST",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_QUEST_OR",
+      "KGDLJNNIHPE": [
+        "7165403,7165408,7165411",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001012,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+      "KGDLJNNIHPE": [
+        "21020101,21020201,21020301,21020601,21020601,21010401,21010501,21010901,21011001,21010101,21010201,21010301,21010601,21010701,21011201,21011301,21011401,21030101,21030201,21030301,21030401,21030501,21020501,21020401",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 99
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001013,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+      "KGDLJNNIHPE": [
+        "21030101,21030201,21030301,21030401,21030501",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 99
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001014,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+      "KGDLJNNIHPE": [
+        "21020101,21020201,21020301,21020601",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 99
+  },
+  {
+    "JDIDKNFMFCE": 1001,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5001015,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+      "KGDLJNNIHPE": [
+        "20040501",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "JDIDKNFMFCE": 1002,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5002001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1002,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5002002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1002,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5002003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1002,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5002004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "JDIDKNFMFCE": 1002,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5002005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ANY_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1002,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5002006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100027;100028;100029;100030;100031;100033;100034;100058",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 6
+  },
+  {
+    "JDIDKNFMFCE": 1002,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5002007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100021;100022;100023;100024;100025;100055;100057;100056",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 6
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_AVATAR_IN_COUNT",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100028",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100085",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_AVATAR_FETTER_GET",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_MONSTER_IN_AREA",
+      "KGDLJNNIHPE": [
+        "100,101,102,103",
+        "10201,10202,10203,10206",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "204",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "104001;104002;104003",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003012,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_MONSTER_IN_AREA",
+      "KGDLJNNIHPE": [
+        "100,101,102,103",
+        "20101,20102,20103",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003013,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003014,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_PLACE_MIRACLE_RING",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003015,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ANY_WEAPON_UPGRADE_NUM",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003016,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_MONSTER_IN_AREA",
+      "KGDLJNNIHPE": [
+        "100,101,102,103",
+        "60101,60102",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003017,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003018,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+      "KGDLJNNIHPE": [
+        "25090101",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003019,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ANY_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003020,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_MONSTER_IN_AREA",
+      "KGDLJNNIHPE": [
+        "100,101,102,103",
+        "00101,00102,00103,00104,00105,00106,00107,00108,00109,00110,00111,00112,00113,00114,00115",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003021,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 6
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003022,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_MONSTER_IN_AREA",
+      "KGDLJNNIHPE": [
+        "100,101,102,103",
+        "10301,10302,10303,10304,10305",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003023,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 7
+  },
+  {
+    "JDIDKNFMFCE": 1003,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5003024,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_KILL_MONSTER_IN_AREA",
+      "KGDLJNNIHPE": [
+        "100,101,102,103",
+        "10104,10105,10109,10110",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100027;100028;100029;100030;100031;100033;100034;100058",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100021;100022;100023;100024;100025;100055;100057;100056",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "101201;101202;101203;101204;101205;101206",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1005,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5005009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1008,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5008001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FISHING_SUCC_NUM",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "JDIDKNFMFCE": 1008,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5008002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1008,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5008003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1008,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5008004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1008,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5008005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1008,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5008006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1008,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5008007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ANY_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5009001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 200
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 400
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 800
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1600
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_PARENT_QUEST_AND",
+      "KGDLJNNIHPE": [
+        "72105",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_PARENT_QUEST_AND",
+      "KGDLJNNIHPE": [
+        "72122",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_PARENT_QUEST_AND",
+      "KGDLJNNIHPE": [
+        "72132",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "202",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 50000
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "202",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 120000
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "202",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 200000
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009012,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "127;128;129;130",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009013,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+      "KGDLJNNIHPE": [
+        "20040401,20070101",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 10
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009014,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+      "KGDLJNNIHPE": [
+        "20060101,20060201,20060301",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 30
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009015,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_PARENT_QUEST_AND",
+      "KGDLJNNIHPE": [
+        "71500",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009016,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LUNA_RITE_SEARCH",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        "25"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1009,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5009017,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LUNA_RITE_SEARCH",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        "100"
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1011,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5011001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1011,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5011002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1011,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5011003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1011,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5011004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401;20040501;25090101;20040601;24021101;20040401;20070101",
+        "可联机",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1011,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5011005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1011,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5011006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "202",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 50000
+  },
+  {
+    "JDIDKNFMFCE": 1011,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5011007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 200
+  },
+  {
+    "JDIDKNFMFCE": 1012,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5012001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1013,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5013001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1014,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5014001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1015,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5015001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1015,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5015002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1015,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5015003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1015,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5015004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1015,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5015005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100085",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 480
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 12
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MONSTER_DIE",
+      "KGDLJNNIHPE": [
+        "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401;20040501;25090101;20040601;24021101;20040401;20070101;22060101",
+        "可联机",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016012,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016013,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 900
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016014,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 6
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016015,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "204",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016016,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 7
+  },
+  {
+    "JDIDKNFMFCE": 1016,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5016017,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_HOME_AVATAR_FETTER_GET",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1017,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5017001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1017,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5017002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1017,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5017003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1017,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5017004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1017,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5017005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1018,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5018001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1020,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5020001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1020,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5020002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1020,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5020003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1020,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5020004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1020,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5020005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1021,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5021001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1021,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5021002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1021,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5021003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1022,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5022001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1022,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5022002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1022,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5022003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1022,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5022004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1022,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5022005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1023,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5023001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1023,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5023002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1023,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5023003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1024,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5024001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1024,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5024002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1024,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5024003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1024,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5024004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_AVATAR_EXPEDITION",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1024,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5024005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1025,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5025001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1025,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5025002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1025,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5025003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1025,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5025004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1026,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5026001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MUSIC_GAME_SETTLE_OTHERS_UGC",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1026,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5026002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MUSIC_GAME_SAVE_UGC",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1027,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5027001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1027,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5027002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1027,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5027003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ANY_WEAPON_UPGRADE_NUM",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_ANY_RELIQUARY_UPGRADE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "202",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 30
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "202",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "101001;101002;101003;101004;100058;100054;100028;101006;101008",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 5
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_FORGE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1028,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5028011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 4
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "101001;101002;101003;101004;100058;100054;100028;101006;101008",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 3
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "100085",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FINISH_DUNGEON",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_OBTAIN_MATERIAL_NUM",
+      "KGDLJNNIHPE": [
+        "204",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_FORGE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DO_COOK",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1029,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5029011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "202",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1000
+  },
+  {
+    "JDIDKNFMFCE": 1030,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "PKLAPAOFNKA": 5030001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1031,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5031001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_LOGIN",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "JDIDKNFMFCE": 1031,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5031002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DAILY_TASK",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 2
+  },
+  {
+    "JDIDKNFMFCE": 1031,
+    "GNMLAPHAPOI": "LOGIC_AND",
+    "ADJJFBECBGE": [
+      {
+        "DDMCMHELJMP": "H5_ACTIVITY_COND_DAY_COUNT_GREAT_EQUAL",
+        "OBIKBOIOCPL": "1"
+      },
+      {
+        "OBIKBOIOCPL": ""
+      }
+    ],
+    "BJFBJJBOAGM": true,
+    "PKLAPAOFNKA": 5031003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_COST_MATERIAL",
+      "KGDLJNNIHPE": [
+        "106",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 40
+  }
+]

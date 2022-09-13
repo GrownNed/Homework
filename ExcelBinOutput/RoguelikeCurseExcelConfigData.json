@@ -1,0 +1,132 @@
+[
+  {
+    "AMBNPBEGFBC": 1,
+    "MCNDINGLCBD": 1,
+    "JNJJOIFBAHP": 1035603933,
+    "CMLCFIIJCGA": 260384740,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_DISABLE_SPRING_CELL",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": ""
+    },
+    "HKHMNJCCKPB": true,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 1,
+    "MCNDINGLCBD": 2,
+    "JNJJOIFBAHP": 54219069,
+    "CMLCFIIJCGA": 3121034548,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_ADD_LEVEL_TRAP",
+      "IOGACGMFBKC": "",
+      "GFPCNPAKAFH": ""
+    },
+    "HKHMNJCCKPB": true,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 5,
+    "MCNDINGLCBD": 3,
+    "JNJJOIFBAHP": 2034801749,
+    "CMLCFIIJCGA": 3736884652,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUECURSE_MONSTERBUFF",
+      "GFPCNPAKAFH": "1"
+    },
+    "HKHMNJCCKPB": true,
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 4,
+    "MCNDINGLCBD": 4,
+    "JNJJOIFBAHP": 2241608685,
+    "CMLCFIIJCGA": 2210724516,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_RANDOM_AVATAR_NOHEAL",
+      "IOGACGMFBKC": "SGV_ROGUE_CURSE_NOHEAL",
+      "GFPCNPAKAFH": "1"
+    },
+    "HKHMNJCCKPB": true,
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 1,
+    "MCNDINGLCBD": 5,
+    "JNJJOIFBAHP": 3838913645,
+    "CMLCFIIJCGA": 3885911452,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUECURSE_BOMBDAMAGE",
+      "GFPCNPAKAFH": "1"
+    },
+    "MNMHEOMDHOF": [
+      0,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "AMBNPBEGFBC": 5,
+    "MCNDINGLCBD": 6,
+    "JNJJOIFBAHP": 3068832069,
+    "CMLCFIIJCGA": 2612695412,
+    "LIKIBHAPBML": {
+      "BAJCIOGGFLF": "ROGUELIKE_EFFECT_STATIC_COMBAT",
+      "IOGACGMFBKC": "SGV_ROGUECURSE_EXTRAHURT",
+      "GFPCNPAKAFH": "1"
+    },
+    "MNMHEOMDHOF": [
+      20,
+      0,
+      0
+    ],
+    "GBKHEBJBIGC": [
+      true,
+      false,
+      false
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "MGHIDHJJACM": 1,
+    "HODHFNKADCH": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "CIBKGEHPDFG": 315,
+    "PDFHEFNOABJ": "OPEN_STATE_CITY_REPUATION_MENGDE",
+    "OPCLDMGMJGH": "UI_Reputation_Bg_Mengde",
+    "PLKJMEIFNCF": "Eff_ReputationGage_Mengde",
+    "POPEJJBDFPA": 144040173,
+    "CMLCFIIJCGA": 2757808996,
+    "DAGONIFMKBE": 140004,
+    "ENMOJEMFHEN": 612037012,
+    "HCBMHFHAEMF": "UI_ReputationPic_Mengde_Reward",
+    "GMEOGPPLGEK": "UI_ReputationReward_Bg_Mengde",
+    "BDCBAFBAPAM": "UI_ChapterIcon_Mengde"
+  },
+  {
+    "MGHIDHJJACM": 2,
+    "HODHFNKADCH": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "CIBKGEHPDFG": 317,
+    "PDFHEFNOABJ": "OPEN_STATE_CITY_REPUATION_LIYUE",
+    "OPCLDMGMJGH": "UI_Reputation_Bg_Liyue",
+    "PLKJMEIFNCF": "Eff_ReputationGage_Liyue",
+    "POPEJJBDFPA": 490972981,
+    "CMLCFIIJCGA": 628344980,
+    "DAGONIFMKBE": 140005,
+    "ENMOJEMFHEN": 2258805140,
+    "HCBMHFHAEMF": "UI_ReputationPic_Liyue_Reward",
+    "GMEOGPPLGEK": "UI_ReputationReward_Bg_Liyue",
+    "BDCBAFBAPAM": "UI_ChapterIcon_Liyue"
+  },
+  {
+    "MGHIDHJJACM": 3,
+    "HODHFNKADCH": [
+      11,
+      12,
+      13,
+      14,
+      17,
+      18
+    ],
+    "CIBKGEHPDFG": 314,
+    "PDFHEFNOABJ": "OPEN_STATE_CITY_REPUATION_INAZUMA",
+    "OPCLDMGMJGH": "UI_Reputation_Bg_Daoqi",
+    "PLKJMEIFNCF": "Eff_ReputationGage_Daoqi",
+    "POPEJJBDFPA": 1155754221,
+    "CMLCFIIJCGA": 3592793948,
+    "DAGONIFMKBE": 140008,
+    "ENMOJEMFHEN": 326845932,
+    "HCBMHFHAEMF": "UI_ReputationPic_Daoqi_Reward",
+    "GMEOGPPLGEK": "UI_ReputationReward_Bg_Daoqi",
+    "BDCBAFBAPAM": "UI_ChapterIcon_Inazuma"
+  },
+  {
+    "MGHIDHJJACM": 4,
+    "HODHFNKADCH": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      29,
+      26,
+      27,
+      28
+    ],
+    "CIBKGEHPDFG": 316,
+    "PDFHEFNOABJ": "OPEN_STATE_CITY_REPUATION_SUMERU",
+    "OPCLDMGMJGH": "UI_Reputation_Bg_Sumeru",
+    "PLKJMEIFNCF": "Eff_ReputationGage_Sumeru",
+    "POPEJJBDFPA": 2043772765,
+    "CMLCFIIJCGA": 2070335884,
+    "DAGONIFMKBE": 140010,
+    "ENMOJEMFHEN": 1239035892,
+    "HCBMHFHAEMF": "UI_ReputationPic_Sumeru_Reward",
+    "GMEOGPPLGEK": "UI_ReputationReward_Bg_Sumeru",
+    "BDCBAFBAPAM": "UI_ChapterIcon_Sumeru"
+  }
+]

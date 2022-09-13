@@ -1,0 +1,947 @@
+[
+  {
+    "_mainId": 30000,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3000101
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}"
+        ],
+        "MPLHMMGOFJB": 3000104
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3000105
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherNum}"
+        ],
+        "MPLHMMGOFJB": 3000106
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30001,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3000101
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}"
+        ],
+        "MPLHMMGOFJB": 3000104
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3000105
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherNum}"
+        ],
+        "MPLHMMGOFJB": 3000106
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      }
+    ]
+  },
+  {
+    "_mainId": 30002,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3000201
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000202
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}"
+        ],
+        "MPLHMMGOFJB": 3000204
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3000105
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherNum}"
+        ],
+        "MPLHMMGOFJB": 3000106
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      }
+    ]
+  },
+  {
+    "_mainId": 30003,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3000301
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000302
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}"
+        ],
+        "MPLHMMGOFJB": 3000304
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3000105
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherNum}"
+        ],
+        "MPLHMMGOFJB": 3000106
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      }
+    ]
+  },
+  {
+    "_mainId": 30004,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3000401
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000402
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}"
+        ],
+        "MPLHMMGOFJB": 3000404
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3000105
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherNum}"
+        ],
+        "MPLHMMGOFJB": 3000106
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      }
+    ]
+  },
+  {
+    "_mainId": 30005,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3000501
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000502
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}"
+        ],
+        "MPLHMMGOFJB": 3000504
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3000105
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherNum}"
+        ],
+        "MPLHMMGOFJB": 3000106
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      }
+    ]
+  },
+  {
+    "_mainId": 30006,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3000601
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000602
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}"
+        ],
+        "MPLHMMGOFJB": 3000604
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3000105
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherNum}"
+        ],
+        "MPLHMMGOFJB": 3000106
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      }
+    ]
+  },
+  {
+    "_mainId": 30007,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3000701
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}"
+        ],
+        "MPLHMMGOFJB": 3000704
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3000105
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherNum}"
+        ],
+        "MPLHMMGOFJB": 3000106
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      }
+    ]
+  },
+  {
+    "_mainId": 30011,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3001101
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}",
+          "{QuestGatherNum}",
+          "{QuestGatherID2}"
+        ],
+        "MPLHMMGOFJB": 3001103
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30012,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3001201
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3001202
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}",
+          "{QuestGatherNum}",
+          "{QuestGatherID2}"
+        ],
+        "MPLHMMGOFJB": 3001103
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30013,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3001301
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}",
+          "{QuestGatherNum}",
+          "{QuestGatherID2}"
+        ],
+        "MPLHMMGOFJB": 3001103
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30014,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3001401
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3001402
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}",
+          "{QuestGatherNum}",
+          "{QuestGatherID2}"
+        ],
+        "MPLHMMGOFJB": 3001103
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30015,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3001501
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestGatherID}",
+          "{QuestGatherNum}",
+          "{QuestGatherID2}"
+        ],
+        "MPLHMMGOFJB": 3001103
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30021,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002101
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3002102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID2}",
+          "{NPCPos}",
+          "{QuestNpcID3}"
+        ],
+        "MPLHMMGOFJB": 3002103
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30022,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002201
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3002202
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID2}",
+          "{NPCPos}",
+          "{QuestNpcID3}"
+        ],
+        "MPLHMMGOFJB": 3002203
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30023,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002301
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID2}",
+          "{NPCPos}",
+          "{QuestNpcID3}"
+        ],
+        "MPLHMMGOFJB": 3002303
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30024,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002401
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3002402
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID2}",
+          "{NPCPos}",
+          "{QuestNpcID3}"
+        ],
+        "MPLHMMGOFJB": 3002403
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30025,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002501
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3000102
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID2}",
+          "{NPCPos}",
+          "{QuestNpcID3}"
+        ],
+        "MPLHMMGOFJB": 3002503
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30026,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3002601
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{GivingID}",
+          "{QuestGatherID}",
+          "{GivingCondID1}",
+          "{GivingCondID2}",
+          "{GivingCondID3}",
+          "{QuestGlabalVarID}"
+        ],
+        "MPLHMMGOFJB": 3002602
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002603
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30027,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos1}",
+          "{QuestRescuePos2}",
+          "{PhotoID}"
+        ],
+        "MPLHMMGOFJB": 3002701
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002702
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30028,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3002801
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002802
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30029,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3002901
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3002902
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3002903
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30030,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3003001
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3003002
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3003003
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30031,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos1}",
+          "{QuestRescuePos2}",
+          "{PhotoID}"
+        ],
+        "MPLHMMGOFJB": 3003101
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3003102
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30032,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos1}",
+          "{QuestRescuePos2}"
+        ],
+        "MPLHMMGOFJB": 3003201
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3003202
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3003203
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  },
+  {
+    "_mainId": 30033,
+    "_elemList": [
+      {
+        "BFIAIDIGHEB": [
+          "{QuestRescuePos}"
+        ],
+        "MPLHMMGOFJB": 3003301
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PlayerLevel}",
+          "{MonsterLevel}"
+        ],
+        "MPLHMMGOFJB": 3000107
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{PatternID}"
+        ],
+        "MPLHMMGOFJB": 3003302
+      },
+      {
+        "BFIAIDIGHEB": [
+          "{QuestNpcID}"
+        ],
+        "MPLHMMGOFJB": 3003303
+      },
+      {
+        "BFIAIDIGHEB": []
+      },
+      {
+        "BFIAIDIGHEB": []
+      }
+    ]
+  }
+]

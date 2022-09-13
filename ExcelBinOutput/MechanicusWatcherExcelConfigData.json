@@ -1,0 +1,445 @@
+[
+  {
+    "LBFEJOLMANB": 60,
+    "CMLCFIIJCGA": 174706531,
+    "PKLAPAOFNKA": 90001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 2639283499,
+    "PKLAPAOFNKA": 90002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_EXCAPED_LESS_THAN",
+      "KGDLJNNIHPE": [
+        "5",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 10,
+    "CMLCFIIJCGA": 2354844723,
+    "PKLAPAOFNKA": 90003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_EXCAPED_LESS_THAN",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 60,
+    "CMLCFIIJCGA": 1415930891,
+    "PKLAPAOFNKA": 90005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_EXCAPED_LESS_THAN",
+      "KGDLJNNIHPE": [
+        "0",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 5,
+    "CMLCFIIJCGA": 3293030195,
+    "PKLAPAOFNKA": 90006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_POINTS_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "200",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 10,
+    "CMLCFIIJCGA": 800387467,
+    "PKLAPAOFNKA": 90007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_POINTS_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "400",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 15,
+    "CMLCFIIJCGA": 2788018771,
+    "PKLAPAOFNKA": 90008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_POINTS_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "600",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 5,
+    "CMLCFIIJCGA": 4273363155,
+    "PKLAPAOFNKA": 90009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_GEAR_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "10",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 10,
+    "CMLCFIIJCGA": 4130715195,
+    "PKLAPAOFNKA": 90010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_GEAR_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "12",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 3209284891,
+    "PKLAPAOFNKA": 90011,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_GEAR_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "14",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 10,
+    "CMLCFIIJCGA": 2143619395,
+    "PKLAPAOFNKA": 90012,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_PURE_GEAR_DAMAGE",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 2373909795,
+    "PKLAPAOFNKA": 90013,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_CARD_PICK_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "2",
+        "48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,64",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 2532343139,
+    "PKLAPAOFNKA": 90016,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_CARD_PICK_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "2",
+        "65,66,67,68,69,70,71,72,73,74,75",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 1613947403,
+    "PKLAPAOFNKA": 90019,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_CARD_TARGET_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "4",
+        "1,2,3,4,5,6,48,49,50,51,52,53",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 3876171107,
+    "PKLAPAOFNKA": 90022,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_CARD_TARGET_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "4",
+        "7,8,9,10,11,12,54,55,56,57,58,59",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 3015058475,
+    "PKLAPAOFNKA": 90025,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_CARD_TARGET_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "4",
+        "13,14,15,60,61,62",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 1344108971,
+    "PKLAPAOFNKA": 90028,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_CARD_TARGET_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "4",
+        "35,36,37,38,39,40",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 2643912459,
+    "PKLAPAOFNKA": 90031,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_INTERACT_COUNT",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 10,
+    "CMLCFIIJCGA": 3975504859,
+    "PKLAPAOFNKA": 90032,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_INTERACT_COUNT",
+      "KGDLJNNIHPE": [
+        "4",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 15,
+    "CMLCFIIJCGA": 2640153411,
+    "PKLAPAOFNKA": 90033,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_INTERACT_COUNT",
+      "KGDLJNNIHPE": [
+        "6",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1,
+    "AHOIHDKPJCC": true
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 651775947,
+    "PKLAPAOFNKA": 90034,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_GEAR_KILL_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "20",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 2469289419,
+    "PKLAPAOFNKA": 90035,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_GEAR_KILL_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "40",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 4259949347,
+    "PKLAPAOFNKA": 90036,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_GEAR_KILL_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "60",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 2708263355,
+    "PKLAPAOFNKA": 90043,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_GEAR_KILL_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "80",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 1171247875,
+    "PKLAPAOFNKA": 90042,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_ROUND_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 316155435,
+    "PKLAPAOFNKA": 90037,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_ROUND_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 2061186171,
+    "PKLAPAOFNKA": 90044,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_ROUND_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 30,
+    "CMLCFIIJCGA": 2719998155,
+    "PKLAPAOFNKA": 90039,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_END_ROUND",
+      "KGDLJNNIHPE": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 2114504811,
+    "PKLAPAOFNKA": 90041,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_FIN_CHALLENGE_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "1",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 2449886611,
+    "PKLAPAOFNKA": 90045,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_FIN_CHALLENGE_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "2",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "LBFEJOLMANB": 20,
+    "CMLCFIIJCGA": 1892867075,
+    "PKLAPAOFNKA": 90046,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_MECHANICUS_BATTLE_FIN_CHALLENGE_MORE_THAN",
+      "KGDLJNNIHPE": [
+        "3",
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  }
+]

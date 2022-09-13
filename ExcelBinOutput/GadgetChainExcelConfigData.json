@@ -1,0 +1,53 @@
+[
+  {
+    "BHFAONDJLEA": 100001,
+    "MKKFGGCINAP": 2,
+    "BAAHBLOFMFF": 5,
+    "KBCKPOHAIAE": []
+  },
+  {
+    "BHFAONDJLEA": 100002,
+    "MKKFGGCINAP": 1,
+    "BAAHBLOFMFF": 15,
+    "KBCKPOHAIAE": [
+      500301,
+      500302,
+      500303,
+      500304,
+      500305,
+      500306,
+      500307,
+      500308,
+      500309,
+      500310,
+      500311,
+      500312,
+      500313,
+      500314,
+      500315
+    ]
+  },
+  {
+    "BHFAONDJLEA": 100003,
+    "BAAHBLOFMFF": 10,
+    "KBCKPOHAIAE": []
+  },
+  {
+    "BHFAONDJLEA": 100004,
+    "BAAHBLOFMFF": 5,
+    "KBCKPOHAIAE": [],
+    "LMFPBFABOMM": true
+  },
+  {
+    "BHFAONDJLEA": 100006,
+    "BAAHBLOFMFF": 1,
+    "KBCKPOHAIAE": [],
+    "LMFPBFABOMM": true
+  },
+  {
+    "BHFAONDJLEA": 100007,
+    "BAAHBLOFMFF": 1,
+    "KBCKPOHAIAE": [],
+    "LMFPBFABOMM": true
+  }
+]

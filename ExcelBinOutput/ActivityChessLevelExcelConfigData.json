@@ -1,0 +1,173 @@
+[
+  {
+    "AMBNPBEGFBC": 1,
+    "CMLCFIIJCGA": 1029647278,
+    "LEOMBPOJCDP": 500,
+    "NKBNCGPPIPH": 20,
+    "HGKCGDOCOGF": 3500,
+    "FIPNOCDEPBE": 3,
+    "JCGINDOIJGO": 50,
+    "OINKCCJEDBL": [
+      88,
+      10,
+      2
+    ],
+    "INMEMDJAKPP": 3,
+    "MKIFMNDAIFE": true,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 2,
+    "CMLCFIIJCGA": 3330084486,
+    "LEOMBPOJCDP": 500,
+    "NKBNCGPPIPH": 20,
+    "HGKCGDOCOGF": 3750,
+    "FIPNOCDEPBE": 3,
+    "JCGINDOIJGO": 50,
+    "OINKCCJEDBL": [
+      88,
+      10,
+      2
+    ],
+    "INMEMDJAKPP": 3,
+    "MKIFMNDAIFE": true,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 3,
+    "CMLCFIIJCGA": 1748346950,
+    "LEOMBPOJCDP": 1000,
+    "NKBNCGPPIPH": 20,
+    "HGKCGDOCOGF": 4000,
+    "FIPNOCDEPBE": 3,
+    "JCGINDOIJGO": 50,
+    "CGOCJKOCBAC": "CHESS_CARDFORTUNE_NORMAL",
+    "OINKCCJEDBL": [
+      81,
+      15,
+      4
+    ],
+    "INMEMDJAKPP": 3,
+    "MKIFMNDAIFE": true,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 4,
+    "CMLCFIIJCGA": 1023583262,
+    "LEOMBPOJCDP": 1000,
+    "NKBNCGPPIPH": 20,
+    "HGKCGDOCOGF": 4250,
+    "FIPNOCDEPBE": 3,
+    "JCGINDOIJGO": 50,
+    "CGOCJKOCBAC": "CHESS_CARDFORTUNE_NORMAL",
+    "OINKCCJEDBL": [
+      81,
+      15,
+      4
+    ],
+    "INMEMDJAKPP": 3,
+    "MKIFMNDAIFE": true,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 5,
+    "CMLCFIIJCGA": 1245126710,
+    "LEOMBPOJCDP": 1000,
+    "NKBNCGPPIPH": 20,
+    "HGKCGDOCOGF": 4500,
+    "FIPNOCDEPBE": 3,
+    "JCGINDOIJGO": 50,
+    "CGOCJKOCBAC": "CHESS_CARDFORTUNE_GOOD",
+    "OINKCCJEDBL": [
+      74,
+      20,
+      6
+    ],
+    "INMEMDJAKPP": 3,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 6,
+    "CMLCFIIJCGA": 3927878206,
+    "LEOMBPOJCDP": 1000,
+    "NKBNCGPPIPH": 25,
+    "HGKCGDOCOGF": 4750,
+    "FIPNOCDEPBE": 4,
+    "JCGINDOIJGO": 50,
+    "CGOCJKOCBAC": "CHESS_CARDFORTUNE_GOOD",
+    "OINKCCJEDBL": [
+      74,
+      20,
+      6
+    ],
+    "INMEMDJAKPP": 3,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 7,
+    "CMLCFIIJCGA": 2700852638,
+    "LEOMBPOJCDP": 1000,
+    "NKBNCGPPIPH": 25,
+    "HGKCGDOCOGF": 5000,
+    "FIPNOCDEPBE": 4,
+    "JCGINDOIJGO": 50,
+    "CGOCJKOCBAC": "CHESS_CARDFORTUNE_VERYGOOD",
+    "OINKCCJEDBL": [
+      62,
+      30,
+      8
+    ],
+    "INMEMDJAKPP": 4,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 8,
+    "CMLCFIIJCGA": 1049728798,
+    "LEOMBPOJCDP": 1000,
+    "NKBNCGPPIPH": 25,
+    "HGKCGDOCOGF": 5000,
+    "FIPNOCDEPBE": 4,
+    "JCGINDOIJGO": 50,
+    "CGOCJKOCBAC": "CHESS_CARDFORTUNE_VERYGOOD",
+    "OINKCCJEDBL": [
+      62,
+      30,
+      8
+    ],
+    "INMEMDJAKPP": 4,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 9,
+    "CMLCFIIJCGA": 31082046,
+    "LEOMBPOJCDP": 1000,
+    "NKBNCGPPIPH": 30,
+    "HGKCGDOCOGF": 5000,
+    "FIPNOCDEPBE": 4,
+    "JCGINDOIJGO": 50,
+    "CGOCJKOCBAC": "CHESS_CARDFORTUNE_PERFECT",
+    "OINKCCJEDBL": [
+      50,
+      40,
+      10
+    ],
+    "INMEMDJAKPP": 4,
+    "PKGHHDNGPNC": true
+  },
+  {
+    "AMBNPBEGFBC": 10,
+    "CMLCFIIJCGA": 2413168086,
+    "NKBNCGPPIPH": 30,
+    "HGKCGDOCOGF": 5000,
+    "FIPNOCDEPBE": 4,
+    "JCGINDOIJGO": 50,
+    "CGOCJKOCBAC": "CHESS_CARDFORTUNE_PERFECT",
+    "OINKCCJEDBL": [
+      50,
+      40,
+      10
+    ],
+    "INMEMDJAKPP": 5,
+    "PKGHHDNGPNC": true
+  }
+]

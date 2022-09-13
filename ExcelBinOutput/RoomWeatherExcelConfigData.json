@@ -1,0 +1,26 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "CDOGJBKHAOH": 1004,
+    "COOKEDKDNNP": 1,
+    "OFPONLFKFCN": "Data/Environment/EnviroSystemProfile/Indoor/ESP_Knight"
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "CDOGJBKHAOH": 1004,
+    "COOKEDKDNNP": 3,
+    "OFPONLFKFCN": "Data/Environment/EnviroSystemProfile/Indoor/ESP_Knight_WindDragon"
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "CDOGJBKHAOH": 1008,
+    "COOKEDKDNNP": 1,
+    "OFPONLFKFCN": "Data/Environment/EnviroSystemProfile/Indoor/ESP_Church"
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "CDOGJBKHAOH": 1008,
+    "COOKEDKDNNP": 3,
+    "OFPONLFKFCN": "Data/Environment/EnviroSystemProfile/Indoor/ESP_Church_WindDragon"
+  }
+]

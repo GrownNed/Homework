@@ -1,0 +1,58 @@
+[
+  {
+    "PKLAPAOFNKA": 1,
+    "KGCBFNBIPHB": "COMBAT_END_TOWER_HALF_LEVEL_END",
+    "BHHFPNOFCBA": [
+      "Corruption",
+      "None",
+      "None"
+    ],
+    "EPOMPLNEHFC": [
+      "LevelEntity_ClearLocalGadgets",
+      "",
+      ""
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 2,
+    "KGCBFNBIPHB": "COMBAT_END_TOWER_LEVEL_END",
+    "BHHFPNOFCBA": [
+      "Corruption",
+      "None",
+      "None"
+    ],
+    "EPOMPLNEHFC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 3,
+    "KGCBFNBIPHB": "COMBAT_END_DUNGEON_SETTLE",
+    "BHHFPNOFCBA": [
+      "Corruption",
+      "None",
+      "None"
+    ],
+    "EPOMPLNEHFC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PKLAPAOFNKA": 4,
+    "KGCBFNBIPHB": "COMBAT_END_CRYSTAL_LINK_HALF_LEVEL_END",
+    "BHHFPNOFCBA": [
+      "Corruption",
+      "None",
+      "None"
+    ],
+    "EPOMPLNEHFC": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

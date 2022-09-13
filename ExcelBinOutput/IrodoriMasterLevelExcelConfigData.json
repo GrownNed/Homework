@@ -1,0 +1,74 @@
+[
+  {
+    "PJNEDDPBJCF": 1,
+    "KLEAGKGDLJC": 3,
+    "MCNDINGLCBD": 133209075,
+    "MPEIIPLLCNO": 75001,
+    "NHAIIGCDLGK": 17001,
+    "AFIKCBKCBPO": "UI/open_activity_Irodori_master_cutscene_1",
+    "BNHKIIIIFMG": [
+      10000,
+      10001
+    ],
+    "DANNGMBOFIE": [
+      12012201,
+      12012202,
+      12012203,
+      12012204
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 2,
+    "KLEAGKGDLJC": 3,
+    "MCNDINGLCBD": 133209085,
+    "MPEIIPLLCNO": 85006,
+    "NHAIIGCDLGK": 17002,
+    "AFIKCBKCBPO": "UI/open_activity_Irodori_master_cutscene_2",
+    "BNHKIIIIFMG": [
+      10000,
+      10001
+    ],
+    "DANNGMBOFIE": [
+      12012205,
+      12012206,
+      12012207,
+      12012208
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 3,
+    "KLEAGKGDLJC": 3,
+    "MCNDINGLCBD": 133209086,
+    "MPEIIPLLCNO": 86006,
+    "NHAIIGCDLGK": 17003,
+    "AFIKCBKCBPO": "UI/open_activity_Irodori_master_cutscene_3",
+    "BNHKIIIIFMG": [
+      10000,
+      10001
+    ],
+    "DANNGMBOFIE": [
+      12012209,
+      12012210,
+      12012211,
+      12012212
+    ]
+  },
+  {
+    "PJNEDDPBJCF": 4,
+    "KLEAGKGDLJC": 3,
+    "MCNDINGLCBD": 133209087,
+    "MPEIIPLLCNO": 87006,
+    "NHAIIGCDLGK": 17004,
+    "AFIKCBKCBPO": "UI/open_activity_Irodori_master_cutscene_4",
+    "BNHKIIIIFMG": [
+      10000,
+      10001
+    ],
+    "DANNGMBOFIE": [
+      12012213,
+      12012214,
+      12012215,
+      12012216
+    ]
+  }
+]

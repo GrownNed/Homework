@@ -1,0 +1,437 @@
+[
+  {
+    "HPCONOBLDIH": 10001,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 1001
+  },
+  {
+    "HPCONOBLDIH": 10002,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 1002
+  },
+  {
+    "HPCONOBLDIH": 10003,
+    "LKIPAHNOPDL": "UI_Buff_Speed",
+    "KFLCHLLKBKJ": 1003
+  },
+  {
+    "HPCONOBLDIH": 10004,
+    "LKIPAHNOPDL": "UI_Buff_Revive",
+    "KFLCHLLKBKJ": 1004
+  },
+  {
+    "HPCONOBLDIH": 10005,
+    "LKIPAHNOPDL": "UI_Buff_Special",
+    "KFLCHLLKBKJ": 1005
+  },
+  {
+    "HPCONOBLDIH": 10006,
+    "LKIPAHNOPDL": "UI_Buff_Item_Recovery_HpAdd",
+    "KFLCHLLKBKJ": 1006
+  },
+  {
+    "HPCONOBLDIH": 10007,
+    "LKIPAHNOPDL": "UI_Buff_Special",
+    "KFLCHLLKBKJ": 1007
+  },
+  {
+    "HPCONOBLDIH": 10011,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 1001
+  },
+  {
+    "HPCONOBLDIH": 10021,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 1002
+  },
+  {
+    "HPCONOBLDIH": 10031,
+    "LKIPAHNOPDL": "UI_Buff_Speed",
+    "KFLCHLLKBKJ": 1003
+  },
+  {
+    "HPCONOBLDIH": 30001,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30002,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30003,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30004,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30005,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30006,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30007,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30008,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30009,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30010,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30011,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30012,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30013,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30014,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30015,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30016,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30017,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30018,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30019,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30020,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30021,
+    "LKIPAHNOPDL": "UI_Buff_Special",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30022,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30023,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30024,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30025,
+    "LKIPAHNOPDL": "UI_Buff_Special",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30026,
+    "LKIPAHNOPDL": "UI_Buff_Special",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30027,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30028,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30029,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30030,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30031,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30032,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30033,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30034,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30035,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30036,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30037,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30038,
+    "LKIPAHNOPDL": "UI_Buff_Special",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 30039,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30040,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30041,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30042,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30043,
+    "LKIPAHNOPDL": "UI_Buff_Def",
+    "KFLCHLLKBKJ": 3002
+  },
+  {
+    "HPCONOBLDIH": 30044,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 30045,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 35001,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 35002,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 35003,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 35004,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35005,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35006,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35007,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35008,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35009,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35010,
+    "LKIPAHNOPDL": "UI_Buff_Atk",
+    "KFLCHLLKBKJ": 3001
+  },
+  {
+    "HPCONOBLDIH": 35011,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35012,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35013,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35014,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 35015,
+    "LKIPAHNOPDL": "",
+    "KFLCHLLKBKJ": 3003
+  },
+  {
+    "HPCONOBLDIH": 50001,
+    "LKIPAHNOPDL": "UI_Buff_Item_Atk",
+    "KFLCHLLKBKJ": 5001
+  },
+  {
+    "HPCONOBLDIH": 50002,
+    "LKIPAHNOPDL": "UI_Buff_Item_Def",
+    "KFLCHLLKBKJ": 5002
+  },
+  {
+    "HPCONOBLDIH": 50003,
+    "LKIPAHNOPDL": "UI_Buff_Item_Special",
+    "KFLCHLLKBKJ": 5003
+  },
+  {
+    "HPCONOBLDIH": 50004,
+    "LKIPAHNOPDL": "UI_Buff_Item_Mixture",
+    "KFLCHLLKBKJ": 5004
+  },
+  {
+    "HPCONOBLDIH": 50005,
+    "LKIPAHNOPDL": "UI_Buff_Item_Climate_Heat",
+    "KFLCHLLKBKJ": 5005
+  },
+  {
+    "HPCONOBLDIH": 60001,
+    "LKIPAHNOPDL": "UI_DeBuff_Attack",
+    "KFLCHLLKBKJ": 6001
+  },
+  {
+    "HPCONOBLDIH": 60002,
+    "LKIPAHNOPDL": "UI_DeBuff_Def",
+    "KFLCHLLKBKJ": 6002
+  },
+  {
+    "HPCONOBLDIH": 60003,
+    "LKIPAHNOPDL": "UI_DeBuff_Speed",
+    "KFLCHLLKBKJ": 6003
+  },
+  {
+    "HPCONOBLDIH": 60011,
+    "LKIPAHNOPDL": "UI_DeBuff_Atk",
+    "KFLCHLLKBKJ": 6001
+  },
+  {
+    "HPCONOBLDIH": 60012,
+    "LKIPAHNOPDL": "UI_DeBuff_Def",
+    "KFLCHLLKBKJ": 6002
+  },
+  {
+    "HPCONOBLDIH": 60013,
+    "LKIPAHNOPDL": "UI_DeBuff_Speed",
+    "KFLCHLLKBKJ": 6003
+  },
+  {
+    "HPCONOBLDIH": 90001,
+    "LKIPAHNOPDL": "UI_DeBuff_Energy",
+    "KFLCHLLKBKJ": 9001
+  },
+  {
+    "HPCONOBLDIH": 90002,
+    "LKIPAHNOPDL": "UI_DeBuff_Hp",
+    "KFLCHLLKBKJ": 9002
+  },
+  {
+    "HPCONOBLDIH": 90003,
+    "LKIPAHNOPDL": "UI_DeBuff_Consume",
+    "KFLCHLLKBKJ": 9003
+  },
+  {
+    "HPCONOBLDIH": 90004,
+    "LKIPAHNOPDL": "UI_DeBuff_CDTime",
+    "KFLCHLLKBKJ": 9004
+  },
+  {
+    "HPCONOBLDIH": 90005,
+    "LKIPAHNOPDL": "UI_DeBuff_LoseHp",
+    "KFLCHLLKBKJ": 9005
+  },
+  {
+    "HPCONOBLDIH": 90006,
+    "LKIPAHNOPDL": "UI_FireDebuff_LoseHp",
+    "KFLCHLLKBKJ": 9006
+  }
+]

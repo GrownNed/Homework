@@ -1,0 +1,112 @@
+[
+  {
+    "PKLAPAOFNKA": 5006001,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CLIMB",
+      "KGDLJNNIHPE": [
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006002,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_FLY",
+      "KGDLJNNIHPE": [
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006003,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_DASH",
+      "KGDLJNNIHPE": [
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006004,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CUR_AVATAR_HURT",
+      "KGDLJNNIHPE": [
+        "",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006005,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+      "KGDLJNNIHPE": [
+        "32768",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006006,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+      "KGDLJNNIHPE": [
+        "16777216",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006007,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+      "KGDLJNNIHPE": [
+        "32",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006008,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+      "KGDLJNNIHPE": [
+        "8388608",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006009,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+      "KGDLJNNIHPE": [
+        "4194304",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  },
+  {
+    "PKLAPAOFNKA": 5006010,
+    "PICFBPIMBJA": {
+      "EOBLBNGPDGM": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+      "KGDLJNNIHPE": [
+        "33554432",
+        ""
+      ]
+    },
+    "EMBDCJLKAAE": 1
+  }
+]

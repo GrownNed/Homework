@@ -1,0 +1,1308 @@
+[
+  {
+    "PKLAPAOFNKA": 1001,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SEA_LAMP",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1672453206
+  },
+  {
+    "PKLAPAOFNKA": 2001,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ASTER",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Aster",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1650331270
+  },
+  {
+    "PKLAPAOFNKA": 5001,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_CRUCIBLE",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_CrucibleTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 117499134
+  },
+  {
+    "PKLAPAOFNKA": 5002,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_TRIAL_AVATAR",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_TrialTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 4245195038
+  },
+  {
+    "PKLAPAOFNKA": 5003,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SALESMAN",
+    "JKKMIMEFJPF": 25,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MiscsmarvsTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2297438894
+  },
+  {
+    "PKLAPAOFNKA": 50001,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_BONUS",
+    "JKKMIMEFJPF": 52,
+    "DLNDAMDHIBN": "UI_Icon_Activity_XLTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 215869918
+  },
+  {
+    "PKLAPAOFNKA": 50002,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_BONUS",
+    "JKKMIMEFJPF": 53,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Tab_Barbara",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1508553022
+  },
+  {
+    "PKLAPAOFNKA": 50003,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_BONUS",
+    "JKKMIMEFJPF": 51,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Tab_Collei",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2179184254
+  },
+  {
+    "PKLAPAOFNKA": 10001,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 32,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1356554342
+  },
+  {
+    "PKLAPAOFNKA": 10002,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 33,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3567654574
+  },
+  {
+    "PKLAPAOFNKA": 10003,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 34,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2398562718
+  },
+  {
+    "PKLAPAOFNKA": 10004,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 35,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3869274134
+  },
+  {
+    "PKLAPAOFNKA": 10010,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 36,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 189378790
+  },
+  {
+    "PKLAPAOFNKA": 101,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_NEWBEEBONUS",
+    "JKKMIMEFJPF": 99,
+    "DLNDAMDHIBN": "UI_Icon_Activity_NoviceReward",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 840257302
+  },
+  {
+    "PKLAPAOFNKA": 5004,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2920773934
+  },
+  {
+    "PKLAPAOFNKA": 5006,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_DELIVERY",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_FoodDelivery",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3506708102
+  },
+  {
+    "PKLAPAOFNKA": 10005,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 36,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3161090262
+  },
+  {
+    "PKLAPAOFNKA": 10006,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 37,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3415735334
+  },
+  {
+    "PKLAPAOFNKA": 10007,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 38,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1950149766
+  },
+  {
+    "PKLAPAOFNKA": 10011,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 56,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3852671102
+  },
+  {
+    "PKLAPAOFNKA": 10012,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 39,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 644788062
+  },
+  {
+    "PKLAPAOFNKA": 10013,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 39,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3932220974
+  },
+  {
+    "PKLAPAOFNKA": 10014,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN",
+    "JKKMIMEFJPF": 39,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3521535622
+  },
+  {
+    "PKLAPAOFNKA": 5007,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_FLIGHT",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_FlightChallenge",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3799775974
+  },
+  {
+    "PKLAPAOFNKA": 3001,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_DRAGONSPINE",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Dragonspine",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 476260294
+  },
+  {
+    "PKLAPAOFNKA": 5008,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2719947006
+  },
+  {
+    "PKLAPAOFNKA": 5009,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 374955214
+  },
+  {
+    "PKLAPAOFNKA": 5010,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 861892598
+  },
+  {
+    "PKLAPAOFNKA": 5011,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_TREASURE_MAP",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_TreasureHunt",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3544181374
+  },
+  {
+    "PKLAPAOFNKA": 5012,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SALESMAN_MP",
+    "JKKMIMEFJPF": 41,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MiscsmarvsTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2875621118
+  },
+  {
+    "PKLAPAOFNKA": 6001,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_TOWER_RESET",
+    "JKKMIMEFJPF": 10,
+    "DLNDAMDHIBN": "UI_Icon_Activity_TowerReset",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3084922870
+  },
+  {
+    "PKLAPAOFNKA": 5014,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_EFFIGY",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_RestrictionsTips",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1274496574
+  },
+  {
+    "PKLAPAOFNKA": 5015,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2202219758
+  },
+  {
+    "PKLAPAOFNKA": 8001,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_REUNION",
+    "JKKMIMEFJPF": 99,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Reunion",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 603266982
+  },
+  {
+    "PKLAPAOFNKA": 5016,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_BLESSING",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Blessing",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3632693822,
+    "EOAGMHICOFJ": 7
+  },
+  {
+    "PKLAPAOFNKA": 5017,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_EXPEDITION",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Explore",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 4108839494
+  },
+  {
+    "PKLAPAOFNKA": 2002,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SEA_LAMP_NEW",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LanternRite",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 722459430,
+    "EOAGMHICOFJ": 18
+  },
+  {
+    "PKLAPAOFNKA": 6002,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MONSTER_BANNER_DRAKE_PRIMO_ROCK",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Drake_Primo_Rock",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1072459198
+  },
+  {
+    "PKLAPAOFNKA": 6003,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SIGNIN_COMPANION",
+    "JKKMIMEFJPF": 10,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SignInTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1463435918
+  },
+  {
+    "PKLAPAOFNKA": 5018,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2872299398
+  },
+  {
+    "PKLAPAOFNKA": 5019,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ARENA_CHALLENGE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_ArenaChallenge",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 494252766
+  },
+  {
+    "PKLAPAOFNKA": 2003,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_FLEUR_FAIR",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_FleurFair",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 839028094,
+    "EOAGMHICOFJ": 17
+  },
+  {
+    "PKLAPAOFNKA": 5020,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_WATER_SPIRIT_CHALLENGE",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_WaterSpirit",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3224048310
+  },
+  {
+    "PKLAPAOFNKA": 5021,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_COOP",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_LegendQuestTab2",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1976908222
+  },
+  {
+    "PKLAPAOFNKA": 2004,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_CHANNELER_SLAB",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_ChannellerSlab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 258848926,
+    "EOAGMHICOFJ": 17
+  },
+  {
+    "PKLAPAOFNKA": 5022,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MISTTRIAL",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MistTrial",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3194594918
+  },
+  {
+    "PKLAPAOFNKA": 5023,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_HIDEANDSEEK",
+    "JKKMIMEFJPF": 55,
+    "DLNDAMDHIBN": "UI_Icon_Activity_HideandSeek",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3626524094,
+    "EOAGMHICOFJ": 14
+  },
+  {
+    "PKLAPAOFNKA": 5024,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_FIND_HILICHURL",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MiniTomo",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1183102718,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5025,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1367367902
+  },
+  {
+    "PKLAPAOFNKA": 5026,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MONSTER_BANNER_EFFIGY_ICE",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_BtnIcon_RestrictionsTips",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3296745606
+  },
+  {
+    "PKLAPAOFNKA": 5027,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_HOMEWORLD",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Homeworld",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2330601654
+  },
+  {
+    "PKLAPAOFNKA": 2005,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SUMMER_TIME",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Summertime",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 4220711126,
+    "EOAGMHICOFJ": 21
+  },
+  {
+    "PKLAPAOFNKA": 5028,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_COOP",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_LegendQuestTab2",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2771069558
+  },
+  {
+    "PKLAPAOFNKA": 5029,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 854589558
+  },
+  {
+    "PKLAPAOFNKA": 5030,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_BUOYANT_COMBAT",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_BuoyantCombat",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 953042494
+  },
+  {
+    "PKLAPAOFNKA": 5031,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_EFFIGY",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_EffigyChallenge_01",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1365573238
+  },
+  {
+    "PKLAPAOFNKA": 5032,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_BOUNCE_CONJURING",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_BounceConjuring",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2093293774
+  },
+  {
+    "PKLAPAOFNKA": 5033,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ECHO_SHELL",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_EchoShell",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 646680566
+  },
+  {
+    "PKLAPAOFNKA": 6005,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_DAOQI_ADVERTISEMENT",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_InazumaPrelude",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 437840342
+  },
+  {
+    "PKLAPAOFNKA": 6006,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MONSTER_BANNER_PERPETUAL",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_BtnIcon_Perpetual",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1988695750
+  },
+  {
+    "PKLAPAOFNKA": 5034,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ARENA_CHALLENGE",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_ArenaChallenge",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1428849574,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5035,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_TREASURE_MAP",
+    "JKKMIMEFJPF": 49,
+    "DLNDAMDHIBN": "UI_Icon_Activity_TreasureHunt",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3870257630
+  },
+  {
+    "PKLAPAOFNKA": 2006,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_BLITZ_RUSH",
+    "JKKMIMEFJPF": 48,
+    "DLNDAMDHIBN": "UI_Icon_Activity_BlitzRush",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1346771350,
+    "EOAGMHICOFJ": 18
+  },
+  {
+    "PKLAPAOFNKA": 5036,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MONSTER_BANNER_EFFIGY_FIRE",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_BtnIcon_RestrictionsTips",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2154210502
+  },
+  {
+    "PKLAPAOFNKA": 5037,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_CHESS",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_TheatreMechanicusInfo",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 633431590
+  },
+  {
+    "PKLAPAOFNKA": 5038,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 47,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3654144822
+  },
+  {
+    "PKLAPAOFNKA": 5039,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE_2",
+    "JKKMIMEFJPF": 47,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1227909430
+  },
+  {
+    "PKLAPAOFNKA": 5040,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SUMO",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Sumo",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1819391422,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5041,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MOONFIN_TRIAL",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MoonfinTrial",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 964643558,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 2007,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_LUNA_RITE",
+    "JKKMIMEFJPF": 80,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LunaRite",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1554512646,
+    "EOAGMHICOFJ": 18
+  },
+  {
+    "PKLAPAOFNKA": 5042,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MONSTER_BANNER_EFFIGY_WATER",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_BtnIcon_RestrictionsTips",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1181328158
+  },
+  {
+    "PKLAPAOFNKA": 5043,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MONSTER_BANNER_RAIJIN",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Raijin",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2820873582
+  },
+  {
+    "PKLAPAOFNKA": 5044,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_EXPEDITION",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Explore",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 836570030
+  },
+  {
+    "PKLAPAOFNKA": 5045,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 4166586246
+  },
+  {
+    "PKLAPAOFNKA": 5046,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1114119502
+  },
+  {
+    "PKLAPAOFNKA": 5047,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PLANT_FLOWER",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_GrowFlowers",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1831443830,
+    "EOAGMHICOFJ": 6
+  },
+  {
+    "PKLAPAOFNKA": 5048,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_COOP",
+    "JKKMIMEFJPF": 30,
+    "DLNDAMDHIBN": "UI_BtnIcon_LegendQuestTab2",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3334446750
+  },
+  {
+    "PKLAPAOFNKA": 2008,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ROGUELIKE_DUNGEON",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_OnmyoMaze_Bg",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 4059142222,
+    "EOAGMHICOFJ": 18
+  },
+  {
+    "PKLAPAOFNKA": 5049,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_DIG",
+    "JKKMIMEFJPF": 60,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Dig",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 4156124670,
+    "EOAGMHICOFJ": 14
+  },
+  {
+    "PKLAPAOFNKA": 5050,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MUSIC_GAME",
+    "JKKMIMEFJPF": 40,
+    "DLNDAMDHIBN": "UI_Icon_Activity_FleurFair_MusicGame",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1436481334
+  },
+  {
+    "PKLAPAOFNKA": 2009,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_WINTER_CAMP",
+    "JKKMIMEFJPF": 80,
+    "DLNDAMDHIBN": "UI_Icon_Activity_WinterCamp_0",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1021004670,
+    "EOAGMHICOFJ": 18
+  },
+  {
+    "PKLAPAOFNKA": 5051,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_HACHI",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Hachi",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3759876318,
+    "EOAGMHICOFJ": 13
+  },
+  {
+    "PKLAPAOFNKA": 5052,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MOONFIN_BANNER",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MoonfinTrial",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2985990486
+  },
+  {
+    "PKLAPAOFNKA": 5053,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_CHANNELER_SLAB",
+    "JKKMIMEFJPF": 60,
+    "DLNDAMDHIBN": "UI_Icon_Activity_ChannellerSlab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1609928758,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5054,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MISTTRIAL",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MistTrial",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3290461598
+  },
+  {
+    "PKLAPAOFNKA": 2010,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SEA_LAMP_2_4",
+    "JKKMIMEFJPF": 57,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LanternRite",
+    "NMDKMHMBKBJ": "ART/UI/Menus/Activity/LanternRiteV2/LanternRiteV2_PushDialog",
+    "DHLIOGLOMKN": "Eff_UI_LanternRiteV2_PushDialog_Unlock",
+    "CFAKBEKONAJ": 31135886,
+    "EOAGMHICOFJ": 18
+  },
+  {
+    "PKLAPAOFNKA": 5055,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_TANUKI_TRAVEL",
+    "JKKMIMEFJPF": 58,
+    "DLNDAMDHIBN": "UI_Icon_Activity_TanukiTravel",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2856975102,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5056,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_COOP",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_LegendQuestTab2",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1373285630
+  },
+  {
+    "PKLAPAOFNKA": 5057,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_COOP",
+    "JKKMIMEFJPF": 28,
+    "DLNDAMDHIBN": "UI_BtnIcon_LegendQuestTab2",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 528252662
+  },
+  {
+    "PKLAPAOFNKA": 5058,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_POTION",
+    "JKKMIMEFJPF": 54,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Potion",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1242696214,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5059,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1501240822
+  },
+  {
+    "PKLAPAOFNKA": 5060,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Hound",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 671854702
+  },
+  {
+    "PKLAPAOFNKA": 5061,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 22,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Drake_Deepsea",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2557794646
+  },
+  {
+    "PKLAPAOFNKA": 2011,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MICHIAE_MATSURI",
+    "JKKMIMEFJPF": 60,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MichiaeMatsuri",
+    "NMDKMHMBKBJ": "ART/UI/Menus/Activity/MichiaeMatsuri/MichiaeMatsuri_PushDialog",
+    "DHLIOGLOMKN": "Eff_UI_MichiaeMatsuri_PushDialog_Unlock",
+    "CFAKBEKONAJ": 2584001198,
+    "EOAGMHICOFJ": 40
+  },
+  {
+    "PKLAPAOFNKA": 5062,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_BARTENDER",
+    "JKKMIMEFJPF": 80,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Bartender",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1621127182,
+    "EOAGMHICOFJ": 11
+  },
+  {
+    "PKLAPAOFNKA": 5063,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 30,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MainQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 32403374
+  },
+  {
+    "PKLAPAOFNKA": 5064,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 24,
+    "DLNDAMDHIBN": "UI_Icon_Activity_WorldQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 497416702
+  },
+  {
+    "PKLAPAOFNKA": 5065,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_UGC",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Steeplechase",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 560258310,
+    "EOAGMHICOFJ": 19
+  },
+  {
+    "PKLAPAOFNKA": 5066,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SPICE",
+    "JKKMIMEFJPF": 59,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Spice",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3857470198,
+    "EOAGMHICOFJ": 24
+  },
+  {
+    "PKLAPAOFNKA": 5067,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_CRYSTAL_LINK",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_CrystalLink",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3570727254,
+    "EOAGMHICOFJ": 14
+  },
+  {
+    "PKLAPAOFNKA": 2012,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_IRODORI",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Irodori",
+    "NMDKMHMBKBJ": "ART/UI/Menus/Activity/Irodori/Irodori_PushDialog",
+    "DHLIOGLOMKN": "Eff_UI_Irodori_PushDialog_Unlock",
+    "CFAKBEKONAJ": 155061822,
+    "EOAGMHICOFJ": 18
+  },
+  {
+    "PKLAPAOFNKA": 5068,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PHOTO",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_PhotoGraph",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1043291006,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5069,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2186616062
+  },
+  {
+    "PKLAPAOFNKA": 5070,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1558180718
+  },
+  {
+    "PKLAPAOFNKA": 5071,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 20,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Nithhoggr",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2580186710
+  },
+  {
+    "PKLAPAOFNKA": 5072,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MUSIC_GAME",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_Icon_Activity_FleurFair_MusicGame",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3928959950,
+    "EOAGMHICOFJ": 21
+  },
+  {
+    "PKLAPAOFNKA": 5073,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_COOP",
+    "JKKMIMEFJPF": 50,
+    "DLNDAMDHIBN": "UI_BtnIcon_LegendQuestTab2",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2768194974
+  },
+  {
+    "PKLAPAOFNKA": 5074,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_COOP",
+    "JKKMIMEFJPF": 28,
+    "DLNDAMDHIBN": "UI_BtnIcon_LegendQuestTab2",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2167878670
+  },
+  {
+    "PKLAPAOFNKA": 5075,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 24,
+    "DLNDAMDHIBN": "UI_Icon_Activity_WorldQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1847966614
+  },
+  {
+    "PKLAPAOFNKA": 5076,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SUMO",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Sumo",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1357489326,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5077,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 30,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MainQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3665646342
+  },
+  {
+    "PKLAPAOFNKA": 5078,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 29,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 677139622
+  },
+  {
+    "PKLAPAOFNKA": 5079,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_LUMINANCE_STONE_CHALLENGE",
+    "JKKMIMEFJPF": 80,
+    "DLNDAMDHIBN": "UI_Icon_Activity_ChasmChallenge",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 101310038,
+    "EOAGMHICOFJ": 12
+  },
+  {
+    "PKLAPAOFNKA": 5080,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GACHA",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_RobotGacha",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2840481614,
+    "EOAGMHICOFJ": 12
+  },
+  {
+    "PKLAPAOFNKA": 2013,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ROGUE_DIARY",
+    "JKKMIMEFJPF": 60,
+    "DLNDAMDHIBN": "UI_Icon_Activity_RogueDiary",
+    "NMDKMHMBKBJ": "ART/UI/Menus/Activity/RogueDiary/RogueDiary_PushDialog",
+    "DHLIOGLOMKN": "Eff_UI_RogueDiary_PushDialog_Unlock",
+    "CFAKBEKONAJ": 855375054,
+    "EOAGMHICOFJ": 21
+  },
+  {
+    "PKLAPAOFNKA": 5081,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 29,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2453200230
+  },
+  {
+    "PKLAPAOFNKA": 2014,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SUMMER_TIME_2_8",
+    "JKKMIMEFJPF": 75,
+    "DLNDAMDHIBN": "UI_Icon_Activity_SummerTimeV2",
+    "NMDKMHMBKBJ": "ART/UI/Menus/Activity/SummerTimeV2/SummerTimeV2_PushDialog",
+    "DHLIOGLOMKN": "Eff_UI_SummerTimeV2_PushDialog_Unlock",
+    "CFAKBEKONAJ": 1908113118,
+    "EOAGMHICOFJ": 39
+  },
+  {
+    "PKLAPAOFNKA": 5082,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GEAR",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Gear",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1472433750,
+    "EOAGMHICOFJ": 10
+  },
+  {
+    "PKLAPAOFNKA": 5083,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ISLAND_PARTY",
+    "JKKMIMEFJPF": 85,
+    "DLNDAMDHIBN": "UI_Icon_Activity_IslandParty",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1504877854,
+    "EOAGMHICOFJ": 11
+  },
+  {
+    "PKLAPAOFNKA": 5084,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ECHO_SHELL",
+    "JKKMIMEFJPF": 70,
+    "DLNDAMDHIBN": "UI_BtnIcon_EchoShell",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1908334486,
+    "EOAGMHICOFJ": 39
+  },
+  {
+    "PKLAPAOFNKA": 5085,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ARENA_CHALLENGE",
+    "JKKMIMEFJPF": 80,
+    "DLNDAMDHIBN": "UI_Icon_Activity_ArenaChallengeV2",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1216362542,
+    "EOAGMHICOFJ": 19
+  },
+  {
+    "PKLAPAOFNKA": 5086,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 21,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MushroomBoss",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2093906462
+  },
+  {
+    "PKLAPAOFNKA": 5087,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_INSTABLE_SPRAY",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_InstableSpray",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 313136206,
+    "EOAGMHICOFJ": 11
+  },
+  {
+    "PKLAPAOFNKA": 2015,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GRAVEN_INNOCENCE",
+    "JKKMIMEFJPF": 75,
+    "DLNDAMDHIBN": "UI_Icon_Activity_GravenInnocence",
+    "NMDKMHMBKBJ": "ART/UI/Menus/Activity/GravenInnocence/GravenInnocence_PushDialog",
+    "DHLIOGLOMKN": "Eff_UI_GravenInnocence_PushDialog_Unlock",
+    "CFAKBEKONAJ": 2237364926,
+    "EOAGMHICOFJ": 35
+  },
+  {
+    "PKLAPAOFNKA": 5088,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 29,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 625965046
+  },
+  {
+    "PKLAPAOFNKA": 5089,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 22,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Regisvine_Electric",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 142873286
+  },
+  {
+    "PKLAPAOFNKA": 5090,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_MUQADAS_POTION",
+    "JKKMIMEFJPF": 85,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MuqadasPotion",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3757454294,
+    "EOAGMHICOFJ": 18
+  },
+  {
+    "PKLAPAOFNKA": 5091,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_TREASURE_SEELIE",
+    "JKKMIMEFJPF": 80,
+    "DLNDAMDHIBN": "UI_Icon_Activity_TreasureHunt",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2376242774,
+    "EOAGMHICOFJ": 17
+  },
+  {
+    "PKLAPAOFNKA": 5092,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 29,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3833782918
+  },
+  {
+    "PKLAPAOFNKA": 5093,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 23,
+    "DLNDAMDHIBN": "UI_Icon_Activity_WorldQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1264300310
+  },
+  {
+    "PKLAPAOFNKA": 2016,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_VINTAGE",
+    "JKKMIMEFJPF": 80,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Vintage",
+    "NMDKMHMBKBJ": "ART/UI/Menus/Activity/Vintage/Vintage_PushDialog",
+    "DHLIOGLOMKN": "Eff_UI_Vintage_PushDialog_Unlock",
+    "CFAKBEKONAJ": 4190805982,
+    "EOAGMHICOFJ": 20
+  },
+  {
+    "PKLAPAOFNKA": 5094,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_SUMO",
+    "JKKMIMEFJPF": 90,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Sumo",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2549496278,
+    "EOAGMHICOFJ": 21
+  },
+  {
+    "PKLAPAOFNKA": 5095,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_WIND_FIELD",
+    "JKKMIMEFJPF": 80,
+    "DLNDAMDHIBN": "UI_Icon_Activity_WindField",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3235607302,
+    "EOAGMHICOFJ": 21
+  },
+  {
+    "PKLAPAOFNKA": 5096,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_ROCK_BOARD_EXPLORE",
+    "JKKMIMEFJPF": 67,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Dig",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 30727582,
+    "EOAGMHICOFJ": 21
+  },
+  {
+    "PKLAPAOFNKA": 5100,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 29,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 2380409846
+  },
+  {
+    "PKLAPAOFNKA": 5101,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_PERSONAL_LIINE",
+    "JKKMIMEFJPF": 29,
+    "DLNDAMDHIBN": "UI_Icon_Activity_LegendQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3379062486
+  },
+  {
+    "PKLAPAOFNKA": 5102,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 24,
+    "DLNDAMDHIBN": "UI_Icon_Activity_WorldQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1867202750
+  },
+  {
+    "PKLAPAOFNKA": 5103,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 22,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Tab_Gargoyle_Fafnir",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 1761838478
+  },
+  {
+    "PKLAPAOFNKA": 5104,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 21,
+    "DLNDAMDHIBN": "UI_Icon_Activity_Tab_Monolith_Starchild",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 3957095582
+  },
+  {
+    "PKLAPAOFNKA": 5105,
+    "JCDGNBNLDDA": "NEW_ACTIVITY_GENERAL_BANNER",
+    "JKKMIMEFJPF": 24,
+    "DLNDAMDHIBN": "UI_Icon_Activity_MainQuestTab",
+    "NMDKMHMBKBJ": "",
+    "DHLIOGLOMKN": "",
+    "CFAKBEKONAJ": 443411094
+  }
+]
